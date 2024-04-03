@@ -1,14 +1,12 @@
-<hr>
-
-# <center>COURSE PROJECT</center>
+# COURSE PROJECT
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <br><img src="https://www.upc.edu.pe/static/img/logo_upc_red.png"></img><br>
     <br>
+    <strong>Ingeniería de Software - 202401</strong><br>
     <br>
-    <strong>Ingeniería de Software - 2024-01</strong><br>
-    <br>
-    <strong>Desarrollo de Aplicaciones Open Source - SW54</strong><br>  
+    <strong>SI729 - Desarrollo de Aplicaciones Open Source - SW54</strong><br>  
     <br>
     <strong>Profesor: Elio Jefferrson Navarrete Vilca</strong><br>
     <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
@@ -26,20 +24,24 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-            <td>xxxxx</td>
+            <td>Huamán Cataño, Miguel Ángel</td>
             <td>Uxxxxxxxxx</td>
         </tr>
         <tr>
-            <td>xxxx</td>
-            <td>Uxxxxx</td>
+            <td>La Torre Valle, Franz Jair</td>
+            <td>Uxxxxxxxxx</td>
         </tr>
         <tr>
-            <td>xxxxx</td>
-            <td>Uxxxxx</td>
+            <td>Morales Calderón, Hernan Emilio</td>
+            <td>Uxxxxxxxxx</td>
         </tr>
         <tr>
-            <td>xxxxx</td>
-            <td>Uxxxxx</td>
+            <td>Párraga Gamarra, Paolo Gonzalo</td>
+            <td>U202219186</td>
+        </tr>
+        <tr>
+            <td>Rivadeneyra Ramos, Joaquin</td>
+            <td>Uxxxxxxxxx</td>
         </tr>
         <tr>
             <td>Zarate Caceres, Victor Ernesto</td>
@@ -53,10 +55,11 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 02/04/2024 |Todos los integrantes del equipo| X                           | 
+|TB1| 02/04/2024 |Todos los integrantes del equipo| Branch para caratula| 
+<br>
 
-<br><br>
 # Project Report Collaboration Insights
+Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 
 # Contenido
 ## Tabla de Contenidos
@@ -146,9 +149,38 @@
 ### [Conclusiones](#conclusiones-1)
 ### [Bibliografía](#bibliografc3ada-1)
 ### [Anexos](#anexos-1)
-<br>
-
 # Student Outcome
+<table>
+    <tr>
+        <th>Criterio Especifico</th>
+        <th>Acciones Realizadas</th>
+        <th>Conclusiones</th>
+    </tr>
+    <tr>
+        <td align="justify">
+            Participa en equipos multidiciplinados con eficacia eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.
+        </td>
+        <td align="justify">
+            Huamán Cataño, Miguel Ángel<br>
+            <em>TB1:<br></em>
+            <br>La Torre Valle, Franz Jair<br>
+            <em>TB1:<br></em>
+            <br>Morales Calderón, Hernan Emilio<br>
+            <em>TB1:<br></em>
+            <br>Párraga Gamarra, Paolo Gonzalo<br>
+            <em>TB1:<br></em>
+            <br>Rivadeneyra Ramos, Joaquin<br>
+            <em>TB1:<br></em>
+            <br>Zárate Cáceres, Victor Ernesto <br>
+            <em>TB1:<br></em>
+        </td>
+        <td align="justify">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ex sapien, mollis in orci ac, scelerisque mollis nisl. Curabitur finibus ac diam quis 
+            facilisis.
+        </td>
+    </tr>
+</table>
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -161,3 +193,70 @@
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo
+# Capítulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
+### 2.1.1. Análisis competitivo
+### 2.1.2. Estrategias y tácticas frente a competidores
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+### 2.2.2. Registro de entrevistas
+### 2.2.3. Análisis de entrevistas
+## 2.3. Needfinding
+### 2.3.1. User Personas
+### 2.3.2. User Task Matrix
+### 2.3.3. User Journey Mapping
+### 2.3.4. Empathy Mapping
+### 2.3.5. As-is Scenario Mapping
+## 2.4. Ubiquitous Language
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping
+## 3.2. User Stories
+## 3.3. Impact Mapping
+## 3.4. Product Backlog
+# Capítulo IV: Product Design
+## 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines
+### 4.1.2. Web Style Guidelines
+## 4.2. Information Architecture
+### 4.2.1. Organization Systems
+### 4.2.2. Labeling Systems
+### 4.2.3. SEO Tags and Meta Tags
+### 4.2.4. Searching Systems
+### 4.2.5. Navigation Systems
+## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe
+### 4.3.2. Landing Page Mock-up
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
+### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.3. Web Applications Mock-ups
+### 4.4.4. Web Applications User Flow Diagrams
+## 4.5. Web Applications Prototyping
+## 4.6. Domain-Driven Software Architecture
+### 4.6.1. Software Architecture Context Diagram
+### 4.6.2. Software Architecture Container Diagrams
+### 4.6.3. Software Architecture Components Diagrams
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+### 4.7.2. Class Dictionary
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+# Capítulo V: Product Implementation, Validation & Deployment
+## 5.1. Software Configuration Management
+### 5.1.1. Software Development Environment Configuration
+### 5.1.2. Source Code Management
+### 5.1.3. Source Code Style Guide & Conventions
+### 5.1.4. Software Deployment Configuration
+## 5.2. Landing Page, Services & Applications Implementation
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1
+#### 5.2.1.2. Sprint Backlog 1
+#### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+# Conclusiones
+# Bibliografía
+# Anexos
