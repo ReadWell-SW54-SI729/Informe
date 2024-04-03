@@ -67,7 +67,7 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 ### [Project Report Collaboration Insights](#project-report-collaboration-insights)
 ### [Contenido](#contenido)
 ### [Student Outcome](#student-outcome-1)
-### [Capítulo I: Introducción](#1-capitulo-i-introduccion)
+### [Capítulo I: Introducción](#capítulo-i-introducción)
 - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -181,7 +181,7 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
     </tr>
 </table>
 
-# Capítulo I: Introducción
+# <span id="capítulo-introducción" style="color:red">Capítulo I: Introducción</span>
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 ### 1.1.2. Perfiles de integrantes del equipo
