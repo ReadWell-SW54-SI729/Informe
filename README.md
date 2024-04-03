@@ -67,7 +67,7 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 ### [Project Report Collaboration Insights](#project-report-collaboration-insights)
 ### [Contenido](#contenido)
 ### [Student Outcome](#student-outcome-1)
-### [Capítulo I: Introducción](#capc3adtulo-i-introduccic3b3n-1)
+### [Capítulo I: Introducción](#capitulo-i-introduccic3b3n-1)
 - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -80,7 +80,7 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
         - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-### [Capítulo II: Requirements Elicitation & Analysis](#capc3adtulo-ii-requirements-elicitation--analysis-1)
+### [Capítulo II: Requirements Elicitation & Analysis](#capitulo-ii-requirements-elicitation--analysis-1)
 - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -95,13 +95,13 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 - [2.4. Ubiquitous Language](#23-ubiquitous-language)
-### [Capítulo III: Requirements Specification](#capc3adtulo-iii-requirements-specification-1)
+### [Capítulo III: Requirements Specification](#capitulo-iii-requirements-specification-1)
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
 - [3.3. Impact Mapping](#33-impact-mapping)
 - [3.4. Product Backlog](#34-product-backlog)
 
-### [Capítulo IV: Product Design](#capc3adtulo-iv-product-design-1)
+### [Capítulo IV: Product Design](#capitulo-iv-product-design-1)
 - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -130,7 +130,7 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
 
-### [Capítulo V: Product Implementation, Validation & Deployment](#capc3adtulo-v-product-implementation-validation--deployment-1)
+### [Capítulo V: Product Implementation, Validation & Deployment](#capitulo-v-product-implementation-validation--deployment-1)
 - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
@@ -147,7 +147,7 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 ### [Conclusiones](#conclusiones-1)
-### [Bibliografía](#bibliografc3ada-1)
+### [Bibliografía](#bibliografia-1)
 ### [Anexos](#anexos-1)
 # Student Outcome
 <table>
