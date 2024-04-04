@@ -41,7 +41,7 @@
         </tr>
         <tr>
             <td>Rivadeneyra Ramos, Joaquin</td>
-            <td>Uxxxxxxxxx</td>
+            <td>U202211846</td>
         </tr>
         <tr>
             <td>Zarate Caceres, Victor Ernesto</td>
