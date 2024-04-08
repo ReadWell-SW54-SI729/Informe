@@ -279,6 +279,36 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 <img src="imgs/impact.png" height="85%" width="85%">
 
 ## 3.4. Product Backlog
+|    ID   |User Story|Story Points|Priority| 
+|:-------:|:----------|:-----:|:----------------------------:| 
+|US-01|Descubrimiento de la Aplicación|1|Alta|
+|US-02|Exploración de la Biblioteca|3|Alta|
+|US-03|Recomendaciones Personalizadas|5|Alta|
+|US-04|Actualizar perfil|1|Media|
+|US-05|Cuenta de respaldo|5|Alta|
+|US-06|Unirse a un Club de Lectura Virtual|3|Baja|
+|US-07|Asistir a Eventos con Autores|3|Baja|
+|US-08|Compartir Experiencias en Redes Sociales|5|Media|
+|US-09|Configurar Perfil y Preferencias|3|Alta|
+|US-10|Leer Libros Electrónicos|3|Alta|
+|US-11|Escuchar Audiolibros|2|Alta|
+|US-12|Actualizar a Suscripción Premium|2|Media|
+|US-13|Crear Lista de Lectura|3|Baja|
+|US-14|Seguir a Autores Favoritos|3|Alta|
+|US-15|Explorar Libros Populares|3|Alta|
+|US-16|Copias de seguridad automática|5|Alta|
+|US-17|Recibir Recomendaciones de Amigos|2|Media|
+|US-18|Configurar Recordatorios de Lectura|2|Media|
+|US-19|Actualizaciones de seguridad regulares|8|Alta|
+|US-20|Explorar Libros por Temáticas|1|Alta|
+|US-21|Obtener Resúmenes de Libros|2|Media|
+|US-22|Notificaciones de Eventos de Autores Favoritos|3|Media|
+|US-23|Realizar Comentarios y Discusiones en Libros|2|Alta|
+|US-24|Crear Club de Lectura Privado|5|Baja|
+|US-25|Configurar Modo Nocturno|3|Baja|
+|US-26|Recomendar Libros a Grupos de Amigos|3|Media|
+|US-27|Descubrir Libros por Ambientación|1|Alta|
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
@@ -304,7 +334,220 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<img src="imgs/diagramaClases.png" alt="Diagrama de Clases">
+
 ### 4.7.2. Class Dictionary
+<ul>
+    <li>
+        Clase Libro:
+    </li>
+    <table>
+        <tr>
+            <td>Atributo</td>
+            <td>Descripción</td>
+            <td>Métodos</td>
+        </tr>
+        <tr>
+            <td>titulo</td>
+            <td>Título del libro.</td>
+            <td rowspan="9">obt_detalles()<br>anad_lista()</td>
+        </tr>
+        <tr>
+            <td>genero</td>
+            <td>Género o géneros del libro.</td>
+        </tr>
+        <tr>
+            <td>sinopsis</td>
+            <td>Descripción corta del contenido del libro.</td>
+        </tr>
+        <tr>
+            <td>ISBN</td>
+            <td>Descripción corta del contenido del libro.</td>
+        </tr>
+        <tr>
+            <td>fec_publicacion</td>
+            <td>Fecha de publicación original del libro.</td>
+        </tr>
+        <tr>
+            <td>n_pags</td>
+            <td>Número de páginas que tiene el libro.</td>
+        </tr>
+        <tr>
+            <td>idioma</td>
+            <td>Idiomas disponibles para leer el libro.</td>
+        </tr>
+        <tr>
+            <td>precio</td>
+            <td>Precio del libro</td>
+        </tr>
+        <tr>
+            <td>disponibilidad</td>
+            <td>Disponibilidad del libro para su lectura</td>
+        </tr>
+    </table>
+    <li>
+        Clase Autor:
+    </li>
+    <table>
+        <tr>
+            <td>Atributo</td>
+            <td>Descripción</td>
+        </tr>
+        <tr>
+            <td>biografía</td>
+            <td>Biografía del autor.</td>
+        </tr>
+        <tr>
+            <td>nacionalidad</td>
+            <td>Nacionalidad de origen del autor. También sirve como indicador de idioma de los libros.</td>
+        </tr>
+        <tr>
+            <td>obras</td>
+            <td>Libros publicados por el autor.</td>
+        </tr>
+        <tr>
+            <td>imagen</td>
+            <td>Foto del autor.</td>
+        </tr>
+    </table>
+    <li>
+        Clase Usuario:
+    </li>
+    <table>
+        <tr>
+            <td>Atributo</td>
+            <td>Descripción</td>
+            <td>Métodos</td>
+        </tr>
+        <tr>
+            <td>Nombre</td>
+            <td>Nombre del usuario</td>
+            <td rowspan="2">inc_sesion()<br>registrar()<br>camb_contrasena()</td>
+        </tr>
+        <tr>
+            <td>Correo</td>
+            <td>Correo usado para el registro del usuario.</td>
+        </tr>
+    </table>
+    <li>
+        Clase Comentario:
+    </li>
+    <table>
+        <tr>
+            <td>Atributo</td>
+            <td>Descripción</td>
+            <td>Métodos</td>
+        </tr>
+        <tr>
+            <td>texto</td>
+            <td>Texto del comentario publicado.</td>
+            <td rowspan="4">anad_coment()<br>elim_coment()</td>
+        </tr>
+        <tr>
+            <td>fec_publicacion</td>
+            <td>Fecha en que se publicó el comentario.</td>
+        </tr>
+        <tr>
+            <td>user_coment</td>
+            <td>Nombre del usuario que realizó el comentario.</td>
+        </tr>
+        <tr>
+            <td>lib_coment</td>
+            <td>Título del libro sobre el que va el comentario.</td>
+        </tr>
+    </table>
+    <li>
+        Clase Biblioteca:
+    </li>
+    <table>
+        <tr>
+            <td>Atributo</td>
+            <td>Descripción</td>
+            <td>Métodos</td>
+        </tr>
+        <tr>
+            <td>libros_disp</td>
+            <td>Lista de los libros disponibles en la biblioteca.</td>
+            <td rowspan="3">buscar()<br>
+                most_lib_pop()<br>
+                rec_lib()</td>
+        </tr>
+        <tr>
+            <td>list_autores</td>
+            <td>Lista de los autores publicados en la biblioteca.</td>
+        </tr>
+        <tr>
+            <td>libros_mas_vend</td>
+            <td>Lista de los libro más vendidos de la biblioteca.</td>
+        </tr>
+    </table>
+    <li>
+        Clase Transacción:
+    </li>
+    <table>
+        <tr>
+            <td>Atributo</td>
+            <td>Descripción</td>
+            <td>Métodos</td>
+        </tr>
+        <tr>
+            <td>ID_trans</td>
+            <td>Identificador de la transacción.</td>
+            <td rowspan="6">proc_pago()<br>
+                gen_recibo()</td>
+        </tr>
+        <tr>
+            <td>user_comp</td>
+            <td>Nombre del usuario comprador.</td>
+        </tr>
+        <tr>
+            <td>tit_libro_comp</td>
+            <td>Título de el / los libros comprados.</td>
+        </tr>
+        <tr>
+            <td>fec_comp</td>
+            <td>Fecha en que se realiza la compra.</td>
+        </tr>
+        <tr>
+            <td>metodo_pago</td>
+            <td>Método del pago (tarjeta, transferencia, Yape, etc)</td>
+        </tr>
+        <tr>
+            <td>estado_trans</td>
+            <td>Estado de la transferencia (En proceso, Pagado)</td>
+        </tr>
+    </table>
+    <li>
+        Clase Configuración:
+    </li>
+    <table>
+        <tr>
+            <td>Atributo</td>
+            <td>Descripción</td>
+            <td>Métodos</td>
+        </tr>
+        <tr>
+            <td>idioma</td>
+            <td>Idioma en el que se verá la aplicación.</td>
+            <td rowspan="4">camb_idioma()<br>
+                camb_tema()<br>
+                guardar_config()</td>
+        </tr>
+        <tr>
+            <td>tema</td>
+            <td>Tema de la aplicación, ya sea oscuro o claro.</td>
+        </tr>
+        <tr>
+            <td>notificaciones</td>
+            <td>Como se recibiran las distintas notificaciones</td>
+        </tr>
+        <tr>
+            <td>pref_privacidad</td>
+            <td>Preferencias sobre la privacidad del perfil.</td>
+        </tr>
+    </table>
+</ul>
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 # Capítulo V: Product Implementation, Validation & Deployment
