@@ -276,8 +276,9 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
-<img src="imgs/impact.png" height="85%" width="85%">
-<img src="imgs/impact_autor.png" height="85%" width="85%">
+<img src="imgs/impact.png" alt="Impact Map - Lector">
+<img src="imgs/impact_autor.png" alt="Impact Map - Autor">
+
 ## 3.4. Product Backlog
 |    ID   |User Story|Story Points|Priority| 
 |:-------:|:----------|:-----:|:----------------------------:| 
