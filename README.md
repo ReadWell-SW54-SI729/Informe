@@ -423,13 +423,107 @@ Segmento objetivo #2: Autor
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+
+Es de suma importancia considerar las decisiones y elementos visuales que respaldan los principios generales de diseño para BookFlow. Por esta razón, resulta esencial definir aspectos clave como la identidad de marca, la paleta de colores y la tipografía. Además, es necesario establecer el tono de comunicación y el lenguaje utilizado, que abarcan características como divertido o serio, formal o casual, respetuoso o irreverente, y entusiasta o sereno.
+
+Branding: BookFlow personifica la innovación, la fiabilidad y la eficacia en el ámbito de la lectura digital. Nuestra esencia se fundamenta en ofrecer soluciones tecnológicas avanzadas que simplifican y agilizan la experiencia de descubrir y disfrutar de libros en línea. Nuestra marca representa precisión, seguridad y una experiencia de lectura confiable en un mundo impulsado por la tecnología.
+
+Logotipo: El logotipo de BookFlow está diseñado con una paleta de colores principal que destaca el vibrante y enérgico tono naranja. Este color encarna la pasión por la lectura, la creatividad y la vitalidad que BookFlow busca transmitir a sus usuarios. El logo representa la eficiencia, elegancia, la precisión y la tecnología avanzada que caracterizan a nuestra app
+
+![Logotipo](./imgs/logo.jpg)
+
+Colores:
+
+![Colores](./imgs/color1.jpg)
+
+Se ha utilizado el color naranja como color principal para el diseño de nuestro producto. 
+
+Naranja (#FFB74B): El color naranja se utiliza como color principal del logo, aportando vitalidad, energía y optimismo. Representa la creatividad y la innovación que caracterizan a BookFlow en su enfoque hacia soluciones tecnológicas avanzadas.
+
+Tipografía:
+
+![Tipografia](./imgs/text1.jpg)
+
+La tipografía de BookFlow es contemporánea y fácil de leer, con líneas nítidas y definidas. Se ha seleccionado una fuente que encapsula la esencia tecnológica y seria de la marca, al mismo tiempo que conserva un estilo actual y moderno.
+
+Tonos de Comunicación:
+
+-Formal/Confianza: En BookFlow adoptamos un enfoque formal que refleja nuestra seriedad en la promoción de la lectura digital, sin embargo, mantenemos un toque de accesibilidad y cercanía en nuestra comunicación con los usuarios.
+
+-Respetuoso/Irreverente: Nos caracterizamos por ser siempre respetuosos y considerados en nuestra comunicación, mostrando empatía hacia las necesidades y preocupaciones de nuestros lectores.
+
+-Entusiasta/Sereno: En BookFlow transmitimos entusiasmo al ofrecer una variedad de libros y experiencias literarias, al mismo tiempo que mantenemos un tono sereno para transmitir confianza y estabilidad en nuestra plataforma de lectura.
+
+
+
 ### 4.1.2. Web Style Guidelines
+
+Fuentes:
+Se hizo uso de la fuente Bold con variantes en el tamaño:
+
+![Texto](./imgs/text1.jpg)
+
+
+![Texto](./imgs/text2.jpg)
+
+
+![Texto](./imgs/text3.jpg)
+    
+Para títulos se usó: 40px
+Para subtítulos se usó: 36px 
+Para textos se usó: 24px
+
+Colores:
+
+![colores](./imgs/color1.jpg)
+
+![colores](./imgs/color2.jpg)
+
+Estos son los colores principales utilizados para el diseño web y Mobile, el naranja como color principal es utilizado para el fondo, el plateado es utilizado para el contorno. Además, el color de los títulos y textos son de color negro y blanco.
+
+Gráficos:
+
+-	Logo de la aplicación 
+-	Imágenes de los más vendidos 
+-	Imágenes de los audiolibros
+-	Imágenes de los miembros
+-	Iconos de redes sociales
+
+Componentes:
+
+-	Botones  
+-	Deslizador Desplegables 
+-	Campos de texto 
+-	Cuadro de miembros
+-	Botón de redes sociales 
+
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+
+Los usuarios podrán percibir la interfaz de forma lógica e intuitiva gracias a la estructura organizativa prevista para BookFlow.
+
+![Organization](./imgs/orga.jpg)
+
 ### 4.2.2. Labeling Systems
+
+El conjunto de información " BookFlow " será representado por el sistema mediante las etiquetas siguientes.
+
+![labeling](./imgs/labe.jpg)
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
+
+Este sistema de búsqueda agilizará el tiempo con el objetivo de ofrecer una mejor experiencia para “BookFlow”.
+
+![Searching](./imgs/sea.jpg)
+
 ### 4.2.5. Navigation Systems
+
+Los procedimientos técnicos permitirán a los usuarios de " BookFlow " elegir cualquier detalle que deseen sobre un producto o aplicación en una ventana web.
+
+![Navigation](./imgs/navi.jpg)
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
