@@ -249,6 +249,55 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 #### 1.2.2.2. Lean UX Assumptions.
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 #### 1.2.2.4. Lean UX Canvas.
+  <table>
+  <tr>
+    <th>Lean UX Canvas</th>
+    <th >Bookflow</th>
+    <th>Fecha: 30/03/2004</th>
+  </tr>
+  <tr>
+    <td>1. Problema de Negocio:
+La comprensión lectora en el país ha ido en decadencia en los últimos años, afectando a chicos y grandes por igual, ya que los más chicos ven la lectura más como una obligación que una afición. Según el Banco Mundial (2021), en América Latina y el Caribe más del 60% de “niños de 10 años son incapaces de leer y comprender un relato simple”.
+</td>
+    <td rowspan=2>5. Ideas de Soluciones:
+Implementación de un algoritmo que ayude a los usuarios a encontrar lecturas de su interés.
+·         Añadir una opción de crear clubes de lectura virtuales para que nuestros usuarios puedan compartir sus gustos con los demás.
+·         Diseñar una interfaz de usuario intuitiva y fácil de usar para la aplicación.
+·         Establecer un modelo de negocio que incluya asociaciones con bibliotecas y escuelas.</td>
+    <td>2. Resultados Comerciales:
+Generar ingresos a través de asociaciones con bibliotecas, escuelas, editoriales y autores.
+Gracias a las suscripciones se generarán recursos recurrentes, así como la implementación de una tienda virtual donde se podrán comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura.
+
+ </td>
+  </tr>
+  <tr>
+    <td>3. Usuarios y Clientes:
+Usuarios: Personas con ganas de fomentar un hábito de lectura o mejorar esos hábitos de lectura. Así como, estudiantes que necesitan lecturas para sus estudios.
+Autores que quieran dar una visualización de sus trabajos o quieran llegar a una audiencia más amplia.
+Clientes:
+Instituciones que desean fomentar hábitos de lectura en sus estudiantes.
+</td>
+    <td>4. Beneficios del usuario:
+·         Recomendación eficaz de lecturas ayudadas por los algoritmos.
+·         Confianza en las recomendaciones de lecturas respaldadas por la aplicación.
+·         Comodidad y flexibilidad.
+·         Descubrimientos de nuevas lecturas y autores desconocidos.
+·         Acceso a una amplia variedad de lecturas expandiendo su vocabulario.</td>
+  </tr>
+  <tr>
+    <td>6. Hipótesis:
+Creemos que, si nuestro aplicativo establece conexiones con bibliotecas importantes, proporcionaremos libros suficientes para empezar y así atraer a nuestros posibles usuarios de una gran variedad de edades.
+</td>
+    <td>7. ¿Qué es lo más importante que necesitamos aprender primero?
+Lo más importante es establecer asociaciones con bibliotecas y escuelas para tener una cantidad decente de libros reconocidos y entretenidos de leer para todas las edades y así no infringir alguna ley de copyright.
+
+</td>
+    <td>8. ¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?
+La menor cantidad de trabajo necesaria es definir nuestro problema principal y a qué apuntamos resolver y evaluar si es rentable nuestro modelo de negocio.
+</td>
+  </tr>
+</table>
+
 ## 1.3. Segmentos objetivo
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
@@ -264,10 +313,70 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
+#### 2.2.2.1.
+Lectores:
+Entrevistado #1: 
+
+Joseph Huammani
+
+●	Sexo: Masculino
+
+●	Edad: 23 años
+
+●	Distrito en el que vive: Surquillo
+
+●	Nivel socioeconómico: Clase B
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://www.youtube.com/watch?v=44kOELBy0ZU)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 4:20
+Resumen:
+El entrevistado, Joseph Huammani, de 23 años, expresó su preferencia por la novela y la ciencia ficción como género literario favorito. Además, dice que su mayor desafío a la hora de encontrar tiempo para leer es equilibrar sus muchas responsabilidades diarias. Enfatizó que historias interesantes, personajes bien desarrollados y giros argumentales consistentemente atractivos son los factores que lo motivan a continuar leyendo los libros. Además, aprecian funciones como la interfaz intuitiva, las recomendaciones personalizadas y el seguimiento del tiempo de lectura semanal en la aplicación de lectura. Además, también expresó interés en encontrar reseñas de libros, recomendaciones de otros lectores y entrevistas a autores en la aplicación, y expresó su deseo de interactuar con otros lectores de otras audiencias a través de clubes de lectura virtuales y debates en línea. Para él, la seguridad y privacidad de los datos personales son importantes y considera que estrategias como establecer objetivos de lectura, programar momentos específicos para leer y llevar un diario de lectura serán útiles para mantener un hábito de lectura constante. Prefiere comprar libros electrónicos o audiolibros en línea debido a descuentos, ofertas especiales y amplia gama de títulos. Joseph afirmó que dejaría de leer libros si la trama se volviera aburrida o los personajes no estuvieran bien desarrollados. Como usuario leal de la aplicación, espera descuentos en compras futuras y acceso a contenido exclusivo, desea que la aplicación le recomiende libros según sus intereses anteriores y le permita descubrir nuevos géneros y autores.
+
+
+Entrevistado #2: 
+Anthony Tarrillo
+
+●	Sexo: Masculino
+
+●	Edad: 20 años
+
+●	Distrito en el que vive: San Martín de Porres
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1DZM0FRAuKecq_ddy_g6qRVobYHKop5wo/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 6:09
+
+Resumen:
+El entrevistado en esta ocasión es Anthony Tarrillo de unos 20 años que nos cuenta que tiene problemas al momento de hacer su tesis, ya que no está acostumbrado a textos tan densos y aburridos. Por otro lado, el desea desarrollar un hábito por la lectura para dejar de lado sus problemas de lectura. Su mayor desafío a la hora de leer son textos muy largos que no llegan a ningún punto, eso lo desanima a seguir leyendo, dejándolo de lado. Enfatizó en sus gustos por el drama y la ciencia ficción, así como los personajes bien desarrollados. Así mismo, para Anthony el aplicativo debería tener las medidas de seguridad estándar como la verificación de dos pasos, contraseña segura, etc.
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+Lectores:
+![Lectores](./imgs/UserPersonaLector.png)
+
+
+Autores:
+
+![Lectores](./imgs/UserPersonaAutor.png)
+
 ### 2.3.2. User Task Matrix
+Segmento objetivo #1: Lector
+![Lectores](./imgs/taskmatrixLector.png)
+
+Segmento objetivo #2: Autor
+![Lectores](./imgs/taskmatrixAutor.png)
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
@@ -325,8 +434,136 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+Página de inicio
+
+La página de inicio presentará el logotipo de la aplicación BookFlow y una barra de navegación con las opciones "Inicio", "Nosotros", "Catálogo" y "Contacto". Una imagen de fondo de una estantería llena de libros. Un título principal invita a los usuarios a unirse a BookFlow y embarcarse en una aventura literaria sin límites. Un subtítulo dice "Lee, descubre, disfruta". Un botón de llamada a la acción anima a los usuarios a unirse. Una breve descripción explica la aplicación y sus beneficios. Finalmente, la sección inferior presenta enlaces a las redes sociales de la aplicación y la información de copyright.
+
+Acceso a funcionalidades destacadas: La pantalla de inicio ofrece acceso directo a funcionalidades destacadas, permitiendo una navegación ágil y eficiente a través de la aplicación. Estas funcionalidades incluyen:
+
+●	Nosotros: Un acceso directo a información sobre los creadores del aplicativo junto a una foto de cada integrante, así como mostrar la visión de la Startup.
+
+●	Catálogo: Este enlace permite explorar por diferentes categorías de libros y filtrar por género, autor, precio, etc. Se mostrarán apartados donde aparezcan "Los más vendidos", así como audiolibros. Cada libro presenta su portada, título, autor, sinopsis, precio y valoraciones. 
+
+●	Contacto: Esta página ofrece un formulario de contacto donde los usuarios pueden escribir su nombre, correo, un asunto y mandar un mensaje. También se incluyen un teléfono de contacto y las redes sociales del aplicativo.
+
+●	Únete Aquí: Una sección donde podrás registrarte con un nombre de usuario, correo, número de celular y una contraseña. También se podrá logear con el nombre de usuario y contraseña, así como tener un botón para cambiar la contraseña.
+
+![Lectores](./imgs/wireframePaginaInicio.png)
+
+
+Mejora Continua: Aprovechando la implementación de un algoritmo de recomendaciones que aprende y se adapta a las interacciones del usuario. A medida que el usuario utiliza el aplicativo y proporciona información sobre sus preferencias, las recomendaciones se vuelven cada vez más precisas. De esta manera, se asegura que el usuario reciba sugerencias que sean relevantes para sus intereses, lo que mejora su experiencia con el aplicativo.
+
+●	Búsqueda de Lecturas: Al solicitar la búsqueda de lecturas, nuestro sistema utiliza. Los filtros que se hayan utilizado, así como los libros más populares del tema buscado para dar al usuario los mejores resultados disponibles.
+
+●	Calificaciones y Reseñas Transparentes: Cada lectura recomendada viene acompañada de calificaciones y reseñas auténticas proporcionadas por otros usuarios, permitiendo a los nuevos lectores evaluar la reputación y calidad del libro antes de tomar una decisión.
+
+●	Reporte de problemas: Cada inconveniente que se tenga con el aplicativo como errores o problemas con las compras, el usuario tiene la posibilidad de contactarnos por teléfono o nuestras redes sociales.
+
+![Lectores](./imgs/wireframeCatalogo.png)
+![Lectores](./imgs/wireframeCatalogoLibro.png)
+![Lectores](./imgs/wireframeContacto.png)
+
+Registro:
+
+ Aprovechando los datos ingresados, se validarán las contraseñas que vayan a ser usadas para proteger los datos personales del usuario en caso intenten entrar a su cuenta sin permiso.
+
+ ![Lectores](./imgs/wireframeRegistro.png)
+![Lectores](./imgs/wireframeInicioSesión.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+Descripción de  Registro:
+
+El usuario registra sus datos en el sistema dando click en el botón Registrarse.
+Cuando se registré aparecerá la opción de iniciar sesión con el usuario y contraseña para ser introducidos.
+
+Desktop:
+![Lectores](./imgs/WireflowRegistro.png)
+
+Mobile:
+![Lectores](./imgs/WireflowRegistroMobile.png)
+
+Descripción de Nosotros:
+
+Desde la página inicial el usuario podrá entrar a el apartado “Nosotros” y visualizar los creadores de “Bookflow” junto a la visión de negocio y unas fotos de los integrantes.
+
+Desktop:
+![Lectores](./imgs/WireflowNosotros.png)
+
+Mobile:
+![Lectores](./imgs/WireflowNosotrosMobile.png)
+
+Descripción de Catálogo: 
+
+El usuario podrá acceder a catálogo desde cualquier parte, aquí podrá visualizar los libros más vendidos, así  como recomendaciones de lecturas que puedan interesarle al usuario.
+
+Desktop:
+![Lectores](./imgs/WireflowCatalogo.png)
+
+Mobile:
+![Lectores](./imgs/WireflowCatalogoMobile.png)
+
+Descripción de calificaciones:
+En la pantalla de catálogo cuando se seleccione un libro, el usuario observará la calificación de la lectura, así como unos comentarios con respecto al libro.
+
+Escribir comentario:
+Si el usuario desea publicar un comentario solo deberá elegir la opción de nuevo comentario y podrá escribir lo que desea.
+
+Calificar el libro:
+En la misma parte del comentario, el usuario podrá calificar la experiencia leyendo el libro, esta valoración será por medio de estrellas de 1 a 5 estrellas.
+
+Desktop:
+
+![Lectores](./imgs/WireflowCalificar.png)
+
+Mobile:
+
+![Lectores](./imgs/WireflowCalificarMobile.png)
+
+
+Descripción del servicio de contacto:
+
+En la pantalla de contacto, el usuario podrá comunicarse con nosotros para notificar algún inconveniente colocando nombre, correo, asunto y un mensaje, así como poder llamar por medio del número de teléfono proporcionado.
+
+Uso de redes sociales:
+Adicionalmente el usuario podrá entrar en nuestras redes sociales para que pueda comunicarse por ahí con nosotros, entre esas están Twitter, Facebook e Instagram.
+
+Desktop:
+![Lectores](./imgs/WireflowContacto.png)
+
+Mobile:
+![Lectores](./imgs/WireflowCatalogoMobile.png)
+
 ### 4.4.3. Web Applications Mock-ups
+
+Página de inicio:
+
+![Lectores](./imgs/MockupPaginaInicio.png)
+
+Inicio de sesión:
+
+![Lectores](./imgs/MockupInicioSesión.png)
+
+Registro:
+
+![Lectores](./imgs/MockupRegistro.png)
+
+Nosotros:
+
+![Lectores](./imgs/MockupNosotros.png)
+
+Catálogo:
+
+![Lectores](./imgs/MockupCatalogo.png)
+
+Valoraciones:
+
+![Lectores](./imgs/MockupValoraciones.png)
+
+Contacto:
+
+![Lectores](./imgs/MockupContacto.png)
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
