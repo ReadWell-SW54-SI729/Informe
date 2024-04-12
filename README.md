@@ -409,6 +409,7 @@ La Arquitectura de Software Orientada al Dominio (Domain-Driven Software Archite
 ### 4.8.1. Database Diagram
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
+### 5.1.1. Software Development Environment Configuration
 
 **Project Management:**
 
@@ -483,10 +484,19 @@ GitHub: Empleamos GitHub como plataforma principal para la documentación del c�
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
 
 
-### 5.1.1. Software Development Environment Configuration
-
-
 ### 5.1.2. Source Code Management
+
+Para garantizar la eficiencia y evitar conflictos en el desarrollo de soluciones, los proyectos de BookFlow se gestionaron en una organización de GitHub. Dentro de esta organización, se encuentran los repositorios correspondientes a cada proyecto. Aquí están los enlaces a los repositorios: 
+ 
+Landing page: https://github.com/ReadWell-SW54-SI729/Landingpage-BookFlow
+ 
+Tests de Aceptación: https://github.com/ReadWell-SW54-SI729/Informe
+ 
+ 
+En cuanto al manejo del Gitflow, fue de la siguiente forma: 
+ 
+En el desarrollo de ‘BookFlow’, cada cambio que se realizó en los archivos se marcó con un mensaje con el formato “Conventional Commits”. Esta práctica facilitó la identificación de los cambios realizados en cada commit, permitió un seguimiento más eficiente del proyecto. Además, este modelo incluye la rama main, que contuvo las versiones finales y estables del proyecto. Para mantener una organización clara del proyecto, se creó una rama específica para cada integrante del equipo. Esto permitió un seguimiento más detallado y una mejor organización del código."
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
