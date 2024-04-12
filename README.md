@@ -478,9 +478,11 @@ El usuario registra sus datos en el sistema dando click en el botón Registrarse
 Cuando se registré aparecerá la opción de iniciar sesión con el usuario y contraseña para ser introducidos.
 
 Desktop:
+
 ![Lectores](./imgs/WireflowRegistro.png)
 
 Mobile:
+
 ![Lectores](./imgs/WireflowRegistroMobile.png)
 
 Descripción de Nosotros:
