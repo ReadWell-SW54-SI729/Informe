@@ -798,7 +798,252 @@ Contacto:
 #### 5.2.1.1. Sprint Planning 1
 #### 5.2.1.2. Sprint Backlog 1
 #### 5.2.1.3. Development Evidence for Sprint Review
+En esta sección se presenta un resumen de los avances en la implementación de los productos de la solución, de acuerdo al alcance definido para el Sprint 1. Se incluye una tabla que resume los commits relacionados con la implementación de las historias de usuario.
+
+#### Tabla de resumen de commits
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>Landingpage-BookFlow</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Landingpage-BookFlow</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Landingpage-BookFlow</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Landingpage-BookFlow</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Landingpage-BookFlow</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Landingpage-BookFlow</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+<div align="justify">
+    En esta sección se explicará una serie de pruebas que demuestren la implementación de funcionalidades definidas en este sprint. El Sprint 1 se enfocó en la implementación de las siguientes User Stories utilizadas para el Sprint 1.
+</div>
+
+###
+
+Unit tests:
+
+En esta parte todavía no se implmentaron las clases definidas en el diagrama de clases, este sprint solo fue para la implementación de apartados y tener una base donde empezar.
+
+Integration Tests:
+
+Esta parte se han utilizado archivos .feature en lenguaje Gherkin para describir el comportamiento esperado. A continuación se presentan los archivos .feature y su relación con las Historias de Usuario:
+
+Relacionado a US-01
+
+    Feature: Visualizar landing page intuitivo
+
+        Como usuario
+
+        Quiero ver una landing page intuitiva, clara y atractiva
+
+        Para entender el propósito del sitio web
+
+Relacionado a US-02
+
+    Feature: Visualizar sección sobre Nosotros
+
+        Como usuario
+
+        Quiero ver una sección del landing page que 
+        hable del startup y del landing page que hable del 
+        startup y de los miembros del equipo
+  
+        Para saber los objetivos
+
+Relacionado a US-03
+
+    Feature: Visualizar sección de Catálogo
+
+        Como usuario
+
+        Quiero ver una sección del landing page con 
+        el catálogo de  productos disponibles
+  
+        Para saber si son de mi interés
+
+Relacionado a US-04
+
+    Feature: Visualizar sección de Contactos
+
+        Como usuario
+
+        Quiero ver una sección del landing page de 
+        contactos
+
+        Para saber si son de mi enterés
+
+Relacionado a US-05
+
+    Feature: Visualizar de contenido relevante
+
+        Como usuario
+
+        Quiero que landing page contengo información 
+        relevante 
+  
+        Para tomar una decisión informada
+
+Relacionado a US-06
+
+    Feature: Desplegar Landing Page
+
+        Como startup
+
+        Quiero desplegar la landing page
+  
+        Para dar a conocer nuestra aplicación
+
+Acceptance Tests:
+<table>
+    <tr>
+        <td>User Story</td>
+        <td>Caso de prueba</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>US-01</td>
+        <td>Visualizar el landing Page</td>
+        <td>Verificar que la landing page sea atractiva a la vista y fácil de interactuar</td>
+    </tr>
+    <tr>
+        <td>US-02</td>
+        <td>Direccionar a Nosotros</td>
+        <td>Verificar que el botón de nosotros del menú principal lleve al usuario a la sección Nosotros</td>
+    </tr>
+    <tr>
+        <td>US-03</td>
+        <td>Direccionar a Catálogo</td>
+        <td>Verificar que el botón de catálogo del menú principal lleve al usuario a la sección Catálogo</td>
+    </tr>
+    <tr>
+        <td>US-04</td>
+        <td>Direccionar a Contactos</td>
+        <td>Verificar que el botón de contactos del menú principal lleve al usuario a la sección Contactos</td>
+    </tr>
+    <tr>
+        <td>US-05</td>
+        <td>Llevar a contenido de relevancia</td>
+        <td>Verificar que al entrar al catálogo se puedan apreciar los libros más relevantes.</td>
+    </tr>
+    <tr>
+        <td>US-06</td>
+        <td>Desplegar Landing Page</td>
+        <td>Verificar la landing Page haya sido levantada de forma correcta</td>
+    </tr>
+</table>
+
+#### Enlace al repositorio de control de versiones
+
+●	Link: [Click para ver el repositorio](https://github.com/ReadWell-SW54-SI729/Landingpage-BookFlow )
+
+#### Tabla para commits relacionados con el testing
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>Landingpage-BookFlow</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Landingpage-BookFlow</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Landingpage-BookFlow</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Landingpage-BookFlow</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Landingpage-BookFlow</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Landingpage-BookFlow</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 <div align="justify">
     En el sprint 1 se diseñó de manera preliminar el primer modelo de la landing page. Esta cuenta con diferentes secciones para acceso de los usuarios. Algunas evidencias son:
