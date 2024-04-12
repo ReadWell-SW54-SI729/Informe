@@ -166,7 +166,7 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
             <br>La Torre Valle, Franz Jair<br>
             <em>TB1:<br></em>
             <br>Morales Calderón, Hernan Emilio<br>
-            <em>TB1:<br></em>
+            <em>TB1: Segmentos objetivos, análisis competitivo, estrategias y tácticas frente a competidores, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management<br></em>
             <br>Párraga Gamarra, Paolo Gonzalo<br>
             <em>TB1:<br></em>
             <br>Rivadeneyra Ramos, Joaquin<br>
