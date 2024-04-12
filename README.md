@@ -498,6 +498,39 @@ En cuanto al manejo del Gitflow, fue de la siguiente forma:
 En el desarrollo de ‘BookFlow’, cada cambio que se realizó en los archivos se marcó con un mensaje con el formato “Conventional Commits”. Esta práctica facilitó la identificación de los cambios realizados en cada commit, permitió un seguimiento más eficiente del proyecto. Además, este modelo incluye la rama main, que contuvo las versiones finales y estables del proyecto. Para mantener una organización clara del proyecto, se creó una rama específica para cada integrante del equipo. Esto permitió un seguimiento más detallado y una mejor organización del código."
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Nuestro equipo adoptó las siguientes convenciones y guías de estilo para garantizar un código fuente coherente, legible y mantenible en los diferentes lenguajes y tecnologías utilizados en nuestra solución
+
+**HTML:** 
+
+Para el lenguaje HTML, nos planteamos utilizar las convenciones descritas en la guía “HTML Style Guide and Coding Conventions”:
+
+* Usar nombres de elementos en minúsculas
+* Cerrar todos los elementos HTML
+* Usar nombres de atributos en minúsculas
+* Usar atributos en imágenes
+* Evitar líneas de código largas
+* Usar sintaxis simple para los enlaces para las hojas de estilo y para cargar script externos
+
+**CSS:** 
+
+Para el lenguaje CSS, utilizaremos las siguientes prácticas para alcanzar un código coherente, sostenible y ordenado:
+
+* Utilizar minúsculas y guiones para los nombres de propiedades
+* Utilizar un espacio después de los dos puntos y un punto y coma para separar pares propiedad-valor.
+* Agrupar reglas CSS relacionadas y separarlas con una línea en blanco.
+* Utilizar nombres de clases que sean descriptivos y reflejen el propósito del elemento.
+* Separar los nombres de las clases y ID con un guión
+
+**JavaScript:**
+
+Para el lenguaje JavaScript, seguimos las siguientes prácticas para escribir un código legible, eficiente y mantenible:
+
+* Las declaraciones de variables se realizaron al principio de su ámbito. 
+* Se prefirió el uso de const y let sobre var. 
+* Se incluyó comentarios descriptivos para explicar la funcionalidad de componentes, servicios y secciones complejas. 
+* Se aplicaron principios de programación reactiva y patrones de diseño adecuados para la construcción de la aplicación web.
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
