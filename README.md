@@ -422,6 +422,8 @@ La Arquitectura de Software Orientada al Dominio (Domain-Driven Software Archite
  
 * Landing Page: Para dar vida a la primera impresión de nuestra landing page, decidimos usar HTML, CSS y JavaScrip que son ampliamente conocidas y utilizadas en la creación de páginas web. Estas tecnologías permitieron crear una página atractiva, funcional y adaptada a las necesidades del proyecto.
 
+ <img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/1efcbfa7-394d-4e53-9106-cec6ff4bad67" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;"> 
+
 ### 5.1.1. Software Development Environment Configuration
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
