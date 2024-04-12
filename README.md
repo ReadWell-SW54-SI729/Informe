@@ -490,9 +490,11 @@ Descripción de Nosotros:
 Desde la página inicial el usuario podrá entrar a el apartado “Nosotros” y visualizar los creadores de “Bookflow” junto a la visión de negocio y unas fotos de los integrantes.
 
 Desktop:
+
 ![Lectores](./imgs/WireflowNosotros.png)
 
 Mobile:
+
 ![Lectores](./imgs/WireflowNosotrosMobile.png)
 
 Descripción de Catálogo: 
@@ -500,9 +502,11 @@ Descripción de Catálogo:
 El usuario podrá acceder a catálogo desde cualquier parte, aquí podrá visualizar los libros más vendidos, así  como recomendaciones de lecturas que puedan interesarle al usuario.
 
 Desktop:
+
 ![Lectores](./imgs/WireflowCatalogo.png)
 
 Mobile:
+
 ![Lectores](./imgs/WireflowCatalogoMobile.png)
 
 Descripción de calificaciones:
@@ -531,9 +535,11 @@ Uso de redes sociales:
 Adicionalmente el usuario podrá entrar en nuestras redes sociales para que pueda comunicarse por ahí con nosotros, entre esas están Twitter, Facebook e Instagram.
 
 Desktop:
+
 ![Lectores](./imgs/WireflowContacto.png)
 
 Mobile:
+
 ![Lectores](./imgs/WireflowCatalogoMobile.png)
 
 ### 4.4.3. Web Applications Mock-ups
