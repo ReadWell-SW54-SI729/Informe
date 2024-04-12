@@ -532,6 +532,19 @@ Para el lenguaje JavaScript, seguimos las siguientes prácticas para escribir un
 * Se aplicaron principios de programación reactiva y patrones de diseño adecuados para la construcción de la aplicación web.
 
 ### 5.1.4. Software Deployment Configuration
+
+Utilizamos el servicio GitHub Pages para desplegar la landing page de HormonalCare. Este servicio nos permitió hospedar nuestra landing page directamente desde nuestro repositorio de GitHub. Los pasos que seguimos: 
+ 
+
+1. Después de haber integrado los cambios y nuevas versiones de la landing page en el repositorio, y de asegurarnos de que las ramas estén actualizadas, ingresaremos a la plataforma de GitHub y nos dirigiremos a nuestro repositorio del proyecto. 
+
+2. Dentro del repositorio, accedimos a la pestaña de "Settings" y buscamos la sección denominada "Pages" en el menú lateral. 
+
+3. En la sección "Pages", seleccionamos la rama main desde la cual se desplegará la landing page. 
+
+4. Después de haber seleccionado la rama, confirmamos los cambios realizados, y GitHub realizo el proceso de despliegue de la landing page. 
+
+5. Una vez que el proceso de despliegue finalizó, GitHub nos proporcionó el enlace para ver nuestra landing page publicada.
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
