@@ -328,7 +328,7 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
         seguridad y privacidad de los datos personales son importantes y considera que estrategias como establecer objetivos de lectura, programar momentos específicos para leer y llevar un diario de lectura serán útiles para mantener 
         un hábito de lectura constante. Prefiere comprar libros electrónicos o audiolibros en línea debido a descuentos, ofertas especiales y amplia gama de títulos. Joseph afirmó que dejaría de leer libros si la trama se volviera 
         aburrida o los personajes no estuvieran bien desarrollados. Como usuario leal de la aplicación, espera descuentos en compras futuras y acceso a contenido exclusivo, desea que la aplicación le recomiende libros según sus intereses
-        anteriores y le permita descubrir nuevos géneros y autores.<br>
+        anteriores y le permita descubrir nuevos géneros y autores.<br><br>
         <li>Entrevista 2: Anthony Tarrillo</li>
         <ul>
             <li>Sexo: Masculino</li>
@@ -345,7 +345,7 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
         Resumen:<br>
         El entrevistado en esta ocasión es Anthony Tarrillo de unos 20 años que nos cuenta que tiene problemas al momento de hacer su tesis, ya que no está acostumbrado a textos tan densos y aburridos. Por otro lado, el desea desarrollar
         un hábito por la lectura para dejar de lado sus problemas de lectura. Su mayor desafío a la hora de leer son textos muy largos que no llegan a ningún punto, eso lo desanima a seguir leyendo, dejándolo de lado. Enfatizó en sus gustos
-        por el drama y la ciencia ficción, así como los personajes bien desarrollados. Así mismo, para Anthony el aplicativo debería tener las medidas de seguridad estándar como la verificación de dos pasos, contraseña segura, etc.<br>
+        por el drama y la ciencia ficción, así como los personajes bien desarrollados. Así mismo, para Anthony el aplicativo debería tener las medidas de seguridad estándar como la verificación de dos pasos, contraseña segura, etc.<br><br>
         <li>Entrevista 3:</li>
           <ul>
             <li>Sexo: ino</li>
@@ -386,7 +386,7 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
         cortos a Webtoon. Para promocionar sus historias, utiliza Twitter e Instagram. Además, ha participado en talleres de autores, los cuales le resultaron muy útiles para conocer la experiencia de otros escritores y superar bloqueos
         creativos. Una de sus mayores dificultades es mantenerse relevante en el medio, ya que requiere mucha creatividad. Sus consejos para los aspirantes son leer mucho, buscar referentes y nutrirse de información sobre los temas que
         desean abordar. Considera que una aplicación útil debería tener una buena recepción de archivos, un espacio para publicar borradores, un foro de interacción y actividades recurrentes como charlas para discutir trabajos destacados.
-        Espera que la aplicación le ayude a divulgar su trabajo, impulse a escritores nuevos, ofrezca sugerencias de búsqueda y brinde recomendaciones constantes.<br>
+        Espera que la aplicación le ayude a divulgar su trabajo, impulse a escritores nuevos, ofrezca sugerencias de búsqueda y brinde recomendaciones constantes.<br><br>
         <li>Entrevista 2:</li>
          <ul>
             <li>Sexo: ino</li>
@@ -401,7 +401,7 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
             <li>Duración: </li>
         </ul>
         Resumen:<br>
-        <br>
+        <br><br>
         <li>Entrevista 3:</li>
          <ul>
             <li>Sexo: ino</li>
