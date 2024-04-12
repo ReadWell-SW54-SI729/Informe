@@ -363,6 +363,7 @@ El entrevistado en esta ocasión es Anthony Tarrillo de unos 20 años que nos cu
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 Lectores:
+
 ![Lectores](./imgs/UserPersonaLector.png)
 
 
