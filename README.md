@@ -292,7 +292,25 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
+
+Segmento Objetivo 1: Lectores 
+
+![JourneyMapping-Lectores](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/9736acdc-2bb0-4724-8746-43092a344d89)
+
+Segmento Objetivo 2: Autores
+
+![JourneyMapping-Autores](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/1ca50744-2055-4a20-ab9e-bd186ecb42b2)
+
 ### 2.3.4. Empathy Mapping
+
+Segmento Objetivo 1: Lectores 
+
+![EmpathyMapping-Lectores](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/e7e6bbb9-6b31-4f31-954a-e50ef04ca7f6)
+
+Segmento Objetivo 2: Autores
+
+![EmpathyMapping-Autores](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/4caee5a9-6037-4e76-95d9-f31ae6b3b673)
+
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
