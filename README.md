@@ -250,6 +250,8 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo
+Los segmentos de enfoque consisten en un conjunto particular de individuos que comparten rasgos y requerimientos afines, estableciéndolos como un público objetivo atractivo para una compañía o marca. Una vez reconocidos, estos segmentos pueden ser abordados de forma exitosa a través de tácticas de marketing y publicidad personalizadas, lo que capacita a las empresas para potenciar su efectividad y eficiencia en la adquisición y retención de clientes. A continuación, se han delimitado los próximos grupos de enfoque: 
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 Algunos de los competidores a los que BookFlow podría enfrentarse son:
