@@ -253,28 +253,42 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 Los segmentos de enfoque consisten en un conjunto particular de individuos que comparten rasgos y requerimientos afines, estableciéndolos como un público objetivo atractivo para una compañía o marca. Una vez reconocidos, estos segmentos pueden ser abordados de forma exitosa a través de tácticas de marketing y publicidad personalizadas, lo que capacita a las empresas para potenciar su efectividad y eficiencia en la adquisición y retención de clientes. A continuación, se han delimitado los próximos grupos de enfoque:
 
 **Segmento objetivo #1:** Lectores
+
+
 Aspectos demográficos:
 * Sexo: Masculino y femenino
 * Edades: Personas entre 18 - 50 años.
 * Nivel socioeconómico: Clases A,B y C (Alta, Media Alta y Media)
+
 Aspectos geográficos:
+
 * Nacionalidad: Peruana
 * Zona geográfica en la que vive: Urbana
 * Departamento: Lima y Arequipa
+
 Asppectos psicográficos:
+
 * Buscan una aplicación eficiente de lectura
 * Buscan tener comunicación con otros lectores
 * Buscan tener comunicación con autores
+
 **Segmento objetivo #2:** Autores
+
 Aspectos demográficos:
+
+
 * Sexo: Masculino y femenino
 * Edades: Personas entre 25 - 50 años.
 * Nivel socioeconómico: Clases A,B y C (Alta, Media Alta y Media)
+
 Aspectos geográficos:
+
 * Nacionalidad: Peruana
 * Zona geográfica en la que vive: Urbana
 * Departamento: Lima y Arequipa
+
 Asppectos psicográficos:
+
 * Buscan una aplicación para publicar sus libros
 * Buscan tener comunicación con otros autores
 * Buscan tener comunicación con sus lectores
