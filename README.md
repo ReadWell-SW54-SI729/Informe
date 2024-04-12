@@ -320,11 +320,12 @@ Branding: BookFlow personifica la innovación, la fiabilidad y la eficacia en el
 
 Logotipo: El logotipo de BookFlow está diseñado con una paleta de colores principal que destaca el vibrante y enérgico tono naranja. Este color encarna la pasión por la lectura, la creatividad y la vitalidad que BookFlow busca transmitir a sus usuarios. El logo representa la eficiencia, elegancia, la precisión y la tecnología avanzada que caracterizan a nuestra app
 
-![Logotipo](./imgs/logotipo.jpg)
+![Logotipo](./imgs/logo.jpg)
 
 Colores:
 
 ![Colores](./imgs/color1.jpg)
+
 Se ha utilizado el color naranja como color principal para el diseño de nuestro producto. 
 
 Naranja (#FFB74B): El color naranja se utiliza como color principal del logo, aportando vitalidad, energía y optimismo. Representa la creatividad y la innovación que caracterizan a BookFlow en su enfoque hacia soluciones tecnológicas avanzadas.
@@ -332,6 +333,7 @@ Naranja (#FFB74B): El color naranja se utiliza como color principal del logo, ap
 Tipografía:
 
 ![Tipografia](./imgs/text1.jpg)
+
 La tipografía de BookFlow es contemporánea y fácil de leer, con líneas nítidas y definidas. Se ha seleccionado una fuente que encapsula la esencia tecnológica y seria de la marca, al mismo tiempo que conserva un estilo actual y moderno.
 
 Tonos de Comunicación:
@@ -351,7 +353,9 @@ Se hizo uso de la fuente Bold con variantes en el tamaño:
 
 ![Texto](./imgs/text1.jpg)
 
+
 ![Texto](./imgs/text2.jpg)
+
 
 ![Texto](./imgs/text3.jpg)
     
