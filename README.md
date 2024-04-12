@@ -389,6 +389,15 @@ La Arquitectura de Software Orientada al Dominio (Domain-Driven Software Archite
 ![Software Architecture Context Diagram](imgs/SACD.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
+
+* Container Diagram elaborado para Lectores
+
+![Software Architecture Container Diagram Lectores](imgs/SACDLectores.png)
+
+* Container Diagram elaborado para Autores
+
+![Software Architecture Container Diagram Autores](imgs/SACDAutores.png)
+
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
