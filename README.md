@@ -386,6 +386,8 @@ La Arquitectura de Software Orientada al Dominio (Domain-Driven Software Archite
 
 ### 4.6.1. Software Architecture Context Diagram
 
+<img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/13e31a26-3935-4f99-8258-f3196bbd9813" alt="Software Architecture Context Diagram" style="width: 200px;">
+
 ![Software Architecture Context Diagram](imgs/SACD.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
