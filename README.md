@@ -25,7 +25,7 @@
         </tr>
         <tr>
             <td>Huamán Cataño, Miguel Ángel</td>
-            <td>Uxxxxxxxxx</td>
+            <td>U202120615</td>
         </tr>
         <tr>
             <td>La Torre Valle, Franz Jair</td>
@@ -55,7 +55,7 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 02/04/2024 |Todos los integrantes del equipo| Branch para caratula| 
+|TB1| 12/04/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II, Capítulo III,  Capítulo IV y Capítulo V| 
 <br>
 
 # Project Report Collaboration Insights
@@ -158,25 +158,56 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
     </tr>
     <tr>
         <td align="justify">
-            Participa en equipos multidiciplinados con eficacia eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.
+            2.c1. Diseñar soluciones en ingeniería de software (productos, procesos y/o servicios) que satisfagan necesidades específicas considerando el impacto en salud pública, seguridad, bienestar, así como 
+            factores globales, culturales, sociales, ambientales y económicos
+        </td>
+        <td align="justify" rowspan=2>
+            Huamán Cataño, Miguel Ángel<br>
+            <em>TB1:<br></em><br>
+            <br>La Torre Valle, Franz Jair<br>
+            <em>TB1:<br></em><br>
+            <br>Morales Calderón, Hernan Emilio<br>
+            <em>TB1:<br></em><br>
+            <br>Párraga Gamarra, Paolo Gonzalo<br>
+            <em>TB1:<br></em>Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up.<br>
+            <br>Rivadeneyra Ramos, Joaquin<br>
+            <em>TB1:<br></em>Lean UX Hypothesis statements, As-is Scenario Mapping., User Persona y Conclusiones.<br>
+            <br>Zárate Cáceres, Victor Ernesto <br>
+            <em>TB1:<br></em>Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.<br>
         </td>
         <td align="justify">
             Huamán Cataño, Miguel Ángel<br>
-            <em>TB1:<br></em>
+            <em>TB1:<br></em><br>
             <br>La Torre Valle, Franz Jair<br>
-            <em>TB1:<br></em>
+            <em>TB1:<br></em><br>
             <br>Morales Calderón, Hernan Emilio<br>
-            <em>TB1:<br></em>
+            <em>TB1:<br></em><br>
             <br>Párraga Gamarra, Paolo Gonzalo<br>
-            <em>TB1:<br></em>
+            <em>TB1:<br></em>Se diseñaron soluciones en base a la información dada por las historias de usuario. Además de las entrevistas.<br>
             <br>Rivadeneyra Ramos, Joaquin<br>
-            <em>TB1:<br></em>
+            <em>TB1:<br></em>En mi caso diseñe el Lean UX Hypothesis statements, en el cual pusimos nuestras hipótesis con sus estadísticas para nuestra app. Además, el as-is en base de los user persona y las conclusiones.<br>
             <br>Zárate Cáceres, Victor Ernesto <br>
-            <em>TB1:<br></em>
+            <em>TB1:<br></em>Se identificó la problemática para idear una posible solución que se adapte a ella. Con ello se pudieron identificar las clases que la conforman.<br>
+        </td>
+    </tr>
+    <tr>
+        <td align="justify">
+            2.c2. Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos.
         </td>
         <td align="justify">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ex sapien, mollis in orci ac, scelerisque mollis nisl. Curabitur finibus ac diam quis 
-            facilisis.
+            Huamán Cataño, Miguel Ángel<br>
+            <em>TB1:<br></em><br>
+            <br>La Torre Valle, Franz Jair<br>
+            <em>TB1:<br></em><br>
+            <br>Morales Calderón, Hernan Emilio<br>
+            <em>TB1:<br></em><br>
+            <br>Párraga Gamarra, Paolo Gonzalo<br>
+            <em>TB1:<br></em>La realización de cada apartado conllevó una investigación para el segmento objetivo así como analizar los datos brindados por las historias de usuario.<br>
+            <br>Rivadeneyra Ramos, Joaquin<br>
+            <em>TB1:<br></em>Para determinar este diseño de la solución se tuvieron que tomar en cuenta diversos factores globales como la problemática a solucionar para nuestros usuarios y gracias a los user persona pudimos 
+            validar que estábamos en lo correcto.<br>
+            <br>Zárate Cáceres, Victor Ernesto <br>
+            <em>TB1:<br></em>Se identificó el impacto que tendría la solución en la vida de los usuarios. Con ello, el proceso del diseño de la solución pudo organizarse por dificultad e importancia para orientarse a recibir mejoras continuas.<br>
         </td>
     </tr>
 </table>
