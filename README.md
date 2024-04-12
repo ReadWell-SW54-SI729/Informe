@@ -185,7 +185,8 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
             <br>Párraga Gamarra, Paolo Gonzalo<br>
             <em>TB1:<br></em>Se diseñaron soluciones en base a la información dada por las historias de usuario. Además de las entrevistas.<br>
             <br>Rivadeneyra Ramos, Joaquin<br>
-            <em>TB1:<br></em>En mi caso diseñe el Lean UX Hypothesis statements, en el cual pusimos nuestras hipótesis con sus estadísticas para nuestra app. Además, el as-is en base de los user persona y las conclusiones.<br>
+            <em>TB1:<br></em>En mi caso diseñe el Lean UX Hypothesis statements, en el cual pusimos nuestras hipótesis con sus estadísticas para nuestra app. Además, el as-is en base de los user persona y las 
+            conclusiones.<br>
             <br>Zárate Cáceres, Victor Ernesto <br>
             <em>TB1:<br></em>Se identificó la problemática para idear una posible solución que se adapte a ella. Con ello se pudieron identificar las clases que la conforman.<br>
         </td>
@@ -204,10 +205,11 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
             <br>Párraga Gamarra, Paolo Gonzalo<br>
             <em>TB1:<br></em>La realización de cada apartado conllevó una investigación para el segmento objetivo así como analizar los datos brindados por las historias de usuario.<br>
             <br>Rivadeneyra Ramos, Joaquin<br>
-            <em>TB1:<br></em>Para determinar este diseño de la solución se tuvieron que tomar en cuenta diversos factores globales como la problemática a solucionar para nuestros usuarios y gracias a los user persona pudimos 
-            validar que estábamos en lo correcto.<br>
+            <em>TB1:<br></em>Para determinar este diseño de la solución se tuvieron que tomar en cuenta diversos factores globales como la problemática a solucionar para nuestros usuarios y gracias a los user 
+            persona pudimos validar que estábamos en lo correcto.<br>
             <br>Zárate Cáceres, Victor Ernesto <br>
-            <em>TB1:<br></em>Se identificó el impacto que tendría la solución en la vida de los usuarios. Con ello, el proceso del diseño de la solución pudo organizarse por dificultad e importancia para orientarse a recibir mejoras continuas.<br>
+            <em>TB1:<br></em>Se identificó el impacto que tendría la solución en la vida de los usuarios. Con ello, el proceso del diseño de la solución pudo organizarse por dificultad e importancia para 
+            orientarse a recibir mejoras continuas.<br>
         </td>
     </tr>
 </table>
@@ -216,22 +218,21 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 <div align="justify">
-    ReadWell es una empresa emergente innovadora dedicada a fomentar y motivar los hábitos de lectura a través de tecnología de vanguardia. Nuestro enfoque se centra en conectar 
-    a autores, editores y lectores para crear una experiencia de lectura excepcionalmente atractiva y conveniente, Además, cuenta con funciones como recomendaciones 
-    personalizadas, clubes de lectura virtuales y eventos con autores. Ofrecemos una amplia gama de libros electrónicos, audiolibros y contenido exclusivo a través 
-    de nuestra suscripción premium y tienda integrada. Con un compromiso inquebrantable con la seguridad y la privacidad de los usuarios, nuestro producto BookFlow 
-    podrá redefinir el mundo de la lectura digital.<br>
+    ReadWell es una empresa emergente innovadora dedicada a fomentar y motivar los hábitos de lectura a través de tecnología de vanguardia. Nuestro enfoque se centra en conectar a autores, editores y lectores 
+    para crear una experiencia de lectura excepcionalmente atractiva y conveniente, Además, cuenta con funciones como recomendaciones personalizadas, clubes de lectura virtuales y eventos con autores. Ofrecemos
+    una amplia gama de libros electrónicos, audiolibros y contenido exclusivo a través de nuestra suscripción premium y tienda integrada. Con un compromiso inquebrantable con la seguridad y la privacidad de los 
+    usuarios, nuestro producto BookFlow podrá redefinir el mundo de la lectura digital.<br>
     <ul>
         <li>
             <b>Misión:</b>
         </li>
-        En ReadWell, nuestra misión es inspirar y enriquecer la vida de las personas a través de la lectura. Buscamos brindar acceso conveniente a una amplia variedad de 
-        contenidos literarios mientras apoyamos a autores emergentes y conectamos a los lectores con experiencias que enriquecen su amor por los libros.
+        En ReadWell, nuestra misión es inspirar y enriquecer la vida de las personas a través de la lectura. Buscamos brindar acceso conveniente a una amplia variedad de contenidos literarios mientras apoyamos a 
+        autores emergentes y conectamos a los lectores con experiencias que enriquecen su amor por los libros.
         <li>
             <b>Visión:</b>
         </li>
-        Aspiramos a ser la plataforma líder en lectura digital, proporcionando acceso a una amplia variedad de contenidos literarios de alta calidad. Queremos ser el destino 
-        preferido de los lectores para descubrir, compartir y disfrutar de historias que los transporten a mundos nuevos y emocionantes.
+        Aspiramos a ser la plataforma líder en lectura digital, proporcionando acceso a una amplia variedad de contenidos literarios de alta calidad. Queremos ser el destino preferido de los lectores para descubrir, 
+        compartir y disfrutar de historias que los transporten a mundos nuevos y emocionantes.
     </ul>
 </div>
 
@@ -239,14 +240,13 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 <div align="justify">
-    Según el INEI, el 91,3% de las personas mayores de 6 años tienen acceso a internet desde un dispositivo celular. Esto coincide con los datos que señalan que son el medio 
-    más utilizado para la lectura (82,7 %) seguido por los periódicos (63,4%), libros (47,3 %) y revistas (22,5%).<br>La ENL 2022 estima que el 47.3 % de los ciudadanos leyó, 
-    al menos, un libro en el transcurso del último año. A su vez, se estima que más del 90 % leyó en su casa o en privado, el 30.3 % en su centro de trabajo, y un 12.8 % en 
-    el transporte público. Finalmente, se menciona que, en nuestro país, la población adulta apenas lee 1.9 libros al año, cantidad bastante baja en comparación a los demás 
-    países de Latinoamérica. De estos libros, se estima que seguido del 31,1 % libros leídos corresponden a textos escolares o universitarios y el 68,5%, elegidos de acuerdo 
-    con el interés personal.<br>Las investigaciones revelan que la falta de interés en la lectura se debe a dos factores: la falta de tiempo y por desinterés. Según la ENL, 
-    para los medios físicos, el 80 % de la población señala la “falta de interés” como razón y solo el 7.4 % lo atribuye a cuestiones económicas. En el caso de los libros 
-    digitales, el 60 % aduce “falta de interés” y el 30 % indica que “jamás empleó el espacio virtual” y, un 68,3% menciona no leer ninguno de estos medios por falta de tiempo.
+    Según el INEI, el 91,3% de las personas mayores de 6 años tienen acceso a internet desde un dispositivo celular. Esto coincide con los datos que señalan que son el medio más utilizado para la lectura (82,7 %) 
+    seguido por los periódicos (63,4%), libros (47,3 %) y revistas (22,5%).<br>La ENL 2022 estima que el 47.3 % de los ciudadanos leyó, al menos, un libro en el transcurso del último año. A su vez, se estima que 
+    más del 90 % leyó en su casa o en privado, el 30.3 % en su centro de trabajo, y un 12.8 % en el transporte público. Finalmente, se menciona que, en nuestro país, la población adulta apenas lee 1.9 libros al año, 
+    cantidad bastante baja en comparación a los demás países de Latinoamérica. De estos libros, se estima que seguido del 31,1 % libros leídos corresponden a textos escolares o universitarios y el 68,5%, elegidos de 
+    acuerdo con el interés personal.<br>Las investigaciones revelan que la falta de interés en la lectura se debe a dos factores: la falta de tiempo y por desinterés. Según la ENL, para los medios físicos, el 80 % de 
+    la población señala la “falta de interés” como razón y solo el 7.4 % lo atribuye a cuestiones económicas. En el caso de los libros digitales, el 60 % aduce “falta de interés” y el 30 % indica que “jamás empleó el 
+    espacio virtual” y, un 68,3% menciona no leer ninguno de estos medios por falta de tiempo.
     <ul>
         <li>
             Who (Quién): La problemática involucra a las personas que día a día presentan inconvenientes, excusas o un total desinterés por la lectura voluntaria.
@@ -264,13 +264,13 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
             Why (Por qué): Se aborda esta problemática para facilitar el acceso a la información, mejorar la educación en el país y fomentar la lectura en todo el país
         </li>
         <li>
-            How (Cómo): La solución implica el desarrollo de una plataforma de lectura, en que los usuarios vean fomentados sus hábitos de lectura mediante el uso de tecnologías 
-            que facilitan el acceso, la distribución y la creación de contenidos. Para garantizar su sostenibilidad a largo plazo, se han establecido estrategias clave, como una 
-            suscripción premium que brindará a los usuarios acceso a contenido exclusivo, funciones avanzadas y una experiencia sin publicidad. 
+            How (Cómo): La solución implica el desarrollo de una plataforma de lectura, en que los usuarios vean fomentados sus hábitos de lectura mediante el uso de tecnologías que facilitan el acceso, la distribución 
+            y la creación de contenidos. Para garantizar su sostenibilidad a largo plazo, se han establecido estrategias clave, como una suscripción premium que brindará a los usuarios acceso a contenido exclusivo, 
+            funciones avanzadas y una experiencia sin publicidad. 
         </li>
         <li>
-            How Much (Cuánto): La solución afecta tanto de manera individual como de manera colectiva. Además, se establecerán acuerdos con editores y autores para ofrecer una 
-            amplia variedad de títulos a precios competitivos. Los ingresos generados por las ventas en la tienda contribuirán significativamente a la sostenibilidad financiera de la aplicación.
+            How Much (Cuánto): La solución afecta tanto de manera individual como de manera colectiva. Además, se establecerán acuerdos con editores y autores para ofrecer una amplia variedad de títulos a precios competitivos.
+            Los ingresos generados por las ventas en la tienda contribuirán significativamente a la sostenibilidad financiera de la aplicación.
         </li>
     </ul>
 </div>
@@ -284,18 +284,147 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 Algunos de los competidores a los que BookFlow podría enfrentarse son:
+<ul>
+    <li>
+        <b>Goodreads: </b>Plataforma líder en la recomendación de libros, donde los usuarios pueden descubrir nuevos títulos, llevar un registro de los libros que han leído y conectarse con otros lectores. Ofrece funciones como 
+        reseñas de libros, listas de lectura y grupos de discusión.
+    </li>
+    <li>
+        <b>Scribd: </b>Plataforma de suscripción que ofrece acceso a una amplia variedad de libros electrónicos, audiolibros, revistas y documentos. Los usuarios pagan una tarifa mensual para acceder a contenido ilimitado, lo que
+        les permite explorar de una amplia gama de material de lectura.
+    </li>
+    <li>
+        <b>Audible: </b>Plataforma de audiolibros propiedad de Amazon, que ofrece una amplia selección de audiolibros narrados por profesionales. Los usuarios pueden comprar audiolibros individualmente o suscribirse a un plan 
+        mensual. También ofrece contenido exclusivo y original.
+    </li>
+</ul>
 
-* **Goodreads:** Plataforma líder en la recomendación de libros, donde los usuarios pueden descubrir nuevos títulos, llevar un registro de los libros que han leído y conectarse con otros lectores. Ofrece funciones como reseñas de libros, listas de lectura y grupos de discusión.
-
-* **Scribd:** Plataforma de suscripción que ofrece acceso a una amplia variedad de libros electrónicos, audiolibros, revistas y documentos. Los usuarios pagan una tarifa mensual para acceder a contenido ilimitado, lo que les permite explorar de una amplia gama de material de lectura.
-
-* **Audible:** Plataforma de audiolibros propiedad de Amazon, que ofrece una amplia selección de audiolibros narrados por profesionales. Los usuarios pueden comprar audiolibros individualmente o suscribirse a un plan mensual. También ofrece contenido exclusivo y original.
 ### 2.1.1. Análisis competitivo
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
+#### 2.2.2.1 Lectores:
+<div align="justify">
+    <ul>
+        <li>Entrevista 1: Joseph Huammani</li>
+        <ul>
+            <li>Sexo: Masculino</li>
+            <li>Edad: 23 años</li>
+            <li>Distrito en el que vive: Surquillo</li>
+            <li>Nivel socioeconómico: Clase B</li>
+        </ul>
+        Entrevista:
+        <ul>
+            <li>Link: https://youtu.be/44kOELBy0ZU</li>
+            <li>Momento en el que inicia: 0:00</li>
+            <li>Duración: 4:20</li>
+        </ul>
+        Resumen:<br>
+        El entrevistado, Joseph Huammani, de 23 años, expresó su preferencia por la novela y la ciencia ficción como género literario favorito. Además, dice que su mayor desafío a la hora de encontrar tiempo para leer es equilibrar
+        sus muchas responsabilidades diarias. Enfatizó que historias interesantes, personajes bien desarrollados y giros argumentales consistentemente atractivos son los factores que lo motivan a continuar leyendo los libros. Además,
+        aprecian funciones como la interfaz intuitiva, las recomendaciones personalizadas y el seguimiento del tiempo de lectura semanal en la aplicación de lectura. Además, también expresó interés en encontrar reseñas de libros, 
+        recomendaciones de otros lectores y entrevistas a autores en la aplicación, y expresó su deseo de interactuar con otros lectores de otras audiencias a través de clubes de lectura virtuales y debates en línea. Para él, la
+        seguridad y privacidad de los datos personales son importantes y considera que estrategias como establecer objetivos de lectura, programar momentos específicos para leer y llevar un diario de lectura serán útiles para mantener 
+        un hábito de lectura constante. Prefiere comprar libros electrónicos o audiolibros en línea debido a descuentos, ofertas especiales y amplia gama de títulos. Joseph afirmó que dejaría de leer libros si la trama se volviera 
+        aburrida o los personajes no estuvieran bien desarrollados. Como usuario leal de la aplicación, espera descuentos en compras futuras y acceso a contenido exclusivo, desea que la aplicación le recomiende libros según sus intereses
+        anteriores y le permita descubrir nuevos géneros y autores.<br>
+        <li>Entrevista 2: Anthony Tarrillo</li>
+        <ul>
+            <li>Sexo: Masculino</li>
+            <li>Edad: 20 años</li>
+            <li>Distrito en el que vive: San Martín de Porres</li>
+            <li>Nivel socioeconómico: Clase B</li>
+        </ul>
+        Entrevista:
+        <ul>
+            <li>Link: https://drive.google.com/file/d/1DZM0FRAuKecq_ddy_g6qRVobYHKop5wo/view?usp=sharing</li>
+            <li>Momento en el que inicia: 0:00</li>
+            <li>Duración: 6:09</li>
+        </ul>
+        Resumen:<br>
+        El entrevistado en esta ocasión es Anthony Tarrillo de unos 20 años que nos cuenta que tiene problemas al momento de hacer su tesis, ya que no está acostumbrado a textos tan densos y aburridos. Por otro lado, el desea desarrollar
+        un hábito por la lectura para dejar de lado sus problemas de lectura. Su mayor desafío a la hora de leer son textos muy largos que no llegan a ningún punto, eso lo desanima a seguir leyendo, dejándolo de lado. Enfatizó en sus gustos
+        por el drama y la ciencia ficción, así como los personajes bien desarrollados. Así mismo, para Anthony el aplicativo debería tener las medidas de seguridad estándar como la verificación de dos pasos, contraseña segura, etc.<br>
+        <li>Entrevista 3:</li>
+          <ul>
+            <li>Sexo: ino</li>
+            <li>Edad: años</li>
+            <li>Distrito en el que vive: </li>
+            <li>Nivel socioeconómico: Clase </li>
+        </ul>
+        Entrevista:
+        <ul>
+            <li>Link: </li>
+            <li>Momento en el que inicia: 0:00</li>
+            <li>Duración: </li>
+        </ul>
+        Resumen:<br>
+        <br>
+    </ul>
+</div>
+
+#### 2.2.2.2 Autores:
+<div align="justify">
+    <ul>
+        <li>Entrevista 1: Aleshka Fernandez</li>
+         <ul>
+            <li>Sexo: Femenino</li>
+            <li>Edad: 24 años</li>
+            <li>Distrito en el que vive: San Borja</li>
+            <li>Nivel socioeconómico: Clase B</li>
+        </ul>
+        Entrevista:
+        <ul>
+            <li>Link: https://youtu.be/V8NYPikl5B8</li>
+            <li>Momento en el que inicia: 0:00</li>
+            <li>Duración: 10:45</li>
+        </ul>
+        Resumen:<br>
+        Entrevistamos a Aleshka Fernández, de 24 años, quien se siente atraída principalmente por los géneros de fantasía y terror. Aleshka menciona que suele utilizar Google Docs para escribir y prefiere no tener distracciones digitales
+        ni acceder a redes sociales durante ese tiempo. Destaca la importancia de la lectura para ampliar su vocabulario y encontrar referencias para sus personajes. Comenzó su trayectoria en Wattpad y luego llevó algunos de sus cuentos
+        cortos a Webtoon. Para promocionar sus historias, utiliza Twitter e Instagram. Además, ha participado en talleres de autores, los cuales le resultaron muy útiles para conocer la experiencia de otros escritores y superar bloqueos
+        creativos. Una de sus mayores dificultades es mantenerse relevante en el medio, ya que requiere mucha creatividad. Sus consejos para los aspirantes son leer mucho, buscar referentes y nutrirse de información sobre los temas que
+        desean abordar. Considera que una aplicación útil debería tener una buena recepción de archivos, un espacio para publicar borradores, un foro de interacción y actividades recurrentes como charlas para discutir trabajos destacados.
+        Espera que la aplicación le ayude a divulgar su trabajo, impulse a escritores nuevos, ofrezca sugerencias de búsqueda y brinde recomendaciones constantes.<br>
+        <li>Entrevista 2:</li>
+         <ul>
+            <li>Sexo: ino</li>
+            <li>Edad: años</li>
+            <li>Distrito en el que vive: </li>
+            <li>Nivel socioeconómico: Clase </li>
+        </ul>
+        Entrevista:
+        <ul>
+            <li>Link: </li>
+            <li>Momento en el que inicia: 0:00</li>
+            <li>Duración: </li>
+        </ul>
+        Resumen:<br>
+        <br>
+        <li>Entrevista 3:</li>
+         <ul>
+            <li>Sexo: ino</li>
+            <li>Edad: años</li>
+            <li>Distrito en el que vive: </li>
+            <li>Nivel socioeconómico: Clase </li>
+        </ul>
+        Entrevista:
+        <ul>
+            <li>Link: </li>
+            <li>Momento en el que inicia: 0:00</li>
+            <li>Duración: </li>
+        </ul>
+        Resumen:<br>
+        <br>
+    </ul>
+</div>
+
 ### 2.2.3. Análisis de entrevistas
+#### 2.2.3.1 Lectores:
+
+#### 2.2.3.2 Autores:
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
@@ -605,8 +734,8 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 <div align="justify">
-    El desarrollo de este primer Sprint incluyo únicamente el diseño de la Landing Page. Dicha página fue creada con html estático de manera preliminar, unido todo en archivos conjuntos subidos simultáneamente.
-    Por ello, al no contar con un back-end, no fue contemplada la evidencia de documentación de los servicios.
+    El desarrollo de este primer Sprint incluyo únicamente el diseño de la Landing Page. Dicha página fue creada con html estático de manera preliminar, unido todo en archivos conjuntos subidos simultáneamente. Por ello, al no contar con
+    un back-end, no fue contemplada la evidencia de documentación de los servicios.
 </div>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
