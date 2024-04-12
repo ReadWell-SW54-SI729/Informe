@@ -360,8 +360,8 @@ Tonos de Comunicación:
 Fuentes:
 Se hizo uso de la fuente Bold con variantes en el tamaño:
 
-![Texto](./imgs/text1.jpg)
 ![Texto](./imgs/text2.jpg)
+
 ![Texto](./imgs/text3.jpg)
     
 Para títulos se usó: 40px
