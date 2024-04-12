@@ -274,6 +274,15 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+
+Segmento Objetivo #1: Lectores
+
+![To-Be](./imgs/tobe1.jpg)
+
+Segmento Objetivo #2: Autores
+
+![To-Be](./imgs/tobe2.jpg)
+
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
 <img src="imgs/impact.png" alt="Impact Map - Lector">
