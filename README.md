@@ -25,7 +25,7 @@
         </tr>
         <tr>
             <td>Huamán Cataño, Miguel Ángel</td>
-            <td>Uxxxxxxxxx</td>
+            <td>U202120615</td>
         </tr>
         <tr>
             <td>La Torre Valle, Franz Jair</td>
@@ -369,6 +369,84 @@ Segmento Objetivo 2: Autores
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
+
+En este segmento, expondremos los User Flows, ilustrando tanto las trayectorias happy como las unhappy que los usuarios podrían experimentar al interactuar con la plataforma en línea. Es importante destacar que las rutas exitosas se señalan con flechas verdes, mientras que las desfavorables se indican mediante flechas rojas.
+
+**User Goal:** Realizar la compra de un libro
+
+**Task Flow:**
+- Primero el usuario debe estar en la sección “Catálogo”
+- Navega por las diferentes categorías de libros o utiliza la función de búsqueda y selecciona el libro que le interese
+- Se mostrará información del libro, su precio y valoraciones
+- El usuario presiona el botón de comprar
+- El usuario puede seleccionar el método de pago y confirmar la compra, o cancelarla
+
+![userflow1](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/95f78d0c-68d4-430a-b530-cf1d4187bde5)
+
+![userflow1-mobile](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/7ea7f664-32ed-4a8f-8070-b7fb15a5172c)
+
+---
+
+
+**User Goal:** Leer un libro comprado
+
+**Task Flow:**
+- Primero el usuario debe estar en la pantalla de Inicio, dirigirse a su perfil y seleccionar la opción “Mi biblioteca”
+- En la siguiente pantalla se mostrarán los libros comprados por el usuario
+- El usuario selecciona el libro que desee leer
+- Si el usuario no desea leer, puede retroceder a la pantalla de Inicio
+
+![userflow2](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/ab3a96a2-d29a-4ab9-b25c-112c7c76c05a)
+
+![userflow2-mobile](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/bdf977ba-150b-41d5-bf9b-8d33a27f90ae)
+
+---
+
+
+**User Goal:** Ver valoraciones de los libros leídos
+ 
+**Task Flow:**
+- Primero el usuario debe estar en la sección “Catalogo”
+- Navega por las diferentes categorías de libros o utiliza la función de búsqueda y selecciona el libro que le interese
+- Se mostrará información del libro, su precio, comentarios y valoraciones
+- El usuario presiona el botón de “Ver valoraciones”
+- El usuario puede ver las valoraciones o retroceder a la pantalla de Inicio
+
+![userflow3](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/53ef7351-03ac-413e-8347-7d76fbb69221)
+
+![userflow3-mobile](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/47861394-0d96-49ad-b657-128745f7c656)
+
+---
+
+
+**User Goal:** Publicar un libro para la venta
+ 
+**Task Flow:**
+- Primero el usuario debe estar en la pantalla de Inicio, dirigirse a su perfil y seleccionar la opción “Agregar libro a la venta”
+- Completa los detalles del libro (título, sinopsis, categoría, portada) y establece el precio y los métodos de pago.
+- Si el usuario no desea publicar el libro seleccionar el botón de “Cancelar”
+
+![userflow4](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/3cf820f3-33df-4b59-bfdb-1e4e745ecd1f)
+
+![userflow4-mobile](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/67c091f3-7228-4e11-b34b-b3fbc6dc500f)
+
+---
+
+
+**User Goal:** Gestionar los libros publicados
+ 
+**Task Flow:**
+- Primero el usuario debe estar en la pantalla de Inicio, dirigirse a su perfil y seleccionar la opción “Libros publicados”
+- Selecciona el libro que desee y elige la opción de editar
+- El usuario edita la información o precio del libro
+- Si el usuario desea puede guardar los cambios o seleccionar el botón de “Cancelar”
+
+![userflow5](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/d29511e0-f271-4f3c-bf88-2d953fce1656)
+
+![userflow5-mobile](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/75632739-2622-411f-a413-f3d7b82d43f4)
+
+---
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
