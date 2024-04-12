@@ -554,7 +554,30 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 #### 5.2.1.3. Development Evidence for Sprint Review
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
+<div align="justify">
+    En el sprint 1 se diseñó de manera preliminar el primer modelo de la landing page. Esta cuenta con diferentes secciones para acceso de los usuarios. Algunas evidencias son:
+    <ul>
+        <li>
+            <b>Inicio de sesión: </b>En esta sección el usuario crea una nueva cuenta o ingresa a una ya existente.
+        </li>
+        <img src="imgs/inicioSesion.png" alt="Ventana de Inicio de Sesion">
+        <li>
+            <b>Catálogo: </b>El corazón de todo. Permite realizar la búsqueda de material de lectura usando distintos filtros.
+        </li>
+        <img src="imgs/catalogo.png" alt="Ventana de Catalogo">
+        <li>
+            <b>Contáctanos:</b> En esta sección se le da la oprtunidad al usuario de comunicarse con nosotros, ya sea por ayuda o para informar de algún error.
+        </li>
+        <img src="imgs/contactanos.png" alt="Ventana de Contactanos">
+    </ul>
+</div>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+<div align="justify">
+    El desarrollo de este primer Sprint incluyo únicamente el diseño de la Landing Page. Dicha página fue creada con html estático de manera preliminar, unido todo en archivos conjuntos subidos simultáneamente.
+    Por ello, al no contar con un back-end, no fue contemplada la evidencia de documentación de los servicios.
+</div>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 # Conclusiones
