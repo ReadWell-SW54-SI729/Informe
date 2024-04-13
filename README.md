@@ -290,7 +290,9 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 Autores:
 Entrevistado #3: 
 
-Gabriel Duran
+![entrevista-autor3](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/5765b9b9-3fa3-4547-a713-822149be625d)
+
+Nombre: Gabriel Duran
 
 ●	Sexo: Masculino
 
