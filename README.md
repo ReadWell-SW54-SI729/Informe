@@ -734,59 +734,13 @@ Resumen:
 El entrevistado en esta ocasión es Anthony Tarrillo de unos 20 años que nos cuenta que tiene problemas al momento de hacer su tesis, ya que no está acostumbrado a textos tan densos y aburridos. Por otro lado, el desea desarrollar un hábito por la lectura para dejar de lado sus problemas de lectura. Su mayor desafío a la hora de leer son textos muy largos que no llegan a ningún punto, eso lo desanima a seguir leyendo, dejándolo de lado. Enfatizó en sus gustos por el drama y la ciencia ficción, así como los personajes bien desarrollados. Así mismo, para Anthony el aplicativo debería tener las medidas de seguridad estándar como la verificación de dos pasos, contraseña segura, etc.
 
 
-Entrevistado N°2: Piero Delgado
 
-
-  ![Entrevista](./imgs/entrevista1.jpg)
-
-
-•	Nombre: Piero Delgado
-
-•	Edad: 20
-
-•	Sexo: Masculino
-
-•	Residencia: Surco
-
-Entrevista:
-
-•	Link: [text](https://drive.google.com/file/d/1JR1mC21Be3IDkKMS_f5xYmoVWu9Z1rKg/view?usp=sharing)
-
-•	Momento en el que inicia: 0:02
-
-•	Duración: 6:10
-
-Resumen:
-
-Piero Delgado, un joven de 20 años, revela sus preferencias literarias que incluyen ficción contemporánea, ciencia ficción y literatura histórica. Destaca el desafío de encontrar tiempo para leer, buscando equilibrio entre sus responsabilidades laborales y personales. Piero se motiva a terminar un libro cuando la trama es intrigante y los personajes son complejos. En cuanto a aplicaciones de lectura, valora la sincronización entre dispositivos, las recomendaciones personalizadas y la posibilidad de interactuar con otros lectores. Además, destaca la importancia de la privacidad de datos al usar estas aplicaciones y sugiere que estrategias como establecer metas de lectura ayudan a mantener un hábito constante. Piero espera obtener descuentos en libros y acceso anticipado a nuevos lanzamientos como recompensas por su fidelidad, y desea que la aplicación le ayude a descubrir nuevos títulos a través de recomendaciones personalizadas y muestras gratuitas.
 ### 2.2.3. Análisis de entrevistas
 #### 2.2.3.1 Lectores:
-Necesidad de Comunidad Literaria: Los lectores expresaron un fuerte deseo de pertenecer a una comunidad donde puedan discutir libros, compartir experiencias y descubrir nuevas lecturas.
 
-Interacción con Autores y Eventos: Algunos lectores expresaron interés en participar en eventos virtuales con autores, como sesiones de preguntas y respuestas, charlas o lanzamientos de libros.
-
-Personalización y Preferencias: La posibilidad de personalizar perfiles, recibir recomendaciones basadas en gustos personales y ajustar las notificaciones según las preferencias de lectura fue resaltada por varios usuarios.
-
-Compartir Experiencias y Recomendaciones: Hubo un interés significativo en la opción de compartir reseñas, recomendaciones y experiencias de lectura con amigos y la comunidad en general.
-
-Eventos con Autores: La posibilidad de asistir a eventos virtuales con autores, recibir notificaciones sobre nuevos lanzamientos y participar en sesiones interactivas fue altamente solicitada.
 
 #### 2.2.3.2 Autores:
-Promoción y Interacción con Lectores: Los autores expresaron interés en una plataforma que les permita interactuar con lectores, promocionar sus libros y participar en eventos virtuales.
 
-Feedback y Comentarios de Lectores: La posibilidad de recibir feedback directo de lectores, comentarios y reseñas sobre sus obras fue destacada como una forma valiosa de mejora continua.
-
-Visibilidad y Descubrimiento: Los autores desean una plataforma que les brinde visibilidad, especialmente a autores emergentes, y facilite el descubrimiento de sus obras entre los lectores interesados.
-
-Interacción con Clubes de Lectura:Algunos autores expresaron interés en participar en clubes de lectura virtuales para discutir sus libros con lectores y obtener una comprensión más profunda de sus reacciones.
-
-Seguridad y Análisis de Datos: Brindarles la mayor seguridad de su información y análisis de datos sobre el rendimiento de sus libros en la plataforma.
-
-Datos Estadísticos 
-
-![Estadistica](./imgs/datos.jpg)
-
-Estadísticas de ataques a la privacidad de datos a usuarios a nivel mundial en el último año. Kolesnikov, N. 2024. Estadísticas clave de Ciberseguirdad. Techopedia. https://www.techopedia.com/es/estadisticas-ciberseguridad
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
