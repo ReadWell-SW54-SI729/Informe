@@ -269,14 +269,21 @@ Entrevistado N°2: Piero Delgado
 
   ![Entrevista](./imgs/entrevista1.jpg)
 
-•	Nombre: Piero Delgado
-•	Edad: 20
-•	Sexo: Masculino
-•	Residencia: Surco
+Nombre: Piero Delgado
+
+Edad: 20
+
+Sexo: Masculino
+
+Residencia: Surco
+
 Entrevista:
-•	Link: [text](https://drive.google.com/file/d/1JR1mC21Be3IDkKMS_f5xYmoVWu9Z1rKg/view?usp=sharing)
-•	Momento en el que inicia: 0:02
-•	Duración: 6:10
+
+Link: [text](https://drive.google.com/file/d/1JR1mC21Be3IDkKMS_f5xYmoVWu9Z1rKg/view?usp=sharing)
+
+Momento en el que inicia: 0:02
+
+Duración: 6:10
 
 Resumen:
 
@@ -365,7 +372,7 @@ Segmento Objetivo #2: Autores
 | US26          | Recomendar Libros a Grupos de Amigos | Como usuario, quiero tener la opción de recomendar libros a grupos de amigos específicos en BookFlow para compartir mis lecturas favoritas. | **Escenario 1:**<br/>Dado: Leo un libro que sé que a un grupo de amigos les encantará.<br/>Cuando: Accedo al libro en BookFlow.<br/>Entonces: Puedo seleccionar la opción de "Recomendar a Grupo" y elegir el grupo destinatario.<br/><br/>**Escenario 2:**<br/>Dado: Un amigo me envía una recomendación de libro en un grupo.<br/>Cuando: Hago clic en el enlace de la recomendación.<br/>Entonces: Se abre la página del libro en BookFlow y puedo agregarlo a mi lista de lectura. | EP06                |
 | US27          | Visualizar una sección Sobre Nosotros | Como usuario curioso de BookFlow, deseo encontrar una sección dedicada a conocer más sobre la plataforma, su misión, valores y el equipo detrás de ella. | **Escenario 1:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Exploro la página.<br/>Entonces:<br/>Encuentro una descripción clara de la misión y visión de BookFlow.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Navego más en profundidad.<br/>Entonces:<br/>Encuentro la historia detrás de la creación de BookFlow, incluyendo eventos significativos y logros<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Exploro la página buscando más detalles sobre el equipo.<br/>Entonces:<br/>Encuentro perfiles detallados de los miembros del equipo, incluyendo sus roles y responsabilidades. | EP06                |
 | US28          | Visualizar una sección de catálogo   | Como usuario de BookFlow, quiero poder explorar fácilmente el extenso catálogo de libros disponibles en la plataforma, organizados de manera clara y con opciones de búsqueda y filtrado. | **Escenario 1:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Navego por las categorías disponibles, como "Ficción", "No Ficción", "Misterio", etc.<br/>Entonces:<br/>Encuentro una variedad de categorías que me permiten explorar diferentes géneros.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Utilizo la barra de búsqueda para buscar un libro específico o autor.<br/>Entonces:<br/>El sistema me muestra resultados relevantes mientras escribo, facilitando la búsqueda.<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Quiero filtrar los resultados por cosas como "Nuevos Lanzamientos", "Más Descargados", etc.<br/>Entonces:<br/>Encuentro opciones de filtrado que me permiten encontrar rápidamente los libros más relevantes para mí. | EP06                |
-| US29          | Visualizar una sección de Preguntas Frecuentes | Como usuario de BookFlow, deseo tener acceso a una sección de Preguntas Frecuentes (FAQ) para obtener respuestas rápidas a las consultas comunes sobre la plataforma. | **Escenario 1:**<br/>Dado: Estoy en la sección de Preguntas Frecuentes de BookFlow.<br/>Cuando: Tengo una pregunta sobre cómo funcionan los clubes de lectura.<br/>Entonces:<br/>Encuentro una respuesta clara y detallada que explica el proceso de unirse a un club y participar en las discusiones.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección de Preguntas Frecuentes de BookFlow.<br/>Cuando: Tengo una pregunta sobre cómo cambiar mi contraseña.<br/>Entonces:<br/>Encuentro instrucciones paso a paso sobre cómo modificar mi contraseña de manera segura. | EP06                |
+| US29          | Visualizar contenido relevante | Como usuario de BookFlow, quiero encontrar contenido relevante, como artículos, reseñas de libros, entrevistas a autores y recomendaciones, para enriquecer mi experiencia de lectura y descubrir nuevos títulos. | **Escenario 1: Artículos Destacados:** <br> Dado: Estoy en la sección de contenido de BookFlow. <br> Cuando: Exploro la página. <br> Entonces: Encuentro artículos destacados sobre temas literarios, autores o tendencias actuales. <br> **Escenario 2: Reseñas y Recomendaciones:** <br> Dado: Estoy en la sección de contenido de BookFlow. <br> Cuando: Navego por las reseñas y recomendaciones. <br> Entonces: Encuentro reseñas detalladas de libros populares, con puntuaciones y comentarios de otros usuarios. | EP06               |
 | US30          | Visualizar una sección de Contacto   | Como usuario de BookFlow, deseo tener acceso a una sección de Contacto donde pueda encontrar información para comunicarme con el equipo de soporte en caso de tener preguntas o problemas. | **Escenario 1:**<br/>Dado: Estoy en la sección de Contacto de BookFlow.<br/>Cuando: Quiero enviar un mensaje al equipo de soporte.<br/>Entonces:<br/>Encuentro un formulario de contacto donde puedo ingresar mi consulta y recibir una respuesta por correo electrónico.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección de Contacto de BookFlow.<br/>Cuando: Tengo una pregunta urgente y prefiero llamar.<br/>Entonces:<br/>Encuentro un número de teléfono de atención al cliente claramente visible para comunicarme de inmediato. | EP06                |
 | US31          | Despliegue de la landing page | Como miembro del equipo de desarrollo de BookFlow, quiero desplegar la landing page inicial como una startup para atraer a nuevos usuarios. | **Escenario 1: Diseño Moderno y Atractivo:** <br> Dado: Estamos listos para desplegar la landing page como una startup. <br> Cuando: Los diseñadores finalizan el diseño con una estética moderna y atractiva. <br> Entonces: La landing page presenta un diseño innovador que refleja la naturaleza tecnológica de BookFlow. <br> **Escenario 2: Mensaje Claro y Conciso:** <br> Dado: Estamos preparando el contenido para la landing page. <br> Cuando: Se redactan los mensajes principales que comunicarán la propuesta de valor de BookFlow. <br> Entonces: El mensaje principal de la landing page es claro, conciso y orientado a los beneficios para el usuario. <br> **Escenario 3: Lanzamiento Exitoso:** <br> Dado: Todo está listo y probado para el lanzamiento. <br> Cuando: La landing page se despliega en el dominio principal de BookFlow. <br> Entonces: La landing page está accesible públicamente en el dominio principal de BookFlow. | EP06               |
 
