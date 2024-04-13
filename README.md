@@ -300,10 +300,11 @@ Tengo 20 años y estudió Ingeniería de Software. Me considero una persona resp
 ### 1.2.1 Antecedentes y problemática
 <div align="justify">
     Según el INEI, el 91,3% de las personas mayores de 6 años tienen acceso a internet desde un dispositivo celular. Esto coincide con los datos que señalan que son el medio más utilizado para la lectura (82,7 %) 
-    seguido por los periódicos (63,4%), libros (47,3 %) y revistas (22,5%).<br>La ENL 2022 estima que el 47.3 % de los ciudadanos leyó, al menos, un libro en el transcurso del último año. A su vez, se estima que 
+    seguido por los periódicos (63,4%), libros (47,3 %) y revistas (22,5%).(Ministerio de Cultura, 2022)<br>La ENL 2022 estima que el 47.3 % de los ciudadanos leyó, al menos, un libro en el transcurso del último año. 
+    A su vez, se estima que 
     más del 90 % leyó en su casa o en privado, el 30.3 % en su centro de trabajo, y un 12.8 % en el transporte público. Finalmente, se menciona que, en nuestro país, la población adulta apenas lee 1.9 libros al año, 
     cantidad bastante baja en comparación a los demás países de Latinoamérica. De estos libros, se estima que seguido del 31,1 % libros leídos corresponden a textos escolares o universitarios y el 68,5%, elegidos de 
-    acuerdo con el interés personal.<br>Las investigaciones revelan que la falta de interés en la lectura se debe a dos factores: la falta de tiempo y por desinterés. Según la ENL, para los medios físicos, el 80 % de 
+    acuerdo con el interés personal.<br>Segun Morales & Ramirez (2023), la falta de interés en la lectura se debe a dos factores: la falta de tiempo y por desinterés. Según la ENL, para los medios físicos, el 80 % de 
     la población señala la “falta de interés” como razón y solo el 7.4 % lo atribuye a cuestiones económicas. En el caso de los libros digitales, el 60 % aduce “falta de interés” y el 30 % indica que “jamás empleó el 
     espacio virtual” y, un 68,3% menciona no leer ninguno de estos medios por falta de tiempo.
     <ul>
@@ -2298,7 +2299,12 @@ Durante el Sprint actual, nos propusimos abordar las diferentes secciones de la 
 
 # Conclusiones
 # Bibliografía
+<div align="justify">
+    <ul>
+        <li>Ministerio de Cultura. (2023). <em>En Perú se leen más contenidos digitales, según Encuesta Nacional de Lectura 2022.</em> Recuperado de: &ensp; https://www.gob.pe/institucion/cultura/noticias/750918-en-peru-se-leen-mas-contenidos-digitales-segun-encuesta-nacional-de-lectura-2022 [Consulta: 01 de abril de 2024]</li>
+        <li>Morales, H., & Ramírez, S. (2023). <em>Una mirada al hábito lector en el Perú.</em> Recuperado de: https://saladeprensa.uss.edu.pe/Sala-Prensa-Una-mirada-al-h%C3%A1bito-lector-en-el-Per%C3%BA- [Consulta: 01 de abril de 2024]</li>
+    </ul>
+</div>
+
 # Anexos
-
-
 [def]: SoftwareArchitectureContextDiagram.png
