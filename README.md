@@ -447,35 +447,34 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 <img src="imgs/impact_autor.png" alt="Impact Map - Autor">
 
 ## 3.4. Product Backlog
-|    ID   |User Story|Story Points|Priority| 
-|:-------:|:----------|:-----:|:----------------------------:| 
-|US-01|Descubrimiento de la Aplicación|1|Alta|
-|US-02|Exploración de la Biblioteca|3|Alta|
-|US-03|Recomendaciones Personalizadas|5|Alta|
-|US-04|Actualizar perfil|1|Media|
-|US-05|Cuenta de respaldo|5|Alta|
-|US-06|Unirse a un Club de Lectura Virtual|3|Baja|
-|US-07|Asistir a Eventos con Autores|3|Baja|
-|US-08|Compartir Experiencias en Redes Sociales|5|Media|
-|US-09|Configurar Perfil y Preferencias|3|Alta|
-|US-10|Leer Libros Electrónicos|3|Alta|
-|US-11|Escuchar Audiolibros|2|Alta|
-|US-12|Actualizar a Suscripción Premium|2|Media|
-|US-13|Crear Lista de Lectura|3|Baja|
-|US-14|Seguir a Autores Favoritos|3|Alta|
-|US-15|Explorar Libros Populares|3|Alta|
-|US-16|Copias de seguridad automática|5|Alta|
-|US-17|Recibir Recomendaciones de Amigos|2|Media|
-|US-18|Configurar Recordatorios de Lectura|2|Media|
-|US-19|Actualizaciones de seguridad regulares|8|Alta|
-|US-20|Explorar Libros por Temáticas|1|Alta|
-|US-21|Obtener Resúmenes de Libros|2|Media|
-|US-22|Notificaciones de Eventos de Autores Favoritos|3|Media|
-|US-23|Realizar Comentarios y Discusiones en Libros|2|Alta|
-|US-24|Crear Club de Lectura Privado|5|Baja|
-|US-25|Configurar Modo Nocturno|3|Baja|
-|US-26|Recomendar Libros a Grupos de Amigos|3|Media|
-|US-27|Descubrir Libros por Ambientación|1|Alta|
+| #Orden |   ID   | User Story | Story Points |
+|:------|:------|:----------|:--------------|
+|01|US-01|Descubrimiento de la Aplicación|1|
+|02|US-09|Configurar Perfil y Preferencias|3|
+|03|US-10|Leer Libros Electrónicos|3|
+|04|US-11|Escuchar Audiolibros|2|
+|05|US-03|Recomendaciones Personalizadas|5|
+|06|US-02|Exploración de la Biblioteca|3|
+|07|US-15|Explorar Libros Populares|3|
+|08|US-20|Explorar Libros por Temáticas|1|
+|09|US-27|Descubrir Libros por Ambientación|1|
+|10|US-23|Realizar Comentarios y Discusiones en Libros|2|
+|11|US-14|Seguir a Autores Favoritos|3|
+|12|US-05|Cuenta de respaldo|5|
+|13|US-16|Copias de seguridad automática|5|
+|14|US-04|Actualizar perfil|1|
+|15|US-21|Obtener Resúmenes de Libros|2|
+|16|US-18|Configurar Recordatorios de Lectura|2|
+|17|US-12|Actualizar a Suscripción Premium|2|
+|18|US-17|Recibir Recomendaciones de Amigos|2|
+|19|US-26|Recomendar Libros a Grupos de Amigos|3|
+|20|US-08|Compartir Experiencias en Redes Sociales|5|
+|21|US-13|Crear Lista de Lectura|3|
+|22|US-06|Unirse a un Club de Lectura Virtual|3|
+|23|US-24|Crear Club de Lectura Privado|5|
+|24|US-07|Asistir a Eventos con Autores|3|
+|25|US-22|Notificaciones de Eventos de Autores Favoritos|3|
+|26|US-25|Configurar Modo Nocturno|3|
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
