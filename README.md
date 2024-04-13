@@ -347,6 +347,107 @@ Tengo 20 años y estudió Ingeniería de Software. Me considero una persona resp
 * Notamos que existen numerosas opciones de lectura digital disponibles, muchos lectores encuentran frustrante la falta de interacción y comunidad en torno a su experiencia de lectura. ¿Cómo podemos mejorar la participación y el compromiso de los lectores mediante la creación de una plataforma que facilite la formación de clubes de lectura virtuales, eventos con autores y discusiones en línea, todo mientras garantizamos la seguridad y privacidad de los usuarios?
 
 #### 1.2.2.2. Lean UX Assumptions.
+<b>Business Assumptions:</b>
+<div align="justify">
+    <ul>
+        <li>
+            Existe una necesidad en el mercado para una plataforma que fomente y motive los hábitos de lectura entre la población, lo que respalda la demanda de una plataforma como BookFlow.
+        </li>
+        <li>
+            Los autores, editores y lectores están dispuestos y son capaces de participar activamente en la plataforma, contribuyendo con contenido, colaboración y retroalimentación para enriquecer la experiencia de lectura.
+        </li>
+        <li>
+            Nuestros usuarios estarán dispuestos a pagar por una suscripción premium que les brinde acceso a contenido exclusivo y funciones avanzadas, lo que generará ingresos recurrentes y fomentará la lealtad de los usuarios.
+        </li>
+        <li>
+            La plataforma será capaz de operar con éxito a través de una combinación de recursos humanos y tecnológicos.
+        </li>
+        <li>
+            Los usuarios estarán dispuestos a comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura a través de la tienda integrada de BookFlow, lo que contribuirá significativamente a la sostenibilidad financiera de la aplicación.
+        </li>
+        <li>
+            Los usuarios valoran altamente la seguridad y privacidad de sus datos personales, es por lo que la implementación de medidas robustas de seguridad en la aplicación garantizará la confianza y satisfacción de los usuarios.
+        </li>
+        <li>
+            BookFlow respetará la originalidad y legalidad de los trabajos ofrecidos. Esto implica garantizar que todos los contenidos sean legales y no infrinjan derechos de autor, así como también fomentar la creación de contenido original y respetar los derechos de propiedad intelectual de autores y editores.
+        </li>
+        <li>
+            El modelo de negocio incluye ingresos provenientes de suscripciones premium y ventas en la tienda integrada, es viable y sostenible a largo plazo, a su vez permitirá el crecimiento y mantenimiento de la plataforma.
+        </li>
+        <li>
+            Nuestra competencia principal en el mercado son otras plataformas y aplicativos existentes que brindan servicios similares al nuestro como “Goodreads”, “Scribd” y “Audible”.
+        </li>
+        <li>
+            Nuestro mayor riesgo es el control de la calidad del contenido y la falta de apoyo continuo por parte de autores, editores y usuarios.
+        </li>
+        <li>
+            Resolveremos esto estableciendo verificaciones adecuadas de calidad de contenido. Además, se realizarán campañas de marketing, se promoverán algún tipo de reconocimientos y se obtendrán alianzas estratégicas con la industria editorial.
+        </li>
+    </ul>
+</div>
+<br>
+<b>User Assumptions:</b>
+<div align="justify">
+    <ul>
+        <li><b>¿Quién es nuestro usuario?</b></li>
+        Nuestro usuario principal es un amante de la lectura, que puede variar en edad, género y preferencias de lectura.
+        <li><b>¿Dónde encaja mi producto en su trabajo o vida?</b></li>
+        BookFlow encaja en la vida de nuestro usuario al proporcionarles una plataforma conveniente y accesible para descubrir, acceder y disfrutar de una amplia gama de contenido de lectura. Puede ser utilizado en su tiempo libre en casa, durante viajes, en pausas en el trabajo, o en cualquier momento en que deseen sumergirse en una buena lectura.
+        <li><b>¿Qué problemas tiene nuestro cliente y cómo se puede resolver?</b></li>
+        Algunos usuarios pueden experimentar interrupciones en su experiencia de lectura debido a problemas como la falta de sincronización entre dispositivos o la dificultad para encontrar nuevos libros que les interesen. Esto se puede solucionar con la sincronización del progreso de lectura entre dispositivos, recomendaciones personalizadas basadas en intereses de lectura y la capacidad de interactuar con autores y otros lectores, lo que mejora la experiencia de lectura y ayuda a mantener a los usuarios comprometidos y satisfechos.
+        <li><b>¿Cuándo y cómo es nuestro producto usado?</b></li>
+        Se podrá acceder a nuestra plataforma por medio de la web o por aplicación móvil a cualquier hora del día ofreciendo flexibilidad. Cada uno de los usuarios lo usará en momentos específicos, ya sea mientras viajan en transporte público, durante su tiempo libre en casa, o antes de ir a dormir.
+        <li><b>¿Qué características son importantes?</b></li>
+        En primer lugar, se debe priorizar la facilidad de uso de la plataforma. Luego, debemos garantizar su correcto funcionamiento para satisfacer a cada uno de los usuarios. Además, se debe enfocar la seguridad en cuanto a la información de usuarios, también se debe considerar su compatibilidad con diferentes sistemas y dispositivos. Finalmente, la plataforma debe ser escalable para manejar una amplia selección de títulos y a manera que crezca se expanda correctamente.
+        <li><b>¿Cómo debe verse nuestro producto y cómo debe comportarse?</b></li>
+        Nuestro producto debe tener una interfaz limpia y moderna, con un diseño atractivo y fácil de navegar. Además, debe comportarse de manera rápida y fluida evitando largos tiempos de espera. Igualmente, debe contar con medidas de seguridad y privacidad, guardando información de cada usuario.
+    </ul>
+</div>
+<br>
+<b>Business Outcomes:</b>
+<div align="justify">
+    <ul>
+        <li>
+            Generar un impacto positivo en hábitos de lectura y creatividad.
+        </li>
+        <li>
+            Colaboraciones exitosas con autores y editores.
+        </li>
+        <li>
+            Aumento del impacto social y usuarios suscritos.
+        </li>
+        <li>
+            Fortalecimiento de alianzas con la industria editorial.
+        </li>
+        <li>
+            Generar ingresos mediante publicidad y nuestros usuarios premium.
+        </li>
+        <li>
+            Divulgar la plataforma para ser usada como la principal en este rubro.
+        </li>
+    </ul>
+</div>
+<br>
+<b>User Outcomes & Benefits:</b>
+<div align="justify">
+    <ul>
+        <li>
+            Acceso conveniente a una amplia variedad de contenido de lectura.
+        </li>
+        <li>
+            Ahorro de tiempo y esfuerzo al evitar la necesidad de visitar librerías físicas para comprar libros.
+        </li>
+        <li>
+            Descubrimiento de nuevos títulos y autores.
+        </li>
+        <li>
+            Interacción con la comunidad de lectores y autores.
+        </li>
+        <li>
+            Flexibilidad y portabilidad de momentos y lugares en donde se puede acceder a la plataforma.
+        </li>
+    </ul>
+</div>
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 A continuación, se presentarán las hipótesis destinadas a ofrecer soluciones innovadoras con el propósito de abordar los desafíos dentro de las funcionalidades de la aplicación web, ofreciendo soluciones específicas y medibles. Esta metodología nos permite evaluar de manera objetiva el éxito de nuestras estrategias.
@@ -678,7 +779,54 @@ Segmento Objetivo 2: Autores
 ![EmpathyMapping-Autores](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/4caee5a9-6037-4e76-95d9-f31ae6b3b673)
 
 ### 2.3.5. As-is Scenario Mapping
+Segmento Lectores:
+
+<img src="imgs/AS-ISLectores.png" alt="AS-IS - Lectores">
+
+Segmento Autores:
+
+<img src="imgs/AS-ISAutores.png" alt="AS-IS - Autores">
+
 ## 2.4. Ubiquitous Language
+Estos son los términos y conceptos comunes utilizados en nuestro proyecto:
+<div align="justify">
+    <ul>
+        <li>
+            <b>Lector:</b> Persona que utiliza la aplicación para leer libros electrónicos o escuchar audiolibros.
+        </li>
+        <li>
+            <b>Autor:</b> Persona que escribe y publica libros electrónicos en la plataforma.
+        </li>
+        <li>
+            <b>Perfil de usuario:</b> Página o sección que contiene información personal de un usuario, como nombre, preferencias de lectura y actividad en la plataforma.
+        </li>
+        <li>
+            <b>Libros electrónicos:</b> Versiones digitales de libros que pueden leerse en dispositivos electrónicos.
+        </li>
+        <li>
+            <b>Audiolibros:</b> Versiones de audio de libros que permiten a los usuarios escuchar narraciones en lugar de leer el texto.
+        </li>
+        <li>
+            <b>Interacción en plataforma:</b> Actividades y comunicación realizadas por los usuarios dentro de la aplicación, como buscar, comprar o dejar reseñas.
+        </li>
+        <li>
+            <b>Comunidad:</b> Conjunto de usuarios de BookFlow que comparten intereses comunes en la lectura y la cultura literaria.
+        </li>
+        <li>
+            <b>Suscripción premium:</b> Nivel de membresía que ofrece a los usuarios acceso exclusivo a contenido y características avanzadas a cambio de una tarifa.
+        </li>
+        <li>
+            <b>Acuerdos con editores y autores:</b> Contratos establecidos con editores y autores para ofrecer una amplia variedad de títulos en la tienda de BookFlow.
+        </li>
+        <li>
+            <b>Tienda integrada:</b> Sección de la aplicación donde los usuarios pueden comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura.
+        </li>
+        <li>
+            <b>Transacción:</b> Acción de compra o intercambio de libros electrónicos, audiolibros u otros productos en la plataforma.
+        </li>
+    </ul>
+</div>
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
@@ -692,7 +840,11 @@ Segmento Objetivo #2: Autores
 
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
+Lectores:
+
 <img src="imgs/impact.png" alt="Impact Map - Lector">
+Autores:
+
 <img src="imgs/impact_autor.png" alt="Impact Map - Autor">
 
 ## 3.4. Product Backlog
