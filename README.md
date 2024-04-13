@@ -29,11 +29,11 @@
         </tr>
         <tr>
             <td>La Torre Valle, Franz Jair</td>
-            <td>Uxxxxxxxxx</td>
+            <td>U202012378</td>
         </tr>
         <tr>
             <td>Morales Calderón, Hernan Emilio</td>
-            <td>Uxxxxxxxxx</td>
+            <td>U202216263</td>
         </tr>
         <tr>
             <td>Párraga Gamarra, Paolo Gonzalo</td>
@@ -237,6 +237,67 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 </div>
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
+### Los integrantes que conforman parte de nuestro startup son:
+
+Apellidos y Nombres: Morales Calderón Hernan Emilio
+
+Código: u202216263
+
+Descripción: Mi nombre es Hernan Morales, tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software.Me considero una persona muy responsable y organizada especialmente cuando se trata de trabajos universitarios. Me comprometo a ser un gran apoyo para mi grupo en este curso. Mi objetivo es culminar exitosamente el curso y nuestro proyecto junto a mi equipo.
+<p align="center">
+    <img src="./imgs/PerfilEmilio.png">
+</p>
+
+
+Apellidos y Nombres: La Torre Valle, Franz Jair
+
+Código: U202012378
+
+Descripción:
+Mi nombre es Franz Jair La Torre Valle, soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas.
+En mis tiempos libres me gusta leer, ver películas, practicar deportes y experimentar con nuevas actividades.
+Mi compromiso con el equipo es siempre ser participativo, estar al pendiente de las actividades, responder cualquier duda y aportar en lo que se pueda. 
+<p align="center">
+    <img src="./imgs/PerfilFranz.jpg">
+</p>
+Apellidos y Nombres: Rivadeneyra Ramos, Joaquin David
+
+Código: U202211846
+
+Descripción: 
+Mi nombre es Joaquin Rivadeneyra tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona comunicativa y abierta a nuevas ideas, lo que me permite tener una buena relación con los demás miembros del equipo y fomentar un ambiente de trabajo colaborativo. Además, soy un buen solucionador de problemas y me gusta trabajar en equipo para encontrar soluciones creativas a los desafíos que se nos presentan. Por último, me esfuerzo por mantener una actitud positiva y motivadora para inspirar a los demás miembros del equipo y lograr los objetivos en conjunto.
+<p align="center">
+    <img src="./imgs/PerfilJoaquin.png">
+</p>
+
+Apellidos y Nombres: Párraga Gamarra Paolo Gonzalo
+
+Código: u202219186
+
+Descripción: Mi nombre es Paolo Párraga soy estudiante de ingeniería de software que va cursando el cuarto ciclo 2023-2. A lo largo de mi corta vida me he ido interesando por la tecnología, la cuarentena hizo que mi interés se fuese acrecentando más, por eso decidí por esta carrera en UPC. Soy una persona que le gusta trabajar duro para lograr mis objetivos, nunca rendirme a pesar de que parece todo perdido y haré todo lo posible para seguir mejorando en este largo camino de ser un buen ingeniero, persona y profesional.
+
+<p align="center">
+    <img src="./imgs/PerfilPaolo.jpg">
+</p>
+Apellidos y Nombres: Huamán Cataño Miguel Ángel
+
+Código: U202120615
+
+Descripción: Mi nombre es Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de ingeniería de software. Soy una persona que disfruta trabajar con empeño para alcanzar mis objetivos, nunca me rindo a pesar de los momentos difíciles y haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional.
+<p align="center">
+    <img src="./imgs/PerfilMiguel.png">
+</p>
+Apellidos y Nombres: Zarate Cáceres Víctor Ernesto
+
+Código: U202112907
+
+Descripción:
+Tengo 20 años y estudió Ingeniería de Software. Me considero una persona responsable en los trabajos, capaz de aportar distintas ideas y de organizar el trabajo para el desarrollo de los nuevos proyectos. Tengo el compromiso de trabajar de manera eficiente y realizar las entregas en el plazo indicado.
+<p align="center">
+    <img src="./imgs/PerfilErnesto.png">
+</p>
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 <div align="justify">
@@ -278,6 +339,76 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
+Business Assumptions
+<ul>
+    <li>Existe una necesidad en el mercado para una plataforma que fomente y motive los hábitos de lectura entre la población, lo que respalda la demanda de una plataforma como BookFlow.
+    </li>
+    <li>Nuestros usuarios estarán dispuestos a pagar por una suscripción premium que les brinde acceso a contenido exclusivo y funciones avanzadas, lo que generará ingresos recurrentes y fomentará la lealtad de los usuarios.
+    </li>
+    <li>
+    La plataforma será capaz de operar con éxito a través de una combinación de recursos humanos y tecnológicos.
+    </li>
+    <li>Los usuarios valoran altamente la seguridad y privacidad de sus datos personales, es por lo que la implementación de medidas robustas de seguridad en la aplicación garantizará la confianza y satisfacción de los usuarios.
+    </li>
+    <li>BookFlow respetará la originalidad y legalidad de los trabajos ofrecidos. Esto implica garantizar que todos los contenidos sean legales y no infrinjan derechos de autor, así como también fomentar la creación de contenido original y respetar los derechos de propiedad intelectual de autores y editores.
+    </li>
+    <li>El modelo de negocio incluye ingresos provenientes de suscripciones premium y ventas en la tienda integrada, es viable y sostenible a largo plazo, a su vez permitirá el crecimiento y mantenimiento de la plataforma.
+    </li>
+    <li>Nuestra competencia principal en el mercado son otras plataformas y aplicativos existentes que brindan servicios similares al nuestro como “Goodreads”, “Scribd” y “Audible”.
+    </li>
+    <li>Nuestro mayor riesgo es el control de la calidad del contenido y la falta de apoyo continuo por parte de autores, editores y usuarios.
+    </li>
+    <li>Resolveremos esto estableciendo verificaciones adecuadas de calidad de contenido. Además, se realizarán campañas de marketing, se promoverán algún tipo de reconocimientos y se obtendrán alianzas estratégicas con la industria editorial.
+    </li>
+    <li>Los autores, editores y lectores están dispuestos y son capaces de participar activamente en la plataforma, contribuyendo con contenido, colaboración y retroalimentación para enriquecer la experiencia de lectura.
+    </li>
+    <li>Los usuarios estarán dispuestos a comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura a través de la tienda integrada de BookFlow, lo que contribuirá significativamente a la sostenibilidad financiera de la aplicación.
+    </li>
+</ul>
+
+
+
+User Assumptions
+<ul>
+    <li>¿Quién es nuestro usuario?
+
+Nuestro usuario principal es un amante de la lectura, que puede variar en edad, género y preferencias de lectura.</li>
+    <li>¿Dónde encaja mi producto en su trabajo o vida?
+
+BookFlow encaja en la vida de nuestro usuario al proporcionarles una plataforma conveniente y accesible para descubrir, acceder y disfrutar de una amplia gama de contenido de lectura. Puede ser utilizado en su tiempo libre en casa, durante viajes, en pausas en el trabajo, o en cualquier momento en que deseen sumergirse en una buena lectura.</li>
+    <li>¿Qué problemas tiene nuestro cliente y cómo se puede resolver?
+
+Algunos usuarios pueden experimentar interrupciones en su experiencia de lectura debido a problemas como la falta de sincronización entre dispositivos o la dificultad para encontrar nuevos libros que les interesen. Esto se puede solucionar con la sincronización del progreso de lectura entre dispositivos, recomendaciones personalizadas basadas en intereses de lectura y la capacidad de interactuar con autores y otros lectores, lo que mejora la experiencia de lectura y ayuda a mantener a los usuarios comprometidos y satisfechos.</li>
+    <li>¿Cuándo y cómo es nuestro producto usado?
+
+Se podrá acceder a nuestra plataforma por medio de la web o por aplicación móvil a cualquier hora del día ofreciendo flexibilidad. Cada uno de los usuarios lo usará en momentos específicos, ya sea mientras viajan en transporte público, durante su tiempo libre en casa, o antes de ir a dormir.</li>
+    <li>¿Qué características son importantes?
+
+En primer lugar, se debe priorizar la facilidad de uso de la plataforma. Luego, debemos garantizar su correcto funcionamiento para satisfacer a cada uno de los usuarios. Además, se debe enfocar la seguridad en cuanto a la información de usuarios, también se debe considerar su compatibilidad con diferentes sistemas y dispositivos. Finalmente, la plataforma debe ser escalable para manejar una amplia selección de títulos y a manera que crezca se expanda correctamente.</li>
+    <li>¿Cómo debe verse nuestro producto y cómo debe comportarse?
+
+Nuestro producto debe tener una interfaz limpia y moderna, con un diseño atractivo y fácil de navegar. Además, debe comportarse de manera rápida y fluida evitando largos tiempos de espera. Igualmente, debe contar con medidas de seguridad y privacidad, guardando información de cada usuario</li>
+</ul>
+
+Business Outcomes
+<ul>
+    <li>Generar un impacto positivo en hábitos de lectura y creatividad.</li>
+    <li>Colaboraciones exitosas con autores y editores.</li>
+    <li>Aumento del impacto social y usuarios suscritos.</li>
+    <li>Fortalecimiento de alianzas con la industria editorial.</li>
+    <li>Generar ingresos mediante publicidad y nuestros usuarios premium.</li>
+    <li>Divulgar la plataforma para ser usada como la principal en este rubro.</li>
+</ul>
+
+User Outcomes & Benefits
+<ul>
+    <li>Acceso conveniente a una amplia variedad de contenido de lectura.</li>
+    <li>Ahorro de tiempo y esfuerzo al evitar la necesidad de visitar librerías físicas para comprar libros.</li>
+    <li>Descubrimiento de nuevos títulos y autores.</li>
+    <li>Interacción con la comunidad de lectores y autores.</li>
+    <li>Flexibilidad y portabilidad de momentos y lugares en donde se puede acceder a la plataforma.</li>
+</ul>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 A continuación, se presentarán las hipótesis destinadas a ofrecer soluciones innovadoras con el propósito de abordar los desafíos dentro de las funcionalidades de la aplicación web, ofreciendo soluciones específicas y medibles. Esta metodología nos permite evaluar de manera objetiva el éxito de nuestras estrategias.
@@ -460,6 +591,51 @@ Nuestras tácticas incluyen la realización de investigaciones exhaustivas del m
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
+Lectores:
+Entrevistado #1: 
+
+Joseph Huammani
+
+●	Sexo: Masculino
+
+●	Edad: 23 años
+
+●	Distrito en el que vive: Surquillo
+
+●	Nivel socioeconómico: Clase B
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://www.youtube.com/watch?v=44kOELBy0ZU)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 4:20
+Resumen:
+El entrevistado, Joseph Huammani, de 23 años, expresó su preferencia por la novela y la ciencia ficción como género literario favorito. Además, dice que su mayor desafío a la hora de encontrar tiempo para leer es equilibrar sus muchas responsabilidades diarias. Enfatizó que historias interesantes, personajes bien desarrollados y giros argumentales consistentemente atractivos son los factores que lo motivan a continuar leyendo los libros. Además, aprecian funciones como la interfaz intuitiva, las recomendaciones personalizadas y el seguimiento del tiempo de lectura semanal en la aplicación de lectura. Además, también expresó interés en encontrar reseñas de libros, recomendaciones de otros lectores y entrevistas a autores en la aplicación, y expresó su deseo de interactuar con otros lectores de otras audiencias a través de clubes de lectura virtuales y debates en línea. Para él, la seguridad y privacidad de los datos personales son importantes y considera que estrategias como establecer objetivos de lectura, programar momentos específicos para leer y llevar un diario de lectura serán útiles para mantener un hábito de lectura constante. Prefiere comprar libros electrónicos o audiolibros en línea debido a descuentos, ofertas especiales y amplia gama de títulos. Joseph afirmó que dejaría de leer libros si la trama se volviera aburrida o los personajes no estuvieran bien desarrollados. Como usuario leal de la aplicación, espera descuentos en compras futuras y acceso a contenido exclusivo, desea que la aplicación le recomiende libros según sus intereses anteriores y le permita descubrir nuevos géneros y autores.
+
+
+Entrevistado #2: 
+Anthony Tarrillo
+
+●	Sexo: Masculino
+
+●	Edad: 20 años
+
+●	Distrito en el que vive: San Martín de Porres
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1DZM0FRAuKecq_ddy_g6qRVobYHKop5wo/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 6:09
+
+Resumen:
+El entrevistado en esta ocasión es Anthony Tarrillo de unos 20 años que nos cuenta que tiene problemas al momento de hacer su tesis, ya que no está acostumbrado a textos tan densos y aburridos. Por otro lado, el desea desarrollar un hábito por la lectura para dejar de lado sus problemas de lectura. Su mayor desafío a la hora de leer son textos muy largos que no llegan a ningún punto, eso lo desanima a seguir leyendo, dejándolo de lado. Enfatizó en sus gustos por el drama y la ciencia ficción, así como los personajes bien desarrollados. Así mismo, para Anthony el aplicativo debería tener las medidas de seguridad estándar como la verificación de dos pasos, contraseña segura, etc.
+
 ### 2.2.3. Análisis de entrevistas
 #### 2.2.3.1 Lectores:
 
@@ -473,6 +649,7 @@ Lectores:
 
 
 Autores:
+
 
 ![Lectores](./imgs/UserPersonaAutor.png)
 
@@ -504,7 +681,31 @@ Segmento Objetivo 2: Autores
 ![EmpathyMapping-Autores](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/4caee5a9-6037-4e76-95d9-f31ae6b3b673)
 
 ### 2.3.5. As-is Scenario Mapping
+Lecores:
+
+![ASISLECTOR](./imgs/AS-IS-LECTORES.png)
+
+Autores:
+
+![ASISAUTOR](./imgs/AS-IS-AUTORES.png)
+
 ## 2.4. Ubiquitous Language
+Estos son los términos y conceptos comunes utilizados en nuestro proyecto:
+<ul>
+    <li>Lector: Persona que utiliza la aplicación para leer libros electrónicos o escuchar audiolibros.</li>
+    <li>Autor: Persona que escribe y publica libros electrónicos en la plataforma.</li>
+    <li>Perfil de usuario: Página o sección que contiene información personal de un usuario, como nombre, preferencias de lectura y actividad en la plataforma.</li>
+    <li>Libros electrónicos: Versiones digitales de libros que pueden leerse en dispositivos electrónicos.</li>
+    <li>Audiolibros: Versiones de audio de libros que permiten a los usuarios escuchar narraciones en lugar de leer el texto.</li>
+    <li>Interacción en plataforma: Actividades y comunicación realizadas por los usuarios dentro de la aplicación, como buscar, comprar o dejar reseñas.</li>
+    <li>Comunidad: Conjunto de usuarios de BookFlow que comparten intereses comunes en la lectura y la cultura literaria.</li>
+    <li>Suscripción premium: Nivel de membresía que ofrece a los usuarios acceso exclusivo a contenido y características avanzadas a cambio de una tarifa.</li>
+    <li>Acuerdos con editores y autores: Contratos establecidos con editores y autores para ofrecer una amplia variedad de títulos en la tienda de BookFlow.</li>
+    <li>Tienda integrada: Sección de la aplicación donde los usuarios pueden comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura.</li>
+    <li>Transacción: Acción de compra o intercambio de libros electrónicos, audiolibros u otros productos en la plataforma.</li>
+</ul>
+
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
@@ -884,7 +1085,9 @@ Principio de Control del Usuario: BookFlow empodera a los usuarios al permitirle
 
 ![Ineractions](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/a81b3f52-26fa-41e4-8a87-e5a7b641f7a0)
 
-Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120615_upc_edu_pe/EUYr5Zp4-P5PrHN-e1zsq_QBCYJMd3IJAc3WB_c8PgD-dg?e=m21EaS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+Link: [Click para ver el video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120615_upc_edu_pe/EUYr5Zp4-P5PrHN-e1zsq_QBCYJMd3IJAc3WB_c8PgD-dg?e=m21EaS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -1258,6 +1461,7 @@ Utilizamos el servicio GitHub Pages para desplegar la landing page de HormonalCa
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+![SprintPlanning1](./imgs/SprintPlanning1.jpg)
 #### 5.2.1.2. Sprint Backlog 1
 #### 5.2.1.3. Development Evidence for Sprint Review
 En esta sección se presenta un resumen de los avances en la implementación de los productos de la solución, de acuerdo al alcance definido para el Sprint 1. Se incluye una tabla que resume los commits relacionados con la implementación de las historias de usuario.
