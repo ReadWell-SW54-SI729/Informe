@@ -2313,3 +2313,13 @@ En conclusion, BookFlow se posiciona como una plataforma integral que no solo co
 
 # Anexos
 [def]: SoftwareArchitectureContextDiagram.png
+
+Link del video: [Video](https://www.youtube.com/watch?v=EU91NX9JQSw)
+
+![Imagen de WhatsApp 2024-04-13 a las 13 30 30_ad5e8878](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/41f99581-998e-4375-b75c-4bb1235d5f00)
+
+
+Link de la Landing Page: [Landing Page](https://bookflowww.netlify.app/)
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/e007cfc8-0146-42fe-9089-3cdc670a84d0)
+
