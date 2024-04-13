@@ -200,7 +200,7 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
             <em>TB1:<br></em>Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.<br>
         </td>
         <td align="justify">
-            Sestaca la importancia de emplear una variedad de herramientas y enfoques, desde el análisis de las expectativas y emociones de los usuarios hasta la formulación de hipótesis y la identificación de problemas, para guiar eficazmente el desarrollo de proyectos y startups hacia soluciones pertinentes y orientadas al usuario.
+            Se destaca la importancia de emplear una variedad de herramientas y enfoques, desde el análisis de las expectativas y emociones de los usuarios hasta la formulación de hipótesis y la identificación de problemas, para guiar eficazmente el desarrollo de proyectos y startups hacia soluciones pertinentes y orientadas al usuario.
         </td>
     </tr>
     <tr>
