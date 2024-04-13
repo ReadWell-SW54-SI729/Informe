@@ -29,7 +29,7 @@
         </tr>
         <tr>
             <td>La Torre Valle, Franz Jair</td>
-            <td>Uxxxxxxxxx</td>
+            <td>U202012378</td>
         </tr>
         <tr>
             <td>Morales Calderón, Hernan Emilio</td>
@@ -247,6 +247,108 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
+<b>Business Assumptions:</b>
+<div align="justify">
+    <ul>
+        <li>
+            Existe una necesidad en el mercado para una plataforma que fomente y motive los hábitos de lectura entre la población, lo que respalda la demanda de una plataforma como BookFlow.
+        </li>
+        <li>
+            Los autores, editores y lectores están dispuestos y son capaces de participar activamente en la plataforma, contribuyendo con contenido, colaboración y retroalimentación para enriquecer la experiencia de lectura.
+        </li>
+        <li>
+            Nuestros usuarios estarán dispuestos a pagar por una suscripción premium que les brinde acceso a contenido exclusivo y funciones avanzadas, lo que generará ingresos recurrentes y fomentará la lealtad de los usuarios.
+        </li>
+        <li>
+            La plataforma será capaz de operar con éxito a través de una combinación de recursos humanos y tecnológicos.
+        </li>
+        <li>
+            Los usuarios estarán dispuestos a comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura a través de la tienda integrada de BookFlow, lo que contribuirá significativamente a la sostenibilidad financiera de la aplicación.
+        </li>
+        <li>
+            Los usuarios valoran altamente la seguridad y privacidad de sus datos personales, es por lo que la implementación de medidas robustas de seguridad en la aplicación garantizará la confianza y satisfacción de los usuarios.
+        </li>
+        <li>
+            BookFlow respetará la originalidad y legalidad de los trabajos ofrecidos. Esto implica garantizar que todos los contenidos sean legales y no infrinjan derechos de autor, así como también fomentar la creación de contenido original y respetar los derechos de propiedad intelectual de autores y editores.
+        </li>
+        <li>
+            El modelo de negocio incluye ingresos provenientes de suscripciones premium y ventas en la tienda integrada, es viable y sostenible a largo plazo, a su vez permitirá el crecimiento y mantenimiento de la plataforma.
+        </li>
+        <li>
+            Nuestra competencia principal en el mercado son otras plataformas y aplicativos existentes que brindan servicios similares al nuestro como “Goodreads”, “Scribd” y “Audible”.
+        </li>
+        <li>
+            Nuestro mayor riesgo es el control de la calidad del contenido y la falta de apoyo continuo por parte de autores, editores y usuarios.
+        </li>
+        <li>
+            Resolveremos esto estableciendo verificaciones adecuadas de calidad de contenido. Además, se realizarán campañas de marketing, se promoverán algún tipo de reconocimientos y se obtendrán alianzas estratégicas con la industria editorial.
+        </li>
+    </ul>
+</div>
+<br>
+<b>User Assumptions:</b>
+<div align="justify">
+    <ul>
+        <li><b>¿Quién es nuestro usuario?</b></li>
+        Nuestro usuario principal es un amante de la lectura, que puede variar en edad, género y preferencias de lectura.
+        <li><b>¿Dónde encaja mi producto en su trabajo o vida?</b></li>
+        BookFlow encaja en la vida de nuestro usuario al proporcionarles una plataforma conveniente y accesible para descubrir, acceder y disfrutar de una amplia gama de contenido de lectura. Puede ser utilizado en su tiempo libre en casa, durante viajes, en pausas en el trabajo, o en cualquier momento en que deseen sumergirse en una buena lectura.
+        <li><b>¿Qué problemas tiene nuestro cliente y cómo se puede resolver?</b></li>
+        Algunos usuarios pueden experimentar interrupciones en su experiencia de lectura debido a problemas como la falta de sincronización entre dispositivos o la dificultad para encontrar nuevos libros que les interesen. Esto se puede solucionar con la sincronización del progreso de lectura entre dispositivos, recomendaciones personalizadas basadas en intereses de lectura y la capacidad de interactuar con autores y otros lectores, lo que mejora la experiencia de lectura y ayuda a mantener a los usuarios comprometidos y satisfechos.
+        <li><b>¿Cuándo y cómo es nuestro producto usado?</b></li>
+        Se podrá acceder a nuestra plataforma por medio de la web o por aplicación móvil a cualquier hora del día ofreciendo flexibilidad. Cada uno de los usuarios lo usará en momentos específicos, ya sea mientras viajan en transporte público, durante su tiempo libre en casa, o antes de ir a dormir.
+        <li><b>¿Qué características son importantes?</b></li>
+        En primer lugar, se debe priorizar la facilidad de uso de la plataforma. Luego, debemos garantizar su correcto funcionamiento para satisfacer a cada uno de los usuarios. Además, se debe enfocar la seguridad en cuanto a la información de usuarios, también se debe considerar su compatibilidad con diferentes sistemas y dispositivos. Finalmente, la plataforma debe ser escalable para manejar una amplia selección de títulos y a manera que crezca se expanda correctamente.
+        <li><b>¿Cómo debe verse nuestro producto y cómo debe comportarse?</b></li>
+        Nuestro producto debe tener una interfaz limpia y moderna, con un diseño atractivo y fácil de navegar. Además, debe comportarse de manera rápida y fluida evitando largos tiempos de espera. Igualmente, debe contar con medidas de seguridad y privacidad, guardando información de cada usuario.
+    </ul>
+</div>
+<br>
+<b>Business Outcomes:</b>
+<div align="justify">
+    <ul>
+        <li>
+            Generar un impacto positivo en hábitos de lectura y creatividad.
+        </li>
+        <li>
+            Colaboraciones exitosas con autores y editores.
+        </li>
+        <li>
+            Aumento del impacto social y usuarios suscritos.
+        </li>
+        <li>
+            Fortalecimiento de alianzas con la industria editorial.
+        </li>
+        <li>
+            Generar ingresos mediante publicidad y nuestros usuarios premium.
+        </li>
+        <li>
+            Divulgar la plataforma para ser usada como la principal en este rubro.
+        </li>
+    </ul>
+</div>
+<br>
+<b>User Outcomes & Benefits:</b>
+<div align="justify">
+    <ul>
+        <li>
+            Acceso conveniente a una amplia variedad de contenido de lectura.
+        </li>
+        <li>
+            Ahorro de tiempo y esfuerzo al evitar la necesidad de visitar librerías físicas para comprar libros.
+        </li>
+        <li>
+            Descubrimiento de nuevos títulos y autores.
+        </li>
+        <li>
+            Interacción con la comunidad de lectores y autores.
+        </li>
+        <li>
+            Flexibilidad y portabilidad de momentos y lugares en donde se puede acceder a la plataforma.
+        </li>
+    </ul>
+</div>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo
@@ -271,7 +373,54 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
+Segmento Lectores:
+
+<img src="imgs/AS-ISLectores.png" alt="AS-IS - Lectores">
+
+Segmento Autores:
+
+<img src="imgs/AS-ISAutores.png" alt="AS-IS - Autores">
+
 ## 2.4. Ubiquitous Language
+Estos son los términos y conceptos comunes utilizados en nuestro proyecto:
+<div align="justify">
+    <ul>
+        <li>
+            <b>Lector:</b> Persona que utiliza la aplicación para leer libros electrónicos o escuchar audiolibros.
+        </li>
+        <li>
+            <b>Autor:</b> Persona que escribe y publica libros electrónicos en la plataforma.
+        </li>
+        <li>
+            <b>Perfil de usuario:</b> Página o sección que contiene información personal de un usuario, como nombre, preferencias de lectura y actividad en la plataforma.
+        </li>
+        <li>
+            <b>Libros electrónicos:</b> Versiones digitales de libros que pueden leerse en dispositivos electrónicos.
+        </li>
+        <li>
+            <b>Audiolibros:</b> Versiones de audio de libros que permiten a los usuarios escuchar narraciones en lugar de leer el texto.
+        </li>
+        <li>
+            <b>Interacción en plataforma:</b> Actividades y comunicación realizadas por los usuarios dentro de la aplicación, como buscar, comprar o dejar reseñas.
+        </li>
+        <li>
+            <b>Comunidad:</b> Conjunto de usuarios de BookFlow que comparten intereses comunes en la lectura y la cultura literaria.
+        </li>
+        <li>
+            <b>Suscripción premium:</b> Nivel de membresía que ofrece a los usuarios acceso exclusivo a contenido y características avanzadas a cambio de una tarifa.
+        </li>
+        <li>
+            <b>Acuerdos con editores y autores:</b> Contratos establecidos con editores y autores para ofrecer una amplia variedad de títulos en la tienda de BookFlow.
+        </li>
+        <li>
+            <b>Tienda integrada:</b> Sección de la aplicación donde los usuarios pueden comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura.
+        </li>
+        <li>
+            <b>Transacción:</b> Acción de compra o intercambio de libros electrónicos, audiolibros u otros productos en la plataforma.
+        </li>
+    </ul>
+</div>
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
@@ -318,11 +467,57 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
+<p align="justify">
+    Nuestra estrategia de SEO implica el uso de etiquetas y meta etiquetas específicas para ayudar a los motores de búsqueda a comprender mejor el contenido de nuestro sitio web, lo que facilita su categorización y clasificación. De esta manera, podemos aumentar la visibilidad de nuestro sitio web y atraer más tráfico orgánico, lo que puede conducir a una mayor participación, más conversiones y, en última instancia, a mayores ingresos.
+</p>
+<br>
+Etiquetas SEO principales utilizadas:
+<div align="justify">
+    <ol>
+        <li>
+            <b>Title Tag (etiqueta de título):</b> Cada página de nuestro sitio web cuenta con un título único y descriptivo que captura la esencia del contenido de esa página y cambia de color según se va seleccionando.
+        </li>
+        <li>
+            <b>Meta Keywords Tag (etiqueta de palabras clave meta):</b> Las utilizamos de manera estratégica para identificar las palabras clave principales relacionadas con el contenido de la página. Esto ayuda a los motores de búsqueda a comprender mejor el tema y la relevancia del contenido.
+        </li>
+        <li>
+            <b>Canonical Tag (etiqueta canónica):</b> En casos donde tenemos múltiples URL que muestran el mismo contenido o contenido similar.
+        </li>
+    </ol>
+</div>
+Otros aspectos relevantes:
+<div align="justify">
+    <ul>
+        <li>
+            <b>Etiquetas Alt en Imágenes:</b> Cada imagen en nuestro sitio web incluye una etiqueta alt descriptiva que ayuda a los motores de búsqueda a comprender el contenido de la imagen.
+        </li>
+        <li>
+            <b>Etiquetas Heading (H1, H2, H3, etc.):</b> Se utiliza para dar forma a nuestro contenido de manera lógica y estructurada, lo que facilita la lectura y la comprensión para los usuarios. Al mismo tiempo, estas etiquetas proporcionan información adicional a los motores de búsqueda sobre la jerarquía y la importancia del contenido, lo que puede ayudar a mejorar su clasificación y relevancia en los resultados de búsqueda.
+        </li>
+    </ul>
+</div>
+
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+<img src="imgs/Wire1.png" alt="Inicio">
+<img src="imgs/Wire2.png" alt="Nosotros">
+<img src="imgs/Wire3.png" alt="Catálogo 1">
+<img src="imgs/Wire4.png" alt="Catálogo 2">
+<img src="imgs/Wire5.png" alt="Contacto">
+<img src="imgs/Wire6.png" alt="Iniciar Sesión">
+<img src="imgs/Wire7.png" alt="Registrar">
+
 ### 4.3.2. Landing Page Mock-up
+<img src="imgs/Mock1.png" alt="Inicio">
+<img src="imgs/Mock2.png" alt="Nosotros">
+<img src="imgs/Mock3.png" alt="Catálogo 1">
+<img src="imgs/Mock4.png" alt="Catálogo 2">
+<img src="imgs/Mock5.png" alt="Contacto">
+<img src="imgs/Mock6.png" alt="Iniciar Sesión">
+<img src="imgs/Mock7.png" alt="Registrar">
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
@@ -549,8 +744,149 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
+En este primer sprint se desarrolló y desplegó el landing page. 
+
 #### 5.2.1.1. Sprint Planning 1
+<table>
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 1</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>26/03/2024</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>10:00 PM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Franz La Torre</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>Hernan Emilio Morales Calderón - U202216263<br>
+        Joaquin David Rivadeneyra Ramos - U202211846<br>
+        Paolo Gonzalo Párraga Gamarra - U202219186<br>
+        Miguel Ángel Huamán Cataño - U202120615<br>
+        Víctor Ernesto Zarate Cáceres - U202112907<br>
+        Franz Jair La Torre Valle - U202012378</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 0 Review Summary</td>
+        <td>No hubo sprint previo</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 0 Retrospective Summary</td>
+        <td>No hubo sprint previo</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 1 Goal</td>
+        <td>Desarrollar y desplegar el landing page para agregar a repositorio grupal</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 1 Velocity</td>
+        <td>2 semanas</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td>5</td>
+    </tr>
+</table>
+
 #### 5.2.1.2. Sprint Backlog 1
+<table>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 1</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US-01</td>
+        <td>Visualizar landing page intuitivo</td>
+        <td>W-01</td>
+        <td>Diseño</td>
+        <td>Como usuario quiero ver una landing page intuitiva, clara y atractiva para entender el propósito del sitio web</td>
+        <td>5 hours</td>
+        <td>Franz</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-02</td>
+        <td>Visualizar una sección sobre nosotros</td>
+        <td>W-02</td>
+        <td>Sección nosotros</td>
+        <td>Como usuario quiero ver una sección del landing page que hable del startup y de los miembros del equipo para saber los objetivos</td>
+        <td>2 hours</td>
+        <td>Franz</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-03</td>
+        <td>Visualizar una sección de catálogo</td>
+        <td>W-03</td>
+        <td>Sección catálogo</td>
+        <td>Como usuario quiero ver una sección del landing page con el catálogo de productos disponibles para saber si son de mi interés</td>
+        <td>3 hours</td>
+        <td>Franz</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-04</td>
+        <td>Visualizar una sección de contactos</td>
+        <td>W-04</td>
+        <td>Sección contactos</td>
+        <td>Como usuario quiero ver una sección del landing page de contactos para poder comunicarme con el startup</td>
+        <td>2 hours</td>
+        <td>Franz</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-05</td>
+        <td>Visualizar contenido relevante</td>
+        <td>W-05</td>
+        <td>Contenido</td>
+        <td>Como usuario quiero que la landing page contenga información relevante para tomar una decisión informada</td>
+        <td>2 hours</td>
+        <td>Franz</td>
+        <td>In process</td>
+    </tr>
+    <tr align="center">
+        <td>US-06</td>
+        <td>Desplegar landing page</td>
+        <td>W-06</td>
+        <td>Desplegar</td>
+        <td>Como startup quiero desplegar la landing page para dar a conocer nuestra aplicación</td>
+        <td>1 hour</td>
+        <td>Franz</td>
+        <td>In process</td>
+    </tr>
+</table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
