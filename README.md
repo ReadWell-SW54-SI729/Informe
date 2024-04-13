@@ -158,16 +158,15 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
     </tr>
     <tr>
         <td align="justify">
-            2.c1. Diseñar soluciones en ingeniería de software (productos, procesos y/o servicios) que satisfagan necesidades específicas considerando el impacto en salud pública, seguridad, bienestar, así como 
-            factores globales, culturales, sociales, ambientales y económicos
+           Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
         </td>
         <td align="justify" rowspan=2>
             Huamán Cataño, Miguel Ángel<br>
-            <em>TB1:<br></em><br>
+            <em>TB1:<br></em>User Journey Mapping, Empathy Mapping, Web Applications User Flow Diagrams y Web Application Prototyping.<br>
             <br>La Torre Valle, Franz Jair<br>
-            <em>TB1:<br></em><br>
+            <em>TB1:<br></em>Lean UX Assumptions, AS-IS Scenario Mapping, Ubiquitous Language, SEO Tags and Meta Tags, Landing Page Wireframe, Landing Page Mock-up, Landing Page, Sprint Planning 1, Sprint Backlog 1.<br>
             <br>Morales Calderón, Hernan Emilio<br>
-            <em>TB1:<br></em><br>
+            <em>TB1:<br></em>Segmentos objetivos, análisis competitivo, estrategias y tácticas frente a competidores, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management<br>
             <br>Párraga Gamarra, Paolo Gonzalo<br>
             <em>TB1:<br></em>Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up.<br>
             <br>Rivadeneyra Ramos, Joaquin<br>
@@ -177,14 +176,13 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
         </td>
         <td align="justify">
             Huamán Cataño, Miguel Ángel<br>
-            <em>TB1:<br></em><br>
+            <em>TB1:<br></em>Mediante el uso de herramientas como User Journey Mapping y Empathy Mapping, logramos profundizar nuestra comprensión sobre las expectativas y emociones de los usuarios.<br>
             <br>La Torre Valle, Franz Jair<br>
-            <em>TB1:<br></em><br>
+            <em>TB1:<br></em>Cuando desarrollé el Lean UX Assumptions se manifestó las suposiciones de nuestro proyecto y pudimos visualizar mejor la orientación de nuestro startup.<br>
             <br>Morales Calderón, Hernan Emilio<br>
             <em>TB1:<br></em>
             <br>Párraga Gamarra, Paolo Gonzalo<br>
-            <em>TB1:<br></em>Se diseñaron soluciones en base a la información dada por las historias de usuario. Además de las entrevistas.<br>
-            <br>Rivadeneyra Ramos, Joaquin<br>
+            <em>TB1:<br></em>La realización de cada apartado conllevó una investigación para el segmento objetivo así como analizar los datos brindados por las historias de usuario.<br>Rivadeneyra Ramos, Joaquin<br>
             <em>TB1:<br></em>En mi caso diseñe el Lean UX Hypothesis statements, en el cual pusimos nuestras hipótesis con sus estadísticas para nuestra app. Además, el as-is en base de los user persona y las 
             conclusiones.<br>
             <br>Zárate Cáceres, Victor Ernesto <br>
@@ -193,13 +191,13 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
     </tr>
     <tr>
         <td align="justify">
-            2.c2. Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos.
+            2.c2. Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos
         </td>
         <td align="justify">
             Huamán Cataño, Miguel Ángel<br>
-            <em>TB1:<br></em><br>
+            <em>TB1:<br></em>Un mejor conocimiento sobre las expectativas y emociones de nuestros usuarios ayudó a que nuestra solución de software esté enfocado en la solución de las necesidades de nuestros segmentos objetivos.<br>
             <br>La Torre Valle, Franz Jair<br>
-            <em>TB1:<br></em><br>
+            <em>TB1:<br></em>Al momento de integrar estos aspectos en el diseño de la solución de software, se puede contribuir de manera significativa a la creación de un entorno digital más seguro, saludable y equitativo para todos.<br>
             <br>Morales Calderón, Hernan Emilio<br>
             <em>TB1:<br></em><br>
             <br>Párraga Gamarra, Paolo Gonzalo<br>
@@ -687,8 +685,8 @@ Autores
 </ul>
 
 ### 2.2.2. Registro de entrevistas
+### Lectores:
 
-Lectores:
 Entrevistado #1: 
 
 Joseph Huammani
@@ -707,6 +705,9 @@ Entrevista:
 ●	Momento en el que inicia: 0:00
 
 ●	Duración: 4:20
+
+●	Entrevistador: Morales Calderón, Hernan Emilio
+
 Resumen:
 El entrevistado, Joseph Huammani, de 23 años, expresó su preferencia por la novela y la ciencia ficción como género literario favorito. Además, dice que su mayor desafío a la hora de encontrar tiempo para leer es equilibrar sus muchas responsabilidades diarias. Enfatizó que historias interesantes, personajes bien desarrollados y giros argumentales consistentemente atractivos son los factores que lo motivan a continuar leyendo los libros. Además, aprecian funciones como la interfaz intuitiva, las recomendaciones personalizadas y el seguimiento del tiempo de lectura semanal en la aplicación de lectura. Además, también expresó interés en encontrar reseñas de libros, recomendaciones de otros lectores y entrevistas a autores en la aplicación, y expresó su deseo de interactuar con otros lectores de otras audiencias a través de clubes de lectura virtuales y debates en línea. Para él, la seguridad y privacidad de los datos personales son importantes y considera que estrategias como establecer objetivos de lectura, programar momentos específicos para leer y llevar un diario de lectura serán útiles para mantener un hábito de lectura constante. Prefiere comprar libros electrónicos o audiolibros en línea debido a descuentos, ofertas especiales y amplia gama de títulos. Joseph afirmó que dejaría de leer libros si la trama se volviera aburrida o los personajes no estuvieran bien desarrollados. Como usuario leal de la aplicación, espera descuentos en compras futuras y acceso a contenido exclusivo, desea que la aplicación le recomiende libros según sus intereses anteriores y le permita descubrir nuevos géneros y autores.
 
@@ -730,19 +731,131 @@ Entrevista:
 
 ●	Duración: 6:09
 
+●	Entrevistador: Párraga Gamarra, Paolo Gonzalo
+
 Resumen:
 El entrevistado en esta ocasión es Anthony Tarrillo de unos 20 años que nos cuenta que tiene problemas al momento de hacer su tesis, ya que no está acostumbrado a textos tan densos y aburridos. Por otro lado, el desea desarrollar un hábito por la lectura para dejar de lado sus problemas de lectura. Su mayor desafío a la hora de leer son textos muy largos que no llegan a ningún punto, eso lo desanima a seguir leyendo, dejándolo de lado. Enfatizó en sus gustos por el drama y la ciencia ficción, así como los personajes bien desarrollados. Así mismo, para Anthony el aplicativo debería tener las medidas de seguridad estándar como la verificación de dos pasos, contraseña segura, etc.
 
+Entrevistado N°3: Piero Delgado
+
+  ![Entrevista](./imgs/entrevista1.jpg)
+
+●	Nombre: Piero Delgado
+
+●	Edad: 20
+
+●	Sexo: Masculino
+
+●	Residencia: Surco
+
+●	Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1JR1mC21Be3IDkKMS_f5xYmoVWu9Z1rKg/view?usp=sharing)
+
+●	Momento en el que inicia: 0:02
+
+●	Duración: 6:10
+
+●	Entrevistador: Rivadeneyra Ramos, Joaquin
+
+Resumen:
+
+Piero Delgado, un joven de 20 años, revela sus preferencias literarias que incluyen ficción contemporánea, ciencia ficción y literatura histórica. Destaca el desafío de encontrar tiempo para leer, buscando equilibrio entre sus responsabilidades laborales y personales. Piero se motiva a terminar un libro cuando la trama es intrigante y los personajes son complejos. En cuanto a aplicaciones de lectura, valora la sincronización entre dispositivos, las recomendaciones personalizadas y la posibilidad de interactuar con otros lectores. Además, destaca la importancia de la privacidad de datos al usar estas aplicaciones y sugiere que estrategias como establecer metas de lectura ayudan a mantener un hábito constante. Piero espera obtener descuentos en libros y acceso anticipado a nuevos lanzamientos como recompensas por su fidelidad, y desea que la aplicación le ayude a descubrir nuevos títulos a través de recomendaciones personalizadas y muestras gratuitas.
 
 
+### Autores:
+Entrevistada #1: Aleshka Fernandez
+
+<ul>
+    <li>
+        Sexo: Femenino
+    </li>
+    <li>
+        Edad: 24 años
+    </li>
+    <li>
+        Distrito en el que vive: San Borja
+    </li>
+    <li>
+        Nivel socioeconómico: Clase B
+    </li>
+</ul>
+Entrevista:
+<ul>
+    <li>
+        Link: <a href="https://www.youtube.com/watch?v=V8NYPikl5B8">Click para ver entrevista</a>
+    </li>
+    <li>
+        Momento en el que inicia: 0:00
+    </li>
+    <li>
+        Duración: 10:45
+    </li>
+</ul>
+<img src="imgs/EntrevistaAleshka.png" alt="Entrevista Autor 1">
+
+Resumen:
+<p align="justify">
+    Entrevistamos a Aleshka Fernández, de 24 años, quien se siente atraída principalmente por los géneros de fantasía y terror. Aleshka menciona que suele utilizar Google Docs para escribir y prefiere no tener distracciones digitales ni acceder a redes sociales durante ese tiempo. Destaca la importancia de la lectura para ampliar su vocabulario y encontrar referencias para sus personajes. Comenzó su trayectoria en Wattpad y luego llevó algunos de sus cuentos cortos a Webtoon. Para promocionar sus historias, utiliza Twitter e Instagram. Además, ha participado en talleres de autores, los cuales le resultaron muy útiles para conocer la experiencia de otros escritores y superar bloqueos creativos. Una de sus mayores dificultades es mantenerse relevante en el medio, ya que requiere mucha creatividad. Sus consejos para los aspirantes son leer mucho, buscar referentes y nutrirse de información sobre los temas que desean abordar. Considera que una aplicación útil debería tener una buena recepción de archivos, un espacio para publicar borradores, un foro de interacción y actividades recurrentes como charlas para discutir trabajos destacados. Espera que la aplicación le ayude a divulgar su trabajo, impulse a escritores nuevos, ofrezca sugerencias de búsqueda y brinde recomendaciones constantes.
+</p>
+
+Entrevistado #3: 
+
+Gabriel Duran
+
+●	Sexo: Masculino
+
+●	Edad: 27 años
+
+●	Distrito en el que vive: Lima
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1olBsJ-0aJsyimzoHnPQgJQht124PKbN6/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 12:25
+
+●	Enrevistador: Huamán Cataño, Miguel Ángel
+
+Resumen:
+Gabriel Duran, escritor residente en Lima, está explorando su pasión por la escritura, dedicando al menos una hora al día para desarrollar su estilo y voz narrativa. Disfruta de una amplia gama de géneros literarios, desde la historia hasta la ciencia ficción. Sus mayores desafíos incluyen conectar profundamente con los lectores y transmitir emociones de manera efectiva. Utiliza herramientas en línea para investigación y organización, y valora una interfaz intuitiva y funciones de edición. Está emocionado por la posibilidad de conectarse directamente con los lectores a través de la plataforma y consideraría publicar y promocionar sus libros si la aplicación ofrece una comunidad activa y herramientas robustas.
 ### 2.2.3. Análisis de entrevistas
-#### 2.2.3.1 Lectores:
-
-
-#### 2.2.3.2 Autores:
-
+Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un análisis de las entrevistas en el que destacamos las similitudes y hallazgos:
 
 ## 2.3. Needfinding
+### Segmento Objetivo #1: Lectores
+
+Necesidad de Comunidad Literaria: Los lectores expresaron un fuerte deseo de pertenecer a una comunidad donde puedan discutir libros, compartir experiencias y descubrir nuevas lecturas.
+
+Interacción con Autores y Eventos: Algunos lectores expresaron interés en participar en eventos virtuales con autores, como sesiones de preguntas y respuestas, charlas o lanzamientos de libros.
+
+Personalización y Preferencias: La posibilidad de personalizar perfiles, recibir recomendaciones basadas en gustos personales y ajustar las notificaciones según las preferencias de lectura fue resaltada por varios usuarios.
+
+Compartir Experiencias y Recomendaciones: Hubo un interés significativo en la opción de compartir reseñas, recomendaciones y experiencias de lectura con amigos y la comunidad en general.
+
+Eventos con Autores: La posibilidad de asistir a eventos virtuales con autores, recibir notificaciones sobre nuevos lanzamientos y participar en sesiones interactivas fue altamente solicitada.
+
+### Segmento Objetivo #2:  Autores
+
+Promoción y Interacción con Lectores: Los autores expresaron interés en una plataforma que les permita interactuar con lectores, promocionar sus libros y participar en eventos virtuales.
+
+Feedback y Comentarios de Lectores: La posibilidad de recibir feedback directo de lectores, comentarios y reseñas sobre sus obras fue destacada como una forma valiosa de mejora continua.
+
+Visibilidad y Descubrimiento: Los autores desean una plataforma que les brinde visibilidad, especialmente a autores emergentes, y facilite el descubrimiento de sus obras entre los lectores interesados.
+
+Interacción con Clubes de Lectura:Algunos autores expresaron interés en participar en clubes de lectura virtuales para discutir sus libros con lectores y obtener una comprensión más profunda de sus reacciones.
+
+Seguridad y Análisis de Datos: Brindarles la mayor seguridad de su información y análisis de datos sobre el rendimiento de sus libros en la plataforma.
+
+Datos Estadísticos 
+
+![Estadistica](./imgs/datos.jpg)
+
+Estadísticas de ataques a la privacidad de datos a usuarios a nivel mundial en el último año. Kolesnikov, N. 2024. Estadísticas clave de Ciberseguirdad. Techopedia. https://www.techopedia.com/es/estadisticas-ciberseguridad
 ### 2.3.1. User Personas
 Lectores:
 
@@ -873,10 +986,9 @@ Segmento Objetivo #2: Autores
 | US26          | Recomendar Libros a Grupos de Amigos | Como usuario, quiero tener la opción de recomendar libros a grupos de amigos específicos en BookFlow para compartir mis lecturas favoritas. | **Escenario 1:**<br/>Dado: Leo un libro que sé que a un grupo de amigos les encantará.<br/>Cuando: Accedo al libro en BookFlow.<br/>Entonces: Puedo seleccionar la opción de "Recomendar a Grupo" y elegir el grupo destinatario.<br/><br/>**Escenario 2:**<br/>Dado: Un amigo me envía una recomendación de libro en un grupo.<br/>Cuando: Hago clic en el enlace de la recomendación.<br/>Entonces: Se abre la página del libro en BookFlow y puedo agregarlo a mi lista de lectura. | EP06                |
 | US27          | Visualizar una sección Sobre Nosotros | Como usuario curioso de BookFlow, deseo encontrar una sección dedicada a conocer más sobre la plataforma, su misión, valores y el equipo detrás de ella. | **Escenario 1:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Exploro la página.<br/>Entonces:<br/>Encuentro una descripción clara de la misión y visión de BookFlow.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Navego más en profundidad.<br/>Entonces:<br/>Encuentro la historia detrás de la creación de BookFlow, incluyendo eventos significativos y logros<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Exploro la página buscando más detalles sobre el equipo.<br/>Entonces:<br/>Encuentro perfiles detallados de los miembros del equipo, incluyendo sus roles y responsabilidades. | EP06                |
 | US28          | Visualizar una sección de catálogo   | Como usuario de BookFlow, quiero poder explorar fácilmente el extenso catálogo de libros disponibles en la plataforma, organizados de manera clara y con opciones de búsqueda y filtrado. | **Escenario 1:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Navego por las categorías disponibles, como "Ficción", "No Ficción", "Misterio", etc.<br/>Entonces:<br/>Encuentro una variedad de categorías que me permiten explorar diferentes géneros.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Utilizo la barra de búsqueda para buscar un libro específico o autor.<br/>Entonces:<br/>El sistema me muestra resultados relevantes mientras escribo, facilitando la búsqueda.<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Quiero filtrar los resultados por cosas como "Nuevos Lanzamientos", "Más Descargados", etc.<br/>Entonces:<br/>Encuentro opciones de filtrado que me permiten encontrar rápidamente los libros más relevantes para mí. | EP06                |
-| US29          | Visualizar una sección de Preguntas Frecuentes | Como usuario de BookFlow, deseo tener acceso a una sección de Preguntas Frecuentes (FAQ) para obtener respuestas rápidas a las consultas comunes sobre la plataforma. | **Escenario 1:**<br/>Dado: Estoy en la sección de Preguntas Frecuentes de BookFlow.<br/>Cuando: Tengo una pregunta sobre cómo funcionan los clubes de lectura.<br/>Entonces:<br/>Encuentro una respuesta clara y detallada que explica el proceso de unirse a un club y participar en las discusiones.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección de Preguntas Frecuentes de BookFlow.<br/>Cuando: Tengo una pregunta sobre cómo cambiar mi contraseña.<br/>Entonces:<br/>Encuentro instrucciones paso a paso sobre cómo modificar mi contraseña de manera segura. | EP06                |
+| US29          | Visualizar contenido relevante | Como usuario de BookFlow, quiero encontrar contenido relevante, como artículos, reseñas de libros, entrevistas a autores y recomendaciones, para enriquecer mi experiencia de lectura y descubrir nuevos títulos. | **Escenario 1: Artículos Destacados:** <br> Dado: Estoy en la sección de contenido de BookFlow. <br> Cuando: Exploro la página. <br> Entonces: Encuentro artículos destacados sobre temas literarios, autores o tendencias actuales. <br> **Escenario 2: Reseñas y Recomendaciones:** <br> Dado: Estoy en la sección de contenido de BookFlow. <br> Cuando: Navego por las reseñas y recomendaciones. <br> Entonces: Encuentro reseñas detalladas de libros populares, con puntuaciones y comentarios de otros usuarios. | EP06               |
 | US30          | Visualizar una sección de Contacto   | Como usuario de BookFlow, deseo tener acceso a una sección de Contacto donde pueda encontrar información para comunicarme con el equipo de soporte en caso de tener preguntas o problemas. | **Escenario 1:**<br/>Dado: Estoy en la sección de Contacto de BookFlow.<br/>Cuando: Quiero enviar un mensaje al equipo de soporte.<br/>Entonces:<br/>Encuentro un formulario de contacto donde puedo ingresar mi consulta y recibir una respuesta por correo electrónico.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección de Contacto de BookFlow.<br/>Cuando: Tengo una pregunta urgente y prefiero llamar.<br/>Entonces:<br/>Encuentro un número de teléfono de atención al cliente claramente visible para comunicarme de inmediato. | EP06                |
 | US31          | Despliegue de la landing page | Como miembro del equipo de desarrollo de BookFlow, quiero desplegar la landing page inicial como una startup para atraer a nuevos usuarios. | **Escenario 1: Diseño Moderno y Atractivo:** <br> Dado: Estamos listos para desplegar la landing page como una startup. <br> Cuando: Los diseñadores finalizan el diseño con una estética moderna y atractiva. <br> Entonces: La landing page presenta un diseño innovador que refleja la naturaleza tecnológica de BookFlow. <br> **Escenario 2: Mensaje Claro y Conciso:** <br> Dado: Estamos preparando el contenido para la landing page. <br> Cuando: Se redactan los mensajes principales que comunicarán la propuesta de valor de BookFlow. <br> Entonces: El mensaje principal de la landing page es claro, conciso y orientado a los beneficios para el usuario. <br> **Escenario 3: Lanzamiento Exitoso:** <br> Dado: Todo está listo y probado para el lanzamiento. <br> Cuando: La landing page se despliega en el dominio principal de BookFlow. <br> Entonces: La landing page está accesible públicamente en el dominio principal de BookFlow. | EP06               |
-
 ## 3.3. Impact Mapping
 Lectores:
 
@@ -1791,7 +1903,7 @@ En este primer sprint se desarrolló y desplegó el landing page.
         <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US-05</td>
+        <td>US-29</td>
         <td>Visualizar contenido relevante</td>
         <td>W-05</td>
         <td>Contenido</td>
@@ -1961,7 +2073,7 @@ Relacionado a US-28
         Then encuentro opciones de filtrado que me permiten encontrar rápidamente los libros más relevantes para mí
 
 
-Relacionado a US-29
+Relacionado a US-30
 
     Feature: Visualizar una sección de Contacto en BookFlow
 
@@ -1979,16 +2091,23 @@ Relacionado a US-29
         Then encuentro un número de teléfono de atención al cliente claramente visible para comunicarme de inmediato
 
 
-Relacionado a US-30
+Relacionado a US-29
 
-    Feature: Visualizar de contenido relevante
+    Feature: Visualizar contenido relevante en BookFlow
 
-        Como usuario
+        Como usuario de BookFlow
+        Quiero encontrar contenido relevante, como artículos, reseñas de libros, entrevistas a autores y recomendaciones, para enriquecer mi experiencia de lectura y descubrir nuevos títulos
 
-        Quiero que landing page contengo información 
-        relevante 
-  
-        Para tomar una decisión informada
+    Scenario: 1
+        Given estoy en la sección de contenido de BookFlow
+        When exploro la página
+        Then encuentro artículos destacados sobre temas literarios, autores o tendencias actuales
+
+    Scenario: 2
+        Given estoy en la sección de contenido de BookFlow
+        When navego por las reseñas y recomendaciones
+        Then encuentro reseñas detalladas de libros populares, con puntuaciones y comentarios de otros usuarios
+
 
 Relacionado a US-31
 
