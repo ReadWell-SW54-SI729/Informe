@@ -688,7 +688,7 @@ Autores
 ### Lectores:
 
 Entrevistado #1: 
-
+![Estrevista1](./imgs/entrevistaHernan.png)
 Joseph Huammani
 
 ●	Sexo: Masculino
@@ -713,6 +713,7 @@ El entrevistado, Joseph Huammani, de 23 años, expresó su preferencia por la no
 
 
 Entrevistado #2: 
+![Estrevista1](./imgs/entrevistaPaolo.png)
 Anthony Tarrillo
 
 ●	Sexo: Masculino
@@ -802,6 +803,7 @@ Resumen:
 Entrevistado #3: 
 
 Gabriel Duran
+![Entrevista3](./imgs/entrevistaMiguel.png)
 
 ●	Sexo: Masculino
 
