@@ -590,7 +590,64 @@ Nuestras tácticas incluyen la realización de investigaciones exhaustivas del m
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+Lectores
+<ul>
+    <li>¿Qué géneros literarios prefieres leer?
+</li>
+    <li>¿Cuál es tu mayor desafío al encontrar tiempo para leer?
+</li>
+    <li>¿Qué te motiva a seguir leyendo un libro hasta el final?
+</li>
+    <li>¿Qué tipo de funciones o características te resultan más atractivas en una aplicación de lectura?
+</li>
+    <li>¿Qué otros tipos de contenido relacionado con la lectura te interesaría encontrar en la aplicación?
+</li>
+    <li>¿Cómo te gustaría interactuar con otros lectores en la aplicación?
+</li>
+    <li>¿Qué medidas de seguridad y privacidad consideras más importantes al usar una aplicación de lectura?
+</li>
+    <li>¿Qué estrategias te ayudarían a mantener un hábito de lectura constante?
+</li>
+    <li>¿Qué aspectos te resultan más atractivos al comprar libros electrónicos o audiolibros en línea?
+</li>
+    <li>¿Qué te hace abandonar la lectura de un libro antes de terminarlo?
+</li>
+    <li>¿Qué tipo de recompensas o beneficios te gustaría obtener por ser un usuario leal de la aplicación?
+</li>
+    <li>¿Cómo te gustaría que la aplicación te ayudara a descubrir nuevos títulos y autores de interés?</li>
+</ul>
+
+Autores
+
+<ul>
+    <li>¿En qué géneros te especializas como escritor? ¿Qué te atrae de esos géneros?
+    </li>
+    <li>¿Podrías describir tu proceso creativo? ¿Cómo se te ocurren las ideas para tus historias?
+    </li>
+    <li>¿Qué herramientas o recursos utilizas para escribir? ¿Hay algún software o aplicación que te sea indispensable?
+    </li>
+    <li>¿Cómo te mantienes motivado y disciplinado para escribir con regularidad?
+    </li>
+    <li>¿Qué papel juega la lectura en tu vida como autor? ¿Cómo influyen tus lecturas en tu propia escritura?
+    </li>
+    <li>¿Has tenido la oportunidad de publicar tu trabajo? ¿En qué plataformas o formatos has publicado?
+    </li>
+    <li>¿Cómo te ha impactado la tecnología en tu experiencia como escritor? ¿Utilizas alguna herramienta digital para la escritura o la promoción de tu trabajo?
+    </li>
+    <li>¿Has participado en talleres de escritura o comunidades de autores? ¿Qué beneficios has obtenido de estas experiencias?
+    </li>
+    <li>¿Cuáles son tus principales desafíos como autor? ¿Qué obstáculos has enfrentado en tu carrera?
+    </li>
+    <li>¿Qué consejos le darías a un aspirante a escritor que está empezando su camino?
+    </li>
+    <li>¿Qué te parece la idea de una aplicación dedicada a fomentar la lectura? ¿Qué funcionalidades te gustaría que tuviera una aplicación así para ser útil a los autores?
+    </li>
+    <li>¿Cómo te gustaría que la aplicación te ayudara a mejorar tu experiencia como autor? ¿Qué beneficios esperas obtener de su uso?</li>
+</ul>
+
 ### 2.2.2. Registro de entrevistas
+
 Lectores:
 Entrevistado #1: 
 
@@ -655,9 +712,11 @@ Autores:
 
 ### 2.3.2. User Task Matrix
 Segmento objetivo #1: Lector
+
 ![Lectores](./imgs/taskmatrixLector.png)
 
 Segmento objetivo #2: Autor
+
 ![Lectores](./imgs/taskmatrixAutor.png)
 
 ### 2.3.3. User Journey Mapping
