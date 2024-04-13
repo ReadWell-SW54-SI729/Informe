@@ -387,12 +387,12 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
         creativos. Una de sus mayores dificultades es mantenerse relevante en el medio, ya que requiere mucha creatividad. Sus consejos para los aspirantes son leer mucho, buscar referentes y nutrirse de información sobre los temas que
         desean abordar. Considera que una aplicación útil debería tener una buena recepción de archivos, un espacio para publicar borradores, un foro de interacción y actividades recurrentes como charlas para discutir trabajos destacados.
         Espera que la aplicación le ayude a divulgar su trabajo, impulse a escritores nuevos, ofrezca sugerencias de búsqueda y brinde recomendaciones constantes.<br><br>
-        <li>Entrevista 2:</li>
+        <li>Entrevista 2: Oscar Champi</li>
          <ul>
-            <li>Sexo: ino</li>
-            <li>Edad: años</li>
-            <li>Distrito en el que vive: </li>
-            <li>Nivel socioeconómico: Clase </li>
+            <li>Sexo: Masculino</li>
+            <li>Edad: 20 años</li>
+            <li>Distrito en el que vive: Puente Piedra</li>
+            <li>Nivel socioeconómico: Clase B</li>
         </ul>
         Entrevista:
         <ul>
@@ -401,7 +401,8 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
             <li>Duración: </li>
         </ul>
         Resumen:<br>
-        <br><br>
+        Se entrevisto a Omar Champi Valencia, quien menciona tener un interés por<br><br>
+        <img src="imgs/entrevista2.png" alt="Entrevista - Autor 2">
         <li>Entrevista 3:</li>
          <ul>
             <li>Sexo: ino</li>
