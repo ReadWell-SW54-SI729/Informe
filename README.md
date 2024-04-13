@@ -25,7 +25,7 @@
         </tr>
         <tr>
             <td>Huamán Cataño, Miguel Ángel</td>
-            <td>Uxxxxxxxxx</td>
+            <td>U202120615</td>
         </tr>
         <tr>
             <td>La Torre Valle, Franz Jair</td>
@@ -248,6 +248,29 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+
+A continuación, se presentarán las hipótesis destinadas a ofrecer soluciones innovadoras con el propósito de abordar los desafíos dentro de las funcionalidades de la aplicación web, ofreciendo soluciones específicas y medibles. Esta metodología nos permite evaluar de manera objetiva el éxito de nuestras estrategias.
+
+**Hipótesis 1:**
+
+Creemos que los lectores necesitan una forma conveniente y atractiva de acceder a una amplia variedad de libros. Sabremos que hemos tenido éxito cuando nuestra aplicación se convierta en parte de su rutina diaria para descubrir y leer libros.
+
+**Hipótesis 2:**
+
+Creemos que los autores necesitan una plataforma que les permita alcanzar a una audiencia más amplia y aumentar las ventas de sus libros. Sabremos que hemos tenido éxito cuando los autores experimenten un aumento en las ventas y visibilidad de sus obras después de utilizar nuestra plataforma.
+
+**Hipótesis 3:**
+
+Creemos que los lectores necesitan una forma conveniente de comprar libros electrónicos y audiolibros. Sabremos que hemos tenido éxito cuando nuestra tienda integrada sea la principal opción para adquirir contenido de lectura digital.
+
+**Hipótesis 4:**
+
+Creemos que la privacidad y seguridad de los datos son fundamentales para los usuarios de BookFlow. Sabremos que hemos tenido éxito cuando implementamos medidas robustas de protección de datos y recibimos comentarios positivos sobre la seguridad de la plataforma.
+
+**Hipótesis 5:**
+
+Creemos que la suscripción premium será atractiva para los usuarios que buscan contenido exclusivo y una experiencia sin publicidad. Sabremos que hemos tenido éxito cuando una proporción significativa de usuarios opten por la suscripción premium.
+
 #### 1.2.2.4. Lean UX Canvas.
   <table>
   <tr>
@@ -463,7 +486,25 @@ Segmento objetivo #2: Autor
 ![Lectores](./imgs/taskmatrixAutor.png)
 
 ### 2.3.3. User Journey Mapping
+
+Segmento Objetivo 1: Lectores 
+
+![JourneyMapping-Lectores](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/9736acdc-2bb0-4724-8746-43092a344d89)
+
+Segmento Objetivo 2: Autores
+
+![JourneyMapping-Autores](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/1ca50744-2055-4a20-ab9e-bd186ecb42b2)
+
 ### 2.3.4. Empathy Mapping
+
+Segmento Objetivo 1: Lectores 
+
+![EmpathyMapping-Lectores](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/e7e6bbb9-6b31-4f31-954a-e50ef04ca7f6)
+
+Segmento Objetivo 2: Autores
+
+![EmpathyMapping-Autores](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/4caee5a9-6037-4e76-95d9-f31ae6b3b673)
+
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
@@ -752,7 +793,96 @@ Contacto:
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+En este segmento, expondremos los User Flows, ilustrando tanto las trayectorias happy como las unhappy que los usuarios podrían experimentar al interactuar con la plataforma en línea. Es importante destacar que las rutas exitosas se señalan con flechas verdes, mientras que las desfavorables se indican mediante flechas rojas.
+
+**User Goal:** Realizar la compra de un libro
+
+**Task Flow:**
+- Primero el usuario debe estar en la sección “Catálogo”
+- Navega por las diferentes categorías de libros o utiliza la función de búsqueda y selecciona el libro que le interese
+- Se mostrará información del libro, su precio y valoraciones
+- El usuario presiona el botón de comprar
+- El usuario puede seleccionar el método de pago y confirmar la compra, o cancelarla
+
+![userflow1](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/95f78d0c-68d4-430a-b530-cf1d4187bde5)
+
+![userflow1-mobile](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/7ea7f664-32ed-4a8f-8070-b7fb15a5172c)
+
+---
+
+
+**User Goal:** Leer un libro comprado
+
+**Task Flow:**
+- Primero el usuario debe estar en la pantalla de Inicio, dirigirse a su perfil y seleccionar la opción “Mi biblioteca”
+- En la siguiente pantalla se mostrarán los libros comprados por el usuario
+- El usuario selecciona el libro que desee leer
+- Si el usuario no desea leer, puede retroceder a la pantalla de Inicio
+
+![userflow2](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/ab3a96a2-d29a-4ab9-b25c-112c7c76c05a)
+
+![userflow2-mobile](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/bdf977ba-150b-41d5-bf9b-8d33a27f90ae)
+
+---
+
+
+**User Goal:** Ver valoraciones de los libros leídos
+ 
+**Task Flow:**
+- Primero el usuario debe estar en la sección “Catalogo”
+- Navega por las diferentes categorías de libros o utiliza la función de búsqueda y selecciona el libro que le interese
+- Se mostrará información del libro, su precio, comentarios y valoraciones
+- El usuario presiona el botón de “Ver valoraciones”
+- El usuario puede ver las valoraciones o retroceder a la pantalla de Inicio
+
+![userflow3](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/53ef7351-03ac-413e-8347-7d76fbb69221)
+
+![userflow3-mobile](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/47861394-0d96-49ad-b657-128745f7c656)
+
+---
+
+
+**User Goal:** Publicar un libro para la venta
+ 
+**Task Flow:**
+- Primero el usuario debe estar en la pantalla de Inicio, dirigirse a su perfil y seleccionar la opción “Agregar libro a la venta”
+- Completa los detalles del libro (título, sinopsis, categoría, portada) y establece el precio y los métodos de pago.
+- Si el usuario no desea publicar el libro seleccionar el botón de “Cancelar”
+
+![userflow4](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/3cf820f3-33df-4b59-bfdb-1e4e745ecd1f)
+
+![userflow4-mobile](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/67c091f3-7228-4e11-b34b-b3fbc6dc500f)
+
+---
+
+
+**User Goal:** Gestionar los libros publicados
+ 
+**Task Flow:**
+- Primero el usuario debe estar en la pantalla de Inicio, dirigirse a su perfil y seleccionar la opción “Libros publicados”
+- Selecciona el libro que desee y elige la opción de editar
+- El usuario edita la información o precio del libro
+- Si el usuario desea puede guardar los cambios o seleccionar el botón de “Cancelar”
+
+![userflow5](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/d29511e0-f271-4f3c-bf88-2d953fce1656)
+
+![userflow5-mobile](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/75632739-2622-411f-a413-f3d7b82d43f4)
+
+---
+
 ## 4.5. Web Applications Prototyping
+
+Para el proyecto de BookFlow, que se centra en la venta y lectura de libros, en este segmento se puede acceder al prototipo de la aplicación en Figma, así como se puede evidenciar la aplicación de principios de arquitectura de información para optimizar la experiencia del usuario.
+
+Principio de Divulgación: La información dentro de BookFlow se organiza de manera que facilita a los usuarios la búsqueda y descubrimiento de contenido relevante. Ello mediante las 4 secciones en la parte superior
+
+Principio de Control del Usuario: BookFlow empodera a los usuarios al permitirles personalizar su experiencia en la plataforma y permitirles acceder con facilidad a las diversas secciones que tiene la aplicación 
+
+![Ineractions](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/a81b3f52-26fa-41e4-8a87-e5a7b641f7a0)
+
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120615_upc_edu_pe/EUYr5Zp4-P5PrHN-e1zsq_QBCYJMd3IJAc3WB_c8PgD-dg?e=m21EaS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## 4.6. Domain-Driven Software Architecture
 
 La Arquitectura de Software Orientada al Dominio (Domain-Driven Software Architecture) es un enfoque que combina los principios de diseño de software con un profundo entendimiento del dominio del problema. Se centra en la creación de sistemas de software que reflejen con precisión el vocabulario, las reglas y las relaciones del negocio o dominio específico en el que operan. Este enfoque promueve la colaboración entre expertos en el dominio y desarrolladores de software para construir sistemas más efectivos y adaptados a las necesidades del negocio.
@@ -1398,7 +1528,13 @@ Acceptance Tests:
 </div>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante el último Sprint, nos enfocamos intensamente en asegurar un proceso de Deployment eficiente y efectivo, tanto para nuestra aplicación principal como para la Landing Page asociada y los Web Services que soportan la infraestructura de la aplicación. Este enfoque no solo buscó mejorar la experiencia de usuario final, sino también optimizar nuestro flujo de trabajo de desarrollo y despliegue continuo.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint actual, nos propusimos abordar las diferentes secciones de la Landing Page de BookFlow de manera colaborativa y organizada. Dividimos las tareas según las secciones acordadas durante las reuniones de planificación, ello nos permitió trabajar de manera eficiente y centrarnos en áreas específicas para optimizar el tiempo y los recursos. Dicha participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo.
+
 # Conclusiones
 # Bibliografía
 # Anexos
