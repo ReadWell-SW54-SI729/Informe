@@ -74,6 +74,14 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 | Rivadeneyra Ramos, Joaquin  | Startup Profile, Descripción de la Startup, To-Be Scenario Mapping, User Stories, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems. | 
 | Zárate Cáceres, Victor Ernesto  |Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.  | 
 
+Evidencias del Insights Contributos de los commits del informe:
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/02b88e56-1e52-48e9-b39b-a12a2825878e)
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/d1374bc7-5a24-421a-9cb6-15349d0578a6)
+
+
+
 
 
 Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
