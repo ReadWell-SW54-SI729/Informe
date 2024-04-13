@@ -2249,6 +2249,22 @@ Durante el último Sprint, nos enfocamos intensamente en asegurar un proceso de 
 
 Durante el Sprint actual, nos propusimos abordar las diferentes secciones de la Landing Page de BookFlow de manera colaborativa y organizada. Dividimos las tareas según las secciones acordadas durante las reuniones de planificación, ello nos permitió trabajar de manera eficiente y centrarnos en áreas específicas para optimizar el tiempo y los recursos. Dicha participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo.
 
+Hemos desarrollado en conjunto un total de 6 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
+
+Tabla para poder identificarnos:
+
+|  UserName (Github)   | Nombre         |
+| -------------------- |:-------------:|
+| hernancit0           | Hernan Emilio Morales Calderon|
+| PaoloParragaGamarra  | Paolo Gonzalo Párraga Gamarra | 
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/dd4c9589-da63-4d46-9fae-5018c857c7fc)
+
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/403531cd-2e68-4059-8008-e4ee9280ca63)
+
+
+
 # Conclusiones
 En conclusion, BookFlow se posiciona como una plataforma integral que no solo conecta a los lectores con una amplia gama de libros y contenido relevante, sino que también brinda a los autores las herramientas necesarias para promocionar y comprender mejor sus obras. Con un enfoque en la comunidad, la innovación y la calidad, BookFlow tiene el potencial de convertirse en un punto de referencia para los amantes de la lectura y los entusiastas de la literatura en todo el mundo.
 
