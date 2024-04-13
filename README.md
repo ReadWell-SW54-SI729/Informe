@@ -160,7 +160,7 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
         <td align="justify">
            Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
         </td>
-        <td align="justify" rowspan=2>
+        <td align="justify">
             Huamán Cataño, Miguel Ángel<br>
             <em>TB1:<br></em>User Journey Mapping, Empathy Mapping, Web Applications User Flow Diagrams y Web Application Prototyping.<br>
             <br>La Torre Valle, Franz Jair<br>
@@ -175,18 +175,7 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
             <em>TB1:<br></em>Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.<br>
         </td>
         <td align="justify">
-            Huamán Cataño, Miguel Ángel<br>
-            <em>TB1:<br></em>Mediante el uso de herramientas como User Journey Mapping y Empathy Mapping, logramos profundizar nuestra comprensión sobre las expectativas y emociones de los usuarios.<br>
-            <br>La Torre Valle, Franz Jair<br>
-            <em>TB1:<br></em>Cuando desarrollé el Lean UX Assumptions se manifestó las suposiciones de nuestro proyecto y pudimos visualizar mejor la orientación de nuestro startup.<br>
-            <br>Morales Calderón, Hernan Emilio<br>
-            <em>TB1:<br></em>
-            <br>Párraga Gamarra, Paolo Gonzalo<br>
-            <em>TB1:<br></em>La realización de cada apartado conllevó una investigación para el segmento objetivo así como analizar los datos brindados por las historias de usuario.<br>Rivadeneyra Ramos, Joaquin<br>
-            <em>TB1:<br></em>En mi caso diseñe el Lean UX Hypothesis statements, en el cual pusimos nuestras hipótesis con sus estadísticas para nuestra app. Además, el as-is en base de los user persona y las 
-            conclusiones.<br>
-            <br>Zárate Cáceres, Victor Ernesto <br>
-            <em>TB1:<br></em>Se identificó la problemática para idear una posible solución que se adapte a ella. Con ello se pudieron identificar las clases que la conforman.<br>
+            Sestaca la importancia de emplear una variedad de herramientas y enfoques, desde el análisis de las expectativas y emociones de los usuarios hasta la formulación de hipótesis y la identificación de problemas, para guiar eficazmente el desarrollo de proyectos y startups hacia soluciones pertinentes y orientadas al usuario.
         </td>
     </tr>
     <tr>
@@ -199,7 +188,7 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
             <br>La Torre Valle, Franz Jair<br>
             <em>TB1:<br></em>Al momento de integrar estos aspectos en el diseño de la solución de software, se puede contribuir de manera significativa a la creación de un entorno digital más seguro, saludable y equitativo para todos.<br>
             <br>Morales Calderón, Hernan Emilio<br>
-            <em>TB1:<br></em><br>
+            <em>TB1:<br></em>Segmentos objetivos, análisis competitivo, estrategias y tácticas frente a competidores, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management<br>
             <br>Párraga Gamarra, Paolo Gonzalo<br>
             <em>TB1:<br></em>La realización de cada apartado conllevó una investigación para el segmento objetivo así como analizar los datos brindados por las historias de usuario.<br>
             <br>Rivadeneyra Ramos, Joaquin<br>
@@ -208,6 +197,9 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
             <br>Zárate Cáceres, Victor Ernesto <br>
             <em>TB1:<br></em>Se identificó el impacto que tendría la solución en la vida de los usuarios. Con ello, el proceso del diseño de la solución pudo organizarse por dificultad e importancia para 
             orientarse a recibir mejoras continuas.<br>
+        </td>
+        <td>
+        <br>Es fundamental que el diseño de soluciones de software no solo se centre en la funcionalidad técnica, sino que también considere cuidadosamente los aspectos relacionados con la salud pública, seguridad, bienestar y los diversos factores globales, culturales, sociales, ambientales y económicos. Este enfoque integral garantiza que las soluciones tecnológicas contribuyan de manera positiva a la sociedad, abordando las necesidades de manera efectiva y promoviendo un impacto beneficioso en múltiples aspectos de la vida cotidiana y el entorno</br>
         </td>
     </tr>
 </table>
@@ -878,7 +870,7 @@ Interacción con Clubes de Lectura:Algunos autores expresaron interés en partic
 
 Seguridad y Análisis de Datos: Brindarles la mayor seguridad de su información y análisis de datos sobre el rendimiento de sus libros en la plataforma.
 
-Datos Estadísticos 
+### Datos Estadísticos 
 
 ![Estadistica](./imgs/datos.jpg)
 
@@ -1006,18 +998,18 @@ Segmento Objetivo #2: Autores
 | US16          | Copias de seguridad automática       | Como usuario quiero que mi celular realice copias de seguridad automáticas de manera regular para restaurar mis datos  | **Escenario 1:**<br/>Dado que soy un usuario con datos importantes en mi celular.<br/>Cuando configuro la función de copias de seguridad automáticas.<br/>Entonces espero que se realicen copias de seguridad regulares sin intervención manual.<br/><br/>**Escenario 2:**<br/>Dado que puedo perder mi celular o se ha dañado irreparablemente.<br/>Cuando adquiero un nuevo dispositivo y restaurar los datos desde una copia de seguridad. <br/>Entonces espero que se restauren correctamente todos mis datos y configuraciones previas.<br/><br/>**Escenario 3:**<br/>Dado que tengo configurada una copia de seguridad automática en mi celular.<br/>Cuando verifico el estado de la copia de seguridad.<br/>Entonces recibe notificaciones claras y actualizadas sobre el éxito o cualquier problema relacionado con la realización de la copia de seguridad. | EP04                |
 | US17          | Recibir Recomendaciones de Amigos   | Como usuario, quiero poder recibir recomendaciones de libros de mis amigos en BookFlow para descubrir nuevas lecturas.    | **Escenario 1:**<br/>Dado: Mi amigo me recomienda un libro en BookFlow.<br/>Cuando: Recibo una notificación o mensaje de mi amigo con el enlace del libro.<br/>Entonces: Puedo ver la recomendación de mi amigo y agregar el libro a mi lista de lectura.<br/><br/>**Escenario 2:**<br/>Dado: Quiero compartir un libro con un amigo desde BookFlow.<br/>Cuando: Encuentro un libro que creo que le gustará a mi amigo.<br/>Entonces: Envío un mensaje a mi amigo desde la aplicación con el enlace del libro. | EP04                |
 | US18          | Configurar Recordatorios de Lectura  | Como usuario, quiero poder configurar recordatorios para mis lecturas en BookFlow para seguir mi progreso y establecer metas. | **Escenario 1:**<br/>Dado: Comienzo a leer un libro y quiero establecer una meta de lectura diaria.<br/>Cuando: Abro el libro en la aplicación.<br/>Entonces: Puedo configurar un recordatorio diario para leer una cantidad específica de páginas.<br/><br/>**Escenario 2:**<br/>Dado: Quiero recibir un recordatorio cuando me acerco al final de un libro.<br/>Cuando: Llego al último 10% del libro.<br/>Entonces: Recibo una notificación recordándome terminar el libro y dejar una reseña. | EP04                |
-| US20          | Explorar Libros por Temáticas       | Como usuario, quiero poder explorar libros por temáticas específicas en BookFlow para encontrar lecturas que se ajusten a mis intereses actuales. | **Escenario 1:**<br/>Dado: Estoy interesado en un tema particular, como "Historia Antigua".<br/>Cuando: Busco la categoría "Historia Antigua" en la aplicación.<br/>Entonces: Veo una lista de libros relacionados con esa temática.<br/><br/>**Escenario 2:**<br/>Dado: Quiero explorar libros que sean "Best Sellers" en un género específico.<br/>Cuando: Selecciono la opción de "Best Sellers" y elijo el género "Ficción".<br/>Entonces: Veo una lista de los libros más vendidos en la categoría de ficción. | EP05                |
-| US21          | Obtener Resúmenes de Libros         | Como usuario, quiero tener la opción de ver resúmenes y detalles clave de libros en BookFlow para tomar decisiones de lectura informadas | **Escenario 1:**<br/>Dado: Estoy buscando un libro, pero quiero conocer más sobre su trama.<br/>Cuando: Veo el libro en la lista de resultados de búsqueda.<br/>Entonces: Puedo desplegar un resumen breve de la trama y los personajes principales.<br/><br/>**Escenario 2:**<br/>Dado: Quiero ver opiniones y reseñas de otros lectores antes de decidir leer un libro.<br/>Cuando: Navego a la página del libro.<br/>Entonces: Hay una sección de reseñas y calificaciones de otros usuarios que puedo consultar. | EP05                |
-| US22          | Notificaciones de Eventos de Autores Favoritos | Como usuario, quiero recibir notificaciones sobre eventos y lanzamientos de libros de mis autores favoritos en BookFlow para no perderme ninguna oportunidad. | **Escenario 1:**<br/>Dado: Estoy siguiendo a un autor en BookFlow.<br/>Cuando: El autor anuncia un nuevo libro o evento.<br/>Entonces: Recibo una notificación en la aplicación y por correo electrónico.<br/><br/>**Escenario 2:**<br/>Dado: Quiero ver una lista de próximos eventos de autores que sigo.<br/>Cuando: Navego a la sección de "Eventos con Autores".<br/>Entonces: Veo una lista de eventos próximos con los detalles de fecha, hora y autor. | EP05                |
-| US23          | Realizar Comentarios y Discusiones en Libros | Como usuario, quiero poder dejar comentarios y participar en discusiones sobre libros en BookFlow para interactuar con otros lectores. | **Escenario 1:**<br/>Dado: Estoy leyendo un libro y quiero compartir mis pensamientos.<br/>Cuando: Accedo al apartado de comentarios y discusiones del libro.<br/>Entonces: Puedo dejar un comentario y ver las respuestas de otros lectores.<br/><br/>**Escenario 2:**<br/>Dado: Veo una discusión interesante sobre un libro en el que estoy interesado.<br/>Cuando: Quiero unirme a la conversación.<br/>Entonces: Puedo dejar un comentario y recibir notificaciones de nuevas respuestas. | EP05                |
-| US24          | Crear Club de Lectura Privado       | Como usuario, quiero poder crear un club de lectura privado en BookFlow para discutir libros con un grupo selecto de amigos. | **Escenario 1:**<br/>Dado: Quiero crear un club de lectura con amigos específicos.<br/>Cuando: Accedo a la sección de "Mis Clubes de Lectura".<br/>Entonces: Puedo crear un nuevo club, agregar miembros y establecer reglas de discusión.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en un club de lectura privado.<br/>Cuando: Quiero programar una reunión para discutir un libro.<br/>Entonces: Puedo crear un evento dentro del club, seleccionar la fecha y enviar invitaciones a los miembros. | EP06                |
-| US25          | Visualizar una landing page intuitiva | Como usuario de BookFlow, deseo encontrar una landing page intuitiva al visitar el sitio web. Una landing page clara y bien diseñada facilitará mi navegación y comprensión de los servicios ofrecidos por BookFlow desde el primer momento | **Escenario 1:**<br/>Dado: Soy un visitante nuevo en la landing page de BookFlow.<br/>Cuando: Ingreso al sitio web.<br/>Entonces:<br/>Encuentro una página de inicio con un diseño limpio y organizado.<br/>Y Los elementos clave, como el menú de navegación y las secciones principales, son fáciles de identificar.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la landing page de BookFlow.<br/>Cuando: Exploro la página desplazándome hacia abajo.<br/>Entonces:<br/>Encuentro información destacada sobre las características clave de BookFlow, como recomendaciones personalizadas y clubes de lectura.<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la landing page de BookFlow.<br/>Cuando: Quiero acceder rápidamente a las funciones principales.<br/>Entonces:<br/>Encuentro botones o enlaces directos para registrarme, explorar el catálogo y conocer más sobre BookFlow. | EP06                |
-| US26          | Recomendar Libros a Grupos de Amigos | Como usuario, quiero tener la opción de recomendar libros a grupos de amigos específicos en BookFlow para compartir mis lecturas favoritas. | **Escenario 1:**<br/>Dado: Leo un libro que sé que a un grupo de amigos les encantará.<br/>Cuando: Accedo al libro en BookFlow.<br/>Entonces: Puedo seleccionar la opción de "Recomendar a Grupo" y elegir el grupo destinatario.<br/><br/>**Escenario 2:**<br/>Dado: Un amigo me envía una recomendación de libro en un grupo.<br/>Cuando: Hago clic en el enlace de la recomendación.<br/>Entonces: Se abre la página del libro en BookFlow y puedo agregarlo a mi lista de lectura. | EP06                |
-| US27          | Visualizar una sección Sobre Nosotros | Como usuario curioso de BookFlow, deseo encontrar una sección dedicada a conocer más sobre la plataforma, su misión, valores y el equipo detrás de ella. | **Escenario 1:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Exploro la página.<br/>Entonces:<br/>Encuentro una descripción clara de la misión y visión de BookFlow.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Navego más en profundidad.<br/>Entonces:<br/>Encuentro la historia detrás de la creación de BookFlow, incluyendo eventos significativos y logros<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Exploro la página buscando más detalles sobre el equipo.<br/>Entonces:<br/>Encuentro perfiles detallados de los miembros del equipo, incluyendo sus roles y responsabilidades. | EP06                |
-| US28          | Visualizar una sección de catálogo   | Como usuario de BookFlow, quiero poder explorar fácilmente el extenso catálogo de libros disponibles en la plataforma, organizados de manera clara y con opciones de búsqueda y filtrado. | **Escenario 1:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Navego por las categorías disponibles, como "Ficción", "No Ficción", "Misterio", etc.<br/>Entonces:<br/>Encuentro una variedad de categorías que me permiten explorar diferentes géneros.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Utilizo la barra de búsqueda para buscar un libro específico o autor.<br/>Entonces:<br/>El sistema me muestra resultados relevantes mientras escribo, facilitando la búsqueda.<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Quiero filtrar los resultados por cosas como "Nuevos Lanzamientos", "Más Descargados", etc.<br/>Entonces:<br/>Encuentro opciones de filtrado que me permiten encontrar rápidamente los libros más relevantes para mí. | EP06                |
-| US29          | Visualizar contenido relevante | Como usuario de BookFlow, quiero encontrar contenido relevante, como artículos, reseñas de libros, entrevistas a autores y recomendaciones, para enriquecer mi experiencia de lectura y descubrir nuevos títulos. | **Escenario 1: Artículos Destacados:** <br> Dado: Estoy en la sección de contenido de BookFlow. <br> Cuando: Exploro la página. <br> Entonces: Encuentro artículos destacados sobre temas literarios, autores o tendencias actuales. <br> **Escenario 2: Reseñas y Recomendaciones:** <br> Dado: Estoy en la sección de contenido de BookFlow. <br> Cuando: Navego por las reseñas y recomendaciones. <br> Entonces: Encuentro reseñas detalladas de libros populares, con puntuaciones y comentarios de otros usuarios. | EP06               |
-| US30          | Visualizar una sección de Contacto   | Como usuario de BookFlow, deseo tener acceso a una sección de Contacto donde pueda encontrar información para comunicarme con el equipo de soporte en caso de tener preguntas o problemas. | **Escenario 1:**<br/>Dado: Estoy en la sección de Contacto de BookFlow.<br/>Cuando: Quiero enviar un mensaje al equipo de soporte.<br/>Entonces:<br/>Encuentro un formulario de contacto donde puedo ingresar mi consulta y recibir una respuesta por correo electrónico.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección de Contacto de BookFlow.<br/>Cuando: Tengo una pregunta urgente y prefiero llamar.<br/>Entonces:<br/>Encuentro un número de teléfono de atención al cliente claramente visible para comunicarme de inmediato. | EP06                |
-| US31          | Despliegue de la landing page | Como miembro del equipo de desarrollo de BookFlow, quiero desplegar la landing page inicial como una startup para atraer a nuevos usuarios. | **Escenario 1: Diseño Moderno y Atractivo:** <br> Dado: Estamos listos para desplegar la landing page como una startup. <br> Cuando: Los diseñadores finalizan el diseño con una estética moderna y atractiva. <br> Entonces: La landing page presenta un diseño innovador que refleja la naturaleza tecnológica de BookFlow. <br> **Escenario 2: Mensaje Claro y Conciso:** <br> Dado: Estamos preparando el contenido para la landing page. <br> Cuando: Se redactan los mensajes principales que comunicarán la propuesta de valor de BookFlow. <br> Entonces: El mensaje principal de la landing page es claro, conciso y orientado a los beneficios para el usuario. <br> **Escenario 3: Lanzamiento Exitoso:** <br> Dado: Todo está listo y probado para el lanzamiento. <br> Cuando: La landing page se despliega en el dominio principal de BookFlow. <br> Entonces: La landing page está accesible públicamente en el dominio principal de BookFlow. | EP06               |
+| US19          | Explorar Libros por Temáticas       | Como usuario, quiero poder explorar libros por temáticas específicas en BookFlow para encontrar lecturas que se ajusten a mis intereses actuales. | **Escenario 1:**<br/>Dado: Estoy interesado en un tema particular, como "Historia Antigua".<br/>Cuando: Busco la categoría "Historia Antigua" en la aplicación.<br/>Entonces: Veo una lista de libros relacionados con esa temática.<br/><br/>**Escenario 2:**<br/>Dado: Quiero explorar libros que sean "Best Sellers" en un género específico.<br/>Cuando: Selecciono la opción de "Best Sellers" y elijo el género "Ficción".<br/>Entonces: Veo una lista de los libros más vendidos en la categoría de ficción. | EP05                |
+| US20          | Obtener Resúmenes de Libros         | Como usuario, quiero tener la opción de ver resúmenes y detalles clave de libros en BookFlow para tomar decisiones de lectura informadas | **Escenario 1:**<br/>Dado: Estoy buscando un libro, pero quiero conocer más sobre su trama.<br/>Cuando: Veo el libro en la lista de resultados de búsqueda.<br/>Entonces: Puedo desplegar un resumen breve de la trama y los personajes principales.<br/><br/>**Escenario 2:**<br/>Dado: Quiero ver opiniones y reseñas de otros lectores antes de decidir leer un libro.<br/>Cuando: Navego a la página del libro.<br/>Entonces: Hay una sección de reseñas y calificaciones de otros usuarios que puedo consultar. | EP05                |
+| US21          | Notificaciones de Eventos de Autores Favoritos | Como usuario, quiero recibir notificaciones sobre eventos y lanzamientos de libros de mis autores favoritos en BookFlow para no perderme ninguna oportunidad. | **Escenario 1:**<br/>Dado: Estoy siguiendo a un autor en BookFlow.<br/>Cuando: El autor anuncia un nuevo libro o evento.<br/>Entonces: Recibo una notificación en la aplicación y por correo electrónico.<br/><br/>**Escenario 2:**<br/>Dado: Quiero ver una lista de próximos eventos de autores que sigo.<br/>Cuando: Navego a la sección de "Eventos con Autores".<br/>Entonces: Veo una lista de eventos próximos con los detalles de fecha, hora y autor. | EP05                |
+| US22          | Realizar Comentarios y Discusiones en Libros | Como usuario, quiero poder dejar comentarios y participar en discusiones sobre libros en BookFlow para interactuar con otros lectores. | **Escenario 1:**<br/>Dado: Estoy leyendo un libro y quiero compartir mis pensamientos.<br/>Cuando: Accedo al apartado de comentarios y discusiones del libro.<br/>Entonces: Puedo dejar un comentario y ver las respuestas de otros lectores.<br/><br/>**Escenario 2:**<br/>Dado: Veo una discusión interesante sobre un libro en el que estoy interesado.<br/>Cuando: Quiero unirme a la conversación.<br/>Entonces: Puedo dejar un comentario y recibir notificaciones de nuevas respuestas. | EP05                |
+| US23          | Crear Club de Lectura Privado       | Como usuario, quiero poder crear un club de lectura privado en BookFlow para discutir libros con un grupo selecto de amigos. | **Escenario 1:**<br/>Dado: Quiero crear un club de lectura con amigos específicos.<br/>Cuando: Accedo a la sección de "Mis Clubes de Lectura".<br/>Entonces: Puedo crear un nuevo club, agregar miembros y establecer reglas de discusión.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en un club de lectura privado.<br/>Cuando: Quiero programar una reunión para discutir un libro.<br/>Entonces: Puedo crear un evento dentro del club, seleccionar la fecha y enviar invitaciones a los miembros. | EP06                |
+| US24          | Visualizar una landing page intuitiva | Como usuario de BookFlow, deseo encontrar una landing page intuitiva al visitar el sitio web. Una landing page clara y bien diseñada facilitará mi navegación y comprensión de los servicios ofrecidos por BookFlow desde el primer momento | **Escenario 1:**<br/>Dado: Soy un visitante nuevo en la landing page de BookFlow.<br/>Cuando: Ingreso al sitio web.<br/>Entonces:<br/>Encuentro una página de inicio con un diseño limpio y organizado.<br/>Y Los elementos clave, como el menú de navegación y las secciones principales, son fáciles de identificar.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la landing page de BookFlow.<br/>Cuando: Exploro la página desplazándome hacia abajo.<br/>Entonces:<br/>Encuentro información destacada sobre las características clave de BookFlow, como recomendaciones personalizadas y clubes de lectura.<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la landing page de BookFlow.<br/>Cuando: Quiero acceder rápidamente a las funciones principales.<br/>Entonces:<br/>Encuentro botones o enlaces directos para registrarme, explorar el catálogo y conocer más sobre BookFlow. | EP06                |
+| US25          | Recomendar Libros a Grupos de Amigos | Como usuario, quiero tener la opción de recomendar libros a grupos de amigos específicos en BookFlow para compartir mis lecturas favoritas. | **Escenario 1:**<br/>Dado: Leo un libro que sé que a un grupo de amigos les encantará.<br/>Cuando: Accedo al libro en BookFlow.<br/>Entonces: Puedo seleccionar la opción de "Recomendar a Grupo" y elegir el grupo destinatario.<br/><br/>**Escenario 2:**<br/>Dado: Un amigo me envía una recomendación de libro en un grupo.<br/>Cuando: Hago clic en el enlace de la recomendación.<br/>Entonces: Se abre la página del libro en BookFlow y puedo agregarlo a mi lista de lectura. | EP06                |
+| US26          | Visualizar una sección Sobre Nosotros | Como usuario curioso de BookFlow, deseo encontrar una sección dedicada a conocer más sobre la plataforma, su misión, valores y el equipo detrás de ella. | **Escenario 1:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Exploro la página.<br/>Entonces:<br/>Encuentro una descripción clara de la misión y visión de BookFlow.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Navego más en profundidad.<br/>Entonces:<br/>Encuentro la historia detrás de la creación de BookFlow, incluyendo eventos significativos y logros<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Exploro la página buscando más detalles sobre el equipo.<br/>Entonces:<br/>Encuentro perfiles detallados de los miembros del equipo, incluyendo sus roles y responsabilidades. | EP06                |
+| US27          | Visualizar una sección de catálogo   | Como usuario de BookFlow, quiero poder explorar fácilmente el extenso catálogo de libros disponibles en la plataforma, organizados de manera clara y con opciones de búsqueda y filtrado. | **Escenario 1:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Navego por las categorías disponibles, como "Ficción", "No Ficción", "Misterio", etc.<br/>Entonces:<br/>Encuentro una variedad de categorías que me permiten explorar diferentes géneros.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Utilizo la barra de búsqueda para buscar un libro específico o autor.<br/>Entonces:<br/>El sistema me muestra resultados relevantes mientras escribo, facilitando la búsqueda.<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Quiero filtrar los resultados por cosas como "Nuevos Lanzamientos", "Más Descargados", etc.<br/>Entonces:<br/>Encuentro opciones de filtrado que me permiten encontrar rápidamente los libros más relevantes para mí. | EP06                |
+| US28          | Visualizar contenido relevante | Como usuario de BookFlow, quiero encontrar contenido relevante, como artículos, reseñas de libros, entrevistas a autores y recomendaciones, para enriquecer mi experiencia de lectura y descubrir nuevos títulos. | **Escenario 1: Artículos Destacados:** <br> Dado: Estoy en la sección de contenido de BookFlow. <br> Cuando: Exploro la página. <br> Entonces: Encuentro artículos destacados sobre temas literarios, autores o tendencias actuales. <br> **Escenario 2: Reseñas y Recomendaciones:** <br> Dado: Estoy en la sección de contenido de BookFlow. <br> Cuando: Navego por las reseñas y recomendaciones. <br> Entonces: Encuentro reseñas detalladas de libros populares, con puntuaciones y comentarios de otros usuarios. | EP06               |
+| US29          | Visualizar una sección de Contacto   | Como usuario de BookFlow, deseo tener acceso a una sección de Contacto donde pueda encontrar información para comunicarme con el equipo de soporte en caso de tener preguntas o problemas. | **Escenario 1:**<br/>Dado: Estoy en la sección de Contacto de BookFlow.<br/>Cuando: Quiero enviar un mensaje al equipo de soporte.<br/>Entonces:<br/>Encuentro un formulario de contacto donde puedo ingresar mi consulta y recibir una respuesta por correo electrónico.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección de Contacto de BookFlow.<br/>Cuando: Tengo una pregunta urgente y prefiero llamar.<br/>Entonces:<br/>Encuentro un número de teléfono de atención al cliente claramente visible para comunicarme de inmediato. | EP06                |
+| US30          | Despliegue de la landing page | Como miembro del equipo de desarrollo de BookFlow, quiero desplegar la landing page inicial como una startup para atraer a nuevos usuarios. | **Escenario 1: Diseño Moderno y Atractivo:** <br> Dado: Estamos listos para desplegar la landing page como una startup. <br> Cuando: Los diseñadores finalizan el diseño con una estética moderna y atractiva. <br> Entonces: La landing page presenta un diseño innovador que refleja la naturaleza tecnológica de BookFlow. <br> **Escenario 2: Mensaje Claro y Conciso:** <br> Dado: Estamos preparando el contenido para la landing page. <br> Cuando: Se redactan los mensajes principales que comunicarán la propuesta de valor de BookFlow. <br> Entonces: El mensaje principal de la landing page es claro, conciso y orientado a los beneficios para el usuario. <br> **Escenario 3: Lanzamiento Exitoso:** <br> Dado: Todo está listo y probado para el lanzamiento. <br> Cuando: La landing page se despliega en el dominio principal de BookFlow. <br> Entonces: La landing page está accesible públicamente en el dominio principal de BookFlow. | EP06               |
 ## 3.3. Impact Mapping
 Lectores:
 
@@ -1027,35 +1019,38 @@ Autores:
 <img src="imgs/impact_autor.png" alt="Impact Map - Autor">
 
 ## 3.4. Product Backlog
-|    ID   |User Story|Story Points|Priority| 
-|:-------:|:----------|:-----:|:----------------------------:| 
-|US-01|Descubrimiento de la Aplicación|1|Alta|
-|US-02|Exploración de la Biblioteca|3|Alta|
-|US-03|Recomendaciones Personalizadas|5|Alta|
-|US-04|Actualizar perfil|1|Media|
-|US-05|Cuenta de respaldo|5|Alta|
-|US-06|Unirse a un Club de Lectura Virtual|3|Baja|
-|US-07|Asistir a Eventos con Autores|3|Baja|
-|US-08|Compartir Experiencias en Redes Sociales|5|Media|
-|US-09|Configurar Perfil y Preferencias|3|Alta|
-|US-10|Leer Libros Electrónicos|3|Alta|
-|US-11|Escuchar Audiolibros|2|Alta|
-|US-12|Actualizar a Suscripción Premium|2|Media|
-|US-13|Crear Lista de Lectura|3|Baja|
-|US-14|Seguir a Autores Favoritos|3|Alta|
-|US-15|Explorar Libros Populares|3|Alta|
-|US-16|Copias de seguridad automática|5|Alta|
-|US-17|Recibir Recomendaciones de Amigos|2|Media|
-|US-18|Configurar Recordatorios de Lectura|2|Media|
-|US-19|Actualizaciones de seguridad regulares|8|Alta|
-|US-20|Explorar Libros por Temáticas|1|Alta|
-|US-21|Obtener Resúmenes de Libros|2|Media|
-|US-22|Notificaciones de Eventos de Autores Favoritos|3|Media|
-|US-23|Realizar Comentarios y Discusiones en Libros|2|Alta|
-|US-24|Crear Club de Lectura Privado|5|Baja|
-|US-25|Configurar Modo Nocturno|3|Baja|
-|US-26|Recomendar Libros a Grupos de Amigos|3|Media|
-|US-27|Descubrir Libros por Ambientación|1|Alta|
+| #Orden |   ID   | User Story | Story Points |
+|:------|:------|:----------|:--------------|
+|01|US-30|Despliegue de la Landing Page|3|
+|02|US-01|Registro de la Aplicación|1|
+|03|US-02|Iniciar sesión en la aplicación|3|
+|04|US-28|Visalizar contenido relevante|2|
+|05|US-29|Visalizar una sección de Contacto|1|
+|06|US-26|Visalizar una sección sobre Nosotros|1|
+|07|US-27|Visalizar una sección de catálogo|1|
+|08|US-24|Visualizar una Landing Page Intuitiva|3|
+|09|US-09|Configurar Perfil y Preferencias|3|
+|10|US-10|Leer Libros Electrónicos|3|
+|11|US-11|Escuchar Audiolibros|2|
+|12|US-03|Recomendaciones Personalizadas|5|
+|13|US-15|Explorar Libros Populares|3|
+|14|US-19|Explorar Libros por Temáticas|1|
+|15|US-22|Realizar Comentarios y Discusiones en Libros|2|
+|16|US-14|Seguir a Autores Favoritos|3|
+|17|US-05|Cuenta de respaldo|5|
+|18|US-16|Copias de seguridad automática|5|
+|29|US-04|Actualizar perfil|1|
+|20|US-20|Obtener Resúmenes de Libros|2|
+|21|US-18|Configurar Recordatorios de Lectura|2|
+|22|US-12|Actualizar a Suscripción Premium|2|
+|23|US-17|Recibir Recomendaciones de Amigos|2|
+|24|US-25|Recomendar Libros a Grupos de Amigos|3|
+|25|US-08|Compartir Experiencias en Redes Sociales|5|
+|26|US-13|Crear Lista de Lectura|3|
+|27|US-06|Unirse a un Club de Lectura Virtual|3|
+|28|US-23|Crear Club de Lectura Privado|5|
+|29|US-07|Asistir a Eventos con Autores|3|
+|30|US-21|Notificaciones de Eventos de Autores Favoritos|3|
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
@@ -1892,7 +1887,7 @@ En este primer sprint se desarrolló y desplegó el landing page.
         <td><strong>Status (To do / In process / To review / Done)</strong></td>
     </tr>
     <tr align="center">
-        <td>US-25</td>
+        <td>US-24</td>
         <td>Visualizar landing page intuitivo</td>
         <td>W-01</td>
         <td>Diseño</td>
@@ -1902,7 +1897,7 @@ En este primer sprint se desarrolló y desplegó el landing page.
         <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US-27</td>
+        <td>US-26</td>
         <td>Visualizar una sección sobre nosotros</td>
         <td>W-02</td>
         <td>Sección nosotros</td>
@@ -1912,7 +1907,7 @@ En este primer sprint se desarrolló y desplegó el landing page.
         <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US-28</td>
+        <td>US-27</td>
         <td>Visualizar una sección de catálogo</td>
         <td>W-03</td>
         <td>Sección catálogo</td>
@@ -1922,7 +1917,7 @@ En este primer sprint se desarrolló y desplegó el landing page.
         <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US-30</td>
+        <td>US-29</td>
         <td>Visualizar una sección de contactos</td>
         <td>W-04</td>
         <td>Sección contactos</td>
@@ -1932,7 +1927,7 @@ En este primer sprint se desarrolló y desplegó el landing page.
         <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US-29</td>
+        <td>US-28</td>
         <td>Visualizar contenido relevante</td>
         <td>W-05</td>
         <td>Contenido</td>
@@ -1942,7 +1937,7 @@ En este primer sprint se desarrolló y desplegó el landing page.
         <td>In process</td>
     </tr>
     <tr align="center">
-        <td>US-31</td>
+        <td>US-30</td>
         <td>Desplegar landing page</td>
         <td>W-06</td>
         <td>Desplegar</td>
@@ -2031,7 +2026,7 @@ Integration Tests:
 
 Esta parte se han utilizado archivos .feature en lenguaje Gherkin para describir el comportamiento esperado. A continuación se presentan los archivos .feature y su relación con las Historias de Usuario:
 
-Relacionado a US-25
+Relacionado a US-24
 
     Feature: Visualizar landing page intuitivo
         Como usuario
@@ -2056,7 +2051,7 @@ Relacionado a US-25
         When quiere acceder rápidamente a las funciones principales.
         Then encuentra botones o enlaces directos para registrarme, explorar el catálogo y conocer más sobre BookFlow.
 
-Relacionado a US-27
+Relacionado a US-26
 
     Feature: Visualizar una sección Sobre Nosotros
 
@@ -2079,7 +2074,7 @@ Relacionado a US-27
         Then encuentro perfiles detallados de los miembros del equipo, incluyendo sus roles y responsabilidades
 
 
-Relacionado a US-28
+Relacionado a US-27
 
     Feature: Visualizar una sección de catálogo
 
@@ -2102,7 +2097,7 @@ Relacionado a US-28
         Then encuentro opciones de filtrado que me permiten encontrar rápidamente los libros más relevantes para mí
 
 
-Relacionado a US-30
+Relacionado a US-39
 
     Feature: Visualizar una sección de Contacto en BookFlow
 
@@ -2120,7 +2115,7 @@ Relacionado a US-30
         Then encuentro un número de teléfono de atención al cliente claramente visible para comunicarme de inmediato
 
 
-Relacionado a US-29
+Relacionado a US-28
 
     Feature: Visualizar contenido relevante en BookFlow
 
@@ -2138,7 +2133,7 @@ Relacionado a US-29
         Then encuentro reseñas detalladas de libros populares, con puntuaciones y comentarios de otros usuarios
 
 
-Relacionado a US-31
+Relacionado a US-30
 
     Feature: Despliegue de la landing page de BookFlow como una startup
 
