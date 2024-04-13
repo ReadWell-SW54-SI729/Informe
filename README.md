@@ -1963,51 +1963,29 @@ En esta sección se presenta un resumen de los avances en la implementación de 
     </tr>
     <tr>
         <td>Landingpage-BookFlow</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>main</td>
+        <td>a81e54e</td>
+        <td>
+Implementación index</td>
+        <td>Se implementa cada sección pedida en el sprint 1, como Catalogo, Inicio, etc.</td>
+        <td>13/04/2024</td>
     </tr>
     <tr>
         <td>Landingpage-BookFlow</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>main</td>
+        <td>16d83db</td>
+        <td>
+Implementacion Inicio Sesión</td>
+        <td>Se creo el apartado de inicio de sesión para la landing page</td>
+        <td>13/04/2024</td>
     </tr>
     <tr>
         <td>Landingpage-BookFlow</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Landingpage-BookFlow</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Landingpage-BookFlow</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Landingpage-BookFlow</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>main</td>
+        <td>c1884ef</td>
+        <td>implementación de registro</td>
+        <td>Se agrega la implementación del apartado de registro para la landing page</td>
+        <td>13/03/2024</td>
     </tr>
 </table>
 
@@ -2211,51 +2189,29 @@ Acceptance Tests:
     </tr>
     <tr>
         <td>Landingpage-BookFlow</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>main</td>
+        <td>a81e54e</td>
+        <td>
+Implementación index</td>
+        <td>Se implementa cada sección pedida en el sprint 1, como Catalogo, Inicio, etc.</td>
+        <td>13/04/2024</td>
     </tr>
     <tr>
         <td>Landingpage-BookFlow</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>main</td>
+        <td>16d83db</td>
+        <td>
+Implementacion Inicio Sesión</td>
+        <td>Se creo el apartado de inicio de sesión para la landing page</td>
+        <td>13/04/2024</td>
     </tr>
     <tr>
         <td>Landingpage-BookFlow</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Landingpage-BookFlow</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Landingpage-BookFlow</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Landingpage-BookFlow</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>main</td>
+        <td>c1884ef</td>
+        <td>implementación de registro</td>
+        <td>Se agrega la implementación del apartado de registro para la landing page</td>
+        <td>13/03/2024</td>
     </tr>
 </table>
 
