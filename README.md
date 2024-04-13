@@ -448,6 +448,7 @@ Tengo 20 años y estudió Ingeniería de Software. Me considero una persona resp
         </li>
     </ul>
 </div>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 A continuación, se presentarán las hipótesis destinadas a ofrecer soluciones innovadoras con el propósito de abordar los desafíos dentro de las funcionalidades de la aplicación web, ofreciendo soluciones específicas y medibles. Esta metodología nos permite evaluar de manera objetiva el éxito de nuestras estrategias.
@@ -1634,6 +1635,64 @@ Utilizamos el servicio GitHub Pages para desplegar la landing page de HormonalCa
 En este primer sprint se desarrolló y desplegó el landing page. 
 
 #### 5.2.1.1. Sprint Planning 1
+<table>
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 1</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>26/03/2024</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>10:00 PM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Franz La Torre</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>Hernan Emilio Morales Calderón - U202216263<br>
+        Joaquin David Rivadeneyra Ramos - U202211846<br>
+        Paolo Gonzalo Párraga Gamarra - U202219186<br>
+        Miguel Ángel Huamán Cataño - U202120615<br>
+        Víctor Ernesto Zarate Cáceres - U202112907<br>
+        Franz Jair La Torre Valle - U202012378</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 0 Review Summary</td>
+        <td>No hubo sprint previo</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 0 Retrospective Summary</td>
+        <td>No hubo sprint previo</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 1 Goal</td>
+        <td>Desarrollar y desplegar el landing page para agregar a repositorio grupal</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 1 Velocity</td>
+        <td>2 semanas</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td>5</td>
+    </tr>
+</table>
+
 #### 5.2.1.2. Sprint Backlog 1
 <table>
     <tr align="center">
@@ -1671,7 +1730,7 @@ En este primer sprint se desarrolló y desplegó el landing page.
         <td>Sección nosotros</td>
         <td>Como usuario quiero ver una sección del landing page que hable del startup y de los miembros del equipo para saber los objetivos</td>
         <td>2 hours</td>
-        <td>Franz</td>
+        <td>Paolo</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -1681,7 +1740,7 @@ En este primer sprint se desarrolló y desplegó el landing page.
         <td>Sección catálogo</td>
         <td>Como usuario quiero ver una sección del landing page con el catálogo de productos disponibles para saber si son de mi interés</td>
         <td>3 hours</td>
-        <td>Franz</td>
+        <td>Joaquin</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -1691,7 +1750,7 @@ En este primer sprint se desarrolló y desplegó el landing page.
         <td>Sección contactos</td>
         <td>Como usuario quiero ver una sección del landing page de contactos para poder comunicarme con el startup</td>
         <td>2 hours</td>
-        <td>Franz</td>
+        <td>Miguel</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -1701,7 +1760,7 @@ En este primer sprint se desarrolló y desplegó el landing page.
         <td>Contenido</td>
         <td>Como usuario quiero que la landing page contenga información relevante para tomar una decisión informada</td>
         <td>2 hours</td>
-        <td>Franz</td>
+        <td>Ernesto </td>
         <td>In process</td>
     </tr>
     <tr align="center">
@@ -1711,7 +1770,7 @@ En este primer sprint se desarrolló y desplegó el landing page.
         <td>Desplegar</td>
         <td>Como startup quiero desplegar la landing page para dar a conocer nuestra aplicación</td>
         <td>1 hour</td>
-        <td>Franz</td>
+        <td>Hernán</td>
         <td>In process</td>
     </tr>
 </table>
