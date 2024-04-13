@@ -853,7 +853,6 @@ Gabriel Duran, escritor residente en Lima, está explorando su pasión por la es
 ### 2.2.3. Análisis de entrevistas
 Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un análisis de las entrevistas en el que destacamos las similitudes y hallazgos:
 
-## 2.3. Needfinding
 ### Segmento Objetivo #1: Lectores
 
 Necesidad de Comunidad Literaria: Los lectores expresaron un fuerte deseo de pertenecer a una comunidad donde puedan discutir libros, compartir experiencias y descubrir nuevas lecturas.
@@ -883,6 +882,8 @@ Datos Estadísticos
 ![Estadistica](./imgs/datos.jpg)
 
 Estadísticas de ataques a la privacidad de datos a usuarios a nivel mundial en el último año. Kolesnikov, N. 2024. Estadísticas clave de Ciberseguirdad. Techopedia. https://www.techopedia.com/es/estadisticas-ciberseguridad
+## 2.3. Needfinding
+
 ### 2.3.1. User Personas
 Lectores:
 
@@ -1742,7 +1743,7 @@ Gestión de Dependencias: Usamos npm (Node Package Manager) para gestionar las d
 
 GitHub: Empleamos GitHub como plataforma principal para la documentación del código y la colaboración en el desarrollo. Utilizamos el README.md para documentar el proceso de desarrollo. 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
+<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
 
 
 ### 5.1.2. Source Code Management
