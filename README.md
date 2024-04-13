@@ -299,6 +299,7 @@ Gabriel Duran
 ●	Distrito en el que vive: Lima
 
 ●	Nivel socioeconómico: Clase B
+
 Entrevista:
 
 ●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1olBsJ-0aJsyimzoHnPQgJQht124PKbN6/view?usp=sharing)
@@ -306,6 +307,7 @@ Entrevista:
 ●	Momento en el que inicia: 0:00
 
 ●	Duración: 12:25
+
 Resumen:
 Gabriel Duran, escritor residente en Lima, está explorando su pasión por la escritura, dedicando al menos una hora al día para desarrollar su estilo y voz narrativa. Disfruta de una amplia gama de géneros literarios, desde la historia hasta la ciencia ficción. Sus mayores desafíos incluyen conectar profundamente con los lectores y transmitir emociones de manera efectiva. Utiliza herramientas en línea para investigación y organización, y valora una interfaz intuitiva y funciones de edición. Está emocionado por la posibilidad de conectarse directamente con los lectores a través de la plataforma y consideraría publicar y promocionar sus libros si la aplicación ofrece una comunidad activa y herramientas robustas.
 
