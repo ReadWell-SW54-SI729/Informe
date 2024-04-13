@@ -352,6 +352,11 @@ Tengo 20 años y estudió Ingeniería de Software. Me considero una persona resp
     </ul>
 </div>
 
+
+<img src="https://blogs.gestion.pe/evidencia-para-la-gestion/wp-content/uploads/sites/92/2022/08/Gr%C3%A1fico-21-1024x745.png" alt="Imagen" style="width: 700px;display: block; margin: 0 auto;">
+
+Fuente: ( [Gestion](https://gestion.pe/blog/evidencia-para-la-gestion/2022/08/cuanto-leemos-los-peruanos.html/ "Gestion") )
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 * A pesar del notable aumento en la popularidad de la lectura digital y la disponibilidad sin precedentes de una amplia diversidad de contenido, aún persisten numerosos obstáculos que dificultan que los lectores se comprometan con hábitos de lectura regulares y gratificantes. ¿Cómo podemos superar los desafíos que enfrentan los lectores en la era digital para fomentar hábitos de lectura consistentes y satisfactorios, aprovechando las ventajas de la tecnología y ofreciendo experiencias de lectura más atractivas y personalizadas?
