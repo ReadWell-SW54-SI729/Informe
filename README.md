@@ -255,63 +255,17 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 
 ### Los integrantes que conforman parte de nuestro startup son:
 
-Apellidos y Nombres: Morales Calderón Hernan Emilio
+| Integrante                | Perfil                                           | Foto                                |
+|---------------------------|--------------------------------------------------|-------------------------------------|
+| Morales Calderón Hernan Emilio (u202216263) | Soy Hernan Morales, tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona muy responsable y organizada especialmente cuando se trata de trabajos universitarios. Mi objetivo es culminar exitosamente el curso y nuestro proyecto junto a mi equipo. | ![Foto1](url_foto1)               |
+| La Torre Valle, Franz Jair (U202012378)    | Soy Franz Jair La Torre Valle, estudiante de Ingeniería de Software. En mis tiempos libres me gusta leer, ver películas, practicar deportes y experimentar con nuevas actividades. Mi compromiso con el equipo es ser participativo, estar al pendiente de las actividades, responder cualquier duda y aportar en lo que se pueda. | ![Foto2](url_foto2)               |
+| Rivadeneyra Ramos, Joaquin David (U202211846) | Soy Joaquin Rivadeneyra, tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona comunicativa y abierta a nuevas ideas, lo que me permite tener una buena relación con los demás miembros del equipo y fomentar un ambiente de trabajo colaborativo. | ![Foto3](url_foto3)               |
+| Párraga Gamarra Paolo Gonzalo (U202219186) | Soy Paolo Párraga, estudiante de ingeniería de software. Soy una persona que disfruta trabajar duro para lograr mis objetivos y nunca me rindo a pesar de los momentos difíciles. Haré todo lo posible para seguir mejorando en este largo camino de ser un buen ingeniero, persona y profesional. | ![Foto4](url_foto4)               |
+| Huamán Cataño Miguel Ángel (U202120615)   | Soy Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de ingeniería de software. Disfruto trabajar con empeño para alcanzar mis objetivos y nunca me rindo a pesar de los momentos difíciles. Haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional. | ![Foto5](url_foto5)               |
+| Zarate Cáceres Víctor Ernesto (U202112907) | Soy Víctor Ernesto Zarate Cáceres, estudiante de Ingeniería de Software. Me considero una persona responsable, capaz de aportar distintas ideas y de organizar el trabajo para el desarrollo de nuevos proyectos. Tengo el compromiso de trabajar eficientemente y realizar las entregas en el plazo indicado. | ![Foto6](url_foto6)               |
 
-Código: u202216263
-
-Descripción: Mi nombre es Hernan Morales, tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software.Me considero una persona muy responsable y organizada especialmente cuando se trata de trabajos universitarios. Me comprometo a ser un gran apoyo para mi grupo en este curso. Mi objetivo es culminar exitosamente el curso y nuestro proyecto junto a mi equipo.
-<p align="center">
-    <img src="./imgs/PerfilEmilio.png">
-</p>
 
 
-Apellidos y Nombres: La Torre Valle, Franz Jair
-
-Código: U202012378
-
-Descripción:
-Mi nombre es Franz Jair La Torre Valle, soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas.
-En mis tiempos libres me gusta leer, ver películas, practicar deportes y experimentar con nuevas actividades.
-Mi compromiso con el equipo es siempre ser participativo, estar al pendiente de las actividades, responder cualquier duda y aportar en lo que se pueda. 
-<p align="center">
-    <img src="./imgs/PerfilFranz.jpg">
-</p>
-Apellidos y Nombres: Rivadeneyra Ramos, Joaquin David
-
-Código: U202211846
-
-Descripción: 
-Mi nombre es Joaquin Rivadeneyra tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona comunicativa y abierta a nuevas ideas, lo que me permite tener una buena relación con los demás miembros del equipo y fomentar un ambiente de trabajo colaborativo. Además, soy un buen solucionador de problemas y me gusta trabajar en equipo para encontrar soluciones creativas a los desafíos que se nos presentan. Por último, me esfuerzo por mantener una actitud positiva y motivadora para inspirar a los demás miembros del equipo y lograr los objetivos en conjunto.
-<p align="center">
-    <img src="./imgs/PerfilJoaquin.png">
-</p>
-
-Apellidos y Nombres: Párraga Gamarra Paolo Gonzalo
-
-Código: u202219186
-
-Descripción: Mi nombre es Paolo Párraga soy estudiante de ingeniería de software que va cursando el cuarto ciclo 2023-2. A lo largo de mi corta vida me he ido interesando por la tecnología, la cuarentena hizo que mi interés se fuese acrecentando más, por eso decidí por esta carrera en UPC. Soy una persona que le gusta trabajar duro para lograr mis objetivos, nunca rendirme a pesar de que parece todo perdido y haré todo lo posible para seguir mejorando en este largo camino de ser un buen ingeniero, persona y profesional.
-
-<p align="center">
-    <img src="./imgs/PerfilPaolo.jpg">
-</p>
-Apellidos y Nombres: Huamán Cataño Miguel Ángel
-
-Código: U202120615
-
-Descripción: Mi nombre es Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de ingeniería de software. Soy una persona que disfruta trabajar con empeño para alcanzar mis objetivos, nunca me rindo a pesar de los momentos difíciles y haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional.
-<p align="center">
-    <img src="./imgs/PerfilMiguel.png">
-</p>
-Apellidos y Nombres: Zarate Cáceres Víctor Ernesto
-
-Código: U202112907
-
-Descripción:
-Tengo 20 años y estudió Ingeniería de Software. Me considero una persona responsable en los trabajos, capaz de aportar distintas ideas y de organizar el trabajo para el desarrollo de los nuevos proyectos. Tengo el compromiso de trabajar de manera eficiente y realizar las entregas en el plazo indicado.
-<p align="center">
-    <img src="./imgs/PerfilErnesto.png">
-</p>
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
