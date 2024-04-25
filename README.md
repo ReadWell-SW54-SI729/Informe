@@ -506,13 +506,10 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 #### User Bounded Context
-<img src="imgs/diagramaUserBC.png" alt="User Bounded Context Diagram">
+<img src="imgs/diagramaUserBC.png" alt="User Bounded Context Diagram" width="85%">
 
 #### Content Bounded Context
-<img src="imgs/diagramaContentBC.png" alt="Content Bounded Context Diagram">
-
-#### Collaboration Bounded Context
-<img src="imgs/diagramaCollaborationBC.png" alt="Diagrama de Clases">
+<img src="imgs/diagramaContentBC.png" alt="Content Bounded Context Diagram" width="85%">
 
 ### 4.7.2. Class Dictionary
 #### 4.7.2.1 User Bounded Context
