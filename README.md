@@ -514,7 +514,6 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ### 4.7.2. Class Dictionary
 #### 4.7.2.1 User Bounded Context
 #### 4.7.2.2 Content Bounded Context
-#### 4.7.2.3 Collaboration Bounded Context
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 # Capítulo V: Product Implementation, Validation & Deployment
