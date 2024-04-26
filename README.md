@@ -287,6 +287,32 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
+Lectores:
+Entrevistado #4:
+
+![entrevista-lector4](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/4b0e428b-bd01-44ab-8693-ffda975fecd9)
+
+Nombre: Hector Jimenez Mamani
+
+●	Sexo: Masculino
+
+●	Edad: 16 años
+
+●	Distrito en el que vive: Lima
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1bGZPZzwplLhRTelMO3KdOLUCbJOvTXb1/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 4:26
+
+Resumen: 
+Hector Jimenez Mamani, residente en Lima, disfruta de los libros de ficción, especialmente del drama y la aventura. Su libro favorito es "Los Miserables" de Víctor Hugo. Le motiva vivir nuevas experiencias a través de la lectura y le gustaría descubrir nuevos libros mediante recomendaciones personalizadas. En una aplicación de lectura para jóvenes, busca una interfaz sencilla, resúmenes de libros y la opción de seguir a autores favoritos. Además, le interesaría encontrar contenido adicional como artículos relacionados con libros y recomendaciones de películas o series basadas en libros. Le preocupa la privacidad de sus datos y le gustaría recibir ayuda para mejorar sus hábitos de lectura mediante recordatorios personalizados. Para mantenerse comprometido con la lectura a largo plazo, desea recibir recomendaciones basadas en su historial de lectura y participar en desafíos de lectura.
+
 Autores:
 Entrevistado #3: 
 
