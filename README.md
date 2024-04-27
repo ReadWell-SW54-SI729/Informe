@@ -975,6 +975,22 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 </div>
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
+<div align="justify">
+	Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para la Landing Page de BookFlow, para llevarla a su versión definitiva, donde se completamnte responsive.
+	A su vez se dio inicio a la creación de la plataforma principal. Para ello, dividimos las tareas para trabajar de manera eficiente y centrarnos en áreas específicas, con el fin  
+	de optimizar el tiempo y los recursos. Finalmente, la participación de los miembros del equipo se ve reflejado en los xxx commits realizados en el repositorio de trabajo.<br><br>
+	Tabla para poder identificarnos:
+</div>
+
+|  UserName (Github)   | Nombre         |Tareas|
+| -------------------- |:-------------|:-----|
+|	|Huamán Cataño, Miguel Ángel|	|
+|	|La Torre Valle, Franz Jair|	|
+| hernancit0           | Morales Calderón, Hernan Emilio||
+| PaoloParragaGamarra  | Párraga Gamarra, Paolo Gonzalo ||
+||Rivadeneyra Ramos, Joaquin||
+|ern23zc|Zarate Caceres, Victor Ernesto||
+
 # Conclusiones
 # Bibliografía
 # Anexos
