@@ -512,7 +512,180 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 <img src="imgs/diagramaContentBC.png" alt="Content Bounded Context Diagram" width="85%">
 
 ### 4.7.2. Class Dictionary
+### 4.7.2. Class Dictionary
 #### 4.7.2.1 User Bounded Context
+##### 4.7.2.1.1 Clase Author:
+<table>
+    <tr>
+		<td colspan="2">Clase representativa de los usuarios Autor en la aplicación.</td>
+	</tr>
+    <tr>
+        <td>Atributo</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>biografía</td>
+        <td>Biografía del autor.</td>
+    </tr>
+    <tr>
+        <td>nacionalidad</td>
+        <td>Nacionalidad de origen del autor. También sirve como indicador de idioma de los libros.</td>
+    </tr>
+    <tr>
+        <td>obras</td>
+        <td>Libros publicados por el autor.</td>
+    </tr>
+    <tr>
+        <td>imagen</td>
+        <td>Foto del autor.</td>
+    </tr>
+</table>
+
+##### 4.7.2.1.2 Clase AuthorFactory
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>AuthorFactory es una clase hija de UserFactory. Se encarga de crear a los usuarios Autor en la aplicación. Tiene una relación de asociación con Author.</td>
+        <td>createAuthor()</td>
+    </tr>
+</table>
+
+##### 4.7.2.1.3 Clase Reader
+<table>
+	<tr>
+		<td>Descripción</td>
+	</tr>
+	<tr>
+		<td>Clase representativa de los usuarios Reader en la aplicación.</td>
+	</tr>
+</table>
+
+##### 4.7.2.1.4 Clase ReaderFactory
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>ReaderFactory es una clase hija de UserFactory. Se encarga de crear a los usuarios Reader en la aplicación. Tiene una relación de asociación con Reader.</td>
+        <td>createReader()</td>
+    </tr>
+</table>
+
+##### 4.7.2.1.5 Clase User
+<table>
+	<tr>
+		<td>Descripción</td>
+	</tr>
+	<tr>
+		<td>User es una clase abstracta que representa a los usuarios de la aplicación. Tiene una relación de asociación con UserFactory y Account.</td>
+	</tr>
+</table>
+
+##### 4.7.2.1.6 Clase UserFactory
+<table>
+    <tr>
+		<td colspan="3">La clase UserFactory define la creación de los usuarios del sistema. Tiene una relación de asociación con User.</td>
+	</tr>
+    <tr>
+        <td>Atributo</td>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Nombre del usuario</td>
+        <td rowspan="2">createUser()<br>inc_sesion()<br>registrar()<br>camb_contrasena()<br>actualizar()</td>
+    </tr>
+    <tr>
+        <td>Correo</td>
+        <td>Correo usado para el registro del usuario.</td>
+    </tr>
+</table>
+
+##### 4.7.2.1.7 Clase Configuracion
+<table>
+    <tr>
+		<td colspan="3">La clase Configuracion representa los aspectos configurables de la aplicación.</td>
+	</tr>
+    <tr>
+        <td>Atributo</td>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+      <tr>
+        <td>Instance</td>
+        <td>Lorem Ipsum per cara des martir et lara</td>
+          <td rowspan="5">getInstance()<br>
+        camb_idioma()<br>
+            camb_tema()<br>
+            guardar_config()</td>
+    </tr>
+    <tr>
+        <td>idioma</td>
+        <td>Idioma en el que se verá la aplicación.</td>
+    </tr>
+    <tr>
+        <td>tema</td>
+        <td>Tema de la aplicación, ya sea oscuro o claro.</td>
+    </tr>
+    <tr>
+        <td>notificaciones</td>
+        <td>Como se recibiran las distintas notificaciones</td>
+    </tr>
+    <tr>
+        <td>pref_privacidad</td>
+        <td>Preferencias sobre la privacidad del perfil.</td>
+    </tr>
+</table>
+
+##### 4.7.2.1.8 Clase Account
+<table>
+	<tr>
+		<td>Descripción</td>
+	</tr>
+	<tr>
+		<td>Representa la cuenta personal de los usuarios. Tiene una relación de asociación con Subscription y User.</td>
+	</tr>
+</table>
+
+##### 4.7.2.1.9 Clase Subscription
+<table>
+	<tr>
+		<td>Descripción</td>
+	</tr>
+	<tr>
+		<td>Representa el plan de suscripción en la aplicación. Tiene una relación de asociación con Account.</td>
+	</tr>
+</table>
+
+##### 4.7.2.1.10 Clase Observer
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>Una clase abstracta que define el comportamiento de SuscriptionObserver, con quien tiene una relación de herencia.</td>
+        <td>update()</td>
+    </tr>
+</table>
+
+##### 4.7.2.1.11 Clase SubscriptionObserver
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>Clase hija de Observer, asociada a Subscription. Gestiona el estado de las suscripciones.</td>
+        <td>update()</td>
+    </tr>
+</table>
+
 #### 4.7.2.2 Content Bounded Context
 ##### 4.7.2.2.1 Clase Libro
 <table>
@@ -521,13 +694,16 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
         <td>Métodos</td>
     </tr>
     <tr>
-        <td></td>
+        <td>Representa los libros en la aplicación. Tiene una relación de asociación con BookFactory.</td>
         <td>obt_detalles()<br>anad_lista()</td>
     </tr>
 </table>
 
 ##### 4.7.2.2.2 Clase LibroFactory
 <table>
+	<tr>
+		<td colspan="3">Hija de ContentFactory. Crea nuevos libros en la plataforma. Tiene una relación de asociación con Libro.</td>
+	</tr>
     <tr>
         <td>Atributo</td>
         <td>Descripción</td>
@@ -572,7 +748,134 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
     </tr>
 </table>
 
-##### 4.7.2.2.2
+##### 4.7.2.2.3 Interface Lectura
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>La interface encargada de desplegar el Libro que desee al usuario.</td>
+        <td>notificarLectores()</td>
+    </tr>
+</table>
+
+##### 4.7.2.2.4 Clase ContentFactory
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>Clase abstracta, padre de BookFactory. Se encarga de definir la creación de Libro y Bibliotecas en la aplicación.</td>
+        <td>createContent()</td>
+    </tr>
+</table>
+
+##### 4.7.2.2.5 Clase Biblioteca
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>Sistema de almacenamiento y búsqueda de los libros en la plataforma.</td>
+        <td>buscar()<br>most_lib_pop()<br>rec_lib()</td>
+    </tr>
+</table>
+
+##### 4.7.2.2.6 Clase BibliotecaFactory
+<table>
+    <tr>
+		<td colspan="3">Define la creación de las bibliotecas del sistema. Tiene una relación de asociación con Biblioteca.</td>
+	</tr>
+    <tr>
+        <td>Atributo</td>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>libros_disp</td>
+        <td>Lista de los libros disponibles en la biblioteca.</td>
+        <td rowspan="3">createBiblioteca()</td>
+    </tr>
+    <tr>
+        <td>list_autores</td>
+        <td>Lista de los autores publicados en la biblioteca.</td>
+    </tr>
+    <tr>
+        <td>libros_mas_vend</td>
+        <td>Lista de los libro más vendidos de la biblioteca.</td>
+    </tr>
+</table>
+
+##### 4.7.2.2.7 Clase Transacción
+<table>
+	<tr>
+		<td colspan="3">La clase Transacción representa las compras de libros en la plataforma.</td>
+	</tr>
+    <tr>
+        <td>Atributo</td>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>ID_trans</td>
+        <td>Identificador de la transacción.</td>
+        <td rowspan="6">proc_pago()<br>
+            gen_recibo()</td>
+    </tr>
+    <tr>
+        <td>user_comp</td>
+        <td>Nombre del usuario comprador.</td>
+    </tr>
+    <tr>
+        <td>tit_libro_comp</td>
+        <td>Título de el / los libros comprados.</td>
+    </tr>
+    <tr>
+        <td>fec_comp</td>
+        <td>Fecha en que se realiza la compra.</td>
+    </tr>
+    <tr>
+        <td>metodo_pago</td>
+        <td>Método del pago (tarjeta, transferencia, Yape, etc)</td>
+    </tr>
+    <tr>
+        <td>estado_trans</td>
+        <td>Estado de la transferencia (En proceso, Pagado)</td>
+    </tr>
+</table>
+
+##### 4.7.2.2.8 Clase Comentario
+<table>
+	<tr>
+		<td colspan="3">La clase Comentario representa los comentarios dejados por los libros en la plataforma.</td>
+	</tr>
+    <tr>
+        <td>Atributo</td>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>texto</td>
+        <td>Texto del comentario publicado.</td>
+        <td rowspan="4">anad_coment()<br>elim_coment()</td>
+    </tr>
+    <tr>
+        <td>fec_publicacion</td>
+        <td>Fecha en que se publicó el comentario.</td>
+    </tr>
+    <tr>
+        <td>user_coment</td>
+        <td>Nombre del usuario que realizó el comentario.</td>
+    </tr>
+    <tr>
+        <td>lib_coment</td>
+        <td>Título del libro sobre el que va el comentario.</td>
+    </tr>
+</table>
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 # Capítulo V: Product Implementation, Validation & Deployment
