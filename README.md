@@ -514,6 +514,65 @@ Algunos de los competidores a los que BookFlow podría enfrentarse son:
 ### 4.7.2. Class Dictionary
 #### 4.7.2.1 User Bounded Context
 #### 4.7.2.2 Content Bounded Context
+##### 4.7.2.2.1 Clase Libro
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>obt_detalles()<br>anad_lista()</td>
+    </tr>
+</table>
+
+##### 4.7.2.2.2 Clase LibroFactory
+<table>
+    <tr>
+        <td>Atributo</td>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>titulo</td>
+        <td>Título del libro.</td>
+        <td rowspan="9">createLibro()</td>
+    </tr>
+    <tr>
+        <td>genero</td>
+        <td>Género o géneros del libro.</td>
+    </tr>
+    <tr>
+        <td>sinopsis</td>
+        <td>Descripción corta del contenido del libro.</td>
+    </tr>
+    <tr>
+        <td>ISBN</td>
+        <td>Descripción corta del contenido del libro.</td>
+    </tr>
+    <tr>
+        <td>fec_publicacion</td>
+        <td>Fecha de publicación original del libro.</td>
+    </tr>
+    <tr>
+        <td>n_pags</td>
+        <td>Número de páginas que tiene el libro.</td>
+    </tr>
+    <tr>
+        <td>idioma</td>
+        <td>Idiomas disponibles para leer el libro.</td>
+    </tr>
+    <tr>
+        <td>precio</td>
+        <td>Precio del libro</td>
+    </tr>
+    <tr>
+        <td>disponibilidad</td>
+        <td>Disponibilidad del libro para su lectura</td>
+    </tr>
+</table>
+
+##### 4.7.2.2.2
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 # Capítulo V: Product Implementation, Validation & Deployment
