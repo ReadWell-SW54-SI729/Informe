@@ -769,6 +769,9 @@ Entrevista:
     <li>
         Duración: 10:45
     </li>
+      <li>
+        Entrevistador: La Torre Valle, Franz Jair 
+    </li>
 </ul>
 <img src="imgs/EntrevistaAleshka.png" alt="Entrevista Autor 1">
 
@@ -792,6 +795,7 @@ Entrevistado #2:
             <li>Link: https://drive.google.com/file/d/13qrrITuOfy22VegfnJmAIa2izpRvj6IX/view?usp=sharing</li>
             <li>Momento en el que inicia: 0:00</li>
             <li>Duración: 8:24</li>
+            <li>Entrevistador: Zárate Cáceres, Ernesto </li>
         </ul>
         Resumen:<br>
         Se entrevisto a Omar Champi Valencia, quien menciona tener un interés por la lectura. Él considera que leer le es fundamental para su desarrollo como autor. Piensa que le permite mejorar el lexico a su disposicion y le ayuda mucho 
@@ -827,6 +831,34 @@ Entrevista:
 
 Resumen:
 Gabriel Duran, escritor residente en Lima, está explorando su pasión por la escritura, dedicando al menos una hora al día para desarrollar su estilo y voz narrativa. Disfruta de una amplia gama de géneros literarios, desde la historia hasta la ciencia ficción. Sus mayores desafíos incluyen conectar profundamente con los lectores y transmitir emociones de manera efectiva. Utiliza herramientas en línea para investigación y organización, y valora una interfaz intuitiva y funciones de edición. Está emocionado por la posibilidad de conectarse directamente con los lectores a través de la plataforma y consideraría publicar y promocionar sus libros si la aplicación ofrece una comunidad activa y herramientas robustas.
+
+Entrevistado #4: 
+
+Daniel Perez Mendoza
+![Entrevista3](./imgs/entrevista_Daniel.PNG)
+
+●	Sexo: Masculino
+
+●	Edad: 50 años
+
+●	Distrito en el que vive: Lima
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219186_upc_edu_pe/EdqcvSlWi6RFpbOr0GisH6wBb1Gzc9PT19T7O1gyKwwF2w?e=LWStI7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 7:48
+
+●	Enrevistador: Párraga Gamarra, Paolo Gonzalo
+
+Resumen:
+
+Daniel, escritor residente en Lima, con algo de experiencia publicando libros, ha concedido la entrevista para dar su punto de vista sobre cómo la tecnología tuvo un fecto en cómo escribia. Además, de comentarnos cómo hace para mantener una motivación y disciplina para escribir, así como las herramientas que usa para su trabajo, ya sea Word o un pequeño cuadernito de apuntes.
+
 ### 2.2.3. Análisis de entrevistas
 Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un análisis de las entrevistas en el que destacamos las similitudes y hallazgos:
 
