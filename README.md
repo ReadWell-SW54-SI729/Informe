@@ -153,7 +153,23 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Huamán Cataño, Miguel Ángel: User Journey Mapping, Empathy Mapping, etc. La Torre Valle, Franz Jair: Lean UX Assumptions, AS-IS Scenario Mapping, etc. Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, etc. Párraga Gamarra, Paolo Gonzalo: Lean Ux Canvas, User Persona, etc. Rivadeneyra Ramos, Joaquin: Lean UX Hypothesis statements, As-is Scenario Mapping, etc. Zárate Cáceres, Victor Ernesto: Antecedentes y problemática, Impact Mapping, etc. | Es de vital importancia reconocer la importancia crítica de utilizar un abanico diversificado de herramientas y metodologías... |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Huamán Cataño, Miguel Ángel
+TB1:User Journey Mapping, Empathy Mapping, Web Applications User Flow Diagrams y Web Application Prototyping.
+
+La Torre Valle, Franz Jair
+TB1:Lean UX Assumptions, AS-IS Scenario Mapping, Ubiquitous Language, SEO Tags and Meta Tags, Landing Page Wireframe, Landing Page Mock-up, Landing Page, Sprint Planning 1, Sprint Backlog 1.
+
+Morales Calderón, Hernan Emilio
+TB1:Segmentos objetivos, análisis competitivo, estrategias y tácticas frente a competidores, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management
+
+Párraga Gamarra, Paolo Gonzalo
+TB1:Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up.
+
+Rivadeneyra Ramos, Joaquin
+TB1:Lean UX Hypothesis statements, As-is Scenario Mapping., User Persona y Conclusiones.
+
+Zárate Cáceres, Victor Ernesto
+TB1:Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary. | Es de vital importancia reconocer la importancia crítica de utilizar un abanico diversificado de herramientas y metodologías, que abarquen desde el análisis profundo de las expectativas y emociones de los usuarios, hasta la minuciosa formulación de hipótesis y la identificación sistemática de problemas. Este enfoque multifacético es esencial para guiar con eficiencia el desarrollo de proyectos y startups, garantizando que la trayectoria seguida esté alineada con las necesidades y deseos del mercado objetivo. Además, es imperativo que este proceso sea iterativo, permitiendo una adaptación continua y una reevaluación de las estrategias a medida que se obtienen nuevos datos e insights. Implementar pruebas de usabilidad frecuentes y desarrollar prototipos funcionales puede proporcionar una retroalimentación invaluable que, cuando se integra de manera efectiva, resulta en soluciones altamente pertinentes y orientadas al usuario. Por lo tanto, para maximizar las posibilidades de éxito en un mercado altamente competitivo, las startups deben adoptar una filosofía de diseño que sea tanto inclusiva como holística, empoderando a los usuarios a través de soluciones innovadoras que mejoren significativamente su experiencia diaria. Al hacerlo, no sólo se logra la satisfacción del usuario, sino que se estimula el crecimiento orgánico del producto a través de la defensa y lealtad del cliente, estableciendo las bases para una empresa sostenible y próspera en el futuro. |
 | Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos | Huamán Cataño, Miguel Ángel: Un mejor conocimiento sobre las expectativas y emociones de nuestros usuarios... La Torre Valle, Franz Jair: Al momento de integrar estos aspectos en el diseño de la solución de software... Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, etc. Párraga Gamarra, Paolo Gonzalo: La realización de cada apartado conllevó una investigación para el segmento objetivo... Rivadeneyra Ramos, Joaquin: Para determinar este diseño de la solución se tuvieron que tomar en cuenta diversos factores globales... Zárate Cáceres, Victor Ernesto: Se identificó el impacto que tendría la solución en la vida de los usuarios... | Es importante que el diseño de soluciones de software no solo se centre en la funcionalidad técnica, sino que también considere cuidadosamente los aspectos relacionados con la salud pública, seguridad, bienestar y los diversos factores globales, culturales, sociales, ambientales y económicos... |
 
 # <span id="capítulo-introducción" style="color:red">Capítulo I: Introducción</span>
