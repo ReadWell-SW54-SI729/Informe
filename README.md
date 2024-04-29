@@ -150,36 +150,11 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 ### [Bibliografía](#bibliografia-1)
 ### [Anexos](#anexos-1)
 # Student Outcome
-<table>
-    <tr>
-        <th>Criterio Especifico</th>
-        <th>Acciones Realizadas</th>
-        <th>Conclusiones</th>
-    </tr>
-    <tr>
-        <td align="justify">
-            Participa en equipos multidiciplinados con eficacia eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.
-        </td>
-        <td align="justify">
-            Huamán Cataño, Miguel Ángel<br>
-            <em>TB1:<br></em>
-            <br>La Torre Valle, Franz Jair<br>
-            <em>TB1:<br></em>
-            <br>Morales Calderón, Hernan Emilio<br>
-            <em>TB1:<br></em>
-            <br>Párraga Gamarra, Paolo Gonzalo<br>
-            <em>TB1:<br></em>
-            <br>Rivadeneyra Ramos, Joaquin<br>
-            <em>TB1:<br></em>
-            <br>Zárate Cáceres, Victor Ernesto <br>
-            <em>TB1:<br></em>
-        </td>
-        <td align="justify">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ex sapien, mollis in orci ac, scelerisque mollis nisl. Curabitur finibus ac diam quis 
-            facilisis.
-        </td>
-    </tr>
-</table>
+
+| Criterio Especifico | Acciones Realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Huamán Cataño, Miguel Ángel: User Journey Mapping, Empathy Mapping, etc. La Torre Valle, Franz Jair: Lean UX Assumptions, AS-IS Scenario Mapping, etc. Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, etc. Párraga Gamarra, Paolo Gonzalo: Lean Ux Canvas, User Persona, etc. Rivadeneyra Ramos, Joaquin: Lean UX Hypothesis statements, As-is Scenario Mapping, etc. Zárate Cáceres, Victor Ernesto: Antecedentes y problemática, Impact Mapping, etc. | Es de vital importancia reconocer la importancia crítica de utilizar un abanico diversificado de herramientas y metodologías... |
+| Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos | Huamán Cataño, Miguel Ángel: Un mejor conocimiento sobre las expectativas y emociones de nuestros usuarios... La Torre Valle, Franz Jair: Al momento de integrar estos aspectos en el diseño de la solución de software... Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, etc. Párraga Gamarra, Paolo Gonzalo: La realización de cada apartado conllevó una investigación para el segmento objetivo... Rivadeneyra Ramos, Joaquin: Para determinar este diseño de la solución se tuvieron que tomar en cuenta diversos factores globales... Zárate Cáceres, Victor Ernesto: Se identificó el impacto que tendría la solución en la vida de los usuarios... | Es importante que el diseño de soluciones de software no solo se centre en la funcionalidad técnica, sino que también considere cuidadosamente los aspectos relacionados con la salud pública, seguridad, bienestar y los diversos factores globales, culturales, sociales, ambientales y económicos... |
 
 # <span id="capítulo-introducción" style="color:red">Capítulo I: Introducción</span>
 ## 1.1. Startup Profile
