@@ -2521,7 +2521,7 @@ Tabla para poder identificarnos:
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
 
-En esta sección se presenta un resumen de los avances en la implementación de los productos de la solución, de acuerdo al alcance definido para el Sprint 1. Se incluye una tabla que resume los commits relacionados con la implementación de las historias de usuario.
+En esta sección se presenta un resumen de los avances en la implementación de los productos de la solución, de acuerdo al alcance definido para el Sprint 2. Se incluye una tabla que resume los commits relacionados con la implementación de las historias de usuario.
 
 #### Tabla de resumen de commits
 <table>
