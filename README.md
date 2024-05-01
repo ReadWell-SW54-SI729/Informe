@@ -607,7 +607,7 @@ Nuestras tácticas incluyen la realización de investigaciones exhaustivas del m
 ### 2.2.1. Diseño de entrevistas
 
 Lectores
-<ul>
+<ol>
     <li>¿Qué géneros literarios prefieres leer?
 </li>
     <li>¿Cuál es tu mayor desafío al encontrar tiempo para leer?
@@ -631,11 +631,11 @@ Lectores
     <li>¿Qué tipo de recompensas o beneficios te gustaría obtener por ser un usuario leal de la aplicación?
 </li>
     <li>¿Cómo te gustaría que la aplicación te ayudara a descubrir nuevos títulos y autores de interés?</li>
-</ul>
+</ol>
 
 Autores
 
-<ul>
+<ol>
     <li>¿En qué géneros te especializas como escritor? ¿Qué te atrae de esos géneros?
     </li>
     <li>¿Podrías describir tu proceso creativo? ¿Cómo se te ocurren las ideas para tus historias?
@@ -659,7 +659,7 @@ Autores
     <li>¿Qué te parece la idea de una aplicación dedicada a fomentar la lectura? ¿Qué funcionalidades te gustaría que tuviera una aplicación así para ser útil a los autores?
     </li>
     <li>¿Cómo te gustaría que la aplicación te ayudara a mejorar tu experiencia como autor? ¿Qué beneficios esperas obtener de su uso?</li>
-</ul>
+</ol>
 
 ### 2.2.2. Registro de entrevistas
 ### Lectores:
