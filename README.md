@@ -500,7 +500,9 @@ La menor cantidad de trabajo necesaria es definir nuestro problema principal y a
 </table>
 
 ## 1.3. Segmentos objetivo
-Los segmentos de enfoque consisten en un conjunto particular de individuos que comparten rasgos y requerimientos afines, estableciéndolos como un público objetivo atractivo para una compañía o marca. Una vez reconocidos, estos segmentos pueden ser abordados de forma exitosa a través de tácticas de marketing y publicidad personalizadas, lo que capacita a las empresas para potenciar su efectividad y eficiencia en la adquisición y retención de clientes. A continuación, se han delimitado los próximos grupos de enfoque:
+<p align="justify">
+	Los segmentos de enfoque consisten en un conjunto particular de individuos que comparten rasgos y requerimientos afines, estableciéndolos como un público objetivo atractivo para una compañía o marca. Una vez reconocidos, estos segmentos pueden ser abordados de forma exitosa a través de tácticas de marketing y publicidad personalizadas, lo que capacita a las empresas para potenciar su efectividad y eficiencia en la adquisición y retención de clientes. A continuación, se han delimitado los próximos grupos de enfoque:
+</p>
 
 **Segmento objetivo #1:** Lectores
 
@@ -604,6 +606,7 @@ Implementamos una variedad de estrategias de mercadotecnia. Esto incluye llevar 
 
 Nuestras tácticas incluyen la realización de investigaciones exhaustivas del mercado digital. Este proceso nos permite comprender a fondo las necesidades no satisfechas de los usuarios en el ámbito de la lectura. Utilizamos esta información para adaptar nuestro sistema de manera que pueda satisfacer de manera efectiva esas necesidades específicas de los usuarios. Este enfoque nos permite ofrecer soluciones que están perfectamente alineadas con las demandas del mercado y que brindan una experiencia de lectura más satisfactoria para nuestros usuarios.
 
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
@@ -687,8 +690,9 @@ Entrevista:
 ●	Entrevistador: Morales Calderón, Hernan Emilio
 
 Resumen:
+<p align="justify">
 El entrevistado, Joseph Huammani, de 23 años, expresó su preferencia por la novela y la ciencia ficción como género literario favorito. Además, dice que su mayor desafío a la hora de encontrar tiempo para leer es equilibrar sus muchas responsabilidades diarias. Enfatizó que historias interesantes, personajes bien desarrollados y giros argumentales consistentemente atractivos son los factores que lo motivan a continuar leyendo los libros. Además, aprecian funciones como la interfaz intuitiva, las recomendaciones personalizadas y el seguimiento del tiempo de lectura semanal en la aplicación de lectura. Además, también expresó interés en encontrar reseñas de libros, recomendaciones de otros lectores y entrevistas a autores en la aplicación, y expresó su deseo de interactuar con otros lectores de otras audiencias a través de clubes de lectura virtuales y debates en línea. Para él, la seguridad y privacidad de los datos personales son importantes y considera que estrategias como establecer objetivos de lectura, programar momentos específicos para leer y llevar un diario de lectura serán útiles para mantener un hábito de lectura constante. Prefiere comprar libros electrónicos o audiolibros en línea debido a descuentos, ofertas especiales y amplia gama de títulos. Joseph afirmó que dejaría de leer libros si la trama se volviera aburrida o los personajes no estuvieran bien desarrollados. Como usuario leal de la aplicación, espera descuentos en compras futuras y acceso a contenido exclusivo, desea que la aplicación le recomiende libros según sus intereses anteriores y le permita descubrir nuevos géneros y autores.
-
+</p>
 
 Entrevistado #2: 
 ![Estrevista1](./imgs/entrevistaPaolo.png)
@@ -713,7 +717,9 @@ Entrevista:
 ●	Entrevistador: Párraga Gamarra, Paolo Gonzalo
 
 Resumen:
+<p align="justify">
 El entrevistado en esta ocasión es Anthony Tarrillo de unos 20 años que nos cuenta que tiene problemas al momento de hacer su tesis, ya que no está acostumbrado a textos tan densos y aburridos. Por otro lado, el desea desarrollar un hábito por la lectura para dejar de lado sus problemas de lectura. Su mayor desafío a la hora de leer son textos muy largos que no llegan a ningún punto, eso lo desanima a seguir leyendo, dejándolo de lado. Enfatizó en sus gustos por el drama y la ciencia ficción, así como los personajes bien desarrollados. Así mismo, para Anthony el aplicativo debería tener las medidas de seguridad estándar como la verificación de dos pasos, contraseña segura, etc.
+</p>
 
 Entrevistado N°3: Piero Delgado
 
@@ -738,9 +744,9 @@ Entrevistado N°3: Piero Delgado
 ●	Entrevistador: Rivadeneyra Ramos, Joaquin
 
 Resumen:
-
+<p align="justify">
 Piero Delgado, un joven de 20 años, revela sus preferencias literarias que incluyen ficción contemporánea, ciencia ficción y literatura histórica. Destaca el desafío de encontrar tiempo para leer, buscando equilibrio entre sus responsabilidades laborales y personales. Piero se motiva a terminar un libro cuando la trama es intrigante y los personajes son complejos. En cuanto a aplicaciones de lectura, valora la sincronización entre dispositivos, las recomendaciones personalizadas y la posibilidad de interactuar con otros lectores. Además, destaca la importancia de la privacidad de datos al usar estas aplicaciones y sugiere que estrategias como establecer metas de lectura ayudan a mantener un hábito constante. Piero espera obtener descuentos en libros y acceso anticipado a nuevos lanzamientos como recompensas por su fidelidad, y desea que la aplicación le ayude a descubrir nuevos títulos a través de recomendaciones personalizadas y muestras gratuitas.
-
+</p>
 Entrevistado #4:
 
 ![entrevista-lector4](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/4b0e428b-bd01-44ab-8693-ffda975fecd9)
@@ -763,8 +769,10 @@ Entrevista:
 
 ●	Duración: 4:26
 
-Resumen: 
+Resumen:
+<p align="justify">
 Hector Jimenez Mamani, residente en Lima, disfruta de los libros de ficción, especialmente del drama y la aventura. Su libro favorito es "Los Miserables" de Víctor Hugo. Le motiva vivir nuevas experiencias a través de la lectura y le gustaría descubrir nuevos libros mediante recomendaciones personalizadas. En una aplicación de lectura para jóvenes, busca una interfaz sencilla, resúmenes de libros y la opción de seguir a autores favoritos. Además, le interesaría encontrar contenido adicional como artículos relacionados con libros y recomendaciones de películas o series basadas en libros. Le preocupa la privacidad de sus datos y le gustaría recibir ayuda para mejorar sus hábitos de lectura mediante recordatorios personalizados. Para mantenerse comprometido con la lectura a largo plazo, desea recibir recomendaciones basadas en su historial de lectura y participar en desafíos de lectura.
+</p>
 
 ### Autores:
 Entrevistada #1: Aleshka Fernandez
@@ -822,14 +830,16 @@ Entrevistado #2:
             <li>Duración: 8:24</li>
             <li>Entrevistador: Zárate Cáceres, Ernesto </li>
         </ul>
-        Resumen:<br>
+Resumen:
+<p align="justify">
         Se entrevisto a Omar Champi Valencia, quien menciona tener un interés por la lectura. Él considera que leer le es fundamental para su desarrollo como autor. Piensa que le permite mejorar el lexico a su disposicion y le ayuda mucho 
         aprender al analizar tecnicas y estilos de autores que admira. Menciona que la lectura le ayuda a su inspiracion y a encontrar nuevas idea para escribir en ciencia ficción, un género que le agrada por la libertad que ofrece al creer
         nuevos personajes o mundos. Tambien menciona que le gustan los grupos de escritura, pues le permiten mejorar con apoyo mutuo. A su vez, recalca el uso de recompensas a su propio progreso.
         Al momento de escribir, suele utilizar software especializado como Scribdr o Ulises, que le ayudan a organizarse y seguir su progreso. A lo largo de su carrera, ha enfrentado ciertos bloqueos y dudas en su mente, como rechazo por parte
         de las demás personas. Por otro lado, recomienda a los novatos leer mucho, para que aprendan de sus ídolo, a quiens deben prestar atención en sus estilos y tecnicas. Menciona que es importante escribir con regularidad, para ganar practica
         al experimentar y que no deben rendirse. Finalmente, menciona estar de acuerdo con la creación de una aplicación que fomente la lectura. De esta espera que le ayude a organizar sus ideas, promover su trabajo, conocer nuevos autores y generos 
-        y poder conectar con lectores para recibir retroalimentacion. <br><br>
+        y poder conectar con lectores para recibir retroalimentacion. <br>
+</p>
 
 Entrevistado #3: 
 
@@ -855,8 +865,9 @@ Entrevista:
 ●	Enrevistador: Huamán Cataño, Miguel Ángel
 
 Resumen:
+<p align="justify">
 Gabriel Duran, escritor residente en Lima, está explorando su pasión por la escritura, dedicando al menos una hora al día para desarrollar su estilo y voz narrativa. Disfruta de una amplia gama de géneros literarios, desde la historia hasta la ciencia ficción. Sus mayores desafíos incluyen conectar profundamente con los lectores y transmitir emociones de manera efectiva. Utiliza herramientas en línea para investigación y organización, y valora una interfaz intuitiva y funciones de edición. Está emocionado por la posibilidad de conectarse directamente con los lectores a través de la plataforma y consideraría publicar y promocionar sus libros si la aplicación ofrece una comunidad activa y herramientas robustas.
-
+</p>
 Entrevistado #4: 
 
 Daniel Perez Mendoza
@@ -881,8 +892,9 @@ Entrevista:
 ●	Enrevistador: Párraga Gamarra, Paolo Gonzalo
 
 Resumen:
-
+<p align="justify">
 Daniel, escritor residente en Lima, con algo de experiencia publicando libros, ha concedido la entrevista para dar su punto de vista sobre cómo la tecnología tuvo un fecto en cómo escribia. Además, de comentarnos cómo hace para mantener una motivación y disciplina para escribir, así como las herramientas que usa para su trabajo, ya sea Word o un pequeño cuadernito de apuntes.
+</p>
 
 ### 2.2.3. Análisis de entrevistas
 Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un análisis de las entrevistas en el que destacamos las similitudes y hallazgos:
@@ -903,13 +915,17 @@ Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un aná
 
 ### Segmento Objetivo #1: Lectores
 
-A continuación, se presentan gráficos relacionados a nuestro análisis de las entrevistas del segmento objetivo lectores, considerando los géneros de su preferencia y su motivación para leer.
+<p align="justify">
+	A continuación, se presentan gráficos relacionados a nuestro análisis de las entrevistas del segmento objetivo lectores, considerando los géneros de su preferencia y su motivación para leer.
+</p>
 
 <img src="imgs/AnálisisLectores1.jpg" alt="Análisis Entrevista Lectores 1"> <img src="imgs/AnálisisLectores2.jpg" alt="Análisis Entrevista Lectores 2">
 
 ### Segmento Objetivo #2:  Autores
 
-A continuación, se presentan gráficos relacionados a nuestro análisis de las entrevistas del segmento objetivo autores, considerando los géneros en los que se especializan y los recursos que utilizan para escribir.
+<p align="justify">
+	A continuación, se presentan gráficos relacionados a nuestro análisis de las entrevistas del segmento objetivo autores, considerando los géneros en los que se especializan y los recursos que utilizan para escribir.
+</p>
 
 <img src="imgs/AnálisisAutores1.jpg" alt="Análisis Entrevista Autores 1"> <img src="imgs/AnálisisAutores2.jpg" alt="Análisis Entrevista Autores 2">
 
