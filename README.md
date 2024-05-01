@@ -2455,10 +2455,145 @@ Tabla para poder identificarnos:
 
 ![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/dd4c9589-da63-4d46-9fae-5018c857c7fc)
 
-
 ![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/403531cd-2e68-4059-8008-e4ee9280ca63)
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1.Sprint Planning 2.
 
+| Sprint # | Sprint 2 |
+|---------------------|-------------------------------------------|
+| Date                | 2024/04/23                                |
+| Time                | 09:00 PM                                  |
+| Location            | Videoconferencia Zoom                     |
+| Prepared By         | Joaquin Rivadeneyra Ramos                 |
+| Attendees (to planning meeting) | Hernan Emilio Morales Calderón - U202216263 |
+|                      | Joaquin David Rivadeneyra Ramos - U202211846 |
+|                      | Paolo Gonzalo Párraga Gamarra - U202219186 |
+|                      | Miguel Ángel Huamán Cataño - U202120615   |
+|                      | Víctor Ernesto Zarate Cáceres - U202112907 |
+|                      | Franz Jair La Torre Valle - U202012378    |
+| Sprint 1 Review Summary | Se completaron los 6 de 6 user stories establecidos en el sprint anterior, mejoramos la experiencia de usuario en la landing page. Hubo retrasos con su elaboración, lo cual nos sirvió para dividirnos mejor en las siguientes entregas. |
+| Sprint 1 Retrospective Summary | El equipo acordó mejorar las estimaciones de tiempo y colaborar más estrechamente con el equipo. Además, de mejorar cuantiosamente la landing page de la aplicación |
+| **Sprint Goal & User Stories** | |
+| Sprint 2 Goal        | El objetivo primordial para este sprint es implementar funcionalidades esenciales para el front-end de la aplicación, buscando enriquecer la personalización de la experiencia del usuario y mejorar sustancialmente la gestión de contenido. Nos enfocaremos en desarrollar una interfaz de usuario intuitiva y responsiva que permita a los usuarios interactuar de manera más efectiva con nuestras características principales. |
+| Sprint 2 Velocity    | 21 Story Points                           |
+| Sum of Story Points  | 21 Story Points                           |
+
+#### 5.2.2.2.Sprint Backlog 2.
+
+| Sprint # | Sprint 2 | | | | | | |
+|----------|----------|---|------------------------|-------------------------------------------|--------------|-------------------|--------|
+| **User Story ID** | **Title** | **Work-Item / Task ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| US09 | Configurar Perfil y Preferencias | W01 | Perfil | Implementar funcionalidad de edición de perfil para la conformidad del usuario | 2 horas | Joaquin Rivadeneyra  | Done |
+| US13 | Crear Lista de Lectura | W02 | Lista de Lectura | Diseñar interfaz para listas de lectura | 3 horas | Paolo Párraga | Done |
+| US14 | Seguir a Autores Favoritos | W03 | Autores | Implementar sistema de seguimiento de autores para que el usuario siga a sus autores favoritos | 2 horas | Paolo Gonzalo Párraga  | Done |
+| US15 | Explorar Libros Populares | W04 | Libros Populares | Desarrollar sección de libros populares para que el usuario este al tanto de las tendencias | 3 horas | Miguel Huamán | Done |
+| US18 | Configurar Recordatorios de Lectura | W05 | Recordatorios | Crear funcionalidad de recordatorios en la app para estrenos de nuevos libros | 3 horas | Hernan Morales | Done |
+| US19 | Explorar Libros por Temáticas | W06 | Temáticas | Implementar filtros de búsqueda por temática para los usuarios | 5 horas | Joaquin Rivadeneyra | Done |
+| US20 | Obtener Resúmenes de Libros | W07 | Resúmenes | Desarrollar funcionalidad para mostrar resúmenes de libros | 2.5 horas |  Franz La Torre | Done |
+| US22 | Realizar Comentarios y Discusiones en Libros | W08 | Comentarios | Implementar sección de comentarios en los detalles del libro | 2 horas | Víctor Zarate | Done |
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+<div align="justify">
+	Para el Sprint 2 únicamente se planificó para abarcar las mejoras de la landing page y la creación del front-end.
+	<table>
+		<tr>
+			<td>Endpoint: </td>
+			<td>Details: </td>
+		</tr>
+		<tr>
+			<td>/</td>
+			<td>Se implemento</td>
+		</tr>
+		<tr>
+			<td>/</td>
+			<td>Se implemento</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>Repository</td>
+			<td>Branch</td>
+			<td>Commit ID</td>
+			<td>Commit message</td>
+			<td>Commit message body</td>
+			<td>Commited on (Date)</td>
+		</tr>
+		<tr>
+			<td>Landingpage-BookFlow</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Landingpage-BookFlow</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>FRONT_END</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>FRONT_END</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+</div>
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+<div align="justify">
+	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
+	primer versión de la web application, con mejoras a realizar para el siguiente sprint:
+	<ul>
+		<li>Landing Page:</li>
+		<img src="imgs/EvidenceSprintLanding1" alt="Evidencia 1 Landing Page - Sprint 2">
+		<img src="imgs/EvidenceSprintLanding2" alt="Evidencia 2 Landing Page - Sprint 2">
+		<img src="imgs/EvidenceSprintLanding3" alt="Evidencia 3 Landing Page - Sprint 2">
+		<img src="imgs/EvidenceSprintLanding4" alt="Evidencia 4 Landing Page - Sprint 2">
+		<li>Web Application</li>
+		<img src="imgs/EvidenceSprintWebApp1" alt="Evidencia 1 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp2" alt="Evidencia 2 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp3" alt="Evidencia 3 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp4" alt="Evidencia 4 Web ApplicationLanding Page - Sprint 2">
+	</ul>
+</div>
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+<div align="justify">
+	Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para la Landing Page de BookFlow, para llevarla a su versión definitiva, donde se completamnte responsive.
+	A su vez se dio inicio a la creación de la plataforma principal. Para ello, dividimos las tareas para trabajar de manera eficiente y centrarnos en áreas específicas, con el fin  
+	de optimizar el tiempo y los recursos. Finalmente, la participación de los miembros del equipo se ve reflejado en los xxx commits realizados en el repositorio de trabajo.<br><br>
+	Tabla para poder identificarnos:
+</div>
+
+|  UserName (Github)   |             Nombre             |Tareas|
+| -------------------- |:-------------------------------|:-----|
+| Huaman-Miguel	       |Huamán Cataño, Miguel Ángel     ||
+| FranzJairLTV	       |La Torre Valle, Franz Jair      ||
+| hernancit0           | Morales Calderón, Hernan Emilio||
+| PaoloParragaGamarra  | Párraga Gamarra, Paolo Gonzalo ||
+| joqui4               |Rivadeneyra Ramos, Joaquin      ||
+| ern23zc              |Zarate Caceres, Victor Ernesto  ||
+
+<img src="imgs/Insights2.1">
+<img src="imgs/Insights2.2">
 
 # Conclusiones
 En conclusion, BookFlow se posiciona como una plataforma integral que no solo conecta a los lectores con una amplia gama de libros y contenido relevante, sino que también brinda a los autores las herramientas necesarias para promocionar y comprender mejor sus obras. Con un enfoque en la comunidad, la innovación y la calidad, BookFlow tiene el potencial de convertirse en un punto de referencia para los amantes de la lectura y los entusiastas de la literatura en todo el mundo.
