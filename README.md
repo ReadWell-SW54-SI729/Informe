@@ -901,9 +901,18 @@ Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un aná
 
 ### Datos Estadísticos 
 
-![Estadistica](./imgs/datos.jpg)
+### Segmento Objetivo #1: Lectores
 
-Estadísticas de ataques a la privacidad de datos a usuarios a nivel mundial en el último año. Kolesnikov, N. 2024. Estadísticas clave de Ciberseguirdad. Techopedia. https://www.techopedia.com/es/estadisticas-ciberseguridad
+A continuación, se presentan gráficos relacionados a nuestro análisis de las entrevistas del segmento objetivo lectores, considerando los géneros de su preferencia y su motivación para leer.
+
+<img src="imgs/AnálisisLectores1.jpg" alt="Análisis Entrevista Lectores 1"> <img src="imgs/AnálisisLectores2.jpg" alt="Análisis Entrevista Lectores 2">
+
+### Segmento Objetivo #2:  Autores
+
+A continuación, se presentan gráficos relacionados a nuestro análisis de las entrevistas del segmento objetivo autores, considerando los géneros en los que se especializan y los recursos que utilizan para escribir.
+
+<img src="imgs/AnálisisAutores1.jpg" alt="Análisis Entrevista Autores 1"> <img src="imgs/AnálisisAutores2.jpg" alt="Análisis Entrevista Autores 2">
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
