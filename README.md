@@ -3010,18 +3010,18 @@ git commit fix : Autores y Apifake</td>
 	primer versión de la web application, con mejoras a realizar para el siguiente sprint:
 	<ul>
 		<li>Landing Page:</li>
-		<img src="imgs/EvidenceSprintLanding1" alt="Evidencia 1 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding2" alt="Evidencia 2 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding3" alt="Evidencia 3 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding4" alt="Evidencia 4 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding5" alt="Evidencia 5 Landing Page - Sprint 2">
+		<img src="imgs/EvidenceSprintLanding1.png" alt="Evidencia 1 Landing Page - Sprint 2">
+		<img src="imgs/EvidenceSprintLanding2.png" alt="Evidencia 2 Landing Page - Sprint 2">
+		<img src="imgs/EvidenceSprintLanding3.png" alt="Evidencia 3 Landing Page - Sprint 2">
+		<img src="imgs/EvidenceSprintLanding4.png" alt="Evidencia 4 Landing Page - Sprint 2">
+		<img src="imgs/EvidenceSprintLanding5.png" alt="Evidencia 5 Landing Page - Sprint 2">
 		<li>Web Application</li>
-		<img src="imgs/EvidenceSprintWebApp1" alt="Evidencia 1 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp2" alt="Evidencia 2 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp3" alt="Evidencia 3 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp4" alt="Evidencia 4 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp5" alt="Evidencia 5 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp6" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp1.png" alt="Evidencia 1 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp2.png" alt="Evidencia 2 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp3.png" alt="Evidencia 3 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp4.png" alt="Evidencia 4 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp5.png" alt="Evidencia 5 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp6.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
 	</ul>
 </div>
 
