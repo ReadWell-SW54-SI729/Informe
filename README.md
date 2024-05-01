@@ -55,7 +55,8 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 12/04/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II, Capítulo III,  Capítulo IV y Capítulo V| 
+|TB1| 12/04/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II, Capítulo III,  Capítulo IV y Capítulo V|
+|TP | 31/04/2024 |Todos los integrantes del equipo| Mejoras respecto a presentable anterior <br> Sprint 2| 
 <br>
 
 # Project Report Collaboration Insights
@@ -200,12 +201,12 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
             <em>TB1:<br></em>Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.<br>
         </td>
         <td align="justify">
-            Se destaca la importancia de emplear una variedad de herramientas y enfoques, desde el análisis de las expectativas y emociones de los usuarios hasta la formulación de hipótesis y la identificación de problemas, para guiar eficazmente el desarrollo de proyectos y startups hacia soluciones pertinentes y orientadas al usuario.
+            Es de vital importancia reconocer la importancia crítica de utilizar un abanico diversificado de herramientas y metodologías, que abarquen desde el análisis profundo de las expectativas y emociones de los usuarios, hasta la minuciosa formulación de hipótesis y la identificación sistemática de problemas. Este enfoque multifacético es esencial para guiar con eficiencia el desarrollo de proyectos y startups, garantizando que la trayectoria seguida esté alineada con las necesidades y deseos del mercado objetivo. Además, es imperativo que este proceso sea iterativo, permitiendo una adaptación continua y una reevaluación de las estrategias a medida que se obtienen nuevos datos e insights. Implementar pruebas de usabilidad frecuentes y desarrollar prototipos funcionales puede proporcionar una retroalimentación invaluable que, cuando se integra de manera efectiva, resulta en soluciones altamente pertinentes y orientadas al usuario.
         </td>
     </tr>
     <tr>
         <td align="justify">
-            2.c2. Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos
+            Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos
         </td>
         <td align="justify">
             Huamán Cataño, Miguel Ángel<br>
@@ -224,7 +225,7 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
             orientarse a recibir mejoras continuas.<br>
         </td>
         <td>
-        <br>Es fundamental que el diseño de soluciones de software no solo se centre en la funcionalidad técnica, sino que también considere cuidadosamente los aspectos relacionados con la salud pública, seguridad, bienestar y los diversos factores globales, culturales, sociales, ambientales y económicos. Este enfoque integral garantiza que las soluciones tecnológicas contribuyan de manera positiva a la sociedad, abordando las necesidades de manera efectiva y promoviendo un impacto beneficioso en múltiples aspectos de la vida cotidiana y el entorno</br>
+            Es importante que el diseño de soluciones de software no solo se centre en la funcionalidad técnica, sino que también considere cuidadosamente los aspectos relacionados con la salud pública, seguridad, bienestar y los diversos factores globales, culturales, sociales, ambientales y económicos. Este enfoque integral garantiza que las soluciones tecnológicas contribuyan de manera positiva a la sociedad, abordando las necesidades de manera efectiva y promoviendo un impacto beneficioso en múltiples aspectos de la vida cotidiana y el entorno. Al profundizar en las dimensiones éticas y humanas del desarrollo tecnológico, los diseñadores y desarrolladores de software pueden anticipar y mitigar los posibles efectos negativos, como la exclusión digital, la brecha de género en la tecnología o los problemas de accesibilidad. Al incorporar estos valores, las startups y proyectos no solo se están posicionando para el éxito económico, sino que están cultivando la responsabilidad social y contribuyendo al desarrollo sostenible.
         </td>
     </tr>
 </table>
@@ -499,7 +500,9 @@ La menor cantidad de trabajo necesaria es definir nuestro problema principal y a
 </table>
 
 ## 1.3. Segmentos objetivo
-Los segmentos de enfoque consisten en un conjunto particular de individuos que comparten rasgos y requerimientos afines, estableciéndolos como un público objetivo atractivo para una compañía o marca. Una vez reconocidos, estos segmentos pueden ser abordados de forma exitosa a través de tácticas de marketing y publicidad personalizadas, lo que capacita a las empresas para potenciar su efectividad y eficiencia en la adquisición y retención de clientes. A continuación, se han delimitado los próximos grupos de enfoque:
+<p align="justify">
+	Los segmentos de enfoque consisten en un conjunto particular de individuos que comparten rasgos y requerimientos afines, estableciéndolos como un público objetivo atractivo para una compañía o marca. Una vez reconocidos, estos segmentos pueden ser abordados de forma exitosa a través de tácticas de marketing y publicidad personalizadas, lo que capacita a las empresas para potenciar su efectividad y eficiencia en la adquisición y retención de clientes. A continuación, se han delimitado los próximos grupos de enfoque:
+</p>
 
 **Segmento objetivo #1:** Lectores
 
@@ -603,11 +606,12 @@ Implementamos una variedad de estrategias de mercadotecnia. Esto incluye llevar 
 
 Nuestras tácticas incluyen la realización de investigaciones exhaustivas del mercado digital. Este proceso nos permite comprender a fondo las necesidades no satisfechas de los usuarios en el ámbito de la lectura. Utilizamos esta información para adaptar nuestro sistema de manera que pueda satisfacer de manera efectiva esas necesidades específicas de los usuarios. Este enfoque nos permite ofrecer soluciones que están perfectamente alineadas con las demandas del mercado y que brindan una experiencia de lectura más satisfactoria para nuestros usuarios.
 
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
 Lectores
-<ul>
+<ol>
     <li>¿Qué géneros literarios prefieres leer?
 </li>
     <li>¿Cuál es tu mayor desafío al encontrar tiempo para leer?
@@ -631,11 +635,11 @@ Lectores
     <li>¿Qué tipo de recompensas o beneficios te gustaría obtener por ser un usuario leal de la aplicación?
 </li>
     <li>¿Cómo te gustaría que la aplicación te ayudara a descubrir nuevos títulos y autores de interés?</li>
-</ul>
+</ol>
 
 Autores
 
-<ul>
+<ol>
     <li>¿En qué géneros te especializas como escritor? ¿Qué te atrae de esos géneros?
     </li>
     <li>¿Podrías describir tu proceso creativo? ¿Cómo se te ocurren las ideas para tus historias?
@@ -659,7 +663,7 @@ Autores
     <li>¿Qué te parece la idea de una aplicación dedicada a fomentar la lectura? ¿Qué funcionalidades te gustaría que tuviera una aplicación así para ser útil a los autores?
     </li>
     <li>¿Cómo te gustaría que la aplicación te ayudara a mejorar tu experiencia como autor? ¿Qué beneficios esperas obtener de su uso?</li>
-</ul>
+</ol>
 
 ### 2.2.2. Registro de entrevistas
 ### Lectores:
@@ -686,8 +690,9 @@ Entrevista:
 ●	Entrevistador: Morales Calderón, Hernan Emilio
 
 Resumen:
+<p align="justify">
 El entrevistado, Joseph Huammani, de 23 años, expresó su preferencia por la novela y la ciencia ficción como género literario favorito. Además, dice que su mayor desafío a la hora de encontrar tiempo para leer es equilibrar sus muchas responsabilidades diarias. Enfatizó que historias interesantes, personajes bien desarrollados y giros argumentales consistentemente atractivos son los factores que lo motivan a continuar leyendo los libros. Además, aprecian funciones como la interfaz intuitiva, las recomendaciones personalizadas y el seguimiento del tiempo de lectura semanal en la aplicación de lectura. Además, también expresó interés en encontrar reseñas de libros, recomendaciones de otros lectores y entrevistas a autores en la aplicación, y expresó su deseo de interactuar con otros lectores de otras audiencias a través de clubes de lectura virtuales y debates en línea. Para él, la seguridad y privacidad de los datos personales son importantes y considera que estrategias como establecer objetivos de lectura, programar momentos específicos para leer y llevar un diario de lectura serán útiles para mantener un hábito de lectura constante. Prefiere comprar libros electrónicos o audiolibros en línea debido a descuentos, ofertas especiales y amplia gama de títulos. Joseph afirmó que dejaría de leer libros si la trama se volviera aburrida o los personajes no estuvieran bien desarrollados. Como usuario leal de la aplicación, espera descuentos en compras futuras y acceso a contenido exclusivo, desea que la aplicación le recomiende libros según sus intereses anteriores y le permita descubrir nuevos géneros y autores.
-
+</p>
 
 Entrevistado #2: 
 ![Estrevista1](./imgs/entrevistaPaolo.png)
@@ -712,7 +717,9 @@ Entrevista:
 ●	Entrevistador: Párraga Gamarra, Paolo Gonzalo
 
 Resumen:
+<p align="justify">
 El entrevistado en esta ocasión es Anthony Tarrillo de unos 20 años que nos cuenta que tiene problemas al momento de hacer su tesis, ya que no está acostumbrado a textos tan densos y aburridos. Por otro lado, el desea desarrollar un hábito por la lectura para dejar de lado sus problemas de lectura. Su mayor desafío a la hora de leer son textos muy largos que no llegan a ningún punto, eso lo desanima a seguir leyendo, dejándolo de lado. Enfatizó en sus gustos por el drama y la ciencia ficción, así como los personajes bien desarrollados. Así mismo, para Anthony el aplicativo debería tener las medidas de seguridad estándar como la verificación de dos pasos, contraseña segura, etc.
+</p>
 
 Entrevistado N°3: Piero Delgado
 
@@ -737,9 +744,35 @@ Entrevistado N°3: Piero Delgado
 ●	Entrevistador: Rivadeneyra Ramos, Joaquin
 
 Resumen:
-
+<p align="justify">
 Piero Delgado, un joven de 20 años, revela sus preferencias literarias que incluyen ficción contemporánea, ciencia ficción y literatura histórica. Destaca el desafío de encontrar tiempo para leer, buscando equilibrio entre sus responsabilidades laborales y personales. Piero se motiva a terminar un libro cuando la trama es intrigante y los personajes son complejos. En cuanto a aplicaciones de lectura, valora la sincronización entre dispositivos, las recomendaciones personalizadas y la posibilidad de interactuar con otros lectores. Además, destaca la importancia de la privacidad de datos al usar estas aplicaciones y sugiere que estrategias como establecer metas de lectura ayudan a mantener un hábito constante. Piero espera obtener descuentos en libros y acceso anticipado a nuevos lanzamientos como recompensas por su fidelidad, y desea que la aplicación le ayude a descubrir nuevos títulos a través de recomendaciones personalizadas y muestras gratuitas.
+</p>
+Entrevistado #4:
 
+![entrevista-lector4](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/4b0e428b-bd01-44ab-8693-ffda975fecd9)
+
+Nombre: Hector Jimenez Mamani
+
+●	Sexo: Masculino
+
+●	Edad: 16 años
+
+●	Distrito en el que vive: Lima
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1bGZPZzwplLhRTelMO3KdOLUCbJOvTXb1/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 4:26
+
+Resumen:
+<p align="justify">
+Hector Jimenez Mamani, residente en Lima, disfruta de los libros de ficción, especialmente del drama y la aventura. Su libro favorito es "Los Miserables" de Víctor Hugo. Le motiva vivir nuevas experiencias a través de la lectura y le gustaría descubrir nuevos libros mediante recomendaciones personalizadas. En una aplicación de lectura para jóvenes, busca una interfaz sencilla, resúmenes de libros y la opción de seguir a autores favoritos. Además, le interesaría encontrar contenido adicional como artículos relacionados con libros y recomendaciones de películas o series basadas en libros. Le preocupa la privacidad de sus datos y le gustaría recibir ayuda para mejorar sus hábitos de lectura mediante recordatorios personalizados. Para mantenerse comprometido con la lectura a largo plazo, desea recibir recomendaciones basadas en su historial de lectura y participar en desafíos de lectura.
+</p>
 
 ### Autores:
 Entrevistada #1: Aleshka Fernandez
@@ -797,14 +830,16 @@ Entrevistado #2:
             <li>Duración: 8:24</li>
             <li>Entrevistador: Zárate Cáceres, Ernesto </li>
         </ul>
-        Resumen:<br>
+Resumen:
+<p align="justify">
         Se entrevisto a Omar Champi Valencia, quien menciona tener un interés por la lectura. Él considera que leer le es fundamental para su desarrollo como autor. Piensa que le permite mejorar el lexico a su disposicion y le ayuda mucho 
         aprender al analizar tecnicas y estilos de autores que admira. Menciona que la lectura le ayuda a su inspiracion y a encontrar nuevas idea para escribir en ciencia ficción, un género que le agrada por la libertad que ofrece al creer
         nuevos personajes o mundos. Tambien menciona que le gustan los grupos de escritura, pues le permiten mejorar con apoyo mutuo. A su vez, recalca el uso de recompensas a su propio progreso.
         Al momento de escribir, suele utilizar software especializado como Scribdr o Ulises, que le ayudan a organizarse y seguir su progreso. A lo largo de su carrera, ha enfrentado ciertos bloqueos y dudas en su mente, como rechazo por parte
         de las demás personas. Por otro lado, recomienda a los novatos leer mucho, para que aprendan de sus ídolo, a quiens deben prestar atención en sus estilos y tecnicas. Menciona que es importante escribir con regularidad, para ganar practica
         al experimentar y que no deben rendirse. Finalmente, menciona estar de acuerdo con la creación de una aplicación que fomente la lectura. De esta espera que le ayude a organizar sus ideas, promover su trabajo, conocer nuevos autores y generos 
-        y poder conectar con lectores para recibir retroalimentacion. <br><br>
+        y poder conectar con lectores para recibir retroalimentacion. <br>
+</p>
 
 Entrevistado #3: 
 
@@ -830,8 +865,9 @@ Entrevista:
 ●	Enrevistador: Huamán Cataño, Miguel Ángel
 
 Resumen:
+<p align="justify">
 Gabriel Duran, escritor residente en Lima, está explorando su pasión por la escritura, dedicando al menos una hora al día para desarrollar su estilo y voz narrativa. Disfruta de una amplia gama de géneros literarios, desde la historia hasta la ciencia ficción. Sus mayores desafíos incluyen conectar profundamente con los lectores y transmitir emociones de manera efectiva. Utiliza herramientas en línea para investigación y organización, y valora una interfaz intuitiva y funciones de edición. Está emocionado por la posibilidad de conectarse directamente con los lectores a través de la plataforma y consideraría publicar y promocionar sus libros si la aplicación ofrece una comunidad activa y herramientas robustas.
-
+</p>
 Entrevistado #4: 
 
 Daniel Perez Mendoza
@@ -856,41 +892,43 @@ Entrevista:
 ●	Enrevistador: Párraga Gamarra, Paolo Gonzalo
 
 Resumen:
-
+<p align="justify">
 Daniel, escritor residente en Lima, con algo de experiencia publicando libros, ha concedido la entrevista para dar su punto de vista sobre cómo la tecnología tuvo un fecto en cómo escribia. Además, de comentarnos cómo hace para mantener una motivación y disciplina para escribir, así como las herramientas que usa para su trabajo, ya sea Word o un pequeño cuadernito de apuntes.
+</p>
 
 ### 2.2.3. Análisis de entrevistas
 Según las entrevistas realizadas y los resúmenes, hemos llevado a cabo un análisis de las entrevistas en el que destacamos las similitudes y hallazgos:
 
 ### Segmento Objetivo #1: Lectores
 
-Necesidad de Comunidad Literaria: Los lectores expresaron un fuerte deseo de pertenecer a una comunidad donde puedan discutir libros, compartir experiencias y descubrir nuevas lecturas.
-
-Interacción con Autores y Eventos: Algunos lectores expresaron interés en participar en eventos virtuales con autores, como sesiones de preguntas y respuestas, charlas o lanzamientos de libros.
-
-Personalización y Preferencias: La posibilidad de personalizar perfiles, recibir recomendaciones basadas en gustos personales y ajustar las notificaciones según las preferencias de lectura fue resaltada por varios usuarios.
-
-Compartir Experiencias y Recomendaciones: Hubo un interés significativo en la opción de compartir reseñas, recomendaciones y experiencias de lectura con amigos y la comunidad en general.
-
-Eventos con Autores: La posibilidad de asistir a eventos virtuales con autores, recibir notificaciones sobre nuevos lanzamientos y participar en sesiones interactivas fue altamente solicitada.
+<p align="justify">
+    Los lectores expresaron un fuerte deseo de formar parte de una comunidad literaria donde puedan interactuar con otros lectores, discutir libros, compartir experiencias de lectura y descubrir nuevas obras. Además, mostraron interés en participar en eventos virtuales con autores, como sesiones de preguntas y respuestas, charlas o lanzamientos de libros. La personalización de perfiles y recomendaciones basadas en gustos individuales, así como la posibilidad de compartir reseñas y recomendaciones con la comunidad, fueron aspectos destacados. En conclusión, los usuarios buscan una plataforma que fomente la interacción entre lectores, proporcione acceso a eventos con autores y ofrezca herramientas de personalización para mejorar su experiencia de lectura.
+</p>
 
 ### Segmento Objetivo #2:  Autores
 
-Promoción y Interacción con Lectores: Los autores expresaron interés en una plataforma que les permita interactuar con lectores, promocionar sus libros y participar en eventos virtuales.
-
-Feedback y Comentarios de Lectores: La posibilidad de recibir feedback directo de lectores, comentarios y reseñas sobre sus obras fue destacada como una forma valiosa de mejora continua.
-
-Visibilidad y Descubrimiento: Los autores desean una plataforma que les brinde visibilidad, especialmente a autores emergentes, y facilite el descubrimiento de sus obras entre los lectores interesados.
-
-Interacción con Clubes de Lectura:Algunos autores expresaron interés en participar en clubes de lectura virtuales para discutir sus libros con lectores y obtener una comprensión más profunda de sus reacciones.
-
-Seguridad y Análisis de Datos: Brindarles la mayor seguridad de su información y análisis de datos sobre el rendimiento de sus libros en la plataforma.
+<p align="justify">
+    Los autores buscan una plataforma que les permita interactuar con los lectores, promocionar sus libros y participar en eventos virtuales. Valorizan el feedback directo de los lectores y desean visibilidad, especialmente para autores emergentes, así como herramientas para el descubrimiento de sus obras. La posibilidad de participar en clubes de lectura virtuales y la seguridad de su información, junto con análisis de datos sobre el rendimiento de sus libros, también son aspectos importantes para ellos.
+</p>
 
 ### Datos Estadísticos 
 
-![Estadistica](./imgs/datos.jpg)
+### Segmento Objetivo #1: Lectores
 
-Estadísticas de ataques a la privacidad de datos a usuarios a nivel mundial en el último año. Kolesnikov, N. 2024. Estadísticas clave de Ciberseguirdad. Techopedia. https://www.techopedia.com/es/estadisticas-ciberseguridad
+<p align="justify">
+	A continuación, se presentan gráficos relacionados a nuestro análisis de las entrevistas del segmento objetivo lectores, considerando los géneros de su preferencia y su motivación para leer.
+</p>
+
+<img src="imgs/AnálisisLectores1.jpg" alt="Análisis Entrevista Lectores 1"> <img src="imgs/AnálisisLectores2.jpg" alt="Análisis Entrevista Lectores 2">
+
+### Segmento Objetivo #2:  Autores
+
+<p align="justify">
+	A continuación, se presentan gráficos relacionados a nuestro análisis de las entrevistas del segmento objetivo autores, considerando los géneros en los que se especializan y los recursos que utilizan para escribir.
+</p>
+
+<img src="imgs/AnálisisAutores1.jpg" alt="Análisis Entrevista Autores 1"> <img src="imgs/AnálisisAutores2.jpg" alt="Análisis Entrevista Autores 2">
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
@@ -1474,11 +1512,204 @@ La Arquitectura de Software Orientada al Dominio (Domain-Driven Software Archite
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-<img src="imgs/diagramaClases.png" alt="Diagrama de Clases">
+#### User Bounded Context
+<img src="imgs/diagramaUserBC.png" alt="User Bounded Context Diagram" width="85%">
+
+#### Content Bounded Context
+<img src="imgs/diagramaContentBC.png" alt="Content Bounded Context Diagram" width="85%">
 
 ### 4.7.2. Class Dictionary
-#### 4.7.2.1 Clase Libro:
+#### 4.7.2.1 User Bounded Context
+##### 4.7.2.1.1 Clase Author:
 <table>
+    <tr>
+		<td colspan="2">Clase representativa de los usuarios Autor en la aplicación.</td>
+	</tr>
+    <tr>
+        <td>Atributo</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>biografía</td>
+        <td>Biografía del autor.</td>
+    </tr>
+    <tr>
+        <td>nacionalidad</td>
+        <td>Nacionalidad de origen del autor. También sirve como indicador de idioma de los libros.</td>
+    </tr>
+    <tr>
+        <td>obras</td>
+        <td>Libros publicados por el autor.</td>
+    </tr>
+    <tr>
+        <td>imagen</td>
+        <td>Foto del autor.</td>
+    </tr>
+</table>
+
+##### 4.7.2.1.2 Clase AuthorFactory
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>AuthorFactory es una clase hija de UserFactory. Se encarga de crear a los usuarios Autor en la aplicación. Tiene una relación de asociación con Author.</td>
+        <td>createAuthor()</td>
+    </tr>
+</table>
+
+##### 4.7.2.1.3 Clase Reader
+<table>
+	<tr>
+		<td>Descripción</td>
+	</tr>
+	<tr>
+		<td>Clase representativa de los usuarios Reader en la aplicación.</td>
+	</tr>
+</table>
+
+##### 4.7.2.1.4 Clase ReaderFactory
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>ReaderFactory es una clase hija de UserFactory. Se encarga de crear a los usuarios Reader en la aplicación. Tiene una relación de asociación con Reader.</td>
+        <td>createReader()</td>
+    </tr>
+</table>
+
+##### 4.7.2.1.5 Clase User
+<table>
+	<tr>
+		<td>Descripción</td>
+	</tr>
+	<tr>
+		<td>User es una clase abstracta que representa a los usuarios de la aplicación. Tiene una relación de asociación con UserFactory y Account.</td>
+	</tr>
+</table>
+
+##### 4.7.2.1.6 Clase UserFactory
+<table>
+    <tr>
+		<td colspan="3">La clase UserFactory define la creación de los usuarios del sistema. Tiene una relación de asociación con User.</td>
+	</tr>
+    <tr>
+        <td>Atributo</td>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Nombre del usuario</td>
+        <td rowspan="2">createUser()<br>inc_sesion()<br>registrar()<br>camb_contrasena()<br>actualizar()</td>
+    </tr>
+    <tr>
+        <td>Correo</td>
+        <td>Correo usado para el registro del usuario.</td>
+    </tr>
+</table>
+
+##### 4.7.2.1.7 Clase Configuracion
+<table>
+    <tr>
+		<td colspan="3">La clase Configuracion representa los aspectos configurables de la aplicación.</td>
+	</tr>
+    <tr>
+        <td>Atributo</td>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+      <tr>
+        <td>Instance</td>
+        <td>Lorem Ipsum per cara des martir et lara</td>
+          <td rowspan="5">getInstance()<br>
+        camb_idioma()<br>
+            camb_tema()<br>
+            guardar_config()</td>
+    </tr>
+    <tr>
+        <td>idioma</td>
+        <td>Idioma en el que se verá la aplicación.</td>
+    </tr>
+    <tr>
+        <td>tema</td>
+        <td>Tema de la aplicación, ya sea oscuro o claro.</td>
+    </tr>
+    <tr>
+        <td>notificaciones</td>
+        <td>Como se recibiran las distintas notificaciones</td>
+    </tr>
+    <tr>
+        <td>pref_privacidad</td>
+        <td>Preferencias sobre la privacidad del perfil.</td>
+    </tr>
+</table>
+
+##### 4.7.2.1.8 Clase Account
+<table>
+	<tr>
+		<td>Descripción</td>
+	</tr>
+	<tr>
+		<td>Representa la cuenta personal de los usuarios. Tiene una relación de asociación con Subscription y User.</td>
+	</tr>
+</table>
+
+##### 4.7.2.1.9 Clase Subscription
+<table>
+	<tr>
+		<td>Descripción</td>
+	</tr>
+	<tr>
+		<td>Representa el plan de suscripción en la aplicación. Tiene una relación de asociación con Account.</td>
+	</tr>
+</table>
+
+##### 4.7.2.1.10 Clase Observer
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>Una clase abstracta que define el comportamiento de SuscriptionObserver, con quien tiene una relación de herencia.</td>
+        <td>update()</td>
+    </tr>
+</table>
+
+##### 4.7.2.1.11 Clase SubscriptionObserver
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>Clase hija de Observer, asociada a Subscription. Gestiona el estado de las suscripciones.</td>
+        <td>update()</td>
+    </tr>
+</table>
+
+#### 4.7.2.2 Content Bounded Context
+##### 4.7.2.2.1 Clase Libro
+<table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>Representa los libros en la aplicación. Tiene una relación de asociación con BookFactory.</td>
+        <td>obt_detalles()<br>anad_lista()</td>
+    </tr>
+</table>
+
+##### 4.7.2.2.2 Clase LibroFactory
+<table>
+	<tr>
+		<td colspan="3">Hija de ContentFactory. Crea nuevos libros en la plataforma. Tiene una relación de asociación con Libro.</td>
+	</tr>
     <tr>
         <td>Atributo</td>
         <td>Descripción</td>
@@ -1487,7 +1718,7 @@ La Arquitectura de Software Orientada al Dominio (Domain-Driven Software Archite
     <tr>
         <td>titulo</td>
         <td>Título del libro.</td>
-        <td rowspan="9">obt_detalles()<br>anad_lista()</td>
+        <td rowspan="9">createLibro()</td>
     </tr>
     <tr>
         <td>genero</td>
@@ -1523,76 +1754,47 @@ La Arquitectura de Software Orientada al Dominio (Domain-Driven Software Archite
     </tr>
 </table>
 
-#### 4.7.2.2 Clase Autor:
+##### 4.7.2.2.3 Interface Lectura
 <table>
     <tr>
-        <td>Atributo</td>
-        <td>Descripción</td>
-    </tr>
-    <tr>
-        <td>biografía</td>
-        <td>Biografía del autor.</td>
-    </tr>
-    <tr>
-        <td>nacionalidad</td>
-        <td>Nacionalidad de origen del autor. También sirve como indicador de idioma de los libros.</td>
-    </tr>
-    <tr>
-        <td>obras</td>
-        <td>Libros publicados por el autor.</td>
-    </tr>
-    <tr>
-        <td>imagen</td>
-        <td>Foto del autor.</td>
-    </tr>
-</table>
-
-#### 4.7.2.3 Clase Usuario:
-<table>
-    <tr>
-        <td>Atributo</td>
         <td>Descripción</td>
         <td>Métodos</td>
     </tr>
     <tr>
-        <td>Nombre</td>
-        <td>Nombre del usuario</td>
-        <td rowspan="2">inc_sesion()<br>registrar()<br>camb_contrasena()</td>
-    </tr>
-    <tr>
-        <td>Correo</td>
-        <td>Correo usado para el registro del usuario.</td>
+        <td>La interface encargada de desplegar el Libro que desee al usuario.</td>
+        <td>notificarLectores()</td>
     </tr>
 </table>
 
-#### 4.7.2.4 Clase Comentario:
+##### 4.7.2.2.4 Clase ContentFactory
 <table>
     <tr>
-        <td>Atributo</td>
         <td>Descripción</td>
         <td>Métodos</td>
     </tr>
     <tr>
-        <td>texto</td>
-        <td>Texto del comentario publicado.</td>
-        <td rowspan="4">anad_coment()<br>elim_coment()</td>
-    </tr>
-    <tr>
-        <td>fec_publicacion</td>
-        <td>Fecha en que se publicó el comentario.</td>
-    </tr>
-    <tr>
-        <td>user_coment</td>
-        <td>Nombre del usuario que realizó el comentario.</td>
-    </tr>
-    <tr>
-        <td>lib_coment</td>
-        <td>Título del libro sobre el que va el comentario.</td>
+        <td>Clase abstracta, padre de BookFactory. Se encarga de definir la creación de Libro y Bibliotecas en la aplicación.</td>
+        <td>createContent()</td>
     </tr>
 </table>
 
-#### 4.7.2.5 Clase Biblioteca:
+##### 4.7.2.2.5 Clase Biblioteca
 <table>
+    <tr>
+        <td>Descripción</td>
+        <td>Métodos</td>
+    </tr>
+    <tr>
+        <td>Sistema de almacenamiento y búsqueda de los libros en la plataforma.</td>
+        <td>buscar()<br>most_lib_pop()<br>rec_lib()</td>
+    </tr>
+</table>
+
+##### 4.7.2.2.6 Clase BibliotecaFactory
+<table>
+    <tr>
+		<td colspan="3">Define la creación de las bibliotecas del sistema. Tiene una relación de asociación con Biblioteca.</td>
+	</tr>
     <tr>
         <td>Atributo</td>
         <td>Descripción</td>
@@ -1601,9 +1803,7 @@ La Arquitectura de Software Orientada al Dominio (Domain-Driven Software Archite
     <tr>
         <td>libros_disp</td>
         <td>Lista de los libros disponibles en la biblioteca.</td>
-        <td rowspan="3">buscar()<br>
-            most_lib_pop()<br>
-            rec_lib()</td>
+        <td rowspan="3">createBiblioteca()</td>
     </tr>
     <tr>
         <td>list_autores</td>
@@ -1615,8 +1815,11 @@ La Arquitectura de Software Orientada al Dominio (Domain-Driven Software Archite
     </tr>
 </table>
 
-#### 4.7.2.6 Clase Transacción:
+##### 4.7.2.2.7 Clase Transacción
 <table>
+	<tr>
+		<td colspan="3">La clase Transacción representa las compras de libros en la plataforma.</td>
+	</tr>
     <tr>
         <td>Atributo</td>
         <td>Descripción</td>
@@ -1650,31 +1853,32 @@ La Arquitectura de Software Orientada al Dominio (Domain-Driven Software Archite
     </tr>
 </table>
 
-#### 4.7.2.7 Clase Configuración:
+##### 4.7.2.2.8 Clase Comentario
 <table>
+	<tr>
+		<td colspan="3">La clase Comentario representa los comentarios dejados por los libros en la plataforma.</td>
+	</tr>
     <tr>
         <td>Atributo</td>
         <td>Descripción</td>
         <td>Métodos</td>
     </tr>
     <tr>
-        <td>idioma</td>
-        <td>Idioma en el que se verá la aplicación.</td>
-        <td rowspan="4">camb_idioma()<br>
-            camb_tema()<br>
-            guardar_config()</td>
+        <td>texto</td>
+        <td>Texto del comentario publicado.</td>
+        <td rowspan="4">anad_coment()<br>elim_coment()</td>
     </tr>
     <tr>
-        <td>tema</td>
-        <td>Tema de la aplicación, ya sea oscuro o claro.</td>
+        <td>fec_publicacion</td>
+        <td>Fecha en que se publicó el comentario.</td>
     </tr>
     <tr>
-        <td>notificaciones</td>
-        <td>Como se recibiran las distintas notificaciones</td>
+        <td>user_coment</td>
+        <td>Nombre del usuario que realizó el comentario.</td>
     </tr>
     <tr>
-        <td>pref_privacidad</td>
-        <td>Preferencias sobre la privacidad del perfil.</td>
+        <td>lib_coment</td>
+        <td>Título del libro sobre el que va el comentario.</td>
     </tr>
 </table>
 
@@ -2276,10 +2480,145 @@ Tabla para poder identificarnos:
 
 ![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/dd4c9589-da63-4d46-9fae-5018c857c7fc)
 
-
 ![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/403531cd-2e68-4059-8008-e4ee9280ca63)
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1.Sprint Planning 2.
 
+| Sprint # | Sprint 2 |
+|---------------------|-------------------------------------------|
+| Date                | 2024/04/23                                |
+| Time                | 09:00 PM                                  |
+| Location            | Videoconferencia Zoom                     |
+| Prepared By         | Joaquin Rivadeneyra Ramos                 |
+| Attendees (to planning meeting) | Hernan Emilio Morales Calderón - U202216263 |
+|                      | Joaquin David Rivadeneyra Ramos - U202211846 |
+|                      | Paolo Gonzalo Párraga Gamarra - U202219186 |
+|                      | Miguel Ángel Huamán Cataño - U202120615   |
+|                      | Víctor Ernesto Zarate Cáceres - U202112907 |
+|                      | Franz Jair La Torre Valle - U202012378    |
+| Sprint 1 Review Summary | Se completaron los 6 de 6 user stories establecidos en el sprint anterior, mejoramos la experiencia de usuario en la landing page. Hubo retrasos con su elaboración, lo cual nos sirvió para dividirnos mejor en las siguientes entregas. |
+| Sprint 1 Retrospective Summary | El equipo acordó mejorar las estimaciones de tiempo y colaborar más estrechamente con el equipo. Además, de mejorar cuantiosamente la landing page de la aplicación |
+| **Sprint Goal & User Stories** | |
+| Sprint 2 Goal        | El objetivo primordial para este sprint es implementar funcionalidades esenciales para el front-end de la aplicación, buscando enriquecer la personalización de la experiencia del usuario y mejorar sustancialmente la gestión de contenido. Nos enfocaremos en desarrollar una interfaz de usuario intuitiva y responsiva que permita a los usuarios interactuar de manera más efectiva con nuestras características principales. |
+| Sprint 2 Velocity    | 21 Story Points                           |
+| Sum of Story Points  | 21 Story Points                           |
+
+#### 5.2.2.2.Sprint Backlog 2.
+
+| Sprint # | Sprint 2 | | | | | | |
+|----------|----------|---|------------------------|-------------------------------------------|--------------|-------------------|--------|
+| **User Story ID** | **Title** | **Work-Item / Task ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| US09 | Configurar Perfil y Preferencias | W01 | Perfil | Implementar funcionalidad de edición de perfil para la conformidad del usuario | 2 horas | Joaquin Rivadeneyra  | Done |
+| US13 | Crear Lista de Lectura | W02 | Lista de Lectura | Diseñar interfaz para listas de lectura | 3 horas | Paolo Párraga | Done |
+| US14 | Seguir a Autores Favoritos | W03 | Autores | Implementar sistema de seguimiento de autores para que el usuario siga a sus autores favoritos | 2 horas | Paolo Gonzalo Párraga  | Done |
+| US15 | Explorar Libros Populares | W04 | Libros Populares | Desarrollar sección de libros populares para que el usuario este al tanto de las tendencias | 3 horas | Miguel Huamán | Done |
+| US18 | Configurar Recordatorios de Lectura | W05 | Recordatorios | Crear funcionalidad de recordatorios en la app para estrenos de nuevos libros | 3 horas | Hernan Morales | Done |
+| US19 | Explorar Libros por Temáticas | W06 | Temáticas | Implementar filtros de búsqueda por temática para los usuarios | 5 horas | Joaquin Rivadeneyra | Done |
+| US20 | Obtener Resúmenes de Libros | W07 | Resúmenes | Desarrollar funcionalidad para mostrar resúmenes de libros | 2.5 horas |  Franz La Torre | Done |
+| US22 | Realizar Comentarios y Discusiones en Libros | W08 | Comentarios | Implementar sección de comentarios en los detalles del libro | 2 horas | Víctor Zarate | Done |
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+<div align="justify">
+	Para el Sprint 2 únicamente se planificó para abarcar las mejoras de la landing page y la creación del front-end.
+	<table>
+		<tr>
+			<td>Endpoint: </td>
+			<td>Details: </td>
+		</tr>
+		<tr>
+			<td>/</td>
+			<td>Se implemento</td>
+		</tr>
+		<tr>
+			<td>/</td>
+			<td>Se implemento</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>Repository</td>
+			<td>Branch</td>
+			<td>Commit ID</td>
+			<td>Commit message</td>
+			<td>Commit message body</td>
+			<td>Commited on (Date)</td>
+		</tr>
+		<tr>
+			<td>Landingpage-BookFlow</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Landingpage-BookFlow</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>FRONT_END</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>FRONT_END</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+</div>
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+<div align="justify">
+	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
+	primer versión de la web application, con mejoras a realizar para el siguiente sprint:
+	<ul>
+		<li>Landing Page:</li>
+		<img src="imgs/EvidenceSprintLanding1" alt="Evidencia 1 Landing Page - Sprint 2">
+		<img src="imgs/EvidenceSprintLanding2" alt="Evidencia 2 Landing Page - Sprint 2">
+		<img src="imgs/EvidenceSprintLanding3" alt="Evidencia 3 Landing Page - Sprint 2">
+		<img src="imgs/EvidenceSprintLanding4" alt="Evidencia 4 Landing Page - Sprint 2">
+		<li>Web Application</li>
+		<img src="imgs/EvidenceSprintWebApp1" alt="Evidencia 1 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp2" alt="Evidencia 2 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp3" alt="Evidencia 3 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp4" alt="Evidencia 4 Web ApplicationLanding Page - Sprint 2">
+	</ul>
+</div>
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+<div align="justify">
+	Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para la Landing Page de BookFlow, para llevarla a su versión definitiva, donde se completamnte responsive.
+	A su vez se dio inicio a la creación de la plataforma principal. Para ello, dividimos las tareas para trabajar de manera eficiente y centrarnos en áreas específicas, con el fin  
+	de optimizar el tiempo y los recursos. Finalmente, la participación de los miembros del equipo se ve reflejado en los xxx commits realizados en el repositorio de trabajo.<br><br>
+	Tabla para poder identificarnos:
+</div>
+
+|  UserName (Github)   |             Nombre             |Tareas|
+| -------------------- |:-------------------------------|:-----|
+| Huaman-Miguel	       |Huamán Cataño, Miguel Ángel     ||
+| FranzJairLTV	       |La Torre Valle, Franz Jair      ||
+| hernancit0           | Morales Calderón, Hernan Emilio||
+| PaoloParragaGamarra  | Párraga Gamarra, Paolo Gonzalo ||
+| joqui4               |Rivadeneyra Ramos, Joaquin      ||
+| ern23zc              |Zarate Caceres, Victor Ernesto  ||
+
+<img src="imgs/Insights2.1">
+<img src="imgs/Insights2.2">
 
 # Conclusiones
 En conclusion, BookFlow se posiciona como una plataforma integral que no solo conecta a los lectores con una amplia gama de libros y contenido relevante, sino que también brinda a los autores las herramientas necesarias para promocionar y comprender mejor sus obras. Con un enfoque en la comunidad, la innovación y la calidad, BookFlow tiene el potencial de convertirse en un punto de referencia para los amantes de la lectura y los entusiastas de la literatura en todo el mundo.
