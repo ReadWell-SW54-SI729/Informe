@@ -2723,6 +2723,76 @@ Se han diseñado y ejecutado pruebas unitarias para las siguientes clases y comp
 
 Se han desarrollado archivos .feature utilizando Gherkin para las siguientes User Stories:
 
+Relacionado a US-09
+
+    Feature: Configurar Perfil y Preferencias
+
+    Scenario: 1
+        Given Accedo a la sección de "Perfil" en la aplicación
+        When Edito mi información personal, intereses y géneros favoritos
+        Then Los cambios se guardan correctamente y se reflejan en mi experiencia de usuario
+
+    Scenario: 2
+        Given Quiero recibir notificaciones sobre nuevos lanzamientos
+        When Activo la opción de recibir alertas para mis géneros favoritos
+        Then Recibo notificaciones cuando se agregan nuevos libros relevantes a la biblioteca
+
+ Relacionado a US-13
+
+    Feature: Crear Lista de Lectura
+
+    Scenario: 1
+        Given Encuentro un libro que me interesa, pero no tengo tiempo para leer de inmediato
+        When Hago clic en "Agregar a Lista de Lectura"
+        Then El libro se guarda en mi lista personal y puedo acceder a él más tarde
+	
+    Scenario: 2
+        Given Quiero organizar mi lista de lectura en categorías
+        When Arrastro y suelto los libros para reorganizar el orden
+        Then Los libros se reorganizan según mis preferencias y categorías
+
+  Relacionado a US-14
+
+    Feature: Seguir a Autores Favoritos
+
+    Scenario: 1
+        Given Estoy en la página del autor que me gusta
+        When Hago clic en "Seguir" en su perfil
+        Then Recibo notificaciones cuando el autor publica un nuevo libro o tiene un evento próximo
+	
+    Scenario: 2
+        Given Quiero ver una lista de los autores que sigo
+        When Navego a mi perfil y selecciono "Autores Seguidos"
+        Then Se muestra una lista de los autores que sigo, con enlaces a sus perfiles
+
+Relacionado a US-15
+
+    Feature: Explorar Libros Populares
+
+    Scenario: 1
+        Given Accedo a la sección de "Libros Populares" en la aplicación
+        When Exploro la lista de libros con más descargas y altas calificaciones
+        Then Puedo ver una variedad de libros populares en diferentes géneros
+	
+    Scenario: 2
+        Given Quiero ver los libros populares de un género específico
+        When Selecciono un género en la lista de libros populares
+        Then Se muestra una lista de los libros más populares en ese género específico
+
+ Relacionado a US-18
+
+    Feature: Configurar Recordatorios de Lectura
+
+    Scenario: 1
+        Given Comienzo a leer un libro y quiero establecer una meta de lectura diaria
+        When Abro el libro en la aplicación
+        Then Puedo configurar un recordatorio diario para leer una cantidad específica de páginas
+	
+    Scenario: 2
+        Given Quiero recibir un recordatorio cuando me acerco al final de un libro
+        When Llego al último 10% del libro
+        Then Recibo una notificación recordándome terminar el libro y dejar una reseña
+
 Relacionado a US-19
 
     Feature: Exploración de Libros
@@ -2750,6 +2820,20 @@ Relacionado a US-19
         Given Quiero ver opiniones y reseñas de otros lectores antes de decidir leer un libro
         When Navego a la página del libro
         Then Hay una sección de reseñas y calificaciones de otros usuarios que puedo consultar
+
+ Relacionado a US-22
+
+    Feature: Realizar Comentarios y Discusiones en Libros
+
+    Scenario: 1
+        Given Estoy leyendo un libro y quiero compartir mis pensamientos
+        When Accedo al apartado de comentarios y discusiones del libro
+        Then Puedo dejar un comentario y ver las respuestas de otros lectores
+
+    Scenario: 2
+        Given Veo una discusión interesante sobre un libro en el que estoy interesado
+        When Quiero unirme a la conversación
+        Then Puedo dejar un comentario y recibir notificaciones de nuevas respuestas
        
 #### Enlace al repositorio de control de versiones
 
@@ -2781,7 +2865,7 @@ git commit feat: First version</td>
         <td>ff2be2e</td>
         <td>
 Fix: change css header</td>
-        <td></td>
+        <td>Correcciones de la cabecedera de la aplicación</td>
         <td>30/04/2024</td>
     </tr>
     <tr>
@@ -2790,7 +2874,7 @@ Fix: change css header</td>
         <td>2b7dfe2</td>
         <td>
 git commit fix: imagen</td>
-        <td>Se arregló la imagen de fondo de la bienvenido, así como hacer esponsive algunas partes. Sin embargo la toolbar fue afectada</td>
+        <td>Se arregló la imagen de fondo de la bienvenido, así como hacer responsive algunas partes. Sin embargo la toolbar fue afectada</td>
         <td>30/04/2024</td>
     </tr>
         <tr>
@@ -2841,7 +2925,7 @@ Change: Fix html and css book-home</td>
         <td>master</td>
         <td>149fbea</td>
         <td>Feat: add home/Catalogue to header</td>
-        <td></td>
+        <td>Se agregó la referencia de catálogo a la cabecera</td>
         <td>30/04/2024</td>
     </tr>
       </tr>
@@ -2850,7 +2934,7 @@ Change: Fix html and css book-home</td>
         <td>master</td>
         <td>4baf263</td>
         <td>Feat: add iniciosesion and register components</td>
-        <td></td>
+        <td>Se agregó los componentes referentes a los formularios para iniciar sesión o registrarse respectivamente</td>
         <td>01/05/2024</td>
     </tr>
       </tr>
@@ -2859,7 +2943,7 @@ Change: Fix html and css book-home</td>
         <td>master</td>
         <td>b1a8fcf</td>
         <td>Feat: add login router</td>
-        <td></td>
+        <td>Se agregó la ruta para que al pulsar el botón de "Iniciar Sesión" nos lleve al catálogo de nuestra página</td>
         <td>01/05/2024</td>
     </tr>
           </tr>
@@ -2869,7 +2953,7 @@ Change: Fix html and css book-home</td>
         <td>88b6af1</td>
         <td>
 Feat: add iniciosesion and register routes</td>
-        <td></td>
+        <td>Se importaron las rutas de iniciosesion y registro a la aplicación. Además, se ruteo el botón de "Únete aquí" con los formularios</td>
         <td>01/05/2024</td>
     </tr>
           </tr>
@@ -2879,7 +2963,7 @@ Feat: add iniciosesion and register routes</td>
         <td>77e0b9f</td>
         <td>
 Fix: Router button "Comenzar"</td>
-        <td></td>
+        <td>Se ruteo el botón "Comenzar" con los formularios de iniciar sesión</td>
         <td>01/05/2024</td>
     </tr>
           </tr>
@@ -2888,7 +2972,7 @@ Fix: Router button "Comenzar"</td>
         <td>master</td>
         <td>1eb6134</td>
         <td>Fix: Change design "Ver más" button</td>
-        <td></td>
+        <td>Se cambió el estilo y diseño del botón "Ver más"</td>
         <td>01/05/2024</td>
     </tr>
            </tr>
@@ -2898,7 +2982,7 @@ Fix: Router button "Comenzar"</td>
         <td>6bc4891</td>
         <td>
 feat: Foto perfil</td>
-        <td></td>
+        <td>Se agregó la imagen para la edición del perfil</td>
         <td>01/05/2024</td>
     </tr>
            </tr>
