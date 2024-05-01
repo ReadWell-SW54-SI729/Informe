@@ -2710,6 +2710,238 @@ git commit fix : Autores y Apifake</td>
 </table>
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+### Unit tests:
+
+Se han diseñado y ejecutado pruebas unitarias para las siguientes clases y comportamientos:
+
+1. BookCardComponent: Se probaron los métodos getBooks, getDetails, getBooksByName, y ApplyFilter.
+
+2. BookDetailComponent: Se evaluaron los métodos getBooksByISbn y agregarComentario
+
+### Integration Tests & Acceptance Tests (BDD):
+
+Se han desarrollado archivos .feature utilizando Gherkin para las siguientes User Stories:
+
+Relacionado a US-19
+
+    Feature: Exploración de Libros
+
+    Scenario: 1
+        Given Estoy interesado en un tema particular, como "Historia Antigua"
+        When Busco la categoría "Historia Antigua" en la aplicación
+        Then Veo una lista de libros relacionados con esa temática
+
+    Scenario: 2
+        Given Quiero explorar libros que sean "Best Sellers" en un género específico
+        When Selecciono la opción de "Best Sellers" y elijo el género "Ficción"
+        Then Veo una lista de los libros más vendidos en la categoría de ficción
+
+ Relacionado a US-20
+
+    Feature: Información de Libros
+
+    Scenario: 1
+        Given Estoy buscando un libro, pero quiero conocer más sobre su trama
+        When Veo el libro en la lista de resultados de búsqueda
+        Then Puedo desplegar un resumen breve de la trama y los personajes principales
+
+    Scenario: 2
+        Given Quiero ver opiniones y reseñas de otros lectores antes de decidir leer un libro
+        When Navego a la página del libro
+        Then Hay una sección de reseñas y calificaciones de otros usuarios que puedo consultar
+       
+#### Enlace al repositorio de control de versiones
+
+●	Link: [Click para ver el repositorio](https://github.com/ReadWell-SW54-SI729/FRONT_END/tree/master)
+
+#### Tabla para commits relacionados con el testing
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>2009129</td>
+        <td>
+
+git commit feat: First version</td>
+        <td>La primera versión del front end para que todos puedan implementar sus HU</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>ff2be2e</td>
+        <td>
+Fix: change css header</td>
+        <td></td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>2b7dfe2</td>
+        <td>
+git commit fix: imagen</td>
+        <td>Se arregló la imagen de fondo de la bienvenido, así como hacer esponsive algunas partes. Sin embargo la toolbar fue afectada</td>
+        <td>30/04/2024</td>
+    </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>9286d2b</td>
+        <td>Change: Fix css header</td>
+        <td></td>
+        <td>30/04/2024</td>
+    </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>4262bf9</td>
+        <td>
+Change: Fix html and css book-home</td>
+        <td></td>
+        <td>30/04/2024</td>
+    </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>02699bb</td>
+        <td>
+Change: Fix html and css book-home</td>
+        <td></td>
+        <td>30/04/2024</td>
+    </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>14ebcff</td>
+        <td>Change: Fix books-component/bookhome_component and style</td>
+        <td></td>
+        <td>30/04/2024</td>
+    </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>6103d33</td>
+        <td>Change: Fix book-card/comment/detail component</td>
+        <td></td>
+        <td>30/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>149fbea</td>
+        <td>Feat: add home/Catalogue to header</td>
+        <td></td>
+        <td>30/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>4baf263</td>
+        <td>Feat: add iniciosesion and register components</td>
+        <td></td>
+        <td>01/05/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>b1a8fcf</td>
+        <td>Feat: add login router</td>
+        <td></td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>88b6af1</td>
+        <td>
+Feat: add iniciosesion and register routes</td>
+        <td></td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>77e0b9f</td>
+        <td>
+Fix: Router button "Comenzar"</td>
+        <td></td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>1eb6134</td>
+        <td>Fix: Change design "Ver más" button</td>
+        <td></td>
+        <td>01/05/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>6bc4891</td>
+        <td>
+feat: Foto perfil</td>
+        <td></td>
+        <td>01/05/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>5217aed</td>
+        <td>
+feat: Agregar carpeta de componente</td>
+        <td></td>
+        <td>01/05/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>513e199</td>
+        <td>
+Delete document</td>
+        <td></td>
+        <td>01/05/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>86f8e33</td>
+        <td>
+Fix: Change design comment and review</td>
+        <td></td>
+        <td>01/05/2024</td>
+    </tr>
+          <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>e8fe698</td>
+        <td>
+git commit fix : Autores y Apifake</td>
+        <td>Se agregó un elemento más para el ApiFake que se trata de las imágenes de los autores. Además se modifico el baseUrl para que tenga la versión 1 definida en routes.json</td>
+        <td>01/05/2024</td>
+    </tr>
+</table>
+
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 <div align="justify">
