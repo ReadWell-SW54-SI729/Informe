@@ -2661,7 +2661,15 @@ Se han diseñado y ejecutado pruebas unitarias para las siguientes clases y comp
 
 1. BookCardComponent: Se probaron los métodos getBooks, getDetails, getBooksByName, y ApplyFilter.
 
-2. BookDetailComponent: Se evaluaron los métodos getBooksByISbn y agregarComentario
+2. BookDetailComponent: Se evaluaron los métodos getBooksByISbn y agregarComentario.
+
+3. BookCommentComponent: enviarMensaje y mostrarSnackBar.
+
+4. BookHomeComponent: getBooks, goCatalogue y getDetails.
+
+5. AutorComponent: getBooks,enviarMensaje y mostrarSnackBar.
+
+6. BookTendenciaComponent: getBooks, isDesiredBook y getDetails
 
 ### Integration Tests & Acceptance Tests (BDD):
 
@@ -3044,6 +3052,26 @@ git commit fix : Autores y Apifake</td>
 </table>
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
+<div align="justify">
+	Para el presente sprint, se desplego la primer versión de la web application completamente funcional, cumpliendo los user stories correspondientes.
+	<ul>
+		<li>Web Application</li>
+		<img src="imgs/EvidenceSprintWebApp1.png" alt="Evidencia 1 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp2.png" alt="Evidencia 2 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp3.png" alt="Evidencia 3 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp4.png" alt="Evidencia 4 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp5.png" alt="Evidencia 5 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp6.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp7.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp8.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp9.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp10.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+        <img src="imgs/EvidenceSprintWebApp11.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+        <img src="imgs/EvidenceSprintWebApp12.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+        <img src="imgs/EvidenceSprintWebApp13.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+        <img src="imgs/EvidenceSprintWebApp14.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+	</ul>
+</div>
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 <div align="justify">
 	Para el Sprint 2 se planifico abarcar las mejoras de la landing page y la creación del front-end. Para probar las principales funcionalidades de esta última,
