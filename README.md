@@ -3117,6 +3117,10 @@ git commit fix : Autores y Apifake</td>
 		<img src="imgs/EvidenceSprintWebApp4.png" alt="Evidencia 4 Web ApplicationLanding Page - Sprint 2">
 		<img src="imgs/EvidenceSprintWebApp5.png" alt="Evidencia 5 Web ApplicationLanding Page - Sprint 2">
 		<img src="imgs/EvidenceSprintWebApp6.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp7.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp8.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp9.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp10.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
 	</ul>
 </div>
 
