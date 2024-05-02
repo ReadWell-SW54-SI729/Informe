@@ -2777,29 +2777,6 @@ Relacionado a US-15
         When Activo notificaciones para "Nuevos Populares"
         Then Recibo alertas cada vez que un nuevo libro se convierte en popular en BookFlow
 
- Relacionado a US-18
-
-    Feature: Configurar Recordatorios de Lectura
-
-    Como usuario, 
-    Quiero poder configurar recordatorios 
-    Para mis lecturas en BookFlow para seguir mi progreso y establecer metas de lectura, ayudándome a mantener un hábito de lectura regular y enfocado.
-
-    Scenario: Establecer recordatorios de lectura
-        Given Comienzo a leer un libro y quiero establecer una meta de lectura diaria
-        When Abro el libro en la aplicación
-        Then Puedo configurar un recordatorio diario para leer una cantidad específica de páginas
-
-    Scenario: Recibir recordatorios para terminar un libro
-        Given Quiero recibir un recordatorio cuando me acerco al final de un libro
-        When Llego al último 10% del libro
-        Then Recibo una notificación recordándome terminar el libro y dejar una reseña
-
-    Scenario: Personalizar recordatorios según el horario
-        Given Tengo un horario específico cuando estoy más disponible para leer
-        When Configuro mis recordatorios de lectura
-        Then Puedo seleccionar días y horas específicas para recibir recordatorios, adaptándolos a mi rutina diaria y asegurando que se ajusten a mi disponibilidad
-
 Relacionado a US-19
 
     Feature: Exploración de Libros
@@ -3081,6 +3058,7 @@ git commit fix : Autores y Apifake</td>
         <img src="imgs/EvidenceSprintWebApp14.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
 	</ul>
 </div>
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 <div align="justify">
 	Para el Sprint 2 se planifico abarcar las mejoras de la landing page y la creación del front-end. Para probar las principales funcionalidades de esta última,
@@ -3124,27 +3102,8 @@ git commit fix : Autores y Apifake</td>
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 <div align="justify">
-	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
-	primer versión de la web application, con mejoras a realizar para el siguiente sprint:
-	<ul>
-		<li>Landing Page:</li>
-		<img src="imgs/EvidenceSprintLanding1.png" alt="Evidencia 1 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding2.png" alt="Evidencia 2 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding3.png" alt="Evidencia 3 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding4.png" alt="Evidencia 4 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding5.png" alt="Evidencia 5 Landing Page - Sprint 2">
-		<li>Web Application</li>
-		<img src="imgs/EvidenceSprintWebApp1.png" alt="Evidencia 1 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp2.png" alt="Evidencia 2 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp3.png" alt="Evidencia 3 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp4.png" alt="Evidencia 4 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp5.png" alt="Evidencia 5 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp6.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp7.png" alt="Evidencia 7 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp8.png" alt="Evidencia 8 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp9.png" alt="Evidencia 9 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp10.png" alt="Evidencia 10 Web ApplicationLanding Page - Sprint 2">
-	</ul>
+	
+	
 </div>
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
@@ -3157,11 +3116,11 @@ git commit fix : Autores y Apifake</td>
 
 |  UserName (Github)   |             Nombre             |Tareas|
 | -------------------- |:-------------------------------|:-----|
-| Huaman-Miguel	       |Huamán Cataño, Miguel Ángel     ||
-| FranzJairLTV	       |La Torre Valle, Franz Jair      ||
-| hernancit0           | Morales Calderón, Hernan Emilio||
-| PaoloParragaGamarra  | Párraga Gamarra, Paolo Gonzalo ||
-| joqui4               |Rivadeneyra Ramos, Joaquin      ||
+| Huaman-Miguel	       |Huamán Cataño, Miguel Ángel     |US15|
+| FranzJairLTV	       |La Torre Valle, Franz Jair      |US20|
+| hernancit0           | Morales Calderón, Hernan Emilio|US15|
+| PaoloParragaGamarra  | Párraga Gamarra, Paolo Gonzalo |US13, US14|
+| joqui4               |Rivadeneyra Ramos, Joaquin      |US09,US19|
 
 <img src="imgs/Insights2.1.png">
 <img src="imgs/Insights2.2.png">
