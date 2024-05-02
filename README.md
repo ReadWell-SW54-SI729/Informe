@@ -2023,11 +2023,11 @@ En este primer sprint se desarrolló y desplegó el landing page.
     </tr>
     <tr align="center">
         <td>Sprint 1 Velocity</td>
-        <td>2 semanas</td>
+        <td>19</td>
     </tr>
     <tr align="center">
         <td>Sum of Story Point</td>
-        <td>5</td>
+        <td>19</td>
     </tr>
 </table>
 
