@@ -3106,6 +3106,18 @@ git commit fix : Autores y Apifake</td>
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 <div align="justify">
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/5bec0f54-9064-43e5-bf25-264be821f1f0)
+
+Este comando instalará y configurará la biblioteca angular-cli-ghpages en tu proyecto Angular. Una vez completada la instalación, podremos utilizarla para implementar nuestra aplicación en GitHub Pages ejecutando el comando:
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/796e93b8-8f42-4958-b16f-fa915cc44528)
+
+Este comando implementará nuestra aplicación Angular en la URL proporcionada en GitHub Pages. 
+
+
+
+
 	
 	
 </div>
