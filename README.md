@@ -2998,36 +2998,28 @@ git commit fix : Autores y Apifake</td>
 			<td>Commited on (Date)</td>
 		</tr>
 		<tr>
-			<td>Landingpage-BookFlow</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>Landingpage-BookFlow</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>FRONT_END</td>
+			<td>master</td>
+			<td>2009129f2f237f5b021cbab447796d9ef5716c69</td>
+			<td>git commit feat: First version</td>
+			<td>La primera versión del front end para que todos puedan implementar sus HU</td>
+			<td>29/04/2024</td>
 		</tr>
 		<tr>
 			<td>FRONT_END</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>master</td>
+			<td>e8fe698d8b316e179829e14ff0a283189f1982c6</td>
+			<td>git commit fix : Autores y Apifake</td>
+			<td>Se agregó un elemento más para el ApiFake que se trata de las imágenes de los autores. Además se modifico el baseUrl para que tenga la versión 1 definida en routes.json</td>
+			<td>01/05/2024</td>
 		</tr>
 		<tr>
 			<td>FRONT_END</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>master</td>
+			<td>59d657446f1e8844ec7e7bda5119c7f597281eb1</td>
+			<td>git commit feat: Filtro</td>
+			<td>Se agregó un filtro de libro dependiendo del género del libro. Además de un apartado para buscar el nombre del libro</td>
+			<td>01/05/2024</td>
 		</tr>
 	</table>
 </div>
