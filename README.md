@@ -2670,115 +2670,188 @@ Se han desarrollado archivos .feature utilizando Gherkin para las siguientes Use
 
 Relacionado a US-09
 
-    Feature: Configurar Perfil y Preferencias
+    Feature: Gestión de Perfil y Configuración
 
-    Scenario: 1
+    Como usuario, 
+    Quiero poder configurar mi perfil y ajustar mis preferencias de lectura en BookFlow 
+    Para personalizar mi experiencia y recibir recomendaciones más afinadas a mis gustos.
+
+    Scenario: Editar información de perfil
         Given Accedo a la sección de "Perfil" en la aplicación
         When Edito mi información personal, intereses y géneros favoritos
         Then Los cambios se guardan correctamente y se reflejan en mi experiencia de usuario
 
-    Scenario: 2
+    Scenario: Configuración de notificaciones
         Given Quiero recibir notificaciones sobre nuevos lanzamientos
         When Activo la opción de recibir alertas para mis géneros favoritos
         Then Recibo notificaciones cuando se agregan nuevos libros relevantes a la biblioteca
+
+    Scenario: Privacidad y seguridad de datos
+        Given Estoy revisando mis configuraciones de perfil
+        When Elijo ajustar mis configuraciones de privacidad
+        Then Puedo seleccionar qué información personal es visible para otros usuarios y qué información se mantiene privada
+
 
  Relacionado a US-13
 
     Feature: Crear Lista de Lectura
 
-    Scenario: 1
-        Given Encuentro un libro que me interesa, pero no tengo tiempo para leer de inmediato
+    Como usuario, 
+    Quiero poder crear una lista de lectura personalizada en BookFlow 
+    Para organizar los libros que deseo leer en el futuro, facilitando el seguimiento y la planificación de mi tiempo de lectura.
+
+    Scenario: Agregar libro a la lista de lectura
+        Given Que encuentro un libro que me interesa, pero no tengo tiempo para leer de inmediato
         When Hago clic en "Agregar a Lista de Lectura"
         Then El libro se guarda en mi lista personal y puedo acceder a él más tarde
-	
-    Scenario: 2
-        Given Quiero organizar mi lista de lectura en categorías
+
+    Scenario: Organizar libros en la lista de lectura
+        Given Que quiero organizar mi lista de lectura en categorías
         When Arrastro y suelto los libros para reorganizar el orden
         Then Los libros se reorganizan según mis preferencias y categorías
+
+    Scenario: Compartir lista de lectura
+        Given Que quiero compartir mi lista de lectura con amigos
+        When Selecciono la opción "Compartir lista" y elijo con quién compartir
+        Then Mi lista de lectura se comparte a través de un enlace, permitiendo a otros ver y comentar sobre mi selección de libros
 
   Relacionado a US-14
 
     Feature: Seguir a Autores Favoritos
 
-    Scenario: 1
-        Given Estoy en la página del autor que me gusta
+    Como usuario, 
+    Quiero poder seguir a mis autores favoritos en BookFlow 
+    Para recibir actualizaciones sobre sus nuevos lanzamientos y eventos, manteniéndome conectado con mis intereses literarios.
+
+    Scenario: Seguir a un autor
+        Given Estoy en la página del autor que me gusta en BookFlow
         When Hago clic en "Seguir" en su perfil
         Then Recibo notificaciones cuando el autor publica un nuevo libro o tiene un evento próximo
-	
-    Scenario: 2
+
+    Scenario: Ver lista de autores seguidos
         Given Quiero ver una lista de los autores que sigo
         When Navego a mi perfil y selecciono "Autores Seguidos"
         Then Se muestra una lista de los autores que sigo, con enlaces a sus perfiles
 
+    Scenario: Dejar de seguir a un autor
+        Given Ya no estoy interesado en las actualizaciones de un autor
+        When Selecciono "Dejar de seguir" en su perfil
+        Then Dejo de seguir al autor y dejo de recibir notificaciones sobre sus actividades
+
 Relacionado a US-15
 
     Feature: Explorar Libros Populares
+    
+    Como usuario, 
+    Quiero tener una sección dedicada a los libros más populares y tendencias en BookFlow 
+    Para descubrir lecturas populares y mantenerme al día con lo que es relevante en el mundo literario.
 
-    Scenario: 1
+    Scenario: Explorar libros populares
         Given Accedo a la sección de "Libros Populares" en la aplicación
         When Exploro la lista de libros con más descargas y altas calificaciones
         Then Puedo ver una variedad de libros populares en diferentes géneros
-	
-    Scenario: 2
+
+    Scenario: Filtrar libros populares por género
         Given Quiero ver los libros populares de un género específico
         When Selecciono un género en la lista de libros populares
         Then Se muestra una lista de los libros más populares en ese género específico
+
+    Scenario: Recibir notificaciones sobre nuevos libros populares
+        Given Estoy interesado en mantenerme actualizado con los nuevos lanzamientos populares
+        When Activo notificaciones para "Nuevos Populares"
+        Then Recibo alertas cada vez que un nuevo libro se convierte en popular en BookFlow
 
  Relacionado a US-18
 
     Feature: Configurar Recordatorios de Lectura
 
-    Scenario: 1
+    Como usuario, 
+    Quiero poder configurar recordatorios 
+    Para mis lecturas en BookFlow para seguir mi progreso y establecer metas de lectura, ayudándome a mantener un hábito de lectura regular y enfocado.
+
+    Scenario: Establecer recordatorios de lectura
         Given Comienzo a leer un libro y quiero establecer una meta de lectura diaria
         When Abro el libro en la aplicación
         Then Puedo configurar un recordatorio diario para leer una cantidad específica de páginas
-	
-    Scenario: 2
+
+    Scenario: Recibir recordatorios para terminar un libro
         Given Quiero recibir un recordatorio cuando me acerco al final de un libro
         When Llego al último 10% del libro
         Then Recibo una notificación recordándome terminar el libro y dejar una reseña
+
+    Scenario: Personalizar recordatorios según el horario
+        Given Tengo un horario específico cuando estoy más disponible para leer
+        When Configuro mis recordatorios de lectura
+        Then Puedo seleccionar días y horas específicas para recibir recordatorios, adaptándolos a mi rutina diaria y asegurando que se ajusten a mi disponibilidad
 
 Relacionado a US-19
 
     Feature: Exploración de Libros
 
-    Scenario: 1
+    Como usuario, 
+    Quiero poder explorar libros por temáticas específicas en BookFlow 
+    Para encontrar lecturas que se ajusten a mis intereses actuales, facilitando el descubrimiento de nuevo contenido relevante.
+
+    Scenario: Buscar libros por tema
         Given Estoy interesado en un tema particular, como "Historia Antigua"
         When Busco la categoría "Historia Antigua" en la aplicación
         Then Veo una lista de libros relacionados con esa temática
 
-    Scenario: 2
+    Scenario: Explorar best sellers por género
         Given Quiero explorar libros que sean "Best Sellers" en un género específico
         When Selecciono la opción de "Best Sellers" y elijo el género "Ficción"
         Then Veo una lista de los libros más vendidos en la categoría de ficción
+
+    Scenario: Filtrar libros por calificaciones de usuarios
+        Given Deseo encontrar libros altamente recomendados por otros lectores
+        When Aplico un filtro para ver libros con altas calificaciones
+        Then Obtengo una lista de libros que han recibido excelentes reseñas, ayudándome a elegir lecturas de calidad comprobada
 
  Relacionado a US-20
 
     Feature: Información de Libros
 
-    Scenario: 1
-        Given Estoy buscando un libro, pero quiero conocer más sobre su trama
+    Como usuario, 
+    Quiero tener la opción de ver resúmenes y detalles clave de libros en BookFlow 
+    Para tomar decisiones de lectura informadas y rápidas, especialmente cuando estoy explorando nuevos géneros o autores.
+
+    Scenario: Acceder a resúmenes de libros
+        Given Estoy buscando un libro, pero quiero conocer más sobre su trama antes de comprometerme a leerlo
         When Veo el libro en la lista de resultados de búsqueda
         Then Puedo desplegar un resumen breve de la trama y los personajes principales
 
-    Scenario: 2
+    Scenario: Consultar opiniones y reseñas de otros lectores
         Given Quiero ver opiniones y reseñas de otros lectores antes de decidir leer un libro
         When Navego a la página del libro
         Then Hay una sección de reseñas y calificaciones de otros usuarios que puedo consultar
+
+    Scenario: Recibir recomendaciones basadas en resúmenes leídos
+        Given He leído varios resúmenes de libros en un género específico
+        When Vuelvo a la sección de recomendaciones
+        Then Recibo sugerencias de libros similares basados en los resúmenes que he consultado previamente, ayudándome a explorar más en ese género
 
  Relacionado a US-22
 
     Feature: Realizar Comentarios y Discusiones en Libros
 
-    Scenario: 1
+    Como usuario, 
+    Quiero poder dejar comentarios y participar en discusiones sobre libros en BookFlow 
+    Para interactuar con otros lectores y compartir perspectivas sobre lecturas comunes.
+
+    Scenario: Publicar un Comentario
         Given Estoy leyendo un libro y quiero compartir mis pensamientos
         When Accedo al apartado de comentarios y discusiones del libro
         Then Puedo dejar un comentario y ver las respuestas de otros lectores
 
-    Scenario: 2
+    Scenario: Participar en una Discusión
         Given Veo una discusión interesante sobre un libro en el que estoy interesado
         When Quiero unirme a la conversación
         Then Puedo dejar un comentario y recibir notificaciones de nuevas respuestas
+
+    Scenario: Moderar Comentarios
+        Given Deseo mantener un ambiente respetuoso y constructivo en las discusiones
+        When Detecto un comentario inapropiado o spam
+        Then Puedo reportarlo para que los moderadores de la comunidad lo revisen y tomen acción si es necesario, manteniendo así la calidad de las discusiones
        
 #### Enlace al repositorio de control de versiones
 
