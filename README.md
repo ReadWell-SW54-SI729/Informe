@@ -2973,7 +2973,9 @@ git commit fix : Autores y Apifake</td>
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 <div align="justify">
-	Para el Sprint 2 únicamente se planificó para abarcar las mejoras de la landing page y la creación del front-end.
+	Para el Sprint 2 se planifico abarcar las mejoras de la landing page y la creación del front-end. Para probar las principales funcionalidades de esta última,
+	se utilizó un fake-api. Inicialmente se utilizó un json server de forma local, pero luego se implemento un servidor adecuado para ser utilizado por el front 
+	End desplegada.
 	<table>
 		<tr>
 			<td>Endpoint: </td>
