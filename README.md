@@ -3075,10 +3075,10 @@ git commit fix : Autores y Apifake</td>
 | hernancit0           | Morales Calderón, Hernan Emilio||
 | PaoloParragaGamarra  | Párraga Gamarra, Paolo Gonzalo ||
 | joqui4               |Rivadeneyra Ramos, Joaquin      ||
-| ern23zc              |Zarate Caceres, Victor Ernesto  ||
 
-<img src="imgs/Insights2.1">
-<img src="imgs/Insights2.2">
+<img src="imgs/Insights2.1.png">
+<img src="imgs/Insights2.2.png">
+<img src="imgs/Insights2.3.png">
 
 # Conclusiones
 En conclusion, BookFlow se posiciona como una plataforma integral que no solo conecta a los lectores con una amplia gama de libros y contenido relevante, sino que también brinda a los autores las herramientas necesarias para promocionar y comprender mejor sus obras. Con un enfoque en la comunidad, la innovación y la calidad, BookFlow tiene el potencial de convertirse en un punto de referencia para los amantes de la lectura y los entusiastas de la literatura en todo el mundo.
