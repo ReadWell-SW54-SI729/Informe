@@ -2502,15 +2502,6 @@ git commit feat: First version</td>
     <tr>
         <td>FRONT_END</td>
         <td>master</td>
-        <td>ff2be2e</td>
-        <td>
-Fix: change css header</td>
-        <td></td>
-        <td>30/04/2024</td>
-    </tr>
-    <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
         <td>2b7dfe2</td>
         <td>
 git commit fix: imagen</td>
@@ -2520,35 +2511,9 @@ git commit fix: imagen</td>
         <tr>
         <td>FRONT_END</td>
         <td>master</td>
-        <td>9286d2b</td>
-        <td>Change: Fix css header</td>
-        <td></td>
-        <td>30/04/2024</td>
-    </tr>
-        <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
-        <td>4262bf9</td>
-        <td>
-Change: Fix html and css book-home</td>
-        <td></td>
-        <td>30/04/2024</td>
-    </tr>
-        <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
-        <td>02699bb</td>
-        <td>
-Change: Fix html and css book-home</td>
-        <td></td>
-        <td>30/04/2024</td>
-    </tr>
-        <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
         <td>14ebcff</td>
         <td>Change: Fix books-component/bookhome_component and style</td>
-        <td></td>
+        <td>Se arregló el componente de BookHome</td>
         <td>30/04/2024</td>
     </tr>
         <tr>
@@ -2556,7 +2521,7 @@ Change: Fix html and css book-home</td>
         <td>master</td>
         <td>6103d33</td>
         <td>Change: Fix book-card/comment/detail component</td>
-        <td></td>
+        <td>Se arregló el componente de BookCard</td>
         <td>30/04/2024</td>
     </tr>
       </tr>
@@ -2565,7 +2530,7 @@ Change: Fix html and css book-home</td>
         <td>master</td>
         <td>149fbea</td>
         <td>Feat: add home/Catalogue to header</td>
-        <td></td>
+        <td>Se agrego una ruta a catálogo</td>
         <td>30/04/2024</td>
     </tr>
       </tr>
@@ -2574,16 +2539,7 @@ Change: Fix html and css book-home</td>
         <td>master</td>
         <td>4baf263</td>
         <td>Feat: add iniciosesion and register components</td>
-        <td></td>
-        <td>01/05/2024</td>
-    </tr>
-      </tr>
-        <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
-        <td>b1a8fcf</td>
-        <td>Feat: add login router</td>
-        <td></td>
+        <td>Se agregó la vista de Login</td>
         <td>01/05/2024</td>
     </tr>
           </tr>
@@ -2593,7 +2549,7 @@ Change: Fix html and css book-home</td>
         <td>88b6af1</td>
         <td>
 Feat: add iniciosesion and register routes</td>
-        <td></td>
+        <td>Se agregó el botón comenzar para ingresar a la vista de Login</td>
         <td>01/05/2024</td>
     </tr>
           </tr>
@@ -2603,7 +2559,7 @@ Feat: add iniciosesion and register routes</td>
         <td>77e0b9f</td>
         <td>
 Fix: Router button "Comenzar"</td>
-        <td></td>
+        <td>Se arreglo la ruta para la vista de Login</td>
         <td>01/05/2024</td>
     </tr>
           </tr>
@@ -2612,7 +2568,7 @@ Fix: Router button "Comenzar"</td>
         <td>master</td>
         <td>1eb6134</td>
         <td>Fix: Change design "Ver más" button</td>
-        <td></td>
+        <td>Se agregó el botón para ingresar al Catálogo y visualizar los libros disponbiles</td>
         <td>01/05/2024</td>
     </tr>
            </tr>
@@ -2622,27 +2578,7 @@ Fix: Router button "Comenzar"</td>
         <td>6bc4891</td>
         <td>
 feat: Foto perfil</td>
-        <td></td>
-        <td>01/05/2024</td>
-    </tr>
-           </tr>
-        <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
-        <td>5217aed</td>
-        <td>
-feat: Agregar carpeta de componente</td>
-        <td></td>
-        <td>01/05/2024</td>
-    </tr>
-           </tr>
-        <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
-        <td>513e199</td>
-        <td>
-Delete document</td>
-        <td></td>
+        <td>Se agregó una foto para mostrarla en el perfil de usuario</td>
         <td>01/05/2024</td>
     </tr>
            </tr>
@@ -2652,7 +2588,7 @@ Delete document</td>
         <td>86f8e33</td>
         <td>
 Fix: Change design comment and review</td>
-        <td></td>
+        <td>Se arreglaron los estilos para los comentarios y reseñas</td>
         <td>01/05/2024</td>
     </tr>
           <tr>
@@ -2877,45 +2813,10 @@ git commit feat: First version</td>
     <tr>
         <td>FRONT_END</td>
         <td>master</td>
-        <td>ff2be2e</td>
-        <td>
-Fix: change css header</td>
-        <td>Correcciones de la cabecedera de la aplicación</td>
-        <td>30/04/2024</td>
-    </tr>
-    <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
         <td>2b7dfe2</td>
         <td>
 git commit fix: imagen</td>
-        <td>Se arregló la imagen de fondo de la bienvenido, así como hacer responsive algunas partes. Sin embargo la toolbar fue afectada</td>
-        <td>30/04/2024</td>
-    </tr>
-        <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
-        <td>9286d2b</td>
-        <td>Change: Fix css header</td>
-        <td></td>
-        <td>30/04/2024</td>
-    </tr>
-        <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
-        <td>4262bf9</td>
-        <td>
-Change: Fix html and css book-home</td>
-        <td></td>
-        <td>30/04/2024</td>
-    </tr>
-        <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
-        <td>02699bb</td>
-        <td>
-Change: Fix html and css book-home</td>
-        <td></td>
+        <td>Se arregló la imagen de fondo de la bienvenido, así como hacer esponsive algunas partes. Sin embargo la toolbar fue afectada</td>
         <td>30/04/2024</td>
     </tr>
         <tr>
@@ -2923,7 +2824,7 @@ Change: Fix html and css book-home</td>
         <td>master</td>
         <td>14ebcff</td>
         <td>Change: Fix books-component/bookhome_component and style</td>
-        <td></td>
+        <td>Se arregló el componente de BookHome</td>
         <td>30/04/2024</td>
     </tr>
         <tr>
@@ -2931,7 +2832,7 @@ Change: Fix html and css book-home</td>
         <td>master</td>
         <td>6103d33</td>
         <td>Change: Fix book-card/comment/detail component</td>
-        <td></td>
+        <td>Se arregló el componente de BookCard</td>
         <td>30/04/2024</td>
     </tr>
       </tr>
@@ -2940,7 +2841,7 @@ Change: Fix html and css book-home</td>
         <td>master</td>
         <td>149fbea</td>
         <td>Feat: add home/Catalogue to header</td>
-        <td>Se agregó la referencia de catálogo a la cabecera</td>
+        <td>Se agrego una ruta a catálogo</td>
         <td>30/04/2024</td>
     </tr>
       </tr>
@@ -2949,16 +2850,7 @@ Change: Fix html and css book-home</td>
         <td>master</td>
         <td>4baf263</td>
         <td>Feat: add iniciosesion and register components</td>
-        <td>Se agregó los componentes referentes a los formularios para iniciar sesión o registrarse respectivamente</td>
-        <td>01/05/2024</td>
-    </tr>
-      </tr>
-        <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
-        <td>b1a8fcf</td>
-        <td>Feat: add login router</td>
-        <td>Se agregó la ruta para que al pulsar el botón de "Iniciar Sesión" nos lleve al catálogo de nuestra página</td>
+        <td>Se agregó la vista de Login</td>
         <td>01/05/2024</td>
     </tr>
           </tr>
@@ -2968,7 +2860,7 @@ Change: Fix html and css book-home</td>
         <td>88b6af1</td>
         <td>
 Feat: add iniciosesion and register routes</td>
-        <td>Se importaron las rutas de iniciosesion y registro a la aplicación. Además, se ruteo el botón de "Únete aquí" con los formularios</td>
+        <td>Se agregó el botón comenzar para ingresar a la vista de Login</td>
         <td>01/05/2024</td>
     </tr>
           </tr>
@@ -2978,7 +2870,7 @@ Feat: add iniciosesion and register routes</td>
         <td>77e0b9f</td>
         <td>
 Fix: Router button "Comenzar"</td>
-        <td>Se ruteo el botón "Comenzar" con los formularios de iniciar sesión</td>
+        <td>Se arreglo la ruta para la vista de Login</td>
         <td>01/05/2024</td>
     </tr>
           </tr>
@@ -2987,7 +2879,7 @@ Fix: Router button "Comenzar"</td>
         <td>master</td>
         <td>1eb6134</td>
         <td>Fix: Change design "Ver más" button</td>
-        <td>Se cambió el estilo y diseño del botón "Ver más"</td>
+        <td>Se agregó el botón para ingresar al Catálogo y visualizar los libros disponbiles</td>
         <td>01/05/2024</td>
     </tr>
            </tr>
@@ -2997,27 +2889,7 @@ Fix: Router button "Comenzar"</td>
         <td>6bc4891</td>
         <td>
 feat: Foto perfil</td>
-        <td>Se agregó la imagen para la edición del perfil</td>
-        <td>01/05/2024</td>
-    </tr>
-           </tr>
-        <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
-        <td>5217aed</td>
-        <td>
-feat: Agregar carpeta de componente</td>
-        <td></td>
-        <td>01/05/2024</td>
-    </tr>
-           </tr>
-        <tr>
-        <td>FRONT_END</td>
-        <td>master</td>
-        <td>513e199</td>
-        <td>
-Delete document</td>
-        <td></td>
+        <td>Se agregó una foto para mostrarla en el perfil de usuario</td>
         <td>01/05/2024</td>
     </tr>
            </tr>
@@ -3027,7 +2899,7 @@ Delete document</td>
         <td>86f8e33</td>
         <td>
 Fix: Change design comment and review</td>
-        <td></td>
+        <td>Se arreglaron los estilos para los comentarios y reseñas</td>
         <td>01/05/2024</td>
     </tr>
           <tr>
