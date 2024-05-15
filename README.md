@@ -2986,11 +2986,6 @@ Este comando instalará y configurará la biblioteca angular-cli-ghpages en tu p
 ![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/796e93b8-8f42-4958-b16f-fa915cc44528)
 
 Este comando implementará nuestra aplicación Angular en la URL proporcionada en GitHub Pages. 
-
-
-
-
-	
 	
 </div>
 
@@ -3005,6 +3000,265 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 <img src="imgs/Insights2.1.png">
 <img src="imgs/Insights2.2.png">
 <img src="imgs/Insights2.3.png">
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Spring Planning 3.
+| Sprint # | Sprint 3 |
+|---------------------|-------------------------------------------|
+| Date                | 2024/05/                                |
+| Time                | M                                  |
+| Location            |                      |
+| Prepared By         |                  |
+| Attendees (to planning meeting) | Hernan Emilio Morales Calderón - U202216263 |
+|                      | Joaquin David Rivadeneyra Ramos - U202211846 |
+|                      | Paolo Gonzalo Párraga Gamarra - U202219186 |
+|                      | Miguel Ángel Huamán Cataño - U202120615   |
+|                      | Víctor Ernesto Zarate Cáceres - U202112907 |
+|                      | Franz Jair La Torre Valle - U202012378    |
+| Sprint 2 Review Summary |  |
+| Sprint 2 Retrospective Summary |  |
+| **Sprint Goal & User Stories** |	|
+| Sprint 3 Goal        |  |
+| Sprint 3 Velocity    |  Story Points                           |
+| Sum of Story Points  |  Story Points                           |
+
+#### 5.2.3.2.Sprint Backlog 3.
+<table>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 3</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US</td>
+        <td></td>
+        <td>W-0</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+<div align="justify">
+    Para la entrega del Sprint 3 se busco mejorar el diseño y funcionamiento de los entregables anteriores. También se diseño y desplego la primera versión de los Web Services.
+	<table>
+	    <tr>
+	        <td>Repository</td>
+	        <td>Branch</td>
+	        <td>Commit Id</td>
+	        <td>Commit Message</td>
+	        <td>Commit Message Body</td>
+	        <td>Commited on (Date)</td>
+	    </tr>
+	    <tr>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	    </tr>
+	</table>
+</div>
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+<div align="justify">
+	En base a todas la mejoras propuestas a la Web Application y Landing Page, se trabajo para realizarlas en conjunto a la primera versión de los Web Services. Algunas evidencias son:
+	<ul>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+
+</div>
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+<div align="justify">
+	JSON Server:
+	<table>
+		<tr>
+			<td>Endpoint</td>
+			<td>Details</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+	Web Service:
+	<table>
+		<tr>
+			<td>Endpoint</td>
+			<td>Operaciones</td>
+			<td>Parametros</td>
+			<td>URL</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+	Link del repositorio:<br>
+	Web service commit details:
+	<table>
+	    <tr>
+	        <td>Repository</td>
+	        <td>Branch</td>
+	        <td>Commit Id</td>
+	        <td>Commit Message</td>
+	        <td>Commit Message Body</td>
+	        <td>Commited on (Date)</td>
+	    </tr>
+	    <tr>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	    </tr>
+	</table>
+</div>
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+<div align="justify">
+	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una nueva versión de la web application, 
+	con un back-end parcial. Estos últimos recibiran mejoras en el siguiente sprint.
+	<ul>
+	<li>Landing page:</li>
+	<li>Web Application front-end:</li>
+	<li>Web Services back-end: </li>
+	</ul>
+</div>
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+<div align="justify">
+	Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para la Landing Page y Web App de BookFlow, para llevarlas a su versión definitiva. A su vez se dio inicio a la creación de 
+	los Web Apps que soportaran el back-end. Para ello, dividimos las tareas entre todos los integrantes para trabajar las tareas de manera simultánea. Finalmente, la participación de los miembros del 
+	equipo se ve reflejado en los commits realizados en el repositorio de trabajo.
+</div>
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+- **Introducción antes de la entrevista:**
+<br><br>
+#### Segmento objetivo (Ciudadanos):
+1.
+#### Segmento objetivo (Gerentes de entidades publicas o empresas):
+1.
+
+### 5.3.2. Registro de Entrevistas.
+#### Enlace de las entrevistas: 
+<div align="justify">
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista1S1.png" alt="Segmento 1 - Validation Interview 1"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>Entrevista 2: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista2S1.png" alt="Segmento 1 - Validation Interview 2"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+</div>
+
+#### Segmento 2:
+<div align="justify">
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista1S2.png" alt="Segmento 2 - Validation Interview 1"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista2S2.png" alt="Segmento 2 - Validation Interview 2"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+</div>
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.
+<img src="/assets/About-the-Product.png" alt="About-the-Product">
+Enlace:
 
 # Conclusiones
 En conclusion, BookFlow se posiciona como una plataforma integral que no solo conecta a los lectores con una amplia gama de libros y contenido relevante, sino que también brinda a los autores las herramientas necesarias para promocionar y comprender mejor sus obras. Con un enfoque en la comunidad, la innovación y la calidad, BookFlow tiene el potencial de convertirse en un punto de referencia para los amantes de la lectura y los entusiastas de la literatura en todo el mundo.
@@ -3031,19 +3285,19 @@ En conclusion, BookFlow se posiciona como una plataforma integral que no solo co
 [def]: SoftwareArchitectureContextDiagram.png
 
 Link del video TB1: [Video](https://www.youtube.com/watch?v=EU91NX9JQSw)
-
 ![Imagen de WhatsApp 2024-04-13 a las 13 30 30_ad5e8878](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/41f99581-998e-4375-b75c-4bb1235d5f00)
 
 Link del video TP1: [Video](https://www.youtube.com/watch?v=IBJAfFqJbZI)
-
 ![Image](./imgs/expoVideoTP.png)
 
+Link del video TB2:
+
+Link del video About-the-Product:
+
+Link del video About-the-Team:
 
 Link de la Landing Page: [Landing Page](https://bookflowww.netlify.app/)
-
 ![image](./imgs/landinpage.png)
 
-
 Link de la primera versión del frontend: [Frontend](https://readwell-sw54-si729.github.io/FRONT_END/home)
-
 ![image](./imgs/frontend.png)
