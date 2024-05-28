@@ -3005,58 +3005,45 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 
 ### Sprint Planning 3
 
+| Sprint #              | Sprint 3                          |
+|-----------------------|-----------------------------------|
+| Date                  | 2024/05/25                        |
+| Time                  | 10:00 PM                          |
+| Location              | Videoconferencia Zoom             |
+| Prepared By           | Joaquin Rivadeneyra Ramos         |
+| Attendees (to planning meeting) | Hernan Emilio Morales Calderón - U202216263 |
+|                       | Joaquin David Rivadeneyra Ramos - U202211846 |
+|                       | Paolo Gonzalo Párraga Gamarra - U202219186 |
+|                       | Miguel Ángel Huamán Cataño - U202120615   |
+|                       | Víctor Ernesto Zarate Cáceres - U202112907 |
+|                       | Franz Jair La Torre Valle - U202012378    |
+| Sprint 2 Review Summary | El sprint 2 se centró en poder completar las historias de usuario acordadas por el equipo. Como parte de los resultados se finalizó con los ítems planificados que corresponde al diseño de las interfaces de la aplicación. |
+| Sprint 2 Retrospective Summary | El equipo se reunió al finalizar el primer sprint para realizar una retroalimentación retrospectiva. Durante la reunión, se discutieron los aspectos positivos y negativos del sprint y se identificaron oportunidades de mejora para futuras iteraciones. |
+| **Sprint Goal & User Stories** | |
+| Sprint 3 Goal        | Culminación del FrontEnd y primera implementación del backend del proyecto. |
+| Sprint 3 Velocity    | 30 Story Points                   |
+| Sum of Story Points  | 30 Story Points                   |
+
+#### 5.2.3.2.Sprint Backlog 3.
+
 ### Sprint Backlog 3
 
-<table>
-    <tr align="center">
-        <td colspan="2"><strong>Sprint #</strong></td>
-        <td colspan="6"><strong>Sprint 3</strong></td>
-    </tr>
-    <tr align="center">
-        <td colspan="2"><strong>User Story</strong></td>
-        <td colspan="6"><strong>Work-Item / Task</strong></td>
-    </tr>
-    <tr align="center">
-        <td><strong>Id</strong></td>
-        <td><strong>Title</strong></td>
-        <td><strong>Id</strong></td>
-        <td><strong>Title</strong></td>
-        <td><strong>Description</strong></td>
-        <td><strong>Estimation (Hours)</strong></td>
-        <td><strong>Assigned to</strong></td>
-        <td><strong>Status (To do / In process / To review / Done)</strong></td>
-    </tr>
-    <tr align="center">
-        <td>US</td>
-        <td></td>
-        <td>W-0</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
-
-#### 5.2.3.3.Development Evidence for Sprint Review.
-<table>
-    <tr>
-        <td>Repository</td>
-        <td>Branch</td>
-        <td>Commit Id</td>
-        <td>Commit Message</td>
-        <td>Commit Message Body</td>
-        <td>Commited on (Date)</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
+| Sprint #  | Sprint 3 |  |  |  |  |  |  |
+|----------|----------|---|------------------------|-------------------------------------------|--------------|-------------------|--------|
+| **User Story ID** | **Title** | **Work-Item / Task ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| US06 | Unirse a un Club de Lectura Virtual | WO1 | Club de Lectura Virtual | Diseñar y desarrollar la opción para que los usuarios puedan unirse a clubes de lectura virtuales, gestionar sus participaciones y recibir notificaciones de reuniones | 3 horas | Joaquin Rivadeneyra Ramos | Done |
+| US10 | Leer Libros Electrónicos | WO2 | Libros Electrónicos | Diseñar y desarrollar el lector de libros electrónicos integrado en la aplicación, incluyendo opciones de ajuste de fuente y marcadores | 3 horas | Paolo Gonzalo Párraga  | Done |
+| US12 | Membresía Premium de Usuario | WO3 | Membresía Premium | Implementar la opción de suscripción premium, incluyendo un mes de prueba gratis y notificaciones de fin de período de prueba | 3.5 horas  | Hernan Emilio Morales Calderón | Done |
+| US21 | Notificaciones de Eventos de Autores Favoritos | WO4 | Notificaciones de Eventos | Implementar el sistema de notificaciones para eventos y lanzamientos de libros de autores favoritos | 2 horas | Hernan Emilio Morales Calderón | Done |
+| US23 | Crear Club de Lectura Privado | WO5 | Club de Lectura Privado | Diseñar y desarrollar la funcionalidad para crear y gestionar clubes de lectura privados, incluyendo la programación de reuniones y gestión de miembros | 2.5 horas| Miguel Ángel Huamán Cataño | Done |
+| US25 | Recomendar Libros a Grupos de Amigos | WO6 | Recomendar Libros | Implementar la opción de recomendar libros a grupos de amigos y gestionar discusiones sobre las recomendaciones en la aplicación | 2 horas | Miguel Ángel Huamán Cataño | Done |
+| US05 | Implementación del servicio Post | W07 | Servicio Post | Desarrollar el servicio que corresponde a las publicaciones de propiedades para acceder al servicio en el frontend | 3 horas | Víctor Ernesto Zarate Cáceres | Done |
+| TS01 | Registro de Usuario | WO8 | Registro de Usuario | Crear endpoint que permita la comunicación para registrar un nuevo usuario en BookFlow | 3 horas | Víctor Ernesto Zarate Cáceres | Done |
+|  |  | WO9 | Validar correo | Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente | 2 horas | Víctor Ernesto Zarate Cáceres | Done |
+| TS02 | Iniciar Sesión | W10 | Iniciar Sesión | Crear endpoint que permita a los usuarios registrados iniciar sesión en BookFlow | 2 horas | Franz Jair La Torre Valle | Done |
+|  |  | W11 | Validar contraseñas | Validar que la combinación de correo electrónico y contraseña ingresada sea correcta | 2 horas | Franz Jair La Torre Valle | Done |
+| TS03 | Membresía de Usuario | W12 | Suscripción Premium | Crear endpoint que permita la suscripción premium con un mes de prueba gratuito y luego $19.99 mensuales | 2 horas | Franz Jair La Torre Valle | Done |
+|  |  | W13 | Notificación de Fin de Período de Prueba | Crear endpoint para enviar notificaciones a los usuarios una semana antes de que termine su período de prueba gratuito | 2 horas | Franz Jair La Torre Valle | Done |
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 <div align="justify">
