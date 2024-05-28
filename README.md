@@ -3002,27 +3002,11 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 <img src="imgs/Insights2.3.png">
 
 ### 5.2.3. Sprint 3
-#### 5.2.3.1.Spring Planning 3.
-| Sprint # | Sprint 3 |
-|---------------------|-------------------------------------------|
-| Date                | 2024/05/                                |
-| Time                | M                                  |
-| Location            |                      |
-| Prepared By         |                  |
-| Attendees (to planning meeting) | Hernan Emilio Morales Calderón - U202216263 |
-|                      | Joaquin David Rivadeneyra Ramos - U202211846 |
-|                      | Paolo Gonzalo Párraga Gamarra - U202219186 |
-|                      | Miguel Ángel Huamán Cataño - U202120615   |
-|                      | Víctor Ernesto Zarate Cáceres - U202112907 |
-|                      | Franz Jair La Torre Valle - U202012378    |
-| Sprint 2 Review Summary |  |
-| Sprint 2 Retrospective Summary |  |
-| **Sprint Goal & User Stories** |	|
-| Sprint 3 Goal        |  |
-| Sprint 3 Velocity    |  Story Points                           |
-| Sum of Story Points  |  Story Points                           |
 
-#### 5.2.3.2.Sprint Backlog 3.
+### Sprint Planning 3
+
+### Sprint Backlog 3
+
 <table>
     <tr align="center">
         <td colspan="2"><strong>Sprint #</strong></td>
