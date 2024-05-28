@@ -774,7 +774,7 @@ Los procedimientos técnicos permitirán a los usuarios de " BookFlow " elegir c
 | Sprint #              | Sprint 3                          |
 |-----------------------|-----------------------------------|
 | Date                  | 2024/05/25                        |
-| Time                  | 09:00 PM                          |
+| Time                  | 10:00 PM                          |
 | Location              | Videoconferencia Zoom             |
 | Prepared By           | Joaquin Rivadeneyra Ramos         |
 | Attendees (to planning meeting) | Hernan Emilio Morales Calderón - U202216263 |
@@ -805,7 +805,7 @@ Los procedimientos técnicos permitirán a los usuarios de " BookFlow " elegir c
 | US25 | Recomendar Libros a Grupos de Amigos | WO6 | Recomendar Libros | Implementar la opción de recomendar libros a grupos de amigos y gestionar discusiones sobre las recomendaciones en la aplicación |  |  | Done |
 | US05 | Implementación del servicio Post | W07 | Servicio Post | Desarrollar el servicio que corresponde a las publicaciones de propiedades para acceder al servicio en el frontend |  |  | Done |
 | TS01 | Registro de Usuario | WO8 | Registro de Usuario | Crear endpoint que permita la comunicación para registrar un nuevo usuario en BookFlow |  |  | Done |
-|  |  | WO9 | Validar correo | Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente |  |  | Done |
+  | WO9 | Validar correo | Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente |  |  | Done |
 | TS02 | Iniciar Sesión | W10 | Iniciar Sesión | Crear endpoint que permita a los usuarios registrados iniciar sesión en BookFlow |  |  | Done |
 |  |  | W11 | Validar contraseñas | Validar que la combinación de correo electrónico y contraseña ingresada sea correcta |  |  | Done |
 | TS03 | Membresía de Usuario | W12 | Suscripción Premium | Crear endpoint que permita la suscripción premium con un mes de prueba gratuito y luego $19.99 mensuales |  |  | Done |
