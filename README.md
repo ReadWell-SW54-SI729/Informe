@@ -739,7 +739,7 @@ Los procedimientos técnicos permitirán a los usuarios de " BookFlow " elegir c
 |                      | Miguel Ángel Huamán Cataño - U202120615   |
 |                      | Víctor Ernesto Zarate Cáceres - U202112907 |
 |                      | Franz Jair La Torre Valle - U202012378    |
-| Sprint 1 Review Summary | Se completaron los 6 de 6 user stories establecidos en el sprint anterior, mejoramos la experiencia de usuario en la landing page. Hubo retrasos con su elaboración, lo cual nos sirvió para dividirnos mejor en las siguientes entregas. |
+| Sprint 1 Review Summary | Se completaron los 7 de 7 user stories establecidos en el sprint anterior, mejoramos la experiencia de usuario en la landing page. Hubo retrasos con su elaboración, lo cual nos sirvió para dividirnos mejor en las siguientes entregas. |
 | Sprint 1 Retrospective Summary | El equipo acordó mejorar las estimaciones de tiempo y colaborar más estrechamente con el equipo. Además, de mejorar cuantiosamente la landing page de la aplicación |
 | **Sprint Goal & User Stories** | |
 | Sprint 2 Goal        | El objetivo primordial para este sprint es implementar funcionalidades esenciales para el front-end de la aplicación, buscando enriquecer la personalización de la experiencia del usuario y mejorar sustancialmente la gestión de contenido. Nos enfocaremos en desarrollar una interfaz de usuario intuitiva y responsiva que permita a los usuarios interactuar de manera más efectiva con nuestras características principales. |
@@ -766,6 +766,62 @@ Los procedimientos técnicos permitirán a los usuarios de " BookFlow " elegir c
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.3. Sprint 3
+#### 5.2.3.1.Spring Planning 3.
+
+### Sprint Planning 3
+
+| Sprint #              | Sprint 3                          |
+|-----------------------|-----------------------------------|
+| Date                  | 2024/05/25                        |
+| Time                  | 09:00 PM                          |
+| Location              | Videoconferencia Zoom             |
+| Prepared By           | Joaquin Rivadeneyra Ramos         |
+| Attendees (to planning meeting) | Hernan Emilio Morales Calderón - U202216263 |
+|                       | Joaquin David Rivadeneyra Ramos - U202211846 |
+|                       | Paolo Gonzalo Párraga Gamarra - U202219186 |
+|                       | Miguel Ángel Huamán Cataño - U202120615   |
+|                       | Víctor Ernesto Zarate Cáceres - U202112907 |
+|                       | Franz Jair La Torre Valle - U202012378    |
+| Sprint 2 Review Summary | El sprint 2 se centró en poder completar las historias de usuario acordadas por el equipo. Como parte de los resultados se finalizó con los ítems planificados que corresponde al diseño de las interfaces de la aplicación. |
+| Sprint 2 Retrospective Summary | El equipo se reunió al finalizar el primer sprint para realizar una retroalimentación retrospectiva. Durante la reunión, se discutieron los aspectos positivos y negativos del sprint y se identificaron oportunidades de mejora para futuras iteraciones. |
+| **Sprint Goal & User Stories** | |
+| Sprint 3 Goal        | Culminación del FrontEnd y primera implementación del backend del proyecto. |
+| Sprint 3 Velocity    | 30 Story Points                   |
+| Sum of Story Points  | 30 Story Points                   |
+
+#### 5.2.3.2.Sprint Backlog 3.
+
+### Sprint Backlog 3
+
+| Sprint #  | Sprint 3 |  |  |  |  |  |  |
+|----------|----------|---|------------------------|-------------------------------------------|--------------|-------------------|--------|
+| **User Story ID** | **Title** | **Work-Item / Task ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| US06 | Unirse a un Club de Lectura Virtual | WO1 | Club de Lectura Virtual | Diseñar y desarrollar la opción para que los usuarios puedan unirse a clubes de lectura virtuales, gestionar sus participaciones y recibir notificaciones de reuniones |  |  | Done |
+| US10 | Leer Libros Electrónicos | WO2 | Leer Libros Electrónicos | Diseñar y desarrollar el lector de libros electrónicos integrado en la aplicación, incluyendo opciones de ajuste de fuente y marcadores |  |  | Done |
+| US12 | Membresía de Usuario | WO3 | Membresía de Usuario | Implementar la opción de suscripción premium, incluyendo un mes de prueba gratis y notificaciones de fin de período de prueba |  |  | Done |
+| US21 | Notificaciones de Eventos de Autores Favoritos | WO4 | Notificaciones de Eventos | Implementar el sistema de notificaciones para eventos y lanzamientos de libros de autores favoritos |  |  | Done |
+| US23 | Crear Club de Lectura Privado | WO5 | Crear Club de Lectura Privado | Diseñar y desarrollar la funcionalidad para crear y gestionar clubes de lectura privados, incluyendo la programación de reuniones y gestión de miembros |  |  | Done |
+| US25 | Recomendar Libros a Grupos de Amigos | WO6 | Recomendar Libros | Implementar la opción de recomendar libros a grupos de amigos y gestionar discusiones sobre las recomendaciones en la aplicación |  |  | Done |
+| US05 | Implementación del servicio Post | W07 | Servicio Post | Desarrollar el servicio que corresponde a las publicaciones de propiedades para acceder al servicio en el frontend |  |  | Done |
+| TS01 | Registro de Usuario | WO8 | Registro de Usuario | Crear endpoint que permita la comunicación para registrar un nuevo usuario en BookFlow |  |  | Done |
+|  |  | WO9 | Validar correo | Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente |  |  | Done |
+| TS02 | Iniciar Sesión | W10 | Iniciar Sesión | Crear endpoint que permita a los usuarios registrados iniciar sesión en BookFlow |  |  | Done |
+|  |  | W11 | Validar contraseñas | Validar que la combinación de correo electrónico y contraseña ingresada sea correcta |  |  | Done |
+| TS03 | Membresía de Usuario | W12 | Suscripción Premium | Crear endpoint que permita la suscripción premium con un mes de prueba gratuito y luego $19.99 mensuales |  |  | Done |
+|  |  | W13 | Notificación de Fin de Período de Prueba | Crear endpoint para enviar notificaciones a los usuarios una semana antes de que termine su período de prueba gratuito |  |  | Done |
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+#### 5.3. Validation Interviews.
+#### 5.3.1. Diseño de Entrevistas.
+#### 5.3.2. Registro de Entrevistas.
+#### 5.3.3. Evaluaciones según heurísticas.
+#### 5.4. Video About-the-Product.
 # Conclusiones
 # Bibliografía
 # Anexos
