@@ -3126,6 +3126,19 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 
 ### Unit tests:
 
+Se han diseñado y ejecutado pruebas unitarias para las siguientes clases y comportamientos:
+
+1. RecommendFriendsComponent: Se probaron los métodos getBooksByIsbn, enviarMensaje, mostrarSnackBar y goBack.
+
+2. ReadingClubComponent: getAllBooks, getClubs, getUsers, getBookImage, goCreateReadingClub, goBack y joinClub.
+
+3. BookCreateRedingClubComponent: createClub, resetForm, openBookDialog y goBack.
+
+4. BookUserClubComponent: getAllBooks, getClubs, getUsers, getBookImage y goBack.
+
+5. BookSubscriptionComponent: onSubmit y onFreePlan.
+
+6. PaymentDetailsComponent: onSubmit.
 
 ### Integration Tests & Acceptance Tests (BDD):
 
