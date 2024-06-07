@@ -3123,7 +3123,253 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 </div>
 
 #### 5.2.3.4 Testing Suite Evidence for Sprint Review.
+
+### Unit tests:
+
+
+### Integration Tests & Acceptance Tests (BDD):
+
+Se han desarrollado archivos .feature utilizando Gherkin para las siguientes User Stories:
+
+Relacionado a US-06
+
+    Feature: Gestión de Inventario de Libros
+
+    Como usuario, 
+    Quiero gestionar el inventario de libros en BookFlow 
+    Para asegurarme de que los usuarios tengan acceso a una amplia gama de libros disponibles en la plataforma.
+
+    Scenario: Agregar un nuevo libro al inventario
+        Given Accedo a la sección de gestión de inventario
+	When Relleno el formulario con los detalles del nuevo libro y hago clic en "Agregar"
+        Then El libro se agrega correctamente al inventario y está disponible para los usuarios
+
+    Scenario: Editar detalles de un libro en el inventario
+    	Given Hay un libro existente en el inventario
+	When Selecciono el libro y edito los detalles
+	Then Los cambios se guardan correctamente y se reflejan en el inventario
+
+    Scenario: Eliminar un libro del inventario
+	Given Hay un libro existente en el inventario que quiero eliminar
+	When Selecciono el libro y hago clic en "Eliminar"
+	Then El libro se elimina correctamente del inventario y ya no está disponible para los usuarios
+
+
+ Relacionado a US-10
+
+    Feature: Leer Libros Electrónicos
+
+    Como usuario, 
+    Quiero poder leer libros electrónicos en BookFlow 
+    Para disfrutar de la lectura digital con opciones de personalización.
+
+    Scenario: Abrir un libro electrónico
+        Given He seleccionado un libro electrónico de mi biblioteca
+	When Hago clic en "Leer"
+	Then El libro electrónico se abre en el lector integrado de la aplicación
+
+    Scenario: Ajustar fuente y tamaño de texto
+        Given Estoy leyendo un libro electrónico
+	When Accedo a las opciones de configuración
+	Then Puedo ajustar la fuente y el tamaño del texto según mis preferencias
+ 
+    Scenario: Agregar marcadores
+        Given Estoy leyendo un libro electrónico
+	When Marco una página importante
+	Then El marcador se guarda y puedo acceder a esa página fácilmente en el futuro
+
+  Relacionado a US-12
+
+    Feature: Membresía Premium de Usuario
+
+    Como usuario, 
+    Quiero poder suscribirme a una membresía premium en BookFlow 
+    Para acceder a beneficios adicionales y una experiencia de lectura mejorada.
+
+    Scenario: Suscripción a membresía premium
+        Given Quiero suscribirme a la membresía premium
+	When Selecciono la opción de suscripción y completo el pago
+	Then Obtengo acceso a los beneficios premium y se inicia mi período de prueba gratuito
+
+    Scenario: Notificación de fin de período de prueba
+        Given Estoy en el período de prueba gratuito de la membresía premium
+	When Faltan 7 días para que termine el período de prueba
+	Then Recibo una notificación recordándome el fin del período de prueba y la fecha de renovación
+
+    Scenario: Cancelar membresía premium
+        Given Soy un miembro premium de BookFlow
+	When Decido cancelar mi suscripción
+	Then Mi membresía se cancela y pierdo acceso a los beneficios premium al final del período actual
+
+Relacionado a US-21
+
+    Feature: Notificaciones de Eventos de Autores Favoritos
+    
+    Como usuario, 
+    Quiero recibir notificaciones sobre eventos y lanzamientos de mis autores favoritos en BookFlow 
+    Para mantenerme informado y no perderme ninguna actualización.
+
+    Scenario: Recibir notificaciones de eventos
+        Given Sigo a varios autores en BookFlow
+	When Un autor que sigo programa un evento o lanza un nuevo libro
+	Then Recibo una notificación con los detalles del evento o lanzamiento
+
+    Scenario: Configurar notificaciones de eventos
+        Given Quiero gestionar mis notificaciones
+	When Accedo a la configuración de notificaciones en mi perfil
+	Then Puedo activar o desactivar las notificaciones de eventos y lanzamientos de autores
+
+    Scenario: Ver detalles de un evento
+        Given He recibido una notificación de un evento
+	When Hago clic en la notificación
+	Then Puedo ver los detalles completos del evento en la aplicación
+
+Relacionado a US-23
+
+    Feature: Crear Club de Lectura Privado
+
+    Como usuario, 
+    Quiero poder crear un club de lectura privado en BookFlow 
+    Para invitar a mis amigos y gestionar nuestras reuniones de lectura de manera exclusiva.
+
+    Scenario: Crear un club de lectura privado
+        Given Quiero iniciar un club de lectura con mis amigos
+	When Selecciono la opción de "Crear Club Privado" y configuro los detalles
+	Then El club de lectura privado se crea y puedo invitar a mis amigos a unirse
+
+    Scenario: Programar reuniones de lectura
+        Given Soy administrador de un club de lectura privado
+	When Programo una nueva reunión
+	Then Los miembros del club reciben una notificación con los detalles de la reunión
+
+    Scenario: Gestionar miembros del club
+        Given Soy administrador de un club de lectura privado
+	When Accedo a la configuración del club
+	Then Puedo agregar o eliminar miembros según sea necesario
+
+ Relacionado a US-25
+
+    Feature: Recomendar Libros a Grupos de Amigos
+
+    Como usuario, 
+    Quiero poder recomendar libros a mis amigos en BookFlow
+    Para compartir lecturas interesantes y discutir sobre ellas.
+
+    Scenario: Recomendar un libro a un grupo de amigos
+        Given He encontrado un libro que quiero recomendar
+	When Selecciono la opción "Recomendar a Amigos" y elijo un grupo
+	Then El libro se recomienda al grupo seleccionado y reciben una notificación
+
+    Scenario: Gestionar recomendaciones recibidas
+        Given He recibido varias recomendaciones de libros
+	When Accedo a la sección de recomendaciones en la aplicación
+	Then Puedo ver y organizar las recomendaciones según mi preferencia
+
+    Scenario: Discutir sobre una recomendación
+        Given Un amigo ha recomendado un libro
+	When Accedo a la recomendación en la aplicación
+	Then Puedo iniciar o unirme a una discusión sobre el libro recomendado
+
+ Relacionado a US-05
+
+    Feature: Implementación del Servicio Post
+
+    Como usuario, 
+    Quiero desarrollar el servicio que corresponde a las publicaciones de propiedades para acceder al servicio en el frontend
+    Para que los usuarios puedan publicar y ver propiedades en BookFlow.
+
+    Scenario: Crear publicación de propiedad
+        Given Accedo a la sección de "Publicar Propiedad" en la aplicación
+	When Relleno el formulario con los detalles de la propiedad y hago clic en "Publicar"
+	Then La propiedad se publica correctamente y está visible para otros usuarios en la aplicación
+
+    Scenario: Editar publicación de propiedad
+        Given Tengo una propiedad publicada
+	When Accedo a mi perfil, selecciono la propiedad y edito los detalles
+	Then Los cambios se guardan correctamente y se reflejan en la publicación
+
+    Scenario: Eliminar publicación de propiedad
+        Given Tengo una propiedad publicada que quiero eliminar
+    	When Accedo a mi perfil, selecciono la propiedad y hago clic en "Eliminar"
+    	Then La publicación se elimina correctamente y ya no está visible en la aplicación
+
+ Relacionado a TS-01
+
+    Feature: Registro de Usuario
+
+    Como desarrollador,
+    Quiero crear un endpoint que permita la comunicación para registrar un nuevo usuario en BookFlow
+    Para que los nuevos usuarios puedan registrarse y acceder a la plataforma.
+
+    Scenario: Registrar nuevo usuario
+    	Given Accedo a la página de registro de la aplicación
+    	When Relleno el formulario de registro con mi información personal y hago clic en "Registrar"
+    	Then El usuario se registra correctamente y puede iniciar sesión en la aplicación
+
+    Scenario: Validar correo electrónico durante el registro
+    	Given Estoy registrando un nuevo usuario
+    	When Ingreso un correo electrónico ya existente
+    	Then Recibo una alerta indicando que el correo ya está registrado y debo usar uno diferente
+
+    Scenario: Confirmar registro mediante correo electrónico
+    	Given Me he registrado como nuevo usuario
+    	When Recibo un correo electrónico de confirmación y hago clic en el enlace de verificación
+    	Then Mi cuenta se verifica y puedo iniciar sesión en la aplicación
+
+ Relacionado a TS-02
+
+    Feature: Iniciar Sesión
+
+    Como desarrollador,
+    Quiero crear un endpoint que permita a los usuarios registrados iniciar sesión en BookFlow
+    Para que los usuarios puedan acceder a sus cuentas y utilizar la plataforma.
+
+    Scenario: Iniciar sesión con credenciales correctas
+    	Given Accedo a la página de inicio de sesión de la aplicación
+    	When Ingreso mi correo electrónico y contraseña correctos y hago clic en "Iniciar Sesión"
+    	Then Inicio sesión correctamente y accedo a mi cuenta
+
+    Scenario: Validar combinación de correo electrónico y contraseña
+    	Given Estoy intentando iniciar sesión en la aplicación
+    	When Ingreso un correo electrónico o contraseña incorrectos
+    	Then Recibo una alerta indicando que las credenciales son incorrectas y debo intentarlo de nuevo
+
+    Scenario: Restablecer contraseña
+    	Given No recuerdo mi contraseña
+    	When Hago clic en "Olvidé mi contraseña" y sigo el proceso de restablecimiento
+    	Then Recibo un correo con un enlace para restablecer mi contraseña y puedo acceder nuevamente a mi cuenta
+
+ Relacionado a TS-03
+
+    Feature: Membresía de Usuario
+
+    Como desarrollador,
+    Quiero crear un endpoint que permita la suscripción premium con un mes de prueba gratuito y luego $19.99 mensuales
+    Para que los usuarios puedan acceder a características premium en la plataforma.
+
+    Scenario: Suscribirse a membresía premium
+    	Given Accedo a la página de suscripción de la aplicación
+    	When Selecciono la opción de suscripción premium y proporciono la información de pago
+    	Then Me suscribo correctamente y obtengo un mes de prueba gratuito
+
+    Scenario: Notificación de fin de período de prueba
+    	Given Soy un usuario con membresía premium en período de prueba
+    	When Faltan siete días para que termine mi período de prueba gratuito
+    	Then Recibo una notificación indicando que mi período de prueba está a punto de terminar
+
+    Scenario: Cancelar membresía premium
+    	Given Estoy suscrito a la membresía premium
+    	When Decido cancelar mi suscripción y sigo el proceso de cancelación
+    	Then Mi suscripción se cancela correctamente y no se realizarán más cobros mensuales
+       
+#### Enlace al repositorio de control de versiones
+
+●	Link: [Click para ver el repositorio](https://github.com/ReadWell-SW54-SI729/FRONT_END/tree/master)
+
+#### Tabla para commits relacionados con el testing
+
 <div align="justify">
+	Para la entrega del Sprint 3 se busco mejorar el diseño y funcionamiento de los entregables anteriores. También se diseño y desplego la primera versión de los Web Services.
 	<table>
 	    	<tr>
 	        	<td>Repository</td>
@@ -3134,12 +3380,44 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 	        	<td>Commited on (Date)</td>
 		</tr>
 		<tr>
-		        <td></td>
-		        <td></td>
-		        <td></td>
-		        <td></td>
-		        <td></td>
-		        <td></td>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>77e55e53ba6ee4fa4f0b8ba08e2a9d18b3f5cc4b</td>
+		        <td>Add Comments</td>
+		        <td>Added comments to improve code readability and maintainability.</td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>7f13fdbfff41db34409f7f5c7bfa093a430ba990</td>
+		        <td>feature POST</td>
+		        <td>Metod POST for creating accounts and verifying email have been added.</td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>77bc00e3f3de31f8e6d0e01c662055c3702b3b49</td>
+		        <td>feature POST v1</td>
+		        <td>Initial implementation of the POST method for account creation and email verification.</td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>60d8265033e3511db089a6c6b50c74b0745b6578</td>
+		        <td>feat Mail Validation</td>
+		        <td>Implemented email validation logic to ensure unique email addresses and valid format.</td>
+		        <td>02/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>80a189f2f55c73ee1af0ad1562c2cd21fc93dbe8</td>
+		        <td>feat Interfaz Usuario</td>
+		        <td>Developed user interface for email validation process.</td>
+		        <td>02/06/2024</td>
 		</tr>
 	</table>
 </div>
