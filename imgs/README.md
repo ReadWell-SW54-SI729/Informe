@@ -3521,12 +3521,34 @@ Relacionado a US-23
 <div align="justify">
 	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una nueva versión de la web application, 
 	con un back-end parcial. Estos últimos recibiran mejoras en el siguiente sprint.
-	<ul>
-	<li>Landing page:</li>
-	<li>Web Application front-end:</li>
-	<li>Web Services back-end: </li>
-	</ul>
-</div>
+    </div>
+
+	
+Web Application front-end:
+    
+ Usando el comando ng build, creamos la carpeta de donde firebase agarrara los estilos, hmtl y ts usados:
+
+![alt text](image.png)
+![alt text](image-1.png)
+
+Con el siguiente comando seleccionaremos el proyecto que hemos creado en Firebase
+![alt text](image-2.png)
+
+Y por último, haríamos deploy:
+![alt text](image-3.png)
+
+Web Services back-end: 
+Para el back-end se usó heroku para desplegarlo.
+
+Usamos los camonado que vienen en la documentación para hacer deploy
+
+![alt text](image-4.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+
+
+Frontend: https://test-bookflow.web.app/home 
+Backend: https://bookflow-backend-469804042cb0.herokuapp.com
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 <div align="justify">
