@@ -83,6 +83,11 @@ Evidencias del Insights Contributos de los commits del informe:
 ![image](./imgs/InsightsSprint2CommitPart2.png)
 ![image](./imgs/InsightsSprint2.png)
 
+
+![alt text](./imgs/InsightTB2.png)
+![alt text](./imgs/InsightTB22.png)
+
+
 Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 
 # Contenido
@@ -3237,7 +3242,30 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 	Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para la Landing Page y Web App de BookFlow, para llevarlas a su versión definitiva. A su vez se dio inicio a la creación de 
 	los Web Apps que soportaran el back-end. Para ello, dividimos las tareas entre todos los integrantes para trabajar las tareas de manera simultánea. Finalmente, la participación de los miembros del 
 	equipo se ve reflejado en los commits realizados en el repositorio de trabajo.
+
 </div>
+
+Se realizó GitFlow para cada repositorio correspondiente al FrontEnd y BackEnd
+
+## FRONT END
+![alt text](./imgs/ContributorsFront.png)
+
+![alt text](./imgs/Contributors2.png)
+
+## BACK END
+
+![alt text](./imgs/contributorsBack.png)
+
+![alt text](./imgs/contributors2-Back.png)
+
+## GITFLOW FRONT END
+
+![alt text](./imgs/gitflowFront.png)
+
+## GITFLOW BACK END
+
+![alt text](./imgs/gitflowBack.png)
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
