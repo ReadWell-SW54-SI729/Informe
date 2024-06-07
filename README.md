@@ -57,13 +57,13 @@
 |:-------:|:----------:|:-----:|:----------------------------| 
 |TB1| 12/04/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II, Capítulo III,  Capítulo IV y Capítulo V|
 |TP | 31/04/2024 |Todos los integrantes del equipo| Mejoras respecto a presentable anterior <br> Sprint 2| 
+|TB2| 08/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de Landing Page<br>Mejora de App Web<br>Primera versión de Web Services<br>Primera versión de Video About-The-Product.<br>Primera versión de Video About-The-Team|
 <br>
 
 # Project Report Collaboration Insights
+TB1 & TP1:
 
-TB1:
-
-Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+Para el desarrollo del informe perteneciente a la entrega TB1 & TP1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 
 | Integrantes       | Tareas designadas         |
@@ -72,18 +72,16 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 | La Torre Valle, Franz Jair  |As-is Scenario Mapping, Ubiquitous Language, Lean UX Assumptions, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing, Page UI Design, Landing Page Wireframe, Landing Page Mock-up y Sprint n | 
 | Morales Calderón, Hernan Emilio  | Lean UX Problem Statements, Segmentos objetivo, Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Software Configuration Management, Landing Page y Team Collaboration Insights during Sprint | 
 | Párraga Gamarra, Paolo Gonzalo  |Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up. | 
-| Rivadeneyra Ramos, Joaquin  | Startup Profile, Descripción de la Startup, To-Be Scenario Mapping, User Stories, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems. | 
+| Rivadeneyra Ramos, Joaquin  | Startup Profile, Descripción de la Startup, To-Be Scenario Mapping, User Stories, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems, Elaboración del sprint planning 2, sprint planning 2, coordinación del grupo, aplicación de mejoras, aplicación de routeos y vista perfil. | 
 | Zárate Cáceres, Victor Ernesto  |Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.  | 
 
 Evidencias del Insights Contributos de los commits del informe:
-
 ![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/02b88e56-1e52-48e9-b39b-a12a2825878e)
-
 ![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/d1374bc7-5a24-421a-9cb6-15349d0578a6)
 
-
-
-
+![image](./imgs/InsightsSprint2CommitPart1.png)
+![image](./imgs/InsightsSprint2CommitPart2.png)
+![image](./imgs/InsightsSprint2.png)
 
 Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 
@@ -172,63 +170,37 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+        - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+    	- [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    	- [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    	- [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    	- [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    	- [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    	- [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    	- [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    	- [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+- [5.3.Validation Interviews](#53-validation-interviews)
+  - [Diseño de Entrevistas](#531-sprint-1)
+  - [Registro de Entrevistas](#532-sprint-1)
+  - [Evaluaciones según heurísticas](#533-sprint-1)
+- [5.4.Video About-the-Product](#54-video-about-the-product)
 ### [Conclusiones](#conclusiones-1)
 ### [Bibliografía](#bibliografia-1)
 ### [Anexos](#anexos-1)
 # Student Outcome
-<table>
-    <tr>
-        <th>Criterio Especifico</th>
-        <th>Acciones Realizadas</th>
-        <th>Conclusiones</th>
-    </tr>
-    <tr>
-        <td align="justify">
-           Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
-        </td>
-        <td align="justify">
-            Huamán Cataño, Miguel Ángel<br>
-            <em>TB1:<br></em>User Journey Mapping, Empathy Mapping, Web Applications User Flow Diagrams y Web Application Prototyping.<br>
-            <br>La Torre Valle, Franz Jair<br>
-            <em>TB1:<br></em>Lean UX Assumptions, AS-IS Scenario Mapping, Ubiquitous Language, SEO Tags and Meta Tags, Landing Page Wireframe, Landing Page Mock-up, Landing Page, Sprint Planning 1, Sprint Backlog 1.<br>
-            <br>Morales Calderón, Hernan Emilio<br>
-            <em>TB1:<br></em>Segmentos objetivos, análisis competitivo, estrategias y tácticas frente a competidores, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management<br>
-            <br>Párraga Gamarra, Paolo Gonzalo<br>
-            <em>TB1:<br></em>Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up.<br>
-            <br>Rivadeneyra Ramos, Joaquin<br>
-            <em>TB1:<br></em>Lean UX Hypothesis statements, As-is Scenario Mapping., User Persona y Conclusiones.<br>
-            <br>Zárate Cáceres, Victor Ernesto <br>
-            <em>TB1:<br></em>Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.<br>
-        </td>
-        <td align="justify">
-            Es de vital importancia reconocer la importancia crítica de utilizar un abanico diversificado de herramientas y metodologías, que abarquen desde el análisis profundo de las expectativas y emociones de los usuarios, hasta la minuciosa formulación de hipótesis y la identificación sistemática de problemas. Este enfoque multifacético es esencial para guiar con eficiencia el desarrollo de proyectos y startups, garantizando que la trayectoria seguida esté alineada con las necesidades y deseos del mercado objetivo. Además, es imperativo que este proceso sea iterativo, permitiendo una adaptación continua y una reevaluación de las estrategias a medida que se obtienen nuevos datos e insights. Implementar pruebas de usabilidad frecuentes y desarrollar prototipos funcionales puede proporcionar una retroalimentación invaluable que, cuando se integra de manera efectiva, resulta en soluciones altamente pertinentes y orientadas al usuario.
-        </td>
-    </tr>
-    <tr>
-        <td align="justify">
-            Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos
-        </td>
-        <td align="justify">
-            Huamán Cataño, Miguel Ángel<br>
-            <em>TB1:<br></em>Un mejor conocimiento sobre las expectativas y emociones de nuestros usuarios ayudó a que nuestra solución de software esté enfocado en la solución de las necesidades de nuestros segmentos objetivos.<br>
-            <br>La Torre Valle, Franz Jair<br>
-            <em>TB1:<br></em>Al momento de integrar estos aspectos en el diseño de la solución de software, se puede contribuir de manera significativa a la creación de un entorno digital más seguro, saludable y equitativo para todos.<br>
-            <br>Morales Calderón, Hernan Emilio<br>
-            <em>TB1:<br></em>Segmentos objetivos, análisis competitivo, estrategias y tácticas frente a competidores, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management<br>
-            <br>Párraga Gamarra, Paolo Gonzalo<br>
-            <em>TB1:<br></em>La realización de cada apartado conllevó una investigación para el segmento objetivo así como analizar los datos brindados por las historias de usuario.<br>
-            <br>Rivadeneyra Ramos, Joaquin<br>
-            <em>TB1:<br></em>Para determinar este diseño de la solución se tuvieron que tomar en cuenta diversos factores globales como la problemática a solucionar para nuestros usuarios y gracias a los user 
-            persona pudimos validar que estábamos en lo correcto.<br>
-            <br>Zárate Cáceres, Victor Ernesto <br>
-            <em>TB1:<br></em>Se identificó el impacto que tendría la solución en la vida de los usuarios. Con ello, el proceso del diseño de la solución pudo organizarse por dificultad e importancia para 
-            orientarse a recibir mejoras continuas.<br>
-        </td>
-        <td>
-            Es importante que el diseño de soluciones de software no solo se centre en la funcionalidad técnica, sino que también considere cuidadosamente los aspectos relacionados con la salud pública, seguridad, bienestar y los diversos factores globales, culturales, sociales, ambientales y económicos. Este enfoque integral garantiza que las soluciones tecnológicas contribuyan de manera positiva a la sociedad, abordando las necesidades de manera efectiva y promoviendo un impacto beneficioso en múltiples aspectos de la vida cotidiana y el entorno. Al profundizar en las dimensiones éticas y humanas del desarrollo tecnológico, los diseñadores y desarrolladores de software pueden anticipar y mitigar los posibles efectos negativos, como la exclusión digital, la brecha de género en la tecnología o los problemas de accesibilidad. Al incorporar estos valores, las startups y proyectos no solo se están posicionando para el éxito económico, sino que están cultivando la responsabilidad social y contribuyendo al desarrollo sostenible.
-        </td>
-    </tr>
-</table>
+| Criterio Especifico | Acciones Realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.| TB1:<br>Huamán Cataño, Miguel Ángel: User Journey Mapping, Empathy Mapping, Web Applications User Flow Diagrams y Web Application Prototyping.<br><br>La Torre Valle, Franz Jair: Lean UX Assumptions, AS-IS Scenario Mapping, Ubiquitous Language, SEO Tags and Meta Tags, Landing Page Wireframe, Landing Page Mock-up, Landing Page, Sprint Planning 1, Sprint Backlog 1.<br><br>Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, estrategias y tácticas frente a competidores, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management.<br><br>Párraga Gamarra, Paolo Gonzalo: Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up.<br><br>Rivadeneyra Ramos, Joaquin: Lean UX Hypothesis statements, As-is Scenario Mapping, User Persona y Conclusiones.<br><br>Zárate Cáceres, Victor Ernesto: Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.<br><br>TP:<br>Huamán Cataño, Miguel Ángel:  Se agrego una entrevista más al segmento de lectores y se trabajo el frontend de la lista lectores y lista autores<br><br>La Torre Valle, Franz Jair: Se cambió el análisis de entrevista enfocados a nuestros segmentos objetivos y su respectivos gráficos en base a los videos, se aplico mejoras en la distribución del informe y el testing suite evidence.<br><br>Morales Calderón, Hernan Emilio: Se realizó para el frontend las historias de usuarios correspondientes para Sprint 2, además modifique los styles de la mayoría de los componentes. Por otro lado se realizó el Software Deployment Evidence. <br><br>Párraga Gamarra, Paolo Gonzalo: Se añadió una entrvista más al segmento Autores. Además se realizó para el frontend las historias de usuario correspondientes para Sprint 2. Por otro lado, se realizó el testing suite evidence y Development Evidence. <br><br>Rivadeneyra Ramos, Joaquin:<br>Realize la elaboración del sprint planning 2, sprint planning 2, coordinación del grupo, aplicación de mejoras, aplicación de routeos y vista perfil<br><br>Zarate Caceres, Victor Ernesto: Corrección de Class Diagram and Dictionary,Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint.<br><br>TB2:<br>Huamán Cataño, Miguel Ángel: <br><br>La Torre Valle, Franz Jair:<br><br>Morales Calderón, Hernan Emilio:<br><br>Párraga Gamarra, Paolo Gonzalo:<br><br>Rivadeneyra Ramos, Joaquin: <br><br>Zárate Cáceres, Victor Ernesto: Desarrolo preliminar de Web Services: Servicio POST de Registro de Usuarios (incluída verificación de identidad)<br><br>|  TB1:<br>Es de vital importancia reconocer la importancia crítica de utilizar un abanico diversificado de herramientas y metodologías, que abarquen desde el análisis profundo de las expectativas y emociones de los usuarios, hasta la minuciosa formulación de hipótesis y la identificación sistemática de problemas. Este enfoque multifacético es esencial para guiar con eficiencia el desarrollo de proyectos y startups, garantizando que la trayectoria seguida esté alineada con las necesidades y deseos del mercado objetivo. Además, es imperativo que este proceso sea iterativo, permitiendo una adaptación continua y una reevaluación de las estrategias a medida que se obtienen nuevos datos e insights. Implementar pruebas de usabilidad frecuentes y desarrollar prototipos funcionales puede proporcionar una retroalimentación invaluable que, cuando se integra de manera efectiva, resulta en soluciones altamente pertinentes y orientadas al usuario.<br><br>TP:<br>Durante el desarrollo del proyecto de ingeniería, particularmente en las sesiones de sprint planning 2 y backlog 2, así como en la implementación del frontend, la habilidad para comunicar oralmente las ideas y resultados con claridad y objetividad fue crucial. Es importante destacar cómo se presentaron las tareas pendientes, los objetivos alcanzados y los desafíos enfrentados de manera que fuera comprensible para un público diverso, incluyendo miembros de diferentes especialidades y niveles jerárquicos. Esta capacidad de adaptar el discurso técnico para asegurar la comprensión y el engagement de todos los stakeholders no solo facilita la colaboración y el avance eficiente del proyecto, sino que también refuerza la importancia de una comunicación efectiva en la gestión de proyectos de ingeniería. Además, la efectividad en la comunicación no solo ayudó a mantener al equipo alineado con las metas del proyecto, sino que también aseguró que los intereses y preocupaciones de diferentes áreas se tomaran en cuenta para tomar decisiones informadas. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.<br><br>TB2:<br>|
+| Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos | TB1:<br>Huamán Cataño, Miguel Ángel: Un mejor conocimiento sobre las expectativas y emociones de nuestros usuarios ayudó a que nuestra solución de software esté enfocado en la solución de las necesidades de nuestros segmentos objetivos.<br><br>La Torre Valle, Franz Jair: Al momento de integrar estos aspectos en el diseño de la solución de software, se puede contribuir de manera significativa a la creación de un entorno digital más seguro, saludable y equitativo para todos.<br><br>Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management.<br><br>Párraga Gamarra, Paolo Gonzalo: La realización de cada apartado conllevó una investigación para el segmento objetivo así como analizar los datos brindados por las historias de usuario.<br><br>Rivadeneyra Ramos, Joaquin: Para determinar este diseño de la solución se tuvieron que tomar en cuenta diversos factores globales como la problemática a solucionar para nuestros usuarios y gracias a los user persona pudimos validar que estábamos en lo correcto.<br><br>Zárate Cáceres, Victor Ernesto: Se identificó el impacto que tendría la solución en la vida de los usuarios. Con ello, el proceso del diseño de la solución pudo organizarse por dificultad e importancia para orientarse a recibir mejoras continuas.<br><br>TP:<br>Huamán Cataño, Miguel Ángel:Se corrigieron algunos errores en el informe y se realizaron ajustes necesarios en el código para mejorar la funcionalidad del proyecto y garantizar una mejor experiencia de usuario.<br><br>La Torre Valle, Franz Jair: Hubo una mejora continua en el proyecto tomando en cuenta la retroalimentación brindada. Además, de la ejecución de un Front-end intuitivo que muestra poco a poco la finalidad de la web.<br><br>Morales Calderón, Hernan Emilio: Se corrigieron los errores existentes en el informe, como el tamaño de las imagenes, la tabla de los integrantes y la landing page. <br><br>Párraga Gamarra, Paolo Gonzalo: Se corrigieron los errores existentes en el informe, así como la landing page en base al feedback que dio el profesor en clase mejorando nuestro informe y landing. <br><br>Rivadeneyra Ramos, Joaquin:<br>Se realizo las mejores del student outcome, los user stories y el formato del poyecto<br><br>Zarate Caceres, Victor Ernesto: Se corrigieron los errores existentes en nuestro informe y aplicaciones. Esto se vio reflejado en una mejora de las plataforma e informa, más apegados a lo que se espera en el curso.<br><br>TB2:<br>Huamán Cataño, Miguel Ángel: <br><br>La Torre Valle, Franz Jair:<br><br>Morales Calderón, Hernan Emilio:<br><br>Párraga Gamarra, Paolo Gonzalo:<br><br>Rivadeneyra Ramos, Joaquin: <br><br>Zárate Cáceres, Victor Ernesto: Se rectificaron los errores existentes en nuestro informe y aplicaciones. Esto nos permitio desarrollar mejoras que orienten nuestro proyecto hacia su versión final.<br><br>| TB1:<br>Es importante que el diseño de soluciones de software no solo se centre en la funcionalidad técnica, sino que también considere cuidadosamente los aspectos relacionados con la salud pública, seguridad, bienestar y los diversos factores globales, culturales, sociales, ambientales y económicos. Este enfoque integral garantiza que las soluciones tecnológicas contribuyan de manera positiva a la sociedad, abordando las necesidades de manera efectiva y promoviendo un impacto beneficioso en múltiples aspectos de la vida cotidiana y el entorno. Al profundizar en las dimensiones éticas y humanas del desarrollo tecnológico, los diseñadores y desarrolladores de software pueden anticipar y mitigar los posibles efectos negativos, como la exclusión digital, la brecha de género en la tecnología o los problemas de accesibilidad. Al incorporar estos valores, las startups y proyectos no solo se están posicionando para el éxito económico, sino que están cultivando la responsabilidad social y contribuyendo al desarrollo sostenible.<br><br>TP: Tras el desarrollo del proyecto, se puso especial atención en integrar y validar diversos aspectos críticos. En términos de salud pública y seguridad, el diseño del software incorporó características que aseguran la protección de datos y la integridad de la información, fundamentales especialmente si el software maneja información sensible o personal. En cuanto al bienestar, el diseño se enfocó en ser intuitivo y accesible, minimizando la carga cognitiva de los usuarios para mejorar la interacción general con el sistema. Esto no solo facilita su uso sino que también promueve una experiencia de usuario positiva. Además, se consideraron factores globales, culturales, sociales, ambientales y económicos para garantizar que el software sea relevante y sostenible en diversos contextos, adaptándose a necesidades y restricciones específicas según el entorno de implementación. Esta consideración holística del diseño contribuye significativamente a la relevancia y sostenibilidad del proyecto, asegurando que el software no solo cumpla con los requisitos técnicos sino que también responda a un espectro más amplio de expectativas y necesidades sociales. Se establecieron mecanismos para evaluar continuamente el impacto social y ambiental del software, lo cual es vital para proyectos que aspiran a tener un alcance global y multifacético. Esto asegura que, mientras el proyecto evoluciona, se mantenga alineado con los principios éticos y responsables que son esenciales en la industria actual.<br><br>TB2:<br>|
 
 # <span id="capítulo-introducción" style="color:red">Capítulo I: Introducción</span>
 ## 1.1. Startup Profile
@@ -1034,36 +1006,37 @@ Segmento Objetivo #2: Autores
 ## 3.2. User Stories
 | User Story ID | Título                              | Descripción                                                  | Criterios de aceptación                                                                                                | Relación (EPIC ID) |
 |---------------|-------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------|
-| US01          | Registro de la Aplicación           | Como nuevo usuario, quiero registrarme en BookFlow para acceder a todas las funciones y servicios                      | **Escenario 1: Registro Exitoso:**<br/>Dado: Soy un nuevo usuario que visita la página de registro de BookFlow.<br/>Cuando: Ingreso mi nombre, dirección de correo electrónico y contraseña.<br/>Entonces: El sistema verifica que la dirección de correo electrónico no esté en uso.<br/>Y el sistema crea una nueva cuenta para mí.<br/><br/>**Escenario 2: Verificación de Correo Electrónico:**<br/>Dado: Acabo de registrarme en BookFlow y cierro la página.<br/>Cuando: Abro mi correo electrónico asociado con mi cuenta.<br/>Entonces: Hago clic en el enlace de verificación.<br/>Y mi dirección de correo electrónico se verifica con éxito.<br/><br/>**Escenario 3: Completar Perfil Opcional:**<br/>Dado: He verificado mi dirección de correo electrónico en BookFlow.<br/>Cuando: Inicio sesión en mi nueva cuenta.<br/>Entonces: Veo opciones para completar mi perfil, como géneros literarios favoritos y foto de perfil. | EP01                |
-| US02          | Iniciar sesión en la aplicación     | Como usuario registrado, quiero poder iniciar sesión en BookFlow para acceder a mi perfil y libros guardados           | **Escenario 1: Inicio de Sesión Exitoso:**<br/>Dado: Soy un usuario registrado que visita la página de inicio de sesión de BookFlow.<br/>Cuando: Ingreso mi dirección de correo electrónico y contraseña correctas.<br/>Entonces: El sistema verifica que los detalles de inicio de sesión sean correctos.<br/>Y soy redirigido a mi perfil personalizado.<br/>Veo un mensaje de bienvenida confirmando mi inicio de sesión exitoso.<br/><br/>**Escenario 2: Recuperación de Contraseña:**<br/>Dado: Soy un usuario registrado que olvidó mi contraseña.<br/>Cuando: Selecciono "Olvidé mi contraseña" en la página de inicio de sesión.<br/>Entonces: El sistema me pide que ingrese mi dirección de correo electrónico asociada con mi cuenta.<br/>Y Recibo un correo electrónico de restablecimiento de contraseña con un enlace válido.<br/><br/>**Escenario 3: Cierre de Sesión Automático por Inactividad:**<br/>Dado: He iniciado sesión en mi cuenta de BookFlow pero no estoy activo.<br/>Cuando: Dejo la página abierta sin realizar ninguna acción durante un período de tiempo.<br/>Entonces: Después de 15 minutos de inactividad, el sistema cierra automáticamente mi sesión.<br/>Y esto garantiza la seguridad de mi cuenta en caso de que deje mi sesión abierta accidentalmente.  | EP01                |
-| US03          | Recomendaciones Personalizadas     | Como usuario, quiero recibir recomendaciones personalizadas basadas en mis intereses de lectura.                      | **Escenario 1:**<br/>Dado: He marcado mis géneros favoritos en mi perfil.<br/>Cuando: Inicio sesión en BookFlow.<br/>Entonces: Veo una sección de "Recomendaciones para ti" en la página principal.<br/><br/>**Escenario 2:**<br/>Dado: Leo varios libros de un autor específico.<br/>Cuando: Visito la página del autor en BookFlow.<br/>Entonces: Recibo recomendaciones de otros libros del mismo autor o género similar.                                                                                                                      | EP01                |
-| US04          | Actualizar perfil                   | Como usuario, deseo tener la opción de actualizar mi perfil en la aplicación para mantener mi información personal actualizada y relevante | **Escenario 1: Ingresar a “Actualizar perfil”**<br/>Dado que, el usuario accede a la aplicación y navega hasta la sección de configuración o perfil.<br/>Cuando seleccione la opción "Actualizar perfil".<br/>Entonces aparece un formulario con campos editables que contienen información personal, como nombre, dirección de correo electrónico y número de teléfono.<br/><br/>**Escenario 2: Modificación de información del perfil**<br/>Dado que el usuario se encuentra dentro de “actualizar perfil”.<br/>Cuando realice los cambios necesarios en los campos relevantes de su información personal.<br/>Y guarde los cambios correspondientes.<br/>Entonces la aplicación actualiza la información del perfil con los nuevos datos proporcionados por el usuario.                                                                                                                          | EP01                |
-| US05          | Cuenta de respaldo                  | Como usuario, quiero tener la posibilidad de configurar una cuenta de respaldo en la aplicación para asegurar que mis datos estén respaldados y accesibles en caso de pérdida o cambio de dispositivo | **Escenario 1: Ingresar a "Configurar cuenta de respaldo"**<br/>Dado que, el usuario abre la aplicación y accede a la sección de configuración o cuenta.<br/>Cuando seleccione la opción "Configurar cuenta de respaldo".<br/>Entonces, se solicita ingresar la cuenta y contraseña de una cuenta de respaldo existente, como Google Drive o Dropbox.<br/><br/>**Escenario 2: Registro correcto de la cuenta de respaldo**<br/>Dado que el usuario se encuentra dentro de la configuración de la cuenta de respaldo<br/>Cuando ingrese la cuenta y contraseña, y acepte las condiciones<br/>Entonces, la aplicación establece la conexión con la cuenta de respaldo y comienza a sincronizar automáticamente los datos relevantes, como configuraciones, contactos o fotos.                                                                                                                                                     | EP01                |
-| US06          | Unirse a un Club de Lectura Virtual | Como usuario, quiero unirme a un club de lectura virtual en BookFlow para discutir libros con otros lectores.         | **Escenario 1:**<br/>Dado: Exploro la sección de "Clubes de Lectura" en la aplicación.<br/>Cuando: Elijo un club con un libro que me interesa.<br/>Entonces: Puedo unirme al club y ver el calendario de reuniones.<br/><br/>**Escenario 2:**<br/>Dado: Me uní a un club de lectura.<br/>Cuando: Llega la fecha de la reunión.<br/>Entonces: Recibo una notificación recordándome la reunión y un enlace para unirme a la discusión. | EP01                |
-| US07          | Asistir a Eventos con Autores        | Como usuario, quiero participar en eventos virtuales con autores en BookFlow para conocer más sobre sus obras.          | **Escenario 1:**<br/>Dado: Voy a la sección de "Eventos con Autores" en la aplicación.<br/>Cuando: Veo un evento con un autor que admiro.<br/>Entonces: Puedo registrarme para el evento y recibir detalles de acceso.<br/><br/>**Escenario 2:**<br/>Dado: Asisto a un evento en vivo con un autor.<br/>Cuando: La sesión de preguntas y respuestas comienza.<br/>Entonces: Puedo enviar mis preguntas y participar en la discusión en tiempo real. | EP02                |
-| US08          | Compartir Experiencias en Redes Sociales | Como usuario, quiero poder compartir mis experiencias y libros favoritos de BookFlow en redes sociales.          | **Escenario 1:**<br/>Dado: Termino de leer un libro que me encantó.<br/>Cuando: Voy a la página del libro en BookFlow.<br/>Entonces: Tengo la opción de compartir enlaces directos a mis redes sociales.<br/><br/>**Escenario 2:**<br/>Dado: Veo una función para recomendar la aplicación a amigos.<br/>Cuando: Hago clic en "Recomendar a un Amigo".<br/>Entonces: Puedo enviar un mensaje personalizado con un enlace de descarga de la aplicación. | EP02                |
-| US09          | Configurar Perfil y Preferencias     | Como usuario, quiero poder configurar mi perfil y ajustar mis preferencias de lectura en BookFlow.                      | **Escenario 1:**<br/>Dado: Accedo a la sección de "Perfil" en la aplicación.<br/>Cuando: Editar mi información personal, intereses y géneros favoritos.<br/>Entonces: Los cambios se guardan correctamente y se reflejan en mi experiencia de usuario.<br/><br/>**Escenario 2:**<br/>Dado: Quiero recibir notificaciones sobre nuevos lanzamientos.<br/>Cuando: Activo la opción de recibir alertas para mis géneros favoritos.<br/>Entonces: Recibo notificaciones cuando se agregan nuevos libros relevantes a la biblioteca. | EP02                |
-| US10          | Leer Libros Electrónicos            | Como usuario, quiero poder leer libros electrónicos en la aplicación BookFlow para una experiencia de lectura conveniente. | **Escenario 1:**<br/>Dado: Encuentro un libro electrónico que quiero leer.<br/>Cuando: Selecciono "Leer Ahora" en la página del libro.<br/>Entonces: Se abre el lector integrado y puedo empezar a leer desde donde lo dejé.<br/><br/>**Escenario 2:**<br/>Dado: Quiero cambiar el tamaño de la fuente mientras leo.<br/>Cuando: Accedo a las opciones de configuración del lector.<br/>Entonces: Puedo ajustar el tamaño de la fuente y el estilo según mis preferencias. | EP02                |
-| US11          | Escuchar Audiolibros                | Como usuario, quiero poder escuchar audiolibros en la aplicación BookFlow para disfrutar de historias mientras estoy en movimiento. | **Escenario 1:**<br/>Dado: Encuentro un audiolibro que me interesa.<br/>Cuando: Selecciono "Escuchar Ahora" en la página del audiolibro.<br/>Entonces: Se reproduce el audiolibro en la aplicación con controles de reproducción.<br/><br/>**Escenario 2:**<br/>Dado: Estoy escuchando un audiolibro y quiero marcar un punto.<br/>Cuando: Presiono el botón de marcador durante la reproducción.<br/>Entonces: El audiolibro se marca en ese punto y puedo regresar a él fácilmente más tarde. | EP02                |
-| US12          | Actualizar a Suscripción Premium     | Como usuario, quiero poder actualizar a la suscripción premium en BookFlow para acceder a contenido exclusivo y beneficios adicionales. | **Escenario 1:**<br/>Dado: Exploro los beneficios de la suscripción premium en la aplicación.<br/>Cuando: Decido actualizar mi cuenta.<br/>Entonces: Selecciono el plan de suscripción deseado y completo el proceso de pago.<br/><br/>**Escenario 2:**<br/>Dado: He actualizado a la suscripción premium.<br/>Cuando: Accedo a la sección exclusiva para suscriptores premium.<br/>Entonces: Tengo acceso a contenido exclusivo, descuentos en libros y eventos especiales. | EP03                |
-| US13          | Crear Lista de Lectura              | Como usuario, quiero poder crear una lista de lectura personalizada en BookFlow para organizar los libros que deseo leer en el futuro. | **Escenario 1:**<br/>Dado: Encuentro un libro que me interesa, pero no tengo tiempo para leer de inmediato.<br/>Cuando: Hago clic en "Agregar a Lista de Lectura".<br/>Entonces: El libro se guarda en mi lista personal y puedo acceder a él más tarde.<br/><br/>**Escenario 2:**<br/>Dado: Quiero organizar mi lista de lectura en categorías.<br/>Cuando: Arrastro y suelto los libros para reorganizar el orden.<br/>Entonces: Los libros se reorganizan según mis preferencias y categorías. | EP03                |
-| US14          | Seguir a Autores Favoritos          | Como usuario, quiero poder seguir a mis autores favoritos en BookFlow para recibir actualizaciones sobre sus nuevos lanzamientos y eventos. | **Escenario 1:**<br/>Dado: Estoy en la página del autor que me gusta.<br/>Cuando: Hago clic en "Seguir" en su perfil.<br/>Entonces: Recibo notificaciones cuando el autor publica un nuevo libro o tiene un evento próximo.<br/><br/>**Escenario 2:**<br/>Dado: Quiero ver una lista de los autores que sigo.<br/>Cuando: Navego a mi perfil y selecciono "Autores Seguidos".<br/>Entonces: Se muestra una lista de los autores que sigo, con enlaces a sus perfiles. | EP03                |
-| US15          | Explorar Libros Populares           | Como usuario, quiero tener una sección dedicada a los libros más populares y tendencias en BookFlow para descubrir lecturas populares. | **Escenario 1:**<br/>Dado: Accedo a la sección de "Libros Populares" en la aplicación.<br/>Cuando: Exploro la lista de libros con más descargas y altas calificaciones.<br/>Entonces: Puedo ver una variedad de libros populares en diferentes géneros.<br/><br/>**Escenario 2:**<br/>Dado: Quiero ver los libros populares de un género específico.<br/>Cuando: Selecciono un género en la lista de libros populares.<br/>Entonces: Se muestra una lista de los libros más populares en ese género específico. | EP03                |
-| US16          | Copias de seguridad automática       | Como usuario quiero que mi celular realice copias de seguridad automáticas de manera regular para restaurar mis datos  | **Escenario 1:**<br/>Dado que soy un usuario con datos importantes en mi celular.<br/>Cuando configuro la función de copias de seguridad automáticas.<br/>Entonces espero que se realicen copias de seguridad regulares sin intervención manual.<br/><br/>**Escenario 2:**<br/>Dado que puedo perder mi celular o se ha dañado irreparablemente.<br/>Cuando adquiero un nuevo dispositivo y restaurar los datos desde una copia de seguridad. <br/>Entonces espero que se restauren correctamente todos mis datos y configuraciones previas.<br/><br/>**Escenario 3:**<br/>Dado que tengo configurada una copia de seguridad automática en mi celular.<br/>Cuando verifico el estado de la copia de seguridad.<br/>Entonces recibe notificaciones claras y actualizadas sobre el éxito o cualquier problema relacionado con la realización de la copia de seguridad. | EP04                |
-| US17          | Recibir Recomendaciones de Amigos   | Como usuario, quiero poder recibir recomendaciones de libros de mis amigos en BookFlow para descubrir nuevas lecturas.    | **Escenario 1:**<br/>Dado: Mi amigo me recomienda un libro en BookFlow.<br/>Cuando: Recibo una notificación o mensaje de mi amigo con el enlace del libro.<br/>Entonces: Puedo ver la recomendación de mi amigo y agregar el libro a mi lista de lectura.<br/><br/>**Escenario 2:**<br/>Dado: Quiero compartir un libro con un amigo desde BookFlow.<br/>Cuando: Encuentro un libro que creo que le gustará a mi amigo.<br/>Entonces: Envío un mensaje a mi amigo desde la aplicación con el enlace del libro. | EP04                |
-| US18          | Configurar Recordatorios de Lectura  | Como usuario, quiero poder configurar recordatorios para mis lecturas en BookFlow para seguir mi progreso y establecer metas. | **Escenario 1:**<br/>Dado: Comienzo a leer un libro y quiero establecer una meta de lectura diaria.<br/>Cuando: Abro el libro en la aplicación.<br/>Entonces: Puedo configurar un recordatorio diario para leer una cantidad específica de páginas.<br/><br/>**Escenario 2:**<br/>Dado: Quiero recibir un recordatorio cuando me acerco al final de un libro.<br/>Cuando: Llego al último 10% del libro.<br/>Entonces: Recibo una notificación recordándome terminar el libro y dejar una reseña. | EP04                |
-| US19          | Explorar Libros por Temáticas       | Como usuario, quiero poder explorar libros por temáticas específicas en BookFlow para encontrar lecturas que se ajusten a mis intereses actuales. | **Escenario 1:**<br/>Dado: Estoy interesado en un tema particular, como "Historia Antigua".<br/>Cuando: Busco la categoría "Historia Antigua" en la aplicación.<br/>Entonces: Veo una lista de libros relacionados con esa temática.<br/><br/>**Escenario 2:**<br/>Dado: Quiero explorar libros que sean "Best Sellers" en un género específico.<br/>Cuando: Selecciono la opción de "Best Sellers" y elijo el género "Ficción".<br/>Entonces: Veo una lista de los libros más vendidos en la categoría de ficción. | EP05                |
-| US20          | Obtener Resúmenes de Libros         | Como usuario, quiero tener la opción de ver resúmenes y detalles clave de libros en BookFlow para tomar decisiones de lectura informadas | **Escenario 1:**<br/>Dado: Estoy buscando un libro, pero quiero conocer más sobre su trama.<br/>Cuando: Veo el libro en la lista de resultados de búsqueda.<br/>Entonces: Puedo desplegar un resumen breve de la trama y los personajes principales.<br/><br/>**Escenario 2:**<br/>Dado: Quiero ver opiniones y reseñas de otros lectores antes de decidir leer un libro.<br/>Cuando: Navego a la página del libro.<br/>Entonces: Hay una sección de reseñas y calificaciones de otros usuarios que puedo consultar. | EP05                |
-| US21          | Notificaciones de Eventos de Autores Favoritos | Como usuario, quiero recibir notificaciones sobre eventos y lanzamientos de libros de mis autores favoritos en BookFlow para no perderme ninguna oportunidad. | **Escenario 1:**<br/>Dado: Estoy siguiendo a un autor en BookFlow.<br/>Cuando: El autor anuncia un nuevo libro o evento.<br/>Entonces: Recibo una notificación en la aplicación y por correo electrónico.<br/><br/>**Escenario 2:**<br/>Dado: Quiero ver una lista de próximos eventos de autores que sigo.<br/>Cuando: Navego a la sección de "Eventos con Autores".<br/>Entonces: Veo una lista de eventos próximos con los detalles de fecha, hora y autor. | EP05                |
-| US22          | Realizar Comentarios y Discusiones en Libros | Como usuario, quiero poder dejar comentarios y participar en discusiones sobre libros en BookFlow para interactuar con otros lectores. | **Escenario 1:**<br/>Dado: Estoy leyendo un libro y quiero compartir mis pensamientos.<br/>Cuando: Accedo al apartado de comentarios y discusiones del libro.<br/>Entonces: Puedo dejar un comentario y ver las respuestas de otros lectores.<br/><br/>**Escenario 2:**<br/>Dado: Veo una discusión interesante sobre un libro en el que estoy interesado.<br/>Cuando: Quiero unirme a la conversación.<br/>Entonces: Puedo dejar un comentario y recibir notificaciones de nuevas respuestas. | EP05                |
-| US23          | Crear Club de Lectura Privado       | Como usuario, quiero poder crear un club de lectura privado en BookFlow para discutir libros con un grupo selecto de amigos. | **Escenario 1:**<br/>Dado: Quiero crear un club de lectura con amigos específicos.<br/>Cuando: Accedo a la sección de "Mis Clubes de Lectura".<br/>Entonces: Puedo crear un nuevo club, agregar miembros y establecer reglas de discusión.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en un club de lectura privado.<br/>Cuando: Quiero programar una reunión para discutir un libro.<br/>Entonces: Puedo crear un evento dentro del club, seleccionar la fecha y enviar invitaciones a los miembros. | EP06                |
-| US24          | Visualizar una landing page intuitiva | Como usuario de BookFlow, deseo encontrar una landing page intuitiva al visitar el sitio web. Una landing page clara y bien diseñada facilitará mi navegación y comprensión de los servicios ofrecidos por BookFlow desde el primer momento | **Escenario 1:**<br/>Dado: Soy un visitante nuevo en la landing page de BookFlow.<br/>Cuando: Ingreso al sitio web.<br/>Entonces:<br/>Encuentro una página de inicio con un diseño limpio y organizado.<br/>Y Los elementos clave, como el menú de navegación y las secciones principales, son fáciles de identificar.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la landing page de BookFlow.<br/>Cuando: Exploro la página desplazándome hacia abajo.<br/>Entonces:<br/>Encuentro información destacada sobre las características clave de BookFlow, como recomendaciones personalizadas y clubes de lectura.<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la landing page de BookFlow.<br/>Cuando: Quiero acceder rápidamente a las funciones principales.<br/>Entonces:<br/>Encuentro botones o enlaces directos para registrarme, explorar el catálogo y conocer más sobre BookFlow. | EP06                |
-| US25          | Recomendar Libros a Grupos de Amigos | Como usuario, quiero tener la opción de recomendar libros a grupos de amigos específicos en BookFlow para compartir mis lecturas favoritas. | **Escenario 1:**<br/>Dado: Leo un libro que sé que a un grupo de amigos les encantará.<br/>Cuando: Accedo al libro en BookFlow.<br/>Entonces: Puedo seleccionar la opción de "Recomendar a Grupo" y elegir el grupo destinatario.<br/><br/>**Escenario 2:**<br/>Dado: Un amigo me envía una recomendación de libro en un grupo.<br/>Cuando: Hago clic en el enlace de la recomendación.<br/>Entonces: Se abre la página del libro en BookFlow y puedo agregarlo a mi lista de lectura. | EP06                |
-| US26          | Visualizar una sección Sobre Nosotros | Como usuario curioso de BookFlow, deseo encontrar una sección dedicada a conocer más sobre la plataforma, su misión, valores y el equipo detrás de ella. | **Escenario 1:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Exploro la página.<br/>Entonces:<br/>Encuentro una descripción clara de la misión y visión de BookFlow.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Navego más en profundidad.<br/>Entonces:<br/>Encuentro la historia detrás de la creación de BookFlow, incluyendo eventos significativos y logros<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la sección "Sobre Nosotros" de BookFlow.<br/>Cuando: Exploro la página buscando más detalles sobre el equipo.<br/>Entonces:<br/>Encuentro perfiles detallados de los miembros del equipo, incluyendo sus roles y responsabilidades. | EP06                |
-| US27          | Visualizar una sección de catálogo   | Como usuario de BookFlow, quiero poder explorar fácilmente el extenso catálogo de libros disponibles en la plataforma, organizados de manera clara y con opciones de búsqueda y filtrado. | **Escenario 1:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Navego por las categorías disponibles, como "Ficción", "No Ficción", "Misterio", etc.<br/>Entonces:<br/>Encuentro una variedad de categorías que me permiten explorar diferentes géneros.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Utilizo la barra de búsqueda para buscar un libro específico o autor.<br/>Entonces:<br/>El sistema me muestra resultados relevantes mientras escribo, facilitando la búsqueda.<br/><br/>**Escenario 3:**<br/>Dado: Estoy en la sección de catálogo de BookFlow.<br/>Cuando: Quiero filtrar los resultados por cosas como "Nuevos Lanzamientos", "Más Descargados", etc.<br/>Entonces:<br/>Encuentro opciones de filtrado que me permiten encontrar rápidamente los libros más relevantes para mí. | EP06                |
-| US28          | Visualizar contenido relevante | Como usuario de BookFlow, quiero encontrar contenido relevante, como artículos, reseñas de libros, entrevistas a autores y recomendaciones, para enriquecer mi experiencia de lectura y descubrir nuevos títulos. | **Escenario 1: Artículos Destacados:** <br> Dado: Estoy en la sección de contenido de BookFlow. <br> Cuando: Exploro la página. <br> Entonces: Encuentro artículos destacados sobre temas literarios, autores o tendencias actuales. <br> **Escenario 2: Reseñas y Recomendaciones:** <br> Dado: Estoy en la sección de contenido de BookFlow. <br> Cuando: Navego por las reseñas y recomendaciones. <br> Entonces: Encuentro reseñas detalladas de libros populares, con puntuaciones y comentarios de otros usuarios. | EP06               |
-| US29          | Visualizar una sección de Contacto   | Como usuario de BookFlow, deseo tener acceso a una sección de Contacto donde pueda encontrar información para comunicarme con el equipo de soporte en caso de tener preguntas o problemas. | **Escenario 1:**<br/>Dado: Estoy en la sección de Contacto de BookFlow.<br/>Cuando: Quiero enviar un mensaje al equipo de soporte.<br/>Entonces:<br/>Encuentro un formulario de contacto donde puedo ingresar mi consulta y recibir una respuesta por correo electrónico.<br/><br/>**Escenario 2:**<br/>Dado: Estoy en la sección de Contacto de BookFlow.<br/>Cuando: Tengo una pregunta urgente y prefiero llamar.<br/>Entonces:<br/>Encuentro un número de teléfono de atención al cliente claramente visible para comunicarme de inmediato. | EP06                |
-| US30          | Despliegue de la landing page | Como miembro del equipo de desarrollo de BookFlow, quiero desplegar la landing page inicial como una startup para atraer a nuevos usuarios. | **Escenario 1: Diseño Moderno y Atractivo:** <br> Dado: Estamos listos para desplegar la landing page como una startup. <br> Cuando: Los diseñadores finalizan el diseño con una estética moderna y atractiva. <br> Entonces: La landing page presenta un diseño innovador que refleja la naturaleza tecnológica de BookFlow. <br> **Escenario 2: Mensaje Claro y Conciso:** <br> Dado: Estamos preparando el contenido para la landing page. <br> Cuando: Se redactan los mensajes principales que comunicarán la propuesta de valor de BookFlow. <br> Entonces: El mensaje principal de la landing page es claro, conciso y orientado a los beneficios para el usuario. <br> **Escenario 3: Lanzamiento Exitoso:** <br> Dado: Todo está listo y probado para el lanzamiento. <br> Cuando: La landing page se despliega en el dominio principal de BookFlow. <br> Entonces: La landing page está accesible públicamente en el dominio principal de BookFlow. | EP06               |
+| US01          | Registro de la Aplicación           | Como nuevo usuario, quiero registrarme en BookFlow para acceder a todas las funciones y servicios, asegurando un proceso fácil y seguro que fomente una experiencia de usuario positiva desde el principio. | **Escenario 1: Registro Exitoso:**<br/>Dado: Soy un nuevo usuario que visita la página de registro de BookFlow.<br/>Cuando: Ingreso mi nombre, dirección de correo electrónico y contraseña.<br/>Entonces: El sistema verifica que la dirección de correo electrónico no esté en uso.<br/>Y el sistema crea una nueva cuenta para mí.<br/><br/>**Escenario 2: Verificación de Correo Electrónico:**<br/>Dado: Acabo de registrarme en BookFlow y cierro la página.<br/>Cuando: Abro mi correo electrónico asociado con mi cuenta.<br/>Entonces: Hago clic en el enlace de verificación.<br/>Y mi dirección de correo electrónico se verifica con éxito.<br/><br/>**Escenario 3: Completar Perfil Opcional:**<br/>Dado: He verificado mi dirección de correo electrónico en BookFlow.<br/>Cuando: Inicio sesión en mi nueva cuenta.<br/>Entonces: Veo opciones para completar mi perfil, como géneros literarios favoritos y foto de perfil. | EP01                |
+| US02          | Iniciar sesión en la aplicación     | Como usuario registrado, quiero poder iniciar sesión en BookFlow para acceder a mi perfil y libros guardados, proporcionando una interfaz intuitiva que recuerda mis preferencias y mejora mi experiencia de usuario cada vez que vuelvo. | **Escenario 1: Inicio de Sesión Exitoso:**<br/>Dado: Soy un usuario registrado que visita la página de inicio de sesión de BookFlow.<br/>Cuando: Ingreso mi dirección de correo electrónico y contraseña correctas.<br/>Entonces: El sistema verifica que los detalles de inicio de sesión sean correctos.<br/>Y soy redirigido a mi perfil personalizado.<br/>Veo un mensaje de bienvenida confirmando mi inicio de sesión exitoso.<br/><br/>**Escenario 2: Recuperación de Contraseña:**<br/>Dado: Soy un usuario registrado que olvidó mi contraseña.<br/>Cuando: Selecciono "Olvidé mi contraseña" en la página de inicio de sesión.<br/>Entonces: El sistema me pide que ingrese mi dirección de correo electrónico asociada con mi cuenta.<br/>Y Recibo un correo electrónico de restablecimiento de contraseña con un enlace válido.<br/><br/>**Escenario 3: Cierre de Sesión Automático por Inactividad:**<br/>Dado: He iniciado sesión en mi cuenta de BookFlow pero no estoy activo.<br/>Cuando: Dejo la página abierta sin realizar ninguna acción durante un período de tiempo.<br/>Entonces: Después de 15 minutos de inactividad, el sistema cierra automáticamente mi sesión.<br/>Y esto garantiza la seguridad de mi cuenta en caso de que deje mi sesión abierta accidentalmente.  | EP01                |
+| US03          | Recomendaciones Personalizadas     | Como usuario, quiero recibir recomendaciones personalizadas basadas en mis intereses de lectura para descubrir nuevos libros que coincidan con mis preferencias y explorar contenido que de otro modo podría no haber encontrado. | **Escenario 1: Recomendaciones Basadas en Preferencias:**<br/>Dado: He marcado mis géneros favoritos en mi perfil.<br/>Cuando: Inicio sesión en BookFlow.<br/>Entonces: Veo una sección de "Recomendaciones para ti" en la página principal.<br/><br/>**Escenario 2: Recomendaciones de Autor:**<br/>Dado: Leo varios libros de un autor específico.<br/>Cuando: Visito la página del autor en BookFlow.<br/>Entonces: Recibo recomendaciones de otros libros del mismo autor o género similar.<br/><br/>**Escenario 3: Recomendaciones de Nuevos Lanzamientos:**<br/>Dado: He leído varios libros populares recientemente.<br/>Cuando: Inicio sesión y voy a la página de recomendaciones.<br/>Entonces: Recibo sugerencias de nuevos lanzamientos basados en mis lecturas anteriores. | EP01                |
+| US04          | Actualizar perfil                   | Como usuario, deseo tener la opción de actualizar mi perfil en la aplicación para mantener mi información personal actualizada y relevante, reflejando cambios en mis intereses y garantizando que las recomendaciones de contenido se ajusten a mi evolución como lector. | **Escenario 1: Acceso a Actualizar Perfil**<br/>Dado que, el usuario accede a la aplicación y navega hasta la sección de configuración o perfil.<br/>Cuando seleccione la opción "Actualizar perfil".<br/>Entonces aparece un formulario con campos editables que contienen información personal, como nombre, dirección de correo electrónico y número de teléfono.<br/><br/>**Escenario 2: Modificación de Información del Perfil**<br/>Dado que el usuario se encuentra dentro de “actualizar perfil”.<br/>Cuando realice los cambios necesarios en los campos relevantes de su información personal.<br/>Y guarde los cambios correspondientes.<br/>Entonces la aplicación actualiza la información del perfil con los nuevos datos proporcionados por el usuario.<br/><br/>**Escenario 3: Actualización de Intereses de Lectura**<br/>Dado: Estoy en la página de actualización de perfil.<br/>Cuando: Decido cambiar mis géneros literarios favoritos.<br/>Entonces: Actualizo mi selección y la aplicación ajusta las recomendaciones futuras para alinearse con mis nuevos intereses. | EP01                |
+| US05          | Cuenta de respaldo                 | Como usuario, quiero tener la posibilidad de configurar una cuenta de respaldo en la aplicación para asegurar que mis datos estén respaldados y accesibles en caso de pérdida o cambio de dispositivo, garantizando la continuidad de mi experiencia sin interrupciones. | **Escenario 1: Configurar cuenta de respaldo:** Dado que el usuario abre la aplicación y accede a la sección de configuración o cuenta. Cuando seleccione la opción "Configurar cuenta de respaldo". Entonces se solicita ingresar la cuenta y contraseña de una cuenta de respaldo existente, como Google Drive o Dropbox.<br/><br/>**Escenario 2: Registro correcto de la cuenta de respaldo:** Dado que el usuario se encuentra dentro de la configuración de la cuenta de respaldo. Cuando ingrese la cuenta y contraseña, y acepte las condiciones. Entonces, la aplicación establece la conexión con la cuenta de respaldo y comienza a sincronizar automáticamente los datos relevantes, como configuraciones, contactos o fotos.<br/><br/>**Escenario 3: Validación de respaldo:** Dado que se ha configurado una cuenta de respaldo. Cuando el usuario desea verificar la integridad del respaldo. Entonces puede visualizar la última fecha de respaldo y confirmar que sus datos están seguros. | EP01                |
+| US06          | Unirse a un Club de Lectura Virtual | Como usuario, quiero unirme a un club de lectura virtual en BookFlow para discutir libros con otros lectores y compartir experiencias de lectura en un entorno comunitario interactivo.   | **Escenario 1: Unirse a un club existente:** Dado: Exploro la sección de "Clubes de Lectura" en la aplicación. Cuando: Elijo un club con un libro que me interesa. Entonces: Puedo unirme al club y ver el calendario de reuniones.<br/><br/>**Escenario 2: Participación en una reunión de club:** Dado: Me uní a un club de lectura. Cuando: Llega la fecha de la reunión. Entonces: Recibo una notificación recordándome la reunión y un enlace para unirme a la discusión.<br/><br/>**Escenario 3: Crear un nuevo club de lectura:** Dado: No encuentro un club que se ajuste a mis intereses. Cuando: Elijo crear un nuevo club de lectura. Entonces: Configuro el nombre del club, selecciono libros y establezco una agenda de reuniones. | EP01                |
+| US07          | Asistir a Eventos con Autores       | Como usuario, quiero participar en eventos virtuales con autores en BookFlow para conocer más sobre sus obras y obtener insights directos en sesiones interactivas.                          | **Escenario 1: Registrarse para un evento:** Dado: Voy a la sección de "Eventos con Autores" en la aplicación. Cuando: Veo un evento con un autor que admiro. Entonces: Puedo registrarme para el evento y recibir detalles de acceso.<br/><br/>**Escenario 2: Participar en un evento:** Dado: Asisto a un evento en vivo con un autor. Cuando: La sesión de preguntas y respuestas comienza. Entonces: Puedo enviar mis preguntas y participar en la discusión en tiempo real.<br/><br/>**Escenario 3: Acceso a grabaciones de eventos pasados:** Dado: Me perdí un evento en vivo. Cuando: Busco el evento en el archivo de eventos pasados. Entonces: Puedo ver la grabación completa y no perderme los insights compartidos durante el evento. | EP02                |
+| US08          | Compartir Experiencias en Redes Sociales | Como usuario, quiero poder compartir mis experiencias y libros favoritos de BookFlow en redes sociales para fomentar la lectura entre mis amigos y seguidores.                          | **Escenario 1: Compartir un libro en redes sociales:** Dado: Termino de leer un libro que me encantó. Cuando: Voy a la página del libro en BookFlow. Entonces: Tengo la opción de compartir enlaces directos a mis redes sociales.<br/><br/>**Escenario 2: Recomendar la aplicación a amigos:** Dado: Veo una función para recomendar la aplicación a amigos. Cuando: Hago clic en "Recomendar a un Amigo". Entonces: Puedo enviar un mensaje personalizado con un enlace de descarga de la aplicación.<br/><br/>**Escenario 3: Publicar reseñas en mi perfil social:** Dado: Escribo una reseña de un libro en BookFlow. Cuando: Elijo compartir mi reseña en mi perfil social. Entonces: La reseña se publica automáticamente en mi línea de tiempo en redes sociales, permitiendo a otros ver mi opinión. | EP02                |
+| US09          | Configurar Perfil y Preferencias     | Como usuario, quiero poder configurar mi perfil y ajustar mis preferencias de lectura en BookFlow para personalizar mi experiencia y recibir recomendaciones más afinadas a mis gustos.       | **Escenario 1: Editar información de perfil:** Dado: Accedo a la sección de "Perfil" en la aplicación. Cuando: Edito mi información personal, intereses y géneros favoritos. Entonces: Los cambios se guardan correctamente y se reflejan en mi experiencia de usuario.<br/><br/>**Escenario 2: Configuración de notificaciones:** Dado: Quiero recibir notificaciones sobre nuevos lanzamientos. Cuando: Activo la opción de recibir alertas para mis géneros favoritos. Entonces: Recibo notificaciones cuando se agregan nuevos libros relevantes a la biblioteca.<br/><br/>**Escenario 3: Privacidad y seguridad de datos:** Dado: Estoy revisando mis configuraciones de perfil. Cuando: Elijo ajustar mis configuraciones de privacidad. Entonces: Puedo seleccionar qué información personal es visible para otros usuarios y qué información se mantiene privada. | EP02                |
+| US10          | Leer Libros Electrónicos            | Como usuario, quiero poder leer libros electrónicos en la aplicación BookFlow para disfrutar de una experiencia de lectura conveniente y accesible desde cualquier dispositivo.               | **Escenario 1: Leer un libro electrónico:** Dado: Encuentro un libro electrónico que quiero leer. Cuando: Selecciono "Leer Ahora" en la página del libro. Entonces: Se abre el lector integrado y puedo empezar a leer desde donde lo dejé.<br/><br/>**Escenario 2: Ajustar configuración de lectura:** Dado: Quiero cambiar el tamaño de la fuente mientras leo. Cuando: Accedo a las opciones de configuración del lector. Entonces: Puedo ajustar el tamaño de la fuente y el estilo según mis preferencias.<br/><br/>**Escenario 3: Acceder a marcadores y notas:** Dado: Necesito marcar páginas importantes y tomar notas. Cuando: Utilizo las funciones de marcadores y notas en el lector. Entonces: Puedo guardar fácilmente marcadores y notas dentro del libro, que estarán disponibles cada vez que abra el libro. | EP02                |
+| US11          | Escuchar Audiolibros                | Como usuario, quiero poder escuchar audiolibros en la aplicación BookFlow para disfrutar de historias mientras estoy en movimiento, aprovechando una interfaz de usuario accesible y fácil de usar.  | **Escenario 1: Iniciar la reproducción de un audiolibro:** Dado que encuentro un audiolibro que me interesa en BookFlow. Cuando selecciono "Escuchar Ahora" en la página del audiolibro. Entonces se reproduce el audiolibro en la aplicación con controles de reproducción intuitivos.<br/><br/>**Escenario 2: Marcadores en audiolibros:** Dado que estoy escuchando un audiolibro y quiero marcar un punto importante. Cuando presiono el botón de marcador durante la reproducción. Entonces el audiolibro se marca en ese punto y puedo regresar a él fácilmente más tarde.<br/><br/>**Escenario 3: Ajustar velocidad de reproducción:** Dado que necesito ajustar la velocidad de reproducción del audiolibro para una escucha óptima. Cuando selecciono la opción de velocidad en el reproductor de audiolibros. Entonces puedo elegir entre varias velocidades de reproducción, permitiéndome personalizar cómo y a qué velocidad consumo el contenido.  | EP02                |
+| US12          | Membresía de Usuario    | Como usuario, quiero tener la opción de suscribirme a diferentes planes de membresía para acceder a contenido exclusivo y beneficios adicionales. | **Escenario 1: Activación del Mes de Prueba Gratis:**<br/>Dado que soy un nuevo usuario registrado en BookFlow. Cuando selecciono la opción del "Plan de Prueba". Entonces el sistema activa un mes de prueba gratis para mí. Y recibo una confirmación de la activación del mes de prueba.<br/><br/>**Escenario 2: Notificación de Fin del Período de Prueba:**<br/>Dado que estoy utilizando mi mes de prueba gratuito. Cuando queda una semana para el final del período de prueba. Entonces recibo una notificación recordándome que mi período de prueba está por terminar.<br/><br/>**Escenario 3: Conversión a Suscripción Pagada:**<br/>Dado que he completado mi mes de prueba gratuito. Cuando llega el final del mes de prueba. Entonces el sistema me cobra $19.99 por el siguiente mes de suscripción al "Plan de Prueba". Y recibo una confirmación de pago y detalles de la renovación mensual.<br/><br/>**Escenario 4: Selección del Plan Gratuito:**<br/>Dado que soy un usuario que desea acceso limitado. Cuando selecciono la opción del "Plan Gratuito". Entonces tengo acceso limitado a contenido público sin ningún costo. Y no tengo acceso a contenido exclusivo.<br/><br/>**Escenario 5: Suscripción al Plan Premium:**<br/>Dado que deseo beneficios adicionales y acceso completo al contenido exclusivo. Cuando selecciono la opción del "Plan Premium". Entonces el sistema me cobra $29.99 por tres meses con un 25% de descuento. Y recibo una confirmación de pago, acceso anticipado a nuevos lanzamientos y eventos, y soporte prioritario al cliente. | EP03                |
+| US13          | Crear Lista de Lectura              | Como usuario, quiero poder crear una lista de lectura personalizada en BookFlow para organizar los libros que deseo leer en el futuro, facilitando el seguimiento y la planificación de mi tiempo de lectura. | **Escenario 1: Agregar libro a la lista de lectura:** Dado que encuentro un libro que me interesa, pero no tengo tiempo para leer de inmediato. Cuando hago clic en "Agregar a Lista de Lectura". Entonces el libro se guarda en mi lista personal y puedo acceder a él más tarde.<br/><br/>**Escenario 2: Organizar libros en la lista de lectura:** Dado que quiero organizar mi lista de lectura en categorías. Cuando arrastro y suelto los libros para reorganizar el orden. Entonces los libros se reorganizan según mis preferencias y categorías.<br/><br/>**Escenario 3: Compartir lista de lectura:** Dado que quiero compartir mi lista de lectura con amigos. Cuando selecciono la opción "Compartir lista" y elijo con quién compartir. Entonces mi lista de lectura se comparte a través de un enlace, permitiendo a otros ver y comentar sobre mi selección de libros. | EP03                |
+| US14          | Seguir a Autores Favoritos          | Como usuario, quiero poder seguir a mis autores favoritos en BookFlow para recibir actualizaciones sobre sus nuevos lanzamientos y eventos, manteniéndome conectado con mis intereses literarios.          | **Escenario 1: Seguir a un autor:** Dado que estoy en la página del autor que me gusta en BookFlow. Cuando hago clic en "Seguir" en su perfil. Entonces recibo notificaciones cuando el autor publica un nuevo libro o tiene un evento próximo.<br/><br/>**Escenario 2: Ver lista de autores seguidos:** Dado que quiero ver una lista de los autores que sigo. Cuando navego a mi perfil y selecciono "Autores Seguidos". Entonces se muestra una lista de los autores que sigo, con enlaces a sus perfiles.<br/><br/>**Escenario 3: Dejar de seguir a un autor:** Dado que ya no estoy interesado en las actualizaciones de un autor. Cuando selecciono "Dejar de seguir" en su perfil. Entonces dejo de seguir al autor y dejo de recibir notificaciones sobre sus actividades.  | EP03                |
+| US15          | Explorar Libros Mejor Rankeados           | Como usuario, quiero tener una sección dedicada a los libros más rankeados y tendencias en BookFlow para descubrir lecturas populares y mantenerme al día con lo que es relevante en el mundo literario.      | **Escenario 1: Explorar libros rankeados:** Dado que accedo a la sección de "Libros mejor rankeados" en la aplicación. Cuando exploro la lista de libros con más descargas y altas calificaciones. Entonces puedo ver una variedad de libros populares en diferentes géneros.<br/><br/>**Escenario 2: Filtrar libros populares por género:** Dado que quiero ver los libros populares de un género específico. Cuando selecciono un género en la lista de libros populares. Entonces se muestra una lista de los libros mejor rankeados en ese género específico.<br/><br/>**Escenario 3: Recibir notificaciones sobre nuevos libros mejor rankeados:** Dado que estoy interesado en mantenerme actualizado con los nuevos lanzamientos populares. Cuando activo notificaciones para "Nuevos mejor rankeados". Entonces recibo alertas cada vez que un nuevo libro se convierte en popular en BookFlow. | EP03                |
+| US16          | Copias de seguridad automática       | Como usuario, quiero que mi dispositivo realice copias de seguridad automáticas de manera regular para restaurar mis datos fácilmente en cualquier momento, garantizando así la seguridad y disponibilidad de mi información personal y de lectura. | **Escenario 1: Configuración de copias de seguridad automáticas:** Dado que soy un usuario con datos importantes en mi dispositivo. Cuando configuro la función de copias de seguridad automáticas en BookFlow. Entonces espero que se realicen copias de seguridad regulares sin intervención manual.<br/><br/>**Escenario 2: Restauración de datos desde una copia de seguridad:** Dado que he perdido mi dispositivo o se ha dañado irreparablemente. Cuando adquiero un nuevo dispositivo y accedo a restaurar los datos desde una copia de seguridad. Entonces espero que se restauren correctamente todos mis datos y configuraciones previas.<br/><br/>**Escenario 3: Verificar la integridad de la copia de seguridad:** Dado que tengo configurada una copia de seguridad automática en BookFlow. Cuando verifico el estado de la copia de seguridad. Entonces recibo notificaciones claras y actualizadas sobre el éxito o cualquier problema relacionado con la realización de la copia de seguridad. | EP04                |
+| US17          | Recibir Recomendaciones de Amigos   | Como usuario, quiero poder recibir recomendaciones de libros de mis amigos en BookFlow para descubrir nuevas lecturas interesantes y compartir gustos literarios en un entorno social.                     | **Escenario 1: Recibir una recomendación de un amigo:** Dado que mi amigo me recomienda un libro en BookFlow. Cuando recibo una notificación o mensaje de mi amigo con el enlace del libro. Entonces puedo ver la recomendación de mi amigo y agregar el libro a mi lista de lectura.<br/><br/>**Escenario 2: Enviar una recomendación a un amigo:** Dado que encuentro un libro que creo que le gustará a mi amigo en BookFlow. Cuando envío un mensaje a mi amigo desde la aplicación con el enlace del libro. Entonces mi amigo recibe la recomendación y puede agregar el libro a su lista de lectura.<br/><br/>**Escenario 3: Discutir recomendaciones recibidas:** Dado que he recibido varias recomendaciones de libros de amigos. Cuando accedo a la sección "Recomendaciones de Amigos". Entonces puedo ver todas las recomendaciones y discutir sobre ellas en un foro dedicado o en un grupo de discusión. | EP04                |
+| US18          | Configurar Recordatorios de Lectura  | Como usuario, quiero poder configurar recordatorios para mis lecturas en BookFlow para seguir mi progreso y establecer metas de lectura, ayudándome a mantener un hábito de lectura regular y enfocado.        | **Escenario 1: Establecer recordatorios de lectura:** Dado que comienzo a leer un libro y quiero establecer una meta de lectura diaria. Cuando abro el libro en la aplicación. Entonces puedo configurar un recordatorio diario para leer una cantidad específica de páginas.<br/><br/>**Escenario 2: Recibir recordatorios para terminar un libro:** Dado que quiero recibir un recordatorio cuando me acerco al final de un libro. Cuando llego al último 10% del libro. Entonces recibo una notificación recordándome terminar el libro y dejar una reseña.<br/><br/>**Escenario 3: Personalizar recordatorios según el horario:** Dado que tengo un horario específico cuando estoy más disponible para leer. Cuando configuro mis recordatorios de lectura. Entonces puedo seleccionar días y horas específicas para recibir recordatorios, adaptándolos a mi rutina diaria y asegurando que se ajusten a mi disponibilidad. | EP04                |
+| US19          | Explorar Libros por Temáticas       | Como usuario, quiero poder explorar libros por temáticas específicas en BookFlow para encontrar lecturas que se ajusten a mis intereses actuales, facilitando el descubrimiento de nuevo contenido relevante.   | **Escenario 1: Buscar libros por tema:** Dado que estoy interesado en un tema particular, como "Historia Antigua". Cuando busco la categoría "Historia Antigua" en la aplicación. Entonces veo una lista de libros relacionados con esa temática.<br/><br/>**Escenario 2: Explorar best sellers por género:** Dado que quiero explorar libros que sean "Best Sellers" en un género específico. Cuando selecciono la opción de "Best Sellers" y elijo el género "Ficción". Entonces veo una lista de los libros más vendidos en la categoría de ficción.<br/><br/>**Escenario 3: Filtrar libros por calificaciones de usuarios:** Dado que deseo encontrar libros altamente recomendados por otros lectores. Cuando aplico un filtro para ver libros con altas calificaciones. Entonces obtengo una lista de libros que han recibido excelentes reseñas, ayudándome a elegir lecturas de calidad comprobada. | EP05                |
+| US20          | Obtener Resúmenes de Libros         | Como usuario, quiero tener la opción de ver resúmenes y detalles clave de libros en BookFlow para tomar decisiones de lectura informadas y rápidas, especialmente cuando estoy explorando nuevos géneros o autores. | **Escenario 1: Acceder a resúmenes de libros:** Dado que estoy buscando un libro, pero quiero conocer más sobre su trama antes de comprometerme a leerlo. Cuando veo el libro en la lista de resultados de búsqueda. Entonces puedo desplegar un resumen breve de la trama y los personajes principales.<br/><br/>**Escenario 2: Consultar opiniones y reseñas de otros lectores:** Dado que quiero ver opiniones y reseñas de otros lectores antes de decidir leer un libro. Cuando navego a la página del libro. Entonces hay una sección de reseñas y calificaciones de otros usuarios que puedo consultar.<br/><br/>**Escenario 3: Recibir recomendaciones basadas en resúmenes leídos:** Dado que he leído varios resúmenes de libros en un género específico. Cuando vuelvo a la sección de recomendaciones. Entonces recibo sugerencias de libros similares basados en los resúmenes que he consultado previamente, ayudándome a explorar más en ese género. | EP05                |
+| US21          | Notificaciones de Eventos de Autores Favoritos | Como usuario, quiero recibir notificaciones sobre eventos y lanzamientos de libros de mis autores favoritos en BookFlow para no perderme ninguna oportunidad de interactuar con el contenido que me interesa. | **Escenario 1: Recibir Notificaciones de Eventos:** Dado que estoy siguiendo a un autor en BookFlow. Cuando el autor anuncia un nuevo libro o evento. Entonces recibo una notificación en la aplicación y por correo electrónico.<br/><br/>**Escenario 2: Ver Lista de Próximos Eventos:** Dado que quiero ver una lista de próximos eventos de autores que sigo. Cuando navego a la sección de "Eventos con Autores". Entonces veo una lista de eventos próximos con los detalles de fecha, hora y autor.<br/><br/>**Escenario 3: Configuración de Preferencias de Notificación:** Dado que deseo personalizar las notificaciones que recibo sobre autores y eventos. Cuando accedo a la configuración de notificaciones en mi perfil. Entonces puedo seleccionar recibir notificaciones solo para ciertos autores o tipos de eventos, asegurando que solo reciba información relevante. | EP05                |
+| US22          | Realizar Comentarios y Discusiones en Libros | Como usuario, quiero poder dejar comentarios y participar en discusiones sobre libros en BookFlow para interactuar con otros lectores y compartir perspectivas sobre lecturas comunes. | **Escenario 1: Publicar un Comentario:** Dado que estoy leyendo un libro y quiero compartir mis pensamientos. Cuando accedo al apartado de comentarios y discusiones del libro. Entonces puedo dejar un comentario y ver las respuestas de otros lectores.<br/><br/>**Escenario 2: Participar en una Discusión:** Dado que veo una discusión interesante sobre un libro en el que estoy interesado. Cuando quiero unirme a la conversación. Entonces puedo dejar un comentario y recibir notificaciones de nuevas respuestas.<br/><br/>**Escenario 3: Moderar Comentarios:** Dado que deseo mantener un ambiente respetuoso y constructivo en las discusiones. Cuando detecto un comentario inapropiado o spam. Entonces puedo reportarlo para que los moderadores de la comunidad lo revisen y tomen acción si es necesario, manteniendo así la calidad de las discusiones. | EP05                |
+| US23          | Crear Club de Lectura Privado       | Como usuario, quiero poder crear un club de lectura privado en BookFlow para discutir libros con un grupo selecto de amigos y fomentar un espacio de intercambio literario íntimo y personalizado. | **Escenario 1: Crear un Nuevo Club de Lectura:** Dado que quiero crear un club de lectura con amigos específicos. Cuando accedo a la sección de "Mis Clubes de Lectura". Entonces puedo crear un nuevo club, agregar miembros y establecer reglas de discusión.<br/><br/>**Escenario 2: Programar Reuniones para el Club:** Dado que estoy en un club de lectura privado. Cuando quiero programar una reunión para discutir un libro. Entonces puedo crear un evento dentro del club, seleccionar la fecha y enviar invitaciones a los miembros.<br/><br/>**Escenario 3: Gestionar Miembros del Club:** Dado que necesito administrar la membresía de mi club de lectura. Cuando reviso la lista de miembros del club. Entonces puedo invitar nuevos miembros o remover miembros existentes según lo decida el grupo, asegurando que el club permanezca como un espacio cerrado y controlado. | EP06                |
+| US24          | Visualizar una Landing Page Intuitiva | Como usuario de BookFlow, deseo encontrar una landing page intuitiva al visitar el sitio web, donde una clara y bien diseñada landing page facilitará mi navegación y comprensión de los servicios ofrecidos por BookFlow desde el primer momento. | **Escenario 1: Navegar en la Landing Page:** Dado que soy un visitante nuevo en la landing page de BookFlow. Cuando ingreso al sitio web. Entonces encuentro una página de inicio con un diseño limpio y organizado, y los elementos clave, como el menú de navegación y las secciones principales, son fáciles de identificar.<br/><br/>**Escenario 2: Explorar Contenido Destacado:** Dado que estoy en la landing page de BookFlow. Cuando exploro la página desplazándome hacia abajo. Entonces encuentro información destacada sobre las características clave de BookFlow, como recomendaciones personalizadas y clubes de lectura.<br/><br/>**Escenario 3: Acceso Rápido a Funciones Principales:** Dado que quiero acceder rápidamente a las funciones principales de BookFlow. Cuando busco enlaces o botones directos en la landing page. Entonces encuentro enlaces para registrarme, explorar el catálogo y conocer más sobre BookFlow, facilitando un acceso rápido y eficiente a las áreas de interés. | EP06                |
+| US25          | Recomendar Libros a Grupos de Amigos | Como usuario, quiero tener la opción de recomendar libros a grupos de amigos específicos en BookFlow para compartir mis lecturas favoritas y fomentar el intercambio literario dentro de mi círculo social. | **Escenario 1: Enviar Recomendaciones a un Grupo:** Dado que leo un libro que sé que a un grupo de amigos les encantará. Cuando accedo al libro en BookFlow. Entonces puedo seleccionar la opción de "Recomendar a Grupo" y elegir el grupo destinatario.<br/><br/>**Escenario 2: Recibir una Recomendación de un Amigo:** Dado que un amigo me envía una recomendación de libro en un grupo. Cuando hago clic en el enlace de la recomendación. Entonces se abre la página del libro en BookFlow y puedo agregarlo a mi lista de lectura.<br/><br/>**Escenario 3: Discutir Recomendaciones en Grupo:** Dado que mi grupo de amigos ha recibido varias recomendaciones de libros. Cuando accedemos a nuestra sección de grupo en BookFlow. Entonces podemos discutir las recomendaciones recibidas, comentar sobre ellas y decidir cuáles libros leeremos juntos en nuestro próximo encuentro del club de lectura. | EP06                |
+| US26          | Visualizar una Sección Sobre Nosotros | Como usuario curioso de BookFlow, deseo encontrar una sección dedicada a conocer más sobre la plataforma, su misión, valores y el equipo detrás de ella, para entender mejor la filosofía y compromiso de la compañía con sus usuarios. | **Escenario 1: Explorar la Sección 'Sobre Nosotros':** Dado que estoy en la sección "Sobre Nosotros" de BookFlow. Cuando exploro la página. Entonces encuentro una descripción clara de la misión y visión de BookFlow.<br/><br/>**Escenario 2: Conocer la Historia de la Plataforma:** Dado que estoy en la sección "Sobre Nosotros" de BookFlow. Cuando navego más en profundidad. Entonces encuentro la historia detrás de la creación de BookFlow, incluyendo eventos significativos y logros.<br/><br/>**Escenario 3: Conocer al Equipo:** Dado que estoy en la sección "Sobre Nosotros" de BookFlow. Cuando exploro la página buscando más detalles sobre el equipo. Entonces encuentro perfiles detallados de los miembros del equipo, incluyendo sus roles y responsabilidades, proporcionando una visión humana y cercana de las personas detrás de la plataforma. | EP06                |
+| US27          | Visualizar una Sección de Catálogo   | Como usuario de BookFlow, quiero poder explorar fácilmente el extenso catálogo de libros disponibles en la plataforma, organizados de manera clara y con opciones de búsqueda y filtrado avanzadas para una mejor experiencia de usuario. | **Escenario 1: Navegar por Categorías de Libros:** Dado que estoy en la sección de catálogo de BookFlow. Cuando navego por las categorías disponibles, como "Ficción", "No Ficción", "Misterio", etc. Entonces encuentro una variedad de categorías que me permiten explorar diferentes géneros.<br/><br/>**Escenario 2: Buscar Libros Específicos:** Dado que estoy en la sección de catálogo de BookFlow. Cuando utilizo la barra de búsqueda para buscar un libro específico o autor. Entonces el sistema me muestra resultados relevantes mientras escribo, facilitando la búsqueda.<br/><br/>**Escenario 3: Filtrar Resultados por Preferencias:** Dado que estoy en la sección de catálogo de BookFlow. Cuando quiero filtrar los resultados por cosas como "Nuevos Lanzamientos", "Más Descargados", etc. Entonces encuentro opciones de filtrado que me permiten encontrar rápidamente los libros más relevantes para mí, adaptando la búsqueda a mis necesidades y preferencias. | EP06                |
+| US28          | Visualizar Contenido Relevante      | Como usuario de BookFlow, quiero encontrar contenido relevante, como artículos, reseñas de libros, entrevistas a autores y recomendaciones, para enriquecer mi experiencia de lectura y descubrir nuevos títulos. | **Escenario 1: Acceder a Artículos Destacados:** Dado que estoy en la sección de contenido de BookFlow. Cuando exploro la página. Entonces encuentro artículos destacados sobre temas literarios, autores o tendencias actuales.<br/><br/>**Escenario 2: Explorar Reseñas y Recomendaciones:** Dado que estoy en la sección de contenido de BookFlow. Cuando navego por las reseñas y recomendaciones. Entonces encuentro reseñas detalladas de libros populares, con puntuaciones y comentarios de otros usuarios.<br/><br/>**Escenario 3: Participar en Discusiones de Contenido:** Dado que encuentro un artículo o reseña interesante. Cuando quiero discutir sobre el tema con otros usuarios. Entonces puedo participar en discusiones en línea y foros dentro de BookFlow, compartiendo mi opinión y leyendo las de otros, fomentando un diálogo enriquecedor. | EP06                |
+| US29          | Visualizar una Sección de Contacto   | Como usuario de BookFlow, deseo tener acceso a una sección de Contacto donde pueda encontrar información para comunicarme con el equipo de soporte en caso de tener preguntas o problemas con la plataforma. | **Escenario 1: Enviar un Mensaje al Soporte:** Dado que estoy en la sección de Contacto de BookFlow. Cuando quiero enviar un mensaje al equipo de soporte. Entonces encuentro un formulario de contacto donde puedo ingresar mi consulta y recibir una respuesta por correo electrónico.<br/><br/>**Escenario 2: Llamar al Soporte al Cliente:** Dado que tengo una pregunta urgente y prefiero llamar. Cuando busco un número de teléfono de atención al cliente claramente visible en la sección de Contacto. Entonces encuentro un número de teléfono y puedo comunicarme de inmediato con un representante de soporte.<br/><br/>**Escenario 3: Acceder a Preguntas Frecuentes:** Dado que tengo dudas generales sobre el uso de BookFlow. Cuando accedo a la sección de Preguntas Frecuentes en Contacto. Entonces encuentro respuestas a las preguntas más comunes, lo cual me ayuda a resolver rápidamente mis inquietudes sin necesidad de contactar al soporte. | EP06                |
+| US30          | Despliegue de la Landing Page        | Como miembro del equipo de desarrollo de BookFlow, quiero desplegar la landing page inicial como una startup para atraer a nuevos usuarios y presentar nuestra plataforma de manera atractiva y profesional.  | **Escenario 1: Diseño Moderno y Atractivo:** Dado que estamos listos para desplegar la landing page como una startup. Cuando los diseñadores finalizan el diseño con una estética moderna y atractiva. Entonces la landing page presenta un diseño innovador que refleja la naturaleza tecnológica de BookFlow.<br/><br/>**Escenario 2: Redacción de Mensajes Claves:** Dado que estamos preparando el contenido para la landing page. Cuando se redactan los mensajes principales que comunicarán la propuesta de valor de BookFlow. Entonces el mensaje principal de la landing page es claro, conciso y orientado a los beneficios para el usuario.<br/><br/>**Escenario 3: Lanzamiento Exitoso de la Landing Page:** Dado que todo está listo y probado para el lanzamiento. Cuando la landing page se despliega en el dominio principal de BookFlow. Entonces la landing page está accesible públicamente en el dominio principal de BookFlow, y comenzamos a monitorear la interacción del usuario y el tráfico web para optimizar futuras iteraciones. | EP06                |
+
 ## 3.3. Impact Mapping
 Lectores:
 
@@ -1898,6 +1871,8 @@ La Arquitectura de Software Orientada al Dominio (Domain-Driven Software Archite
  * WhatsApp: Se utilizó WhatsApp como una herramienta de comunicación para mantener el contacto con los miembros del equipo, mandar recordatorios, realizar encuestas y colaborar en cierta medida.
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;"> 
+
+ * GitFlow:Utilizamos GitFlow para mejorar la eficiencia y organización en el desarrollo de software. GitFlow proporciona una estructura clara para manejar ramas, facilita la colaboración en equipo, mejora el control de versiones, y asegura la calidad del código. Al separar las ramas de desarrollo y producción, GitFlow permite realizar pruebas exhaustivas y gestionar versiones estables, reduciendo el riesgo de errores en producción.. 
  
 * Landing Page: Para dar vida a la primera impresión de nuestra landing page, decidimos usar HTML, CSS y JavaScrip que son ampliamente conocidas y utilizadas en la creación de páginas web. Estas tecnologías permitieron crear una página atractiva, funcional y adaptada a las necesidades del proyecto.
 
@@ -2078,11 +2053,11 @@ En este primer sprint se desarrolló y desplegó el landing page.
     </tr>
     <tr align="center">
         <td>Sprint 1 Velocity</td>
-        <td>2 semanas</td>
+        <td>19</td>
     </tr>
     <tr align="center">
         <td>Sum of Story Point</td>
-        <td>5</td>
+        <td>19</td>
     </tr>
 </table>
 
@@ -2434,6 +2409,7 @@ Implementacion Inicio Sesión</td>
         <td>13/03/2024</td>
     </tr>
 </table>
+<table>
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
@@ -2497,7 +2473,7 @@ Tabla para poder identificarnos:
 |                      | Miguel Ángel Huamán Cataño - U202120615   |
 |                      | Víctor Ernesto Zarate Cáceres - U202112907 |
 |                      | Franz Jair La Torre Valle - U202012378    |
-| Sprint 1 Review Summary | Se completaron los 6 de 6 user stories establecidos en el sprint anterior, mejoramos la experiencia de usuario en la landing page. Hubo retrasos con su elaboración, lo cual nos sirvió para dividirnos mejor en las siguientes entregas. |
+| Sprint 1 Review Summary | Se completaron los 7 de 7 user stories establecidos en el sprint anterior, mejoramos la experiencia de usuario en la landing page. Hubo retrasos con su elaboración, lo cual nos sirvió para dividirnos mejor en las siguientes entregas. |
 | Sprint 1 Retrospective Summary | El equipo acordó mejorar las estimaciones de tiempo y colaborar más estrechamente con el equipo. Además, de mejorar cuantiosamente la landing page de la aplicación |
 | **Sprint Goal & User Stories** | |
 | Sprint 2 Goal        | El objetivo primordial para este sprint es implementar funcionalidades esenciales para el front-end de la aplicación, buscando enriquecer la personalización de la experiencia del usuario y mejorar sustancialmente la gestión de contenido. Nos enfocaremos en desarrollar una interfaz de usuario intuitiva y responsiva que permita a los usuarios interactuar de manera más efectiva con nuestras características principales. |
@@ -2512,32 +2488,475 @@ Tabla para poder identificarnos:
 | US09 | Configurar Perfil y Preferencias | W01 | Perfil | Implementar funcionalidad de edición de perfil para la conformidad del usuario | 2 horas | Joaquin Rivadeneyra  | Done |
 | US13 | Crear Lista de Lectura | W02 | Lista de Lectura | Diseñar interfaz para listas de lectura | 3 horas | Paolo Párraga | Done |
 | US14 | Seguir a Autores Favoritos | W03 | Autores | Implementar sistema de seguimiento de autores para que el usuario siga a sus autores favoritos | 2 horas | Paolo Gonzalo Párraga  | Done |
-| US15 | Explorar Libros Populares | W04 | Libros Populares | Desarrollar sección de libros populares para que el usuario este al tanto de las tendencias | 3 horas | Miguel Huamán | Done |
-| US18 | Configurar Recordatorios de Lectura | W05 | Recordatorios | Crear funcionalidad de recordatorios en la app para estrenos de nuevos libros | 3 horas | Hernan Morales | Done |
-| US19 | Explorar Libros por Temáticas | W06 | Temáticas | Implementar filtros de búsqueda por temática para los usuarios | 5 horas | Joaquin Rivadeneyra | Done |
-| US20 | Obtener Resúmenes de Libros | W07 | Resúmenes | Desarrollar funcionalidad para mostrar resúmenes de libros | 2.5 horas |  Franz La Torre | Done |
-| US22 | Realizar Comentarios y Discusiones en Libros | W08 | Comentarios | Implementar sección de comentarios en los detalles del libro | 2 horas | Víctor Zarate | Done |
+| US15 | Explorar Libros mejor rankeados | W04 | Libros Mejor Rankeados | Desarrollar sección de libros mejor rankeados para que el usuario este al tanto de las tendencias | 3 horas | Miguel Huamán | Done |
+| US19 | Explorar Libros por Temáticas | W05 | Temáticas | Implementar filtros de búsqueda por temática para los usuarios | 5 horas | Joaquin Rivadeneyra | Done |
+| US20 | Obtener Resúmenes de Libros | W06 | Resúmenes | Desarrollar funcionalidad para mostrar resúmenes de libros | 2.5 horas |  Franz La Torre | Done |
+| US22 | Realizar Comentarios y Discusiones en Libros | W07 | Comentarios | Implementar sección de comentarios en los detalles del libro | 2 horas | Víctor Zarate | Done |
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
+
+En esta sección se presenta un resumen de los avances en la implementación de los productos de la solución, de acuerdo al alcance definido para el Sprint 2. Se incluye una tabla que resume los commits relacionados con la implementación.
+#### Tabla de resumen de commits
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>2009129</td>
+        <td>
+
+git commit feat: First version</td>
+        <td>La primera versión del front end para que todos puedan implementar sus HU</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>2b7dfe2</td>
+        <td>
+git commit fix: imagen</td>
+        <td>Se arregló la imagen de fondo de la bienvenido, así como hacer esponsive algunas partes. Sin embargo la toolbar fue afectada</td>
+        <td>30/04/2024</td>
+    </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>14ebcff</td>
+        <td>Change: Fix books-component/bookhome_component and style</td>
+        <td>Se arregló el componente de BookHome</td>
+        <td>30/04/2024</td>
+    </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>6103d33</td>
+        <td>Change: Fix book-card/comment/detail component</td>
+        <td>Se arregló el componente de BookCard</td>
+        <td>30/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>149fbea</td>
+        <td>Feat: add home/Catalogue to header</td>
+        <td>Se agrego una ruta a catálogo</td>
+        <td>30/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>4baf263</td>
+        <td>Feat: add iniciosesion and register components</td>
+        <td>Se agregó la vista de Login</td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>88b6af1</td>
+        <td>
+Feat: add iniciosesion and register routes</td>
+        <td>Se agregó el botón comenzar para ingresar a la vista de Login</td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>77e0b9f</td>
+        <td>
+Fix: Router button "Comenzar"</td>
+        <td>Se arreglo la ruta para la vista de Login</td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>1eb6134</td>
+        <td>Fix: Change design "Ver más" button</td>
+        <td>Se agregó el botón para ingresar al Catálogo y visualizar los libros disponbiles</td>
+        <td>01/05/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>6bc4891</td>
+        <td>
+feat: Foto perfil</td>
+        <td>Se agregó una foto para mostrarla en el perfil de usuario</td>
+        <td>01/05/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>86f8e33</td>
+        <td>
+Fix: Change design comment and review</td>
+        <td>Se arreglaron los estilos para los comentarios y reseñas</td>
+        <td>01/05/2024</td>
+    </tr>
+          <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>e8fe698</td>
+        <td>
+git commit fix : Autores y Apifake</td>
+        <td>Se agregó un elemento más para el ApiFake que se trata de las imágenes de los autores. Además se modifico el baseUrl para que tenga la versión 1 definida en routes.json</td>
+        <td>01/05/2024</td>
+    </tr>
+</table>
+
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+### Unit tests:
+
+Se han diseñado y ejecutado pruebas unitarias para las siguientes clases y comportamientos:
+
+1. BookCardComponent: Se probaron los métodos getBooks, getDetails, getBooksByName, y ApplyFilter.
+
+2. BookDetailComponent: Se evaluaron los métodos getBooksByISbn y agregarComentario.
+
+3. BookCommentComponent: enviarMensaje y mostrarSnackBar.
+
+4. BookHomeComponent: getBooks, goCatalogue y getDetails.
+
+5. AutorComponent: getBooks,enviarMensaje y mostrarSnackBar.
+
+6. BookTendenciaComponent: getBooks, isDesiredBook y getDetails
+
+### Integration Tests & Acceptance Tests (BDD):
+
+Se han desarrollado archivos .feature utilizando Gherkin para las siguientes User Stories:
+
+Relacionado a US-09
+
+    Feature: Gestión de Perfil y Configuración
+
+    Como usuario, 
+    Quiero poder configurar mi perfil y ajustar mis preferencias de lectura en BookFlow 
+    Para personalizar mi experiencia y recibir recomendaciones más afinadas a mis gustos.
+
+    Scenario: Editar información de perfil
+        Given Accedo a la sección de "Perfil" en la aplicación
+        When Edito mi información personal, intereses y géneros favoritos
+        Then Los cambios se guardan correctamente y se reflejan en mi experiencia de usuario
+
+    Scenario: Configuración de notificaciones
+        Given Quiero recibir notificaciones sobre nuevos lanzamientos
+        When Activo la opción de recibir alertas para mis géneros favoritos
+        Then Recibo notificaciones cuando se agregan nuevos libros relevantes a la biblioteca
+
+    Scenario: Privacidad y seguridad de datos
+        Given Estoy revisando mis configuraciones de perfil
+        When Elijo ajustar mis configuraciones de privacidad
+        Then Puedo seleccionar qué información personal es visible para otros usuarios y qué información se mantiene privada
+
+
+ Relacionado a US-13
+
+    Feature: Crear Lista de Lectura
+
+    Como usuario, 
+    Quiero poder crear una lista de lectura personalizada en BookFlow 
+    Para organizar los libros que deseo leer en el futuro, facilitando el seguimiento y la planificación de mi tiempo de lectura.
+
+    Scenario: Agregar libro a la lista de lectura
+        Given Que encuentro un libro que me interesa, pero no tengo tiempo para leer de inmediato
+        When Hago clic en "Agregar a Lista de Lectura"
+        Then El libro se guarda en mi lista personal y puedo acceder a él más tarde
+
+    Scenario: Organizar libros en la lista de lectura
+        Given Que quiero organizar mi lista de lectura en categorías
+        When Arrastro y suelto los libros para reorganizar el orden
+        Then Los libros se reorganizan según mis preferencias y categorías
+
+    Scenario: Compartir lista de lectura
+        Given Que quiero compartir mi lista de lectura con amigos
+        When Selecciono la opción "Compartir lista" y elijo con quién compartir
+        Then Mi lista de lectura se comparte a través de un enlace, permitiendo a otros ver y comentar sobre mi selección de libros
+
+  Relacionado a US-14
+
+    Feature: Seguir a Autores Favoritos
+
+    Como usuario, 
+    Quiero poder seguir a mis autores favoritos en BookFlow 
+    Para recibir actualizaciones sobre sus nuevos lanzamientos y eventos, manteniéndome conectado con mis intereses literarios.
+
+    Scenario: Seguir a un autor
+        Given Estoy en la página del autor que me gusta en BookFlow
+        When Hago clic en "Seguir" en su perfil
+        Then Recibo notificaciones cuando el autor publica un nuevo libro o tiene un evento próximo
+
+    Scenario: Ver lista de autores seguidos
+        Given Quiero ver una lista de los autores que sigo
+        When Navego a mi perfil y selecciono "Autores Seguidos"
+        Then Se muestra una lista de los autores que sigo, con enlaces a sus perfiles
+
+    Scenario: Dejar de seguir a un autor
+        Given Ya no estoy interesado en las actualizaciones de un autor
+        When Selecciono "Dejar de seguir" en su perfil
+        Then Dejo de seguir al autor y dejo de recibir notificaciones sobre sus actividades
+
+Relacionado a US-15
+
+    Feature: Explorar Libros Populares
+    
+    Como usuario, 
+    Quiero tener una sección dedicada a los libros más populares y tendencias en BookFlow 
+    Para descubrir lecturas populares y mantenerme al día con lo que es relevante en el mundo literario.
+
+    Scenario: Explorar libros populares
+        Given Accedo a la sección de "Libros Populares" en la aplicación
+        When Exploro la lista de libros con más descargas y altas calificaciones
+        Then Puedo ver una variedad de libros populares en diferentes géneros
+
+    Scenario: Filtrar libros populares por género
+        Given Quiero ver los libros populares de un género específico
+        When Selecciono un género en la lista de libros populares
+        Then Se muestra una lista de los libros más populares en ese género específico
+
+    Scenario: Recibir notificaciones sobre nuevos libros populares
+        Given Estoy interesado en mantenerme actualizado con los nuevos lanzamientos populares
+        When Activo notificaciones para "Nuevos Populares"
+        Then Recibo alertas cada vez que un nuevo libro se convierte en popular en BookFlow
+
+Relacionado a US-19
+
+    Feature: Exploración de Libros
+
+    Como usuario, 
+    Quiero poder explorar libros por temáticas específicas en BookFlow 
+    Para encontrar lecturas que se ajusten a mis intereses actuales, facilitando el descubrimiento de nuevo contenido relevante.
+
+    Scenario: Buscar libros por tema
+        Given Estoy interesado en un tema particular, como "Historia Antigua"
+        When Busco la categoría "Historia Antigua" en la aplicación
+        Then Veo una lista de libros relacionados con esa temática
+
+    Scenario: Explorar best sellers por género
+        Given Quiero explorar libros que sean "Best Sellers" en un género específico
+        When Selecciono la opción de "Best Sellers" y elijo el género "Ficción"
+        Then Veo una lista de los libros más vendidos en la categoría de ficción
+
+    Scenario: Filtrar libros por calificaciones de usuarios
+        Given Deseo encontrar libros altamente recomendados por otros lectores
+        When Aplico un filtro para ver libros con altas calificaciones
+        Then Obtengo una lista de libros que han recibido excelentes reseñas, ayudándome a elegir lecturas de calidad comprobada
+
+ Relacionado a US-20
+
+    Feature: Información de Libros
+
+    Como usuario, 
+    Quiero tener la opción de ver resúmenes y detalles clave de libros en BookFlow 
+    Para tomar decisiones de lectura informadas y rápidas, especialmente cuando estoy explorando nuevos géneros o autores.
+
+    Scenario: Acceder a resúmenes de libros
+        Given Estoy buscando un libro, pero quiero conocer más sobre su trama antes de comprometerme a leerlo
+        When Veo el libro en la lista de resultados de búsqueda
+        Then Puedo desplegar un resumen breve de la trama y los personajes principales
+
+    Scenario: Consultar opiniones y reseñas de otros lectores
+        Given Quiero ver opiniones y reseñas de otros lectores antes de decidir leer un libro
+        When Navego a la página del libro
+        Then Hay una sección de reseñas y calificaciones de otros usuarios que puedo consultar
+
+    Scenario: Recibir recomendaciones basadas en resúmenes leídos
+        Given He leído varios resúmenes de libros en un género específico
+        When Vuelvo a la sección de recomendaciones
+        Then Recibo sugerencias de libros similares basados en los resúmenes que he consultado previamente, ayudándome a explorar más en ese género
+
+ Relacionado a US-22
+
+    Feature: Realizar Comentarios y Discusiones en Libros
+
+    Como usuario, 
+    Quiero poder dejar comentarios y participar en discusiones sobre libros en BookFlow 
+    Para interactuar con otros lectores y compartir perspectivas sobre lecturas comunes.
+
+    Scenario: Publicar un Comentario
+        Given Estoy leyendo un libro y quiero compartir mis pensamientos
+        When Accedo al apartado de comentarios y discusiones del libro
+        Then Puedo dejar un comentario y ver las respuestas de otros lectores
+
+    Scenario: Participar en una Discusión
+        Given Veo una discusión interesante sobre un libro en el que estoy interesado
+        When Quiero unirme a la conversación
+        Then Puedo dejar un comentario y recibir notificaciones de nuevas respuestas
+
+    Scenario: Moderar Comentarios
+        Given Deseo mantener un ambiente respetuoso y constructivo en las discusiones
+        When Detecto un comentario inapropiado o spam
+        Then Puedo reportarlo para que los moderadores de la comunidad lo revisen y tomen acción si es necesario, manteniendo así la calidad de las discusiones
+       
+#### Enlace al repositorio de control de versiones
+
+●	Link: [Click para ver el repositorio](https://github.com/ReadWell-SW54-SI729/FRONT_END/tree/master)
+
+#### Tabla para commits relacionados con el testing
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>2009129</td>
+        <td>
+
+git commit feat: First version</td>
+        <td>La primera versión del front end para que todos puedan implementar sus HU</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>2b7dfe2</td>
+        <td>
+git commit fix: imagen</td>
+        <td>Se arregló la imagen de fondo de la bienvenido, así como hacer esponsive algunas partes. Sin embargo la toolbar fue afectada</td>
+        <td>30/04/2024</td>
+    </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>14ebcff</td>
+        <td>Change: Fix books-component/bookhome_component and style</td>
+        <td>Se arregló el componente de BookHome</td>
+        <td>30/04/2024</td>
+    </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>6103d33</td>
+        <td>Change: Fix book-card/comment/detail component</td>
+        <td>Se arregló el componente de BookCard</td>
+        <td>30/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>149fbea</td>
+        <td>Feat: add home/Catalogue to header</td>
+        <td>Se agrego una ruta a catálogo</td>
+        <td>30/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>4baf263</td>
+        <td>Feat: add iniciosesion and register components</td>
+        <td>Se agregó la vista de Login</td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>88b6af1</td>
+        <td>
+Feat: add iniciosesion and register routes</td>
+        <td>Se agregó el botón comenzar para ingresar a la vista de Login</td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>77e0b9f</td>
+        <td>
+Fix: Router button "Comenzar"</td>
+        <td>Se arreglo la ruta para la vista de Login</td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>1eb6134</td>
+        <td>Fix: Change design "Ver más" button</td>
+        <td>Se agregó el botón para ingresar al Catálogo y visualizar los libros disponbiles</td>
+        <td>01/05/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>6bc4891</td>
+        <td>
+feat: Foto perfil</td>
+        <td>Se agregó una foto para mostrarla en el perfil de usuario</td>
+        <td>01/05/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>86f8e33</td>
+        <td>
+Fix: Change design comment and review</td>
+        <td>Se arreglaron los estilos para los comentarios y reseñas</td>
+        <td>01/05/2024</td>
+    </tr>
+          <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>e8fe698</td>
+        <td>
+git commit fix : Autores y Apifake</td>
+        <td>Se agregó un elemento más para el ApiFake que se trata de las imágenes de los autores. Además se modifico el baseUrl para que tenga la versión 1 definida en routes.json</td>
+        <td>01/05/2024</td>
+    </tr>
+</table>
+
 #### 5.2.2.5.Execution Evidence for Sprint Review.
+<div align="justify">
+	Para el presente sprint, se desplego la primer versión de la web application completamente funcional, cumpliendo los user stories correspondientes.
+	<ul>
+		<li>Web Application</li>
+		<img src="imgs/EvidenceSprintWebApp1.png" alt="Evidencia 1 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp2.png" alt="Evidencia 2 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp3.png" alt="Evidencia 3 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp4.png" alt="Evidencia 4 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp5.png" alt="Evidencia 5 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp6.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp7.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp8.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp9.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp10.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+        <img src="imgs/EvidenceSprintWebApp11.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+        <img src="imgs/EvidenceSprintWebApp12.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+        <img src="imgs/EvidenceSprintWebApp13.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+        <img src="imgs/EvidenceSprintWebApp14.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+	</ul>
+</div>
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 <div align="justify">
-	Para el Sprint 2 únicamente se planificó para abarcar las mejoras de la landing page y la creación del front-end.
-	<table>
-		<tr>
-			<td>Endpoint: </td>
-			<td>Details: </td>
-		</tr>
-		<tr>
-			<td>/</td>
-			<td>Se implemento</td>
-		</tr>
-		<tr>
-			<td>/</td>
-			<td>Se implemento</td>
-		</tr>
-	</table>
+	Para el Sprint 2 se planifico abarcar las mejoras de la landing page y la creación del front-end. Para probar las principales funcionalidades de esta última,
+	se utilizó un fake-api. Inicialmente se utilizó un json server de forma local, pero luego se implemento un servidor adecuado para ser utilizado por el front 
+	End desplegada.
 	<table>
 		<tr>
 			<td>Repository</td>
@@ -2548,56 +2967,43 @@ Tabla para poder identificarnos:
 			<td>Commited on (Date)</td>
 		</tr>
 		<tr>
-			<td>Landingpage-BookFlow</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>Landingpage-BookFlow</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>FRONT_END</td>
+			<td>master</td>
+			<td>2009129f2f237f5b021cbab447796d9ef5716c69</td>
+			<td>git commit feat: First version</td>
+			<td>La primera versión del front end para que todos puedan implementar sus HU</td>
+			<td>29/04/2024</td>
 		</tr>
 		<tr>
 			<td>FRONT_END</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>master</td>
+			<td>e8fe698d8b316e179829e14ff0a283189f1982c6</td>
+			<td>git commit fix : Autores y Apifake</td>
+			<td>Se agregó un elemento más para el ApiFake que se trata de las imágenes de los autores. Además se modifico el baseUrl para que tenga la versión 1 definida en routes.json</td>
+			<td>01/05/2024</td>
 		</tr>
 		<tr>
 			<td>FRONT_END</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>master</td>
+			<td>59d657446f1e8844ec7e7bda5119c7f597281eb1</td>
+			<td>git commit feat: Filtro</td>
+			<td>Se agregó un filtro de libro dependiendo del género del libro. Además de un apartado para buscar el nombre del libro</td>
+			<td>01/05/2024</td>
 		</tr>
 	</table>
 </div>
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 <div align="justify">
-	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
-	primer versión de la web application, con mejoras a realizar para el siguiente sprint:
-	<ul>
-		<li>Landing Page:</li>
-		<img src="imgs/EvidenceSprintLanding1" alt="Evidencia 1 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding2" alt="Evidencia 2 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding3" alt="Evidencia 3 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding4" alt="Evidencia 4 Landing Page - Sprint 2">
-		<li>Web Application</li>
-		<img src="imgs/EvidenceSprintWebApp1" alt="Evidencia 1 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp2" alt="Evidencia 2 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp3" alt="Evidencia 3 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp4" alt="Evidencia 4 Web ApplicationLanding Page - Sprint 2">
-	</ul>
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/5bec0f54-9064-43e5-bf25-264be821f1f0)
+
+Este comando instalará y configurará la biblioteca angular-cli-ghpages en tu proyecto Angular. Una vez completada la instalación, podremos utilizarla para implementar nuestra aplicación en GitHub Pages ejecutando el comando:
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/796e93b8-8f42-4958-b16f-fa915cc44528)
+
+Este comando implementará nuestra aplicación Angular en la URL proporcionada en GitHub Pages. 
+	
 </div>
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
@@ -2608,17 +3014,345 @@ Tabla para poder identificarnos:
 	Tabla para poder identificarnos:
 </div>
 
-|  UserName (Github)   |             Nombre             |Tareas|
-| -------------------- |:-------------------------------|:-----|
-| Huaman-Miguel	       |Huamán Cataño, Miguel Ángel     ||
-| FranzJairLTV	       |La Torre Valle, Franz Jair      ||
-| hernancit0           | Morales Calderón, Hernan Emilio||
-| PaoloParragaGamarra  | Párraga Gamarra, Paolo Gonzalo ||
-| joqui4               |Rivadeneyra Ramos, Joaquin      ||
-| ern23zc              |Zarate Caceres, Victor Ernesto  ||
+<img src="imgs/Insights2.1.png">
+<img src="imgs/Insights2.2.png">
+<img src="imgs/Insights2.3.png">
 
-<img src="imgs/Insights2.1">
-<img src="imgs/Insights2.2">
+### 5.2.3. Sprint 3
+
+### Sprint Planning 3
+
+| Sprint #              | Sprint 3                          |
+|-----------------------|-----------------------------------|
+| Date                  | 2024/05/25                        |
+| Time                  | 10:00 PM                          |
+| Location              | Videoconferencia Zoom             |
+| Prepared By           | Joaquin Rivadeneyra Ramos         |
+| Attendees (to planning meeting) | Hernan Emilio Morales Calderón - U202216263 |
+|                       | Joaquin David Rivadeneyra Ramos - U202211846 |
+|                       | Paolo Gonzalo Párraga Gamarra - U202219186 |
+|                       | Miguel Ángel Huamán Cataño - U202120615   |
+|                       | Víctor Ernesto Zarate Cáceres - U202112907 |
+|                       | Franz Jair La Torre Valle - U202012378    |
+| Sprint 2 Review Summary | El sprint 2 se centró en poder completar las historias de usuario acordadas por el equipo. Como parte de los resultados se finalizó con los ítems planificados que corresponde al diseño de las interfaces de la aplicación. |
+| Sprint 2 Retrospective Summary | El equipo se reunió al finalizar el primer sprint para realizar una retroalimentación retrospectiva. Durante la reunión, se discutieron los aspectos positivos y negativos del sprint y se identificaron oportunidades de mejora para futuras iteraciones. |
+| **Sprint Goal & User Stories** | |
+| Sprint 3 Goal        | Culminación del FrontEnd y primera implementación del backend del proyecto. |
+| Sprint 3 Velocity    | 30 Story Points                   |
+| Sum of Story Points  | 30 Story Points                   |
+
+#### 5.2.3.2.Sprint Backlog 3.
+
+### Sprint Backlog 3
+
+| Sprint #  | Sprint 3 |  |  |  |  |  |  |
+|----------|----------|---|------------------------|-------------------------------------------|--------------|-------------------|--------|
+| **User Story ID** | **Title** | **Work-Item / Task ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| US06 | Unirse a un Club de Lectura Virtual | WO1 | Club de Lectura Virtual | Diseñar y desarrollar la opción para que los usuarios puedan unirse a clubes de lectura virtuales, gestionar sus participaciones y recibir notificaciones de reuniones | 3 horas | Joaquin Rivadeneyra Ramos | Done |
+| US10 | Leer Libros Electrónicos | WO2 | Libros Electrónicos | Diseñar y desarrollar el lector de libros electrónicos integrado en la aplicación, incluyendo opciones de ajuste de fuente y marcadores | 3 horas | Paolo Gonzalo Párraga  | Done |
+| US12 | Membresía Premium de Usuario | WO3 | Membresía Premium | Implementar la opción de suscripción premium, incluyendo un mes de prueba gratis y notificaciones de fin de período de prueba | 3.5 horas  | Hernan Emilio Morales Calderón | Done |
+| US21 | Notificaciones de Eventos de Autores Favoritos | WO4 | Notificaciones de Eventos | Implementar el sistema de notificaciones para eventos y lanzamientos de libros de autores favoritos | 2 horas | Hernan Emilio Morales Calderón | Done |
+| US23 | Crear Club de Lectura Privado | WO5 | Club de Lectura Privado | Diseñar y desarrollar la funcionalidad para crear y gestionar clubes de lectura privados, incluyendo la programación de reuniones y gestión de miembros | 2.5 horas| Miguel Ángel Huamán Cataño | Done |
+| US25 | Recomendar Libros a Grupos de Amigos | WO6 | Recomendar Libros | Implementar la opción de recomendar libros a grupos de amigos y gestionar discusiones sobre las recomendaciones en la aplicación | 2 horas | Miguel Ángel Huamán Cataño | Done |
+| US05 | Implementación del servicio Post | W07 | Servicio Post | Desarrollar el servicio que corresponde a las publicaciones de propiedades para acceder al servicio en el frontend | 3 horas | Víctor Ernesto Zarate Cáceres | Done |
+| TS01 | Registro de Usuario | WO8 | Registro de Usuario | Crear endpoint que permita la comunicación para registrar un nuevo usuario en BookFlow | 3 horas | Víctor Ernesto Zarate Cáceres | Done |
+|  |  | WO9 | Validar correo | Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente | 2 horas | Víctor Ernesto Zarate Cáceres | Done |
+| TS02 | Iniciar Sesión | W10 | Iniciar Sesión | Crear endpoint que permita a los usuarios registrados iniciar sesión en BookFlow | 2 horas | Franz Jair La Torre Valle | Done |
+|  |  | W11 | Validar contraseñas | Validar que la combinación de correo electrónico y contraseña ingresada sea correcta | 2 horas | Franz Jair La Torre Valle | Done |
+| TS03 | Membresía de Usuario | W12 | Suscripción Premium | Crear endpoint que permita la suscripción premium con un mes de prueba gratuito y luego $19.99 mensuales | 2 horas | Franz Jair La Torre Valle | Done |
+|  |  | W13 | Notificación de Fin de Período de Prueba | Crear endpoint para enviar notificaciones a los usuarios una semana antes de que termine su período de prueba gratuito | 2 horas | Franz Jair La Torre Valle | Done |
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+<div align="justify">
+	Para la entrega del Sprint 3 se busco mejorar el diseño y funcionamiento de los entregables anteriores. También se diseño y desplego la primera versión de los Web Services.
+	<table>
+	    	<tr>
+	        	<td>Repository</td>
+	        	<td>Branch</td>
+	        	<td>Commit Id</td>
+	        	<td>Commit Message</td>
+	        	<td>Commit Message Body</td>
+	        	<td>Commited on (Date)</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>77e55e53ba6ee4fa4f0b8ba08e2a9d18b3f5cc4b</td>
+		        <td>Add Comments</td>
+		        <td>Added comments to improve code readability and maintainability.</td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>7f13fdbfff41db34409f7f5c7bfa093a430ba990</td>
+		        <td>feature POST</td>
+		        <td>Metod POST for creating accounts and verifying email have been added.</td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>77bc00e3f3de31f8e6d0e01c662055c3702b3b49</td>
+		        <td>feature POST v1</td>
+		        <td>Initial implementation of the POST method for account creation and email verification.</td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>60d8265033e3511db089a6c6b50c74b0745b6578</td>
+		        <td>feat Mail Validation</td>
+		        <td>Implemented email validation logic to ensure unique email addresses and valid format.</td>
+		        <td>02/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>80a189f2f55c73ee1af0ad1562c2cd21fc93dbe8</td>
+		        <td>feat Interfaz Usuario</td>
+		        <td>Developed user interface for email validation process.</td>
+		        <td>02/06/2024</td>
+		</tr>
+	</table>
+</div>
+
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review.
+<div align="justify">
+	<table>
+	    	<tr>
+	        	<td>Repository</td>
+	        	<td>Branch</td>
+	        	<td>Commit Id</td>
+	        	<td>Commit Message</td>
+	        	<td>Commit Message Body</td>
+	        	<td>Commited on (Date)</td>
+		</tr>
+		<tr>
+		        <td></td>
+		        <td></td>
+		        <td></td>
+		        <td></td>
+		        <td></td>
+		        <td></td>
+		</tr>
+	</table>
+</div>
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+<div align="justify">
+	En base a todas la mejoras propuestas a la Web Application y Landing Page, se trabajo para realizarlas en conjunto a la primera versión de los Web Services. Algunas evidencias son:
+	<ul>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+
+</div>
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+<div align="justify">
+	Web Service:
+	<table>
+		<tr>
+			<td>Endpoint</td>
+			<td>Operaciones</td>
+			<td>Parametros</td>
+			<td>URL</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+	Link del repositorio:<br>
+	Web service commit details:
+	<table>
+		<tr>
+			<td>Repository</td>
+	        	<td>Branch</td>
+		        <td>Commit Id</td>
+		        <td>Commit Message</td>
+		        <td>Commit Message Body</td>
+		        <td>Commited on (Date)</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>77e55e53ba6ee4fa4f0b8ba08e2a9d18b3f5cc4b</td>
+		        <td>Add Comments</td>
+		        <td>Added comments to improve code readability and maintainability.</td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>7f13fdbfff41db34409f7f5c7bfa093a430ba990</td>
+		        <td>feature POST</td>
+		        <td>Metod POST for creating accounts and verifying email have been added.</td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>77bc00e3f3de31f8e6d0e01c662055c3702b3b49</td>
+		        <td>feature POST v1</td>
+		        <td>Initial implementation of the POST method for account creation and email verification.</td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>60d8265033e3511db089a6c6b50c74b0745b6578</td>
+		        <td>feat Mail Validation</td>
+		        <td>Implemented email validation logic to ensure unique email addresses and valid format.</td>
+		        <td>02/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>80a189f2f55c73ee1af0ad1562c2cd21fc93dbe8</td>
+		        <td>feat Interfaz Usuario</td>
+		        <td>Developed user interface for email validation process.</td>
+		        <td>02/06/2024</td>
+		</tr>
+	</table>
+</div>
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+<div align="justify">
+	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una nueva versión de la web application, 
+	con un back-end parcial. Estos últimos recibiran mejoras en el siguiente sprint.
+	<ul>
+	<li>Landing page:</li>
+	<li>Web Application front-end:</li>
+	<li>Web Services back-end: </li>
+	</ul>
+</div>
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+<div align="justify">
+	Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para la Landing Page y Web App de BookFlow, para llevarlas a su versión definitiva. A su vez se dio inicio a la creación de 
+	los Web Apps que soportaran el back-end. Para ello, dividimos las tareas entre todos los integrantes para trabajar las tareas de manera simultánea. Finalmente, la participación de los miembros del 
+	equipo se ve reflejado en los commits realizados en el repositorio de trabajo.
+</div>
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+#### Información del Entrevistado
+1.	¿Cuál es tu nombre?
+2.	¿Cuáles son tus apellidos?
+3.	¿Cuál es tu edad?
+4.	¿En qué distrito resides?
+#### Segmento Objetivo #1: Lectores
+1.	¿Cómo describirías tu experiencia general al usar la aplicación BookFlow?
+2.	¿Qué opinas de la interfaz de usuario? ¿Es intuitiva y fácil de navegar?
+3.	¿Las recomendaciones de libros que recibes están alineadas con tus intereses?
+4.	¿Qué tan frecuentemente utilizas BookFlow para leer libros electrónicos?
+5.	¿Has encontrado algún problema técnico mientras usabas la aplicación? Si es así, ¿cuáles?
+6.	¿Qué características adicionales te gustaría ver en BookFlow?
+7.	¿La aplicación cumple con tus expectativas en cuanto a seguridad y privacidad de tus datos?
+8.	¿Qué tan satisfecho estás con la disponibilidad de libros en diferentes géneros y categorías?
+9.	¿BookFlow ha cambiado tus hábitos de lectura de alguna manera? Si es así, ¿cómo?
+10.	¿Qué opinas del sistema de suscripción premium? ¿Vale la pena el costo?
+11.	¿Qué mejorarías en la funcionalidad de búsqueda de libros dentro de la aplicación?
+12.	¿Te gustaría tener más opciones de personalización en la aplicación? Si es así, ¿cuáles?
+13.	¿Recomendarías BookFlow a otros lectores? ¿Por qué sí o por qué no?
+14.	¿Hay alguna funcionalidad que consideras innecesaria o que no utilizas en absoluto?
+15.	¿Tienes alguna sugerencia adicional para mejorar BookFlow?
+#### Segmento Objetivo #2: Autores
+1.	¿Cómo describirías tu experiencia general al usar la aplicación BookFlow?
+2.	¿Qué opinas de la interfaz de usuario? ¿Es intuitiva y fácil de usar para los autores?
+3.	¿Cómo calificarías el proceso de publicación de libros en BookFlow? ¿Fue sencillo y claro?
+4.	¿La aplicación te proporciona suficiente control sobre la presentación y distribución de tus libros?
+5.	¿Has encontrado algún problema técnico mientras usabas la aplicación? Si es así, ¿cuáles?
+6.	¿Qué características adicionales te gustaría ver en BookFlow como autor?
+7.	¿La aplicación cumple con tus expectativas en cuanto a seguridad y privacidad de tus datos?
+8.	¿Cómo calificarías la visibilidad y promoción de tus libros en la plataforma?
+9.	¿Te sientes apoyado por el equipo de BookFlow en la promoción y venta de tus libros?
+10.	¿Qué opinas del sistema de suscripción premium para los lectores? ¿Ha afectado positivamente tus ventas?
+11.	¿Qué mejorarías en la funcionalidad de seguimiento y análisis de ventas de tus libros?
+12.	¿Te gustaría tener más opciones de personalización en la presentación de tus libros? Si es así, ¿cuáles?
+13.	¿Recomendarías BookFlow a otros autores? ¿Por qué sí o por qué no?
+14.	¿Hay alguna funcionalidad que consideras innecesaria o que no utilizas en absoluto?
+15.	¿Tienes alguna sugerencia adicional para mejorar BookFlow desde la perspectiva de un autor?
+
+### 5.3.2. Registro de Entrevistas.
+#### Enlace de las entrevistas: 
+<div align="justify">
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista1S1.png" alt="Segmento 1 - Validation Interview 1"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>Entrevista 2: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista2S1.png" alt="Segmento 1 - Validation Interview 2"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+</div>
+
+#### Segmento 2:
+<div align="justify">
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista1S2.png" alt="Segmento 2 - Validation Interview 1"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista2S2.png" alt="Segmento 2 - Validation Interview 2"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+</div>
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.
+<img src="/assets/About-the-Product.png" alt="About-the-Product">
+Enlace:
 
 # Conclusiones
 En conclusion, BookFlow se posiciona como una plataforma integral que no solo conecta a los lectores con una amplia gama de libros y contenido relevante, sino que también brinda a los autores las herramientas necesarias para promocionar y comprender mejor sus obras. Con un enfoque en la comunidad, la innovación y la calidad, BookFlow tiene el potencial de convertirse en un punto de referencia para los amantes de la lectura y los entusiastas de la literatura en todo el mundo.
@@ -2644,12 +3378,20 @@ En conclusion, BookFlow se posiciona como una plataforma integral que no solo co
 # Anexos
 [def]: SoftwareArchitectureContextDiagram.png
 
-Link del video: [Video](https://www.youtube.com/watch?v=EU91NX9JQSw)
-
+Link del video TB1: [Video](https://www.youtube.com/watch?v=EU91NX9JQSw)
 ![Imagen de WhatsApp 2024-04-13 a las 13 30 30_ad5e8878](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/41f99581-998e-4375-b75c-4bb1235d5f00)
 
+Link del video TP1: [Video](https://www.youtube.com/watch?v=IBJAfFqJbZI)
+![Image](./imgs/expoVideoTP.png)
+
+Link del video TB2:
+
+Link del video About-the-Product:
+
+Link del video About-the-Team:
 
 Link de la Landing Page: [Landing Page](https://bookflowww.netlify.app/)
+![image](./imgs/landinpage.png)
 
-![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/e007cfc8-0146-42fe-9089-3cdc670a84d0)
-
+Link de la primera versión del frontend: [Frontend](https://readwell-sw54-si729.github.io/FRONT_END/home)
+![image](./imgs/frontend.png)
