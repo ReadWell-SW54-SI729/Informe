@@ -3183,7 +3183,7 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 		        <td>feature/mail-validation</td>
 		        <td>77e55e53ba6ee4fa4f0b8ba08e2a9d18b3f5cc4b</td>
 		        <td>Add Comments</td>
-		        <td></td>
+		        <td>Added comments to improve code readability and maintainability.</td>
 		        <td>03/06/2024</td>
 		</tr>
 		<tr>
@@ -3199,7 +3199,7 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 		        <td>feature/mail-validation</td>
 		        <td>77bc00e3f3de31f8e6d0e01c662055c3702b3b49</td>
 		        <td>feature POST v1</td>
-		        <td></td>
+		        <td>Initial implementation of the POST method for account creation and email verification.</td>
 		        <td>03/06/2024</td>
 		</tr>
 		<tr>
@@ -3207,7 +3207,7 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 		        <td>feature/mail-validation</td>
 		        <td>60d8265033e3511db089a6c6b50c74b0745b6578</td>
 		        <td>feat Mail Validation</td>
-		        <td></td>
+		        <td>Implemented email validation logic to ensure unique email addresses and valid format.</td>
 		        <td>02/06/2024</td>
 		</tr>
 		<tr>
@@ -3215,7 +3215,7 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 		        <td>feature/mail-validation</td>
 		        <td>80a189f2f55c73ee1af0ad1562c2cd21fc93dbe8</td>
 		        <td>feat Interfaz Usuario</td>
-		        <td></td>
+		        <td>Developed user interface for email validation process.</td>
 		        <td>02/06/2024</td>
 		</tr>
 	</table>
