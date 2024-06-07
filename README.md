@@ -414,290 +414,84 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
 
-**Project Management:**
-
-* Discord: Utilizamos Discord como plataforma principal de comunicación y colaboración entre los miembros del equipo de desarrollo y gestión del proyecto. Discord proporcionó canales de comunicación en tiempo real para discusiones, reuniones y actualizaciones del proyecto. 
-
-<img src="https://fbi.cults3d.com/uploaders/13940850/illustration-file/af3a9ca5-76dd-4f06-b86d-bd7d73495f40/1bcc0f0aefe71b2c8ce66ffe8645d365.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;"> 
-
- * WhatsApp: Se utilizó WhatsApp como una herramienta de comunicación para mantener el contacto con los miembros del equipo, mandar recordatorios, realizar encuestas y colaborar en cierta medida.
-
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;"> 
-
- * GitFlow:Utilizamos GitFlow para mejorar la eficiencia y organización en el desarrollo de software. GitFlow proporciona una estructura clara para manejar ramas, facilita la colaboración en equipo, mejora el control de versiones, y asegura la calidad del código. Al separar las ramas de desarrollo y producción, GitFlow permite realizar pruebas exhaustivas y gestionar versiones estables, reduciendo el riesgo de errores en producción.. 
- 
-* Landing Page: Para dar vida a la primera impresión de nuestra landing page, decidimos usar HTML, CSS y JavaScrip que son ampliamente conocidas y utilizadas en la creación de páginas web. Estas tecnologías permitieron crear una página atractiva, funcional y adaptada a las necesidades del proyecto.
-
- <img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/1efcbfa7-394d-4e53-9106-cec6ff4bad67" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;"> 
-
-
-**Requirements Management:**
-
-Miro: Utilizamos Miro como herramienta principal para la gestión de requisitos. En Miro, creamos mapas mentales y diagramas que ayudaron a visualizar y organizar los requisitos del proyecto, incluyendo características, funcionalidades y objetivos clave.
-
-<img src="https://store-images.s-microsoft.com/image/apps.59334.da7f283b-9ae8-462d-968c-37937444d8e9.94b0a2b8-1808-4bf5-987d-ab0d9b98780e.05b65b02-4545-49e7-b530-981ac20aa7a2.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
- 
-Lucidchart: Además, utilizamos Lucidchart como herramienta para realizar diagramas y documentación. 
-
-<img src="https://play-lh.googleusercontent.com/o4vT3StM8rw3Hn15GMtLjuTA6VUWt6jxDvV4d5ahKj9E9nGaLut06tM83NESuTBr-t0" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
-
-**Product UX/UI Design:**  
-
-Figma: Empleamos Figma para el diseño de la interfaz de usuario (UI) y la experiencia de usuario (UX) de la aplicación BookFlow. Figma permitió la creación de prototipos, wireframes y diseños visuales que guiarán el desarrollo del producto final.  
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
-
-UXPressia: Utilizamos UXPressia como herramienta especializada en la creación de mapas de experiencia de usuario, perfiles de clientes y otros elementos relacionados con el diseño de UX. UXPressia nos permitió visualizar y comprender la experiencia del usuario en profundidad, ayudando a mejorar la usabilidad y el diseño de la aplicación. 
-
-<img src="https://static.crozdesk.com/web_app_library/providers/logos/000/007/389/original/uxpressia-1669210057-logo.png?1669210057" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
-
-Canva: Incorporamos Canva en la etapa de diseño para la creación de recursos gráficos adicionales, como imágenes, gráficos y presentaciones, que mejoró la estética y la presentación del producto. 
-
-<img src="https://startupeable.com/directorio/wp-content/uploads/2021/03/canva.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
-
-**Software Development:** 
-
-IDE (Entorno de Desarrollo Integrado): Utilizamos Visual Studio Code como nuestro IDE principal debido a su capacidad para facilitar el desarrollo web moderno y eficiente. Visual Studio Code ofrece soporte robusto para los lenguajes y tecnologías clave que utilizamos, como HTML, CSS, JavaScript y frameworks como Angular o Vue.js. Además, su interfaz intuitiva y extensibilidad mediante plugins nos permitió trabajar de manera más productiva, asegurando una codificación de calidad y una depuración eficaz. 
-
-<img src="https://techriders.tajamar.es/wp-content/uploads/2020/04/visual-studio-code-logo.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
-
- HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será
- empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
-
- <img src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png" alt="Imagen" style="width: 350px;display: block; margin: 0 auto;">
-
- CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML.
-
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="Imagen" style="width: 190px;display: block; margin: 0 auto;">
-
- JavaScript: Es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico. Se utilizará para elaborar la interfaz de usuario dentro de la aplicación
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
-
-Control de Versiones: Git será fundamental para el control de versiones del código fuente. La integración nativa con sistemas de control de versiones como Git también es crucial para nuestra gestión de proyectos, lo cual, nos permitió un control preciso de nuestro código fuente y facilitando la colaboración entre el equipo de desarrollo. 
-
-<img src="https://victorroblesweb.es/wp-content/uploads/2018/04/git.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
-
-Gestión de Dependencias: Usamos npm (Node Package Manager) para gestionar las dependencias del proyecto, incluyendo bibliotecas y paquetes necesarios para el desarrollo.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
-
-**Software Documentation:** 
-
-GitHub: Empleamos GitHub como plataforma principal para la documentación del código y la colaboración en el desarrollo. Utilizamos el README.md para documentar el proceso de desarrollo. 
-
-<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="Imagen" style="width: 200px;display: block; margin: 0 auto;">
-
-
 ### 5.1.2. Source Code Management
 
-Para garantizar la eficiencia y evitar conflictos en el desarrollo de soluciones, los proyectos de BookFlow se gestionaron en una organización de GitHub. Dentro de esta organización, se encuentran los repositorios correspondientes a cada proyecto. Aquí están los enlaces a los repositorios: 
- 
-Landing page: https://github.com/ReadWell-SW54-SI729/Landingpage-BookFlow
- 
-Tests de Aceptación: https://github.com/ReadWell-SW54-SI729/Informe
- 
- 
-En cuanto al manejo del Gitflow, fue de la siguiente forma: 
- 
-En el desarrollo de ‘BookFlow’, cada cambio que se realizó en los archivos se marcó con un mensaje con el formato “Conventional Commits”. Esta práctica facilitó la identificación de los cambios realizados en cada commit, permitió un seguimiento más eficiente del proyecto. Además, este modelo incluye la rama main, que contuvo las versiones finales y estables del proyecto. Para mantener una organización clara del proyecto, se creó una rama específica para cada integrante del equipo. Esto permitió un seguimiento más detallado y una mejor organización del código."
+
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-Nuestro equipo adoptó las siguientes convenciones y guías de estilo para garantizar un código fuente coherente, legible y mantenible en los diferentes lenguajes y tecnologías utilizados en nuestra solución
-
-**HTML:** 
-
-Para el lenguaje HTML, nos planteamos utilizar las convenciones descritas en la guía “HTML Style Guide and Coding Conventions”:
-
-* Usar nombres de elementos en minúsculas
-* Cerrar todos los elementos HTML
-* Usar nombres de atributos en minúsculas
-* Usar atributos en imágenes
-* Evitar líneas de código largas
-* Usar sintaxis simple para los enlaces para las hojas de estilo y para cargar script externos
-
-**CSS:** 
-
-Para el lenguaje CSS, utilizaremos las siguientes prácticas para alcanzar un código coherente, sostenible y ordenado:
-
-* Utilizar minúsculas y guiones para los nombres de propiedades
-* Utilizar un espacio después de los dos puntos y un punto y coma para separar pares propiedad-valor.
-* Agrupar reglas CSS relacionadas y separarlas con una línea en blanco.
-* Utilizar nombres de clases que sean descriptivos y reflejen el propósito del elemento.
-* Separar los nombres de las clases y ID con un guión
-
-**JavaScript:**
-
-Para el lenguaje JavaScript, seguimos las siguientes prácticas para escribir un código legible, eficiente y mantenible:
-
-* Las declaraciones de variables se realizaron al principio de su ámbito. 
-* Se prefirió el uso de const y let sobre var. 
-* Se incluyó comentarios descriptivos para explicar la funcionalidad de componentes, servicios y secciones complejas. 
-* Se aplicaron principios de programación reactiva y patrones de diseño adecuados para la construcción de la aplicación web.
 
 ### 5.1.4. Software Deployment Configuration
 
-Utilizamos el servicio GitHub Pages para desplegar la landing page de HormonalCare. Este servicio nos permitió hospedar nuestra landing page directamente desde nuestro repositorio de GitHub. Los pasos que seguimos: 
- 
 
-1. Después de haber integrado los cambios y nuevas versiones de la landing page en el repositorio, y de asegurarnos de que las ramas estén actualizadas, ingresaremos a la plataforma de GitHub y nos dirigiremos a nuestro repositorio del proyecto. 
-
-2. Dentro del repositorio, accedimos a la pestaña de "Settings" y buscamos la sección denominada "Pages" en el menú lateral. 
-
-3. En la sección "Pages", seleccionamos la rama main desde la cual se desplegará la landing page. 
-
-4. Después de haber seleccionado la rama, confirmamos los cambios realizados, y GitHub realizo el proceso de despliegue de la landing page. 
-
-5. Una vez que el proceso de despliegue finalizó, GitHub nos proporcionó el enlace para ver nuestra landing page publicada.
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
-En este primer sprint se desarrolló y desplegó el landing page. 
+
 
 #### 5.2.1.1. Sprint Planning 1
-<table>
-    <tr align="center">
-        <td><strong>Sprint #</strong></td>
-        <td><strong>Sprint 1</strong></td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
-    </tr>
-    <tr align="center">
-        <td>Date</td>
-        <td>26/03/2024</td>
-    </tr>
-    <tr align="center">
-        <td>Time</td>
-        <td>10:00 PM</td>
-    </tr>
-    <tr align="center">
-        <td>Location</td>
-        <td>Meet</td>
-    </tr>
-    <tr align="center">
-        <td>Prepared by</td>
-        <td>Franz La Torre</td>
-    </tr>
-    <tr align="center">
-        <td>Attendess (to planning meeting)</td>
-        <td>Hernan Emilio Morales Calderón - U202216263<br>
-        Joaquin David Rivadeneyra Ramos - U202211846<br>
-        Paolo Gonzalo Párraga Gamarra - U202219186<br>
-        Miguel Ángel Huamán Cataño - U202120615<br>
-        Víctor Ernesto Zarate Cáceres - U202112907<br>
-        Franz Jair La Torre Valle - U202012378</td>
-    </tr>
-    <tr align="center">
-        <td>Sprint 0 Review Summary</td>
-        <td>No hubo sprint previo</td>
-    </tr>
-    <tr align="center">
-        <td>Sprint 0 Retrospective Summary</td>
-        <td>No hubo sprint previo</td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
-    </tr>
-    <tr align="center">
-        <td>Sprint 1 Goal</td>
-        <td>Desarrollar y desplegar el landing page para agregar a repositorio grupal</td>
-    </tr>
-    <tr align="center">
-        <td>Sprint 1 Velocity</td>
-        <td>19</td>
-    </tr>
-    <tr align="center">
-        <td>Sum of Story Point</td>
-        <td>19</td>
-    </tr>
-</table>
+
 
 #### 5.2.1.2. Sprint Backlog 1
-<table>
-    <tr align="center">
-        <td colspan="2"><strong>Sprint #</strong></td>
-        <td colspan="6"><strong>Sprint 1</strong></td>
-    </tr>
-    <tr align="center">
-        <td colspan="2"><strong>User Story</strong></td>
-        <td colspan="6"><strong>Work-Item / Task</strong></td>
-    </tr>
-    <tr align="center">
-        <td><strong>Id</strong></td>
-        <td><strong>Title</strong></td>
-        <td><strong>Id</strong></td>
-        <td><strong>Title</strong></td>
-        <td><strong>Description</strong></td>
-        <td><strong>Estimation (Hours)</strong></td>
-        <td><strong>Assigned to</strong></td>
-        <td><strong>Status (To do / In process / To review / Done)</strong></td>
-    </tr>
-    <tr align="center">
-        <td>US-24</td>
-        <td>Visualizar landing page intuitivo</td>
-        <td>W-01</td>
-        <td>Diseño</td>
-        <td>Como usuario quiero ver una landing page intuitiva, clara y atractiva para entender el propósito del sitio web</td>
-        <td>5 hours</td>
-        <td>Franz</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-26</td>
-        <td>Visualizar una sección sobre nosotros</td>
-        <td>W-02</td>
-        <td>Sección nosotros</td>
-        <td>Como usuario quiero ver una sección del landing page que hable del startup y de los miembros del equipo para saber los objetivos</td>
-        <td>2 hours</td>
-        <td>Paolo</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-27</td>
-        <td>Visualizar una sección de catálogo</td>
-        <td>W-03</td>
-        <td>Sección catálogo</td>
-        <td>Como usuario quiero ver una sección del landing page con el catálogo de productos disponibles para saber si son de mi interés</td>
-        <td>3 hours</td>
-        <td>Joaquin</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-29</td>
-        <td>Visualizar una sección de contactos</td>
-        <td>W-04</td>
-        <td>Sección contactos</td>
-        <td>Como usuario quiero ver una sección del landing page de contactos para poder comunicarme con el startup</td>
-        <td>2 hours</td>
-        <td>Miguel</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-28</td>
-        <td>Visualizar contenido relevante</td>
-        <td>W-05</td>
-        <td>Contenido</td>
-        <td>Como usuario quiero que la landing page contenga información relevante para tomar una decisión informada</td>
-        <td>2 hours</td>
-        <td>Ernesto </td>
-        <td>In process</td>
-    </tr>
-    <tr align="center">
-        <td>US-30</td>
-        <td>Desplegar landing page</td>
-        <td>W-06</td>
-        <td>Desplegar</td>
-        <td>Como startup quiero desplegar la landing page para dar a conocer nuestra aplicación</td>
-        <td>1 hour</td>
-        <td>Hernán</td>
-        <td>In process</td>
-    </tr>
-</table>
+
 
 #### 5.2.1.3. Development Evidence for Sprint Review
-En esta sección se presenta un resumen de los avances en la implementación de los productos de la solución, de acuerdo al alcance definido para el Sprint 1. Se incluye una tabla que resume los commits relacionados con la implementación de las historias de usuario.
 
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+
+
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1.Sprint Planning 2.
+
+| Sprint # | Sprint 2 |
+|---------------------|-------------------------------------------|
+| Date                | 2024/04/23                                |
+| Time                | 09:00 PM                                  |
+| Location            | Videoconferencia Zoom                     |
+| Prepared By         | Joaquin Rivadeneyra Ramos                 |
+| Attendees (to planning meeting) | Hernan Emilio Morales Calderón - U202216263 |
+|                      | Joaquin David Rivadeneyra Ramos - U202211846 |
+|                      | Paolo Gonzalo Párraga Gamarra - U202219186 |
+|                      | Miguel Ángel Huamán Cataño - U202120615   |
+|                      | Víctor Ernesto Zarate Cáceres - U202112907 |
+|                      | Franz Jair La Torre Valle - U202012378    |
+| Sprint 1 Review Summary | Se completaron los 7 de 7 user stories establecidos en el sprint anterior, mejoramos la experiencia de usuario en la landing page. Hubo retrasos con su elaboración, lo cual nos sirvió para dividirnos mejor en las siguientes entregas. |
+| Sprint 1 Retrospective Summary | El equipo acordó mejorar las estimaciones de tiempo y colaborar más estrechamente con el equipo. Además, de mejorar cuantiosamente la landing page de la aplicación |
+| **Sprint Goal & User Stories** | |
+| Sprint 2 Goal        | El objetivo primordial para este sprint es implementar funcionalidades esenciales para el front-end de la aplicación, buscando enriquecer la personalización de la experiencia del usuario y mejorar sustancialmente la gestión de contenido. Nos enfocaremos en desarrollar una interfaz de usuario intuitiva y responsiva que permita a los usuarios interactuar de manera más efectiva con nuestras características principales. |
+| Sprint 2 Velocity    | 21 Story Points                           |
+| Sum of Story Points  | 21 Story Points                           |
+
+#### 5.2.2.2.Sprint Backlog 2.
+
+| Sprint # | Sprint 2 | | | | | | |
+|----------|----------|---|------------------------|-------------------------------------------|--------------|-------------------|--------|
+| **User Story ID** | **Title** | **Work-Item / Task ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| US09 | Configurar Perfil y Preferencias | W01 | Perfil | Implementar funcionalidad de edición de perfil para la conformidad del usuario | 2 horas | Joaquin Rivadeneyra  | Done |
+| US13 | Crear Lista de Lectura | W02 | Lista de Lectura | Diseñar interfaz para listas de lectura | 3 horas | Paolo Párraga | Done |
+| US14 | Seguir a Autores Favoritos | W03 | Autores | Implementar sistema de seguimiento de autores para que el usuario siga a sus autores favoritos | 2 horas | Paolo Gonzalo Párraga  | Done |
+| US15 | Explorar Libros mejor rankeados | W04 | Libros Mejor Rankeados | Desarrollar sección de libros mejor rankeados para que el usuario este al tanto de las tendencias | 3 horas | Miguel Huamán | Done |
+| US19 | Explorar Libros por Temáticas | W05 | Temáticas | Implementar filtros de búsqueda por temática para los usuarios | 5 horas | Joaquin Rivadeneyra | Done |
+| US20 | Obtener Resúmenes de Libros | W06 | Resúmenes | Desarrollar funcionalidad para mostrar resúmenes de libros | 2.5 horas |  Franz La Torre | Done |
+| US22 | Realizar Comentarios y Discusiones en Libros | W07 | Comentarios | Implementar sección de comentarios en los detalles del libro | 2 horas | Víctor Zarate | Done |
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+En esta sección se presenta un resumen de los avances en la implementación de los productos de la solución, de acuerdo al alcance definido para el Sprint 2. Se incluye una tabla que resume los commits relacionados con la implementación.
 #### Tabla de resumen de commits
 <table>
     <tr>
@@ -709,220 +503,305 @@ En esta sección se presenta un resumen de los avances en la implementación de 
         <td>Commited on (Date)</td>
     </tr>
     <tr>
-        <td>Landingpage-BookFlow</td>
-        <td>main</td>
-        <td>a81e54e</td>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>2009129</td>
         <td>
-Implementación index</td>
-        <td>Se implementa cada sección pedida en el sprint 1, como Catalogo, Inicio, etc.</td>
-        <td>13/04/2024</td>
+
+git commit feat: First version</td>
+        <td>La primera versión del front end para que todos puedan implementar sus HU</td>
+        <td>29/04/2024</td>
     </tr>
     <tr>
-        <td>Landingpage-BookFlow</td>
-        <td>main</td>
-        <td>16d83db</td>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>2b7dfe2</td>
         <td>
-Implementacion Inicio Sesión</td>
-        <td>Se creo el apartado de inicio de sesión para la landing page</td>
-        <td>13/04/2024</td>
+git commit fix: imagen</td>
+        <td>Se arregló la imagen de fondo de la bienvenido, así como hacer esponsive algunas partes. Sin embargo la toolbar fue afectada</td>
+        <td>30/04/2024</td>
     </tr>
-    <tr>
-        <td>Landingpage-BookFlow</td>
-        <td>main</td>
-        <td>c1884ef</td>
-        <td>implementación de registro</td>
-        <td>Se agrega la implementación del apartado de registro para la landing page</td>
-        <td>13/03/2024</td>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>14ebcff</td>
+        <td>Change: Fix books-component/bookhome_component and style</td>
+        <td>Se arregló el componente de BookHome</td>
+        <td>30/04/2024</td>
+    </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>6103d33</td>
+        <td>Change: Fix book-card/comment/detail component</td>
+        <td>Se arregló el componente de BookCard</td>
+        <td>30/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>149fbea</td>
+        <td>Feat: add home/Catalogue to header</td>
+        <td>Se agrego una ruta a catálogo</td>
+        <td>30/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>4baf263</td>
+        <td>Feat: add iniciosesion and register components</td>
+        <td>Se agregó la vista de Login</td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>88b6af1</td>
+        <td>
+Feat: add iniciosesion and register routes</td>
+        <td>Se agregó el botón comenzar para ingresar a la vista de Login</td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>77e0b9f</td>
+        <td>
+Fix: Router button "Comenzar"</td>
+        <td>Se arreglo la ruta para la vista de Login</td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>1eb6134</td>
+        <td>Fix: Change design "Ver más" button</td>
+        <td>Se agregó el botón para ingresar al Catálogo y visualizar los libros disponbiles</td>
+        <td>01/05/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>6bc4891</td>
+        <td>
+feat: Foto perfil</td>
+        <td>Se agregó una foto para mostrarla en el perfil de usuario</td>
+        <td>01/05/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>86f8e33</td>
+        <td>
+Fix: Change design comment and review</td>
+        <td>Se arreglaron los estilos para los comentarios y reseñas</td>
+        <td>01/05/2024</td>
+    </tr>
+          <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>e8fe698</td>
+        <td>
+git commit fix : Autores y Apifake</td>
+        <td>Se agregó un elemento más para el ApiFake que se trata de las imágenes de los autores. Además se modifico el baseUrl para que tenga la versión 1 definida en routes.json</td>
+        <td>01/05/2024</td>
     </tr>
 </table>
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
-<div align="justify">
-    En esta sección se explicará una serie de pruebas que demuestren la implementación de funcionalidades definidas en este sprint. El Sprint 1 se enfocó en la implementación de las siguientes User Stories utilizadas para el Sprint 1.
-</div>
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
-###
+### Unit tests:
 
-Unit tests:
+Se han diseñado y ejecutado pruebas unitarias para las siguientes clases y comportamientos:
 
-En esta parte todavía no se implmentaron las clases definidas en el diagrama de clases, este sprint solo fue para la implementación de apartados y tener una base donde empezar.
+1. BookCardComponent: Se probaron los métodos getBooks, getDetails, getBooksByName, y ApplyFilter.
 
-Integration Tests:
+2. BookDetailComponent: Se evaluaron los métodos getBooksByISbn y agregarComentario.
 
-Esta parte se han utilizado archivos .feature en lenguaje Gherkin para describir el comportamiento esperado. A continuación se presentan los archivos .feature y su relación con las Historias de Usuario:
+3. BookCommentComponent: enviarMensaje y mostrarSnackBar.
 
-Relacionado a US-24
+4. BookHomeComponent: getBooks, goCatalogue y getDetails.
 
-    Feature: Visualizar landing page intuitivo
-        Como usuario
-        Quiero ver una landing page intuitiva, clara y
-        atractiva
-        Para entender el propósito del sitio web
+5. AutorComponent: getBooks,enviarMensaje y mostrarSnackBar.
 
-    Scenario: 
-        Given es un visitante nuevo en la landing page de BookFlow
-        When ingresa al sitio web.
-        Then encuentra una página de inicio con un diseño limpio y organizado.
-        And  los elementos clave, como el menú de navegación y las secciones principales, son fáciles de identificar.
+6. BookTendenciaComponent: getBooks, isDesiredBook y getDetails
 
-    Scenario: 
-        Given el usuario está en la landing page de BookFlow
-        When explora la página desplazándome hacia abajo.
-        Then Encuentro información destacada sobre las características clave de BookFlow, 
-        como recomendaciones personalizadas y clubes de lectura.
+### Integration Tests & Acceptance Tests (BDD):
 
-    Scenario: 
-        Given el usuario está en la landing page de BookFlow
-        When quiere acceder rápidamente a las funciones principales.
-        Then encuentra botones o enlaces directos para registrarme, explorar el catálogo y conocer más sobre BookFlow.
+Se han desarrollado archivos .feature utilizando Gherkin para las siguientes User Stories:
 
-Relacionado a US-26
+Relacionado a US-09
 
-    Feature: Visualizar una sección Sobre Nosotros
+    Feature: Gestión de Perfil y Configuración
 
-        Como usuario curioso de BookFlow
-        Deseo encontrar una sección dedicada a conocer más sobre la plataforma, su misión, valores y el equipo detrás de ella
+    Como usuario, 
+    Quiero poder configurar mi perfil y ajustar mis preferencias de lectura en BookFlow 
+    Para personalizar mi experiencia y recibir recomendaciones más afinadas a mis gustos.
 
-    Scenario: 1
-        Given que estoy en la sección "Sobre Nosotros" de BookFlow
-        When exploro la página
-        Then encuentro una descripción clara de la misión y visión de BookFlow
+    Scenario: Editar información de perfil
+        Given Accedo a la sección de "Perfil" en la aplicación
+        When Edito mi información personal, intereses y géneros favoritos
+        Then Los cambios se guardan correctamente y se reflejan en mi experiencia de usuario
 
-    Scenario: 2
-        Given que estoy en la sección "Sobre Nosotros" de BookFlow
-        When navego más en profundidad
-        Then encuentro la historia detrás de la creación de BookFlow, incluyendo eventos significativos y logros
+    Scenario: Configuración de notificaciones
+        Given Quiero recibir notificaciones sobre nuevos lanzamientos
+        When Activo la opción de recibir alertas para mis géneros favoritos
+        Then Recibo notificaciones cuando se agregan nuevos libros relevantes a la biblioteca
 
-    Scenario: 3
-        Given que estoy en la sección "Sobre Nosotros" de BookFlow
-        When busco más detalles sobre el equipo
-        Then encuentro perfiles detallados de los miembros del equipo, incluyendo sus roles y responsabilidades
+    Scenario: Privacidad y seguridad de datos
+        Given Estoy revisando mis configuraciones de perfil
+        When Elijo ajustar mis configuraciones de privacidad
+        Then Puedo seleccionar qué información personal es visible para otros usuarios y qué información se mantiene privada
 
 
-Relacionado a US-27
+ Relacionado a US-13
 
-    Feature: Visualizar una sección de catálogo
+    Feature: Crear Lista de Lectura
 
-        Como usuario de BookFlow
-        Quiero poder explorar fácilmente el extenso catálogo de libros disponibles en la plataforma, organizados de manera clara y con opciones de búsqueda y filtrado
+    Como usuario, 
+    Quiero poder crear una lista de lectura personalizada en BookFlow 
+    Para organizar los libros que deseo leer en el futuro, facilitando el seguimiento y la planificación de mi tiempo de lectura.
 
-    Scenario: 1
-        Given estoy en la sección de catálogo de BookFlow
-        When navego por las categorías disponibles, como "Ficción", "No Ficción", "Misterio", etc.
-        Then encuentro una variedad de categorías que me permiten explorar diferentes géneros
+    Scenario: Agregar libro a la lista de lectura
+        Given Que encuentro un libro que me interesa, pero no tengo tiempo para leer de inmediato
+        When Hago clic en "Agregar a Lista de Lectura"
+        Then El libro se guarda en mi lista personal y puedo acceder a él más tarde
 
-    Scenario: 2
-        Given estoy en la sección de catálogo de BookFlow
-        When utilizo la barra de búsqueda para buscar un libro específico o autor
-        Then el sistema me muestra resultados relevantes mientras escribo, facilitando la búsqueda
+    Scenario: Organizar libros en la lista de lectura
+        Given Que quiero organizar mi lista de lectura en categorías
+        When Arrastro y suelto los libros para reorganizar el orden
+        Then Los libros se reorganizan según mis preferencias y categorías
 
-    Scenario: 3
-        Given estoy en la sección de catálogo de BookFlow
-        When quiero filtrar los resultados por cosas como "Nuevos Lanzamientos", "Más Descargados", etc.
-        Then encuentro opciones de filtrado que me permiten encontrar rápidamente los libros más relevantes para mí
+    Scenario: Compartir lista de lectura
+        Given Que quiero compartir mi lista de lectura con amigos
+        When Selecciono la opción "Compartir lista" y elijo con quién compartir
+        Then Mi lista de lectura se comparte a través de un enlace, permitiendo a otros ver y comentar sobre mi selección de libros
 
+  Relacionado a US-14
 
-Relacionado a US-39
+    Feature: Seguir a Autores Favoritos
 
-    Feature: Visualizar una sección de Contacto en BookFlow
+    Como usuario, 
+    Quiero poder seguir a mis autores favoritos en BookFlow 
+    Para recibir actualizaciones sobre sus nuevos lanzamientos y eventos, manteniéndome conectado con mis intereses literarios.
 
-        Como usuario de BookFlow
-        Deseo tener acceso a una sección de Contacto donde pueda encontrar información para comunicarme con el equipo de soporte en caso de tener preguntas o problemas
+    Scenario: Seguir a un autor
+        Given Estoy en la página del autor que me gusta en BookFlow
+        When Hago clic en "Seguir" en su perfil
+        Then Recibo notificaciones cuando el autor publica un nuevo libro o tiene un evento próximo
 
-    Scenario: 1
-        Given estoy en la sección de Contacto de BookFlow
-        When quiero enviar un mensaje al equipo de soporte
-        Then encuentro un formulario de contacto donde puedo ingresar mi consulta y recibir una respuesta por correo electrónico
+    Scenario: Ver lista de autores seguidos
+        Given Quiero ver una lista de los autores que sigo
+        When Navego a mi perfil y selecciono "Autores Seguidos"
+        Then Se muestra una lista de los autores que sigo, con enlaces a sus perfiles
 
-    Scenario: 2
-        Given estoy en la sección de Contacto de BookFlow
-        When tengo una pregunta urgente y prefiero llamar
-        Then encuentro un número de teléfono de atención al cliente claramente visible para comunicarme de inmediato
+    Scenario: Dejar de seguir a un autor
+        Given Ya no estoy interesado en las actualizaciones de un autor
+        When Selecciono "Dejar de seguir" en su perfil
+        Then Dejo de seguir al autor y dejo de recibir notificaciones sobre sus actividades
 
+Relacionado a US-15
 
-Relacionado a US-28
+    Feature: Explorar Libros Populares
+    
+    Como usuario, 
+    Quiero tener una sección dedicada a los libros más populares y tendencias en BookFlow 
+    Para descubrir lecturas populares y mantenerme al día con lo que es relevante en el mundo literario.
 
-    Feature: Visualizar contenido relevante en BookFlow
+    Scenario: Explorar libros populares
+        Given Accedo a la sección de "Libros Populares" en la aplicación
+        When Exploro la lista de libros con más descargas y altas calificaciones
+        Then Puedo ver una variedad de libros populares en diferentes géneros
 
-        Como usuario de BookFlow
-        Quiero encontrar contenido relevante, como artículos, reseñas de libros, entrevistas a autores y recomendaciones, para enriquecer mi experiencia de lectura y descubrir nuevos títulos
+    Scenario: Filtrar libros populares por género
+        Given Quiero ver los libros populares de un género específico
+        When Selecciono un género en la lista de libros populares
+        Then Se muestra una lista de los libros más populares en ese género específico
 
-    Scenario: 1
-        Given estoy en la sección de contenido de BookFlow
-        When exploro la página
-        Then encuentro artículos destacados sobre temas literarios, autores o tendencias actuales
+    Scenario: Recibir notificaciones sobre nuevos libros populares
+        Given Estoy interesado en mantenerme actualizado con los nuevos lanzamientos populares
+        When Activo notificaciones para "Nuevos Populares"
+        Then Recibo alertas cada vez que un nuevo libro se convierte en popular en BookFlow
 
-    Scenario: 2
-        Given estoy en la sección de contenido de BookFlow
-        When navego por las reseñas y recomendaciones
-        Then encuentro reseñas detalladas de libros populares, con puntuaciones y comentarios de otros usuarios
+Relacionado a US-19
 
+    Feature: Exploración de Libros
 
-Relacionado a US-30
+    Como usuario, 
+    Quiero poder explorar libros por temáticas específicas en BookFlow 
+    Para encontrar lecturas que se ajusten a mis intereses actuales, facilitando el descubrimiento de nuevo contenido relevante.
 
-    Feature: Despliegue de la landing page de BookFlow como una startup
+    Scenario: Buscar libros por tema
+        Given Estoy interesado en un tema particular, como "Historia Antigua"
+        When Busco la categoría "Historia Antigua" en la aplicación
+        Then Veo una lista de libros relacionados con esa temática
 
-        Como miembro del equipo de desarrollo de BookFlow
-        Quiero desplegar la landing page inicial como una startup para atraer a nuevos usuarios
+    Scenario: Explorar best sellers por género
+        Given Quiero explorar libros que sean "Best Sellers" en un género específico
+        When Selecciono la opción de "Best Sellers" y elijo el género "Ficción"
+        Then Veo una lista de los libros más vendidos en la categoría de ficción
 
-    Scenario: 1
-        Given estamos listos para desplegar la landing page como una startup
-        When los diseñadores finalizan el diseño con una estética moderna y atractiva
-        Then la landing page presenta un diseño innovador que refleja la naturaleza tecnológica de BookFlow
+    Scenario: Filtrar libros por calificaciones de usuarios
+        Given Deseo encontrar libros altamente recomendados por otros lectores
+        When Aplico un filtro para ver libros con altas calificaciones
+        Then Obtengo una lista de libros que han recibido excelentes reseñas, ayudándome a elegir lecturas de calidad comprobada
 
-    Scenario: 2
-        Given estamos preparando el contenido para la landing page
-        When se redactan los mensajes principales que comunicarán la propuesta de valor de BookFlow
-        Then el mensaje principal de la landing page es claro, conciso y orientado a los beneficios para el usuario
+ Relacionado a US-20
 
-    Scenario: 3
-        Given todo está listo y probado para el lanzamiento
-        When la landing page se despliega en el dominio principal de BookFlow
-        Then la landing page está accesible públicamente en el dominio principal de BookFlow
+    Feature: Información de Libros
 
+    Como usuario, 
+    Quiero tener la opción de ver resúmenes y detalles clave de libros en BookFlow 
+    Para tomar decisiones de lectura informadas y rápidas, especialmente cuando estoy explorando nuevos géneros o autores.
 
-Acceptance Tests:
-<table>
-    <tr>
-        <td>User Story</td>
-        <td>Caso de prueba</td>
-        <td>Descripción</td>
-    </tr>
-    <tr>
-        <td>US-25</td>
-        <td>Visualizar el landing Page</td>
-        <td>Verificar que la landing page sea atractiva a la vista y fácil de interactuar</td>
-    </tr>
-    <tr>
-        <td>US-27</td>
-        <td>Direccionar a Nosotros</td>
-        <td>Verificar que el botón de nosotros del menú principal lleve al usuario a la sección Nosotros</td>
-    </tr>
-    <tr>
-        <td>US-28</td>
-        <td>Direccionar a Catálogo</td>
-        <td>Verificar que el botón de catálogo del menú principal lleve al usuario a la sección Catálogo</td>
-    </tr>
-    <tr>
-        <td>US-29</td>
-        <td>Direccionar a Contactos</td>
-        <td>Verificar que el botón de contactos del menú principal lleve al usuario a la sección Contactos</td>
-    </tr>
-    <tr>
-        <td>US-30</td>
-        <td>Llevar a contenido de relevancia</td>
-        <td>Verificar que al entrar al catálogo se puedan apreciar los libros más relevantes.</td>
-    </tr>
-    <tr>
-        <td>US-31</td>
-        <td>Desplegar Landing Page</td>
-        <td>Verificar la landing Page haya sido levantada de forma correcta</td>
-    </tr>
-</table>
+    Scenario: Acceder a resúmenes de libros
+        Given Estoy buscando un libro, pero quiero conocer más sobre su trama antes de comprometerme a leerlo
+        When Veo el libro en la lista de resultados de búsqueda
+        Then Puedo desplegar un resumen breve de la trama y los personajes principales
 
+    Scenario: Consultar opiniones y reseñas de otros lectores
+        Given Quiero ver opiniones y reseñas de otros lectores antes de decidir leer un libro
+        When Navego a la página del libro
+        Then Hay una sección de reseñas y calificaciones de otros usuarios que puedo consultar
+
+    Scenario: Recibir recomendaciones basadas en resúmenes leídos
+        Given He leído varios resúmenes de libros en un género específico
+        When Vuelvo a la sección de recomendaciones
+        Then Recibo sugerencias de libros similares basados en los resúmenes que he consultado previamente, ayudándome a explorar más en ese género
+
+ Relacionado a US-22
+
+    Feature: Realizar Comentarios y Discusiones en Libros
+
+    Como usuario, 
+    Quiero poder dejar comentarios y participar en discusiones sobre libros en BookFlow 
+    Para interactuar con otros lectores y compartir perspectivas sobre lecturas comunes.
+
+    Scenario: Publicar un Comentario
+        Given Estoy leyendo un libro y quiero compartir mis pensamientos
+        When Accedo al apartado de comentarios y discusiones del libro
+        Then Puedo dejar un comentario y ver las respuestas de otros lectores
+
+    Scenario: Participar en una Discusión
+        Given Veo una discusión interesante sobre un libro en el que estoy interesado
+        When Quiero unirme a la conversación
+        Then Puedo dejar un comentario y recibir notificaciones de nuevas respuestas
+
+    Scenario: Moderar Comentarios
+        Given Deseo mantener un ambiente respetuoso y constructivo en las discusiones
+        When Detecto un comentario inapropiado o spam
+        Then Puedo reportarlo para que los moderadores de la comunidad lo revisen y tomen acción si es necesario, manteniendo así la calidad de las discusiones
+       
 #### Enlace al repositorio de control de versiones
 
-●	Link: [Click para ver el repositorio](https://github.com/ReadWell-SW54-SI729/Landingpage-BookFlow )
+●	Link: [Click para ver el repositorio](https://github.com/ReadWell-SW54-SI729/FRONT_END/tree/master)
 
 #### Tabla para commits relacionados con el testing
 <table>
@@ -935,104 +814,205 @@ Acceptance Tests:
         <td>Commited on (Date)</td>
     </tr>
     <tr>
-        <td>Landingpage-BookFlow</td>
-        <td>main</td>
-        <td>a81e54e</td>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>2009129</td>
         <td>
-Implementación index</td>
-        <td>Se implementa cada sección pedida en el sprint 1, como Catalogo, Inicio, etc.</td>
-        <td>13/04/2024</td>
+
+git commit feat: First version</td>
+        <td>La primera versión del front end para que todos puedan implementar sus HU</td>
+        <td>29/04/2024</td>
     </tr>
     <tr>
-        <td>Landingpage-BookFlow</td>
-        <td>main</td>
-        <td>16d83db</td>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>2b7dfe2</td>
         <td>
-Implementacion Inicio Sesión</td>
-        <td>Se creo el apartado de inicio de sesión para la landing page</td>
-        <td>13/04/2024</td>
+git commit fix: imagen</td>
+        <td>Se arregló la imagen de fondo de la bienvenido, así como hacer esponsive algunas partes. Sin embargo la toolbar fue afectada</td>
+        <td>30/04/2024</td>
     </tr>
-    <tr>
-        <td>Landingpage-BookFlow</td>
-        <td>main</td>
-        <td>c1884ef</td>
-        <td>implementación de registro</td>
-        <td>Se agrega la implementación del apartado de registro para la landing page</td>
-        <td>13/03/2024</td>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>14ebcff</td>
+        <td>Change: Fix books-component/bookhome_component and style</td>
+        <td>Se arregló el componente de BookHome</td>
+        <td>30/04/2024</td>
+    </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>6103d33</td>
+        <td>Change: Fix book-card/comment/detail component</td>
+        <td>Se arregló el componente de BookCard</td>
+        <td>30/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>149fbea</td>
+        <td>Feat: add home/Catalogue to header</td>
+        <td>Se agrego una ruta a catálogo</td>
+        <td>30/04/2024</td>
+    </tr>
+      </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>4baf263</td>
+        <td>Feat: add iniciosesion and register components</td>
+        <td>Se agregó la vista de Login</td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>88b6af1</td>
+        <td>
+Feat: add iniciosesion and register routes</td>
+        <td>Se agregó el botón comenzar para ingresar a la vista de Login</td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>77e0b9f</td>
+        <td>
+Fix: Router button "Comenzar"</td>
+        <td>Se arreglo la ruta para la vista de Login</td>
+        <td>01/05/2024</td>
+    </tr>
+          </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>1eb6134</td>
+        <td>Fix: Change design "Ver más" button</td>
+        <td>Se agregó el botón para ingresar al Catálogo y visualizar los libros disponbiles</td>
+        <td>01/05/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>6bc4891</td>
+        <td>
+feat: Foto perfil</td>
+        <td>Se agregó una foto para mostrarla en el perfil de usuario</td>
+        <td>01/05/2024</td>
+    </tr>
+           </tr>
+        <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>86f8e33</td>
+        <td>
+Fix: Change design comment and review</td>
+        <td>Se arreglaron los estilos para los comentarios y reseñas</td>
+        <td>01/05/2024</td>
+    </tr>
+          <tr>
+        <td>FRONT_END</td>
+        <td>master</td>
+        <td>e8fe698</td>
+        <td>
+git commit fix : Autores y Apifake</td>
+        <td>Se agregó un elemento más para el ApiFake que se trata de las imágenes de los autores. Además se modifico el baseUrl para que tenga la versión 1 definida en routes.json</td>
+        <td>01/05/2024</td>
     </tr>
 </table>
-<table>
-
-
-#### 5.2.1.5. Execution Evidence for Sprint Review
-<div align="justify">
-    En el sprint 1 se diseñó de manera preliminar el primer modelo de la landing page. Esta cuenta con diferentes secciones para acceso de los usuarios. Algunas evidencias son:
-    <ul>
-        <li>
-            <b>Inicio de sesión: </b>En esta sección el usuario crea una nueva cuenta o ingresa a una ya existente.
-        </li>
-        <img src="imgs/inicioSesion.png" alt="Ventana de Inicio de Sesion">
-        <li>
-            <b>Catálogo: </b>El corazón de todo. Permite realizar la búsqueda de material de lectura usando distintos filtros.
-        </li>
-        <img src="imgs/catalogo.png" alt="Ventana de Catalogo">
-        <li>
-            <b>Contáctanos:</b> En esta sección se le da la oprtunidad al usuario de comunicarse con nosotros, ya sea por ayuda o para informar de algún error.
-        </li>
-        <img src="imgs/contactanos.png" alt="Ventana de Contactanos">
-    </ul>
-</div>
-
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-<div align="justify">
-    El desarrollo de este primer Sprint incluyo únicamente el diseño de la Landing Page. Dicha página fue creada con html estático de manera preliminar, unido todo en archivos conjuntos subidos simultáneamente. Por ello, al no contar con
-    un back-end, no fue contemplada la evidencia de documentación de los servicios.
-</div>
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
-Durante el último Sprint, nos enfocamos intensamente en asegurar un proceso de Deployment eficiente y efectivo, tanto para nuestra aplicación principal como para la Landing Page asociada y los Web Services que soportan la infraestructura de la aplicación. Este enfoque no solo buscó mejorar la experiencia de usuario final, sino también optimizar nuestro flujo de trabajo de desarrollo y despliegue continuo.
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint
-
-Durante el Sprint actual, nos propusimos abordar las diferentes secciones de la Landing Page de BookFlow de manera colaborativa y organizada. Dividimos las tareas según las secciones acordadas durante las reuniones de planificación, ello nos permitió trabajar de manera eficiente y centrarnos en áreas específicas para optimizar el tiempo y los recursos. Dicha participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo.
-
-Hemos desarrollado en conjunto un total de 6 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
-
-Tabla para poder identificarnos:
-
-|  UserName (Github)   | Nombre         |
-| -------------------- |:-------------:|
-| hernancit0           | Hernan Emilio Morales Calderon|
-| PaoloParragaGamarra  | Paolo Gonzalo Párraga Gamarra | 
-
-![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/dd4c9589-da63-4d46-9fae-5018c857c7fc)
-
-![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/403531cd-2e68-4059-8008-e4ee9280ca63)
-
-
-### 5.2.2. Sprint 2
-#### 5.2.2.1.Sprint Planning 2.
-
-
-#### 5.2.2.2.Sprint Backlog 2.
-
-#### 5.2.2.3.Development Evidence for Sprint Review.
-
-
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
-
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
-
+<div align="justify">
+	Para el presente sprint, se desplego la primer versión de la web application completamente funcional, cumpliendo los user stories correspondientes.
+	<ul>
+		<li>Web Application</li>
+		<img src="imgs/EvidenceSprintWebApp1.png" alt="Evidencia 1 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp2.png" alt="Evidencia 2 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp3.png" alt="Evidencia 3 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp4.png" alt="Evidencia 4 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp5.png" alt="Evidencia 5 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp6.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp7.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp8.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp9.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+		<img src="imgs/EvidenceSprintWebApp10.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+        <img src="imgs/EvidenceSprintWebApp11.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+        <img src="imgs/EvidenceSprintWebApp12.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+        <img src="imgs/EvidenceSprintWebApp13.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+        <img src="imgs/EvidenceSprintWebApp14.png" alt="Evidencia 6 Web ApplicationLanding Page - Sprint 2">
+	</ul>
+</div>
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-
+<div align="justify">
+	Para el Sprint 2 se planifico abarcar las mejoras de la landing page y la creación del front-end. Para probar las principales funcionalidades de esta última,
+	se utilizó un fake-api. Inicialmente se utilizó un json server de forma local, pero luego se implemento un servidor adecuado para ser utilizado por el front 
+	End desplegada.
+	<table>
+		<tr>
+			<td>Repository</td>
+			<td>Branch</td>
+			<td>Commit ID</td>
+			<td>Commit message</td>
+			<td>Commit message body</td>
+			<td>Commited on (Date)</td>
+		</tr>
+		<tr>
+			<td>FRONT_END</td>
+			<td>master</td>
+			<td>2009129f2f237f5b021cbab447796d9ef5716c69</td>
+			<td>git commit feat: First version</td>
+			<td>La primera versión del front end para que todos puedan implementar sus HU</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>FRONT_END</td>
+			<td>master</td>
+			<td>e8fe698d8b316e179829e14ff0a283189f1982c6</td>
+			<td>git commit fix : Autores y Apifake</td>
+			<td>Se agregó un elemento más para el ApiFake que se trata de las imágenes de los autores. Además se modifico el baseUrl para que tenga la versión 1 definida en routes.json</td>
+			<td>01/05/2024</td>
+		</tr>
+		<tr>
+			<td>FRONT_END</td>
+			<td>master</td>
+			<td>59d657446f1e8844ec7e7bda5119c7f597281eb1</td>
+			<td>git commit feat: Filtro</td>
+			<td>Se agregó un filtro de libro dependiendo del género del libro. Además de un apartado para buscar el nombre del libro</td>
+			<td>01/05/2024</td>
+		</tr>
+	</table>
+</div>
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+<div align="justify">
 
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/5bec0f54-9064-43e5-bf25-264be821f1f0)
+
+Este comando instalará y configurará la biblioteca angular-cli-ghpages en tu proyecto Angular. Una vez completada la instalación, podremos utilizarla para implementar nuestra aplicación en GitHub Pages ejecutando el comando:
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/796e93b8-8f42-4958-b16f-fa915cc44528)
+
+Este comando implementará nuestra aplicación Angular en la URL proporcionada en GitHub Pages. 
+	
+</div>
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
+<div align="justify">
+	Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para la Landing Page de BookFlow, para llevarla a su versión definitiva, donde se completamnte responsive.
+	A su vez se dio inicio a la creación de la plataforma principal. Para ello, dividimos las tareas para trabajar de manera eficiente y centrarnos en áreas específicas, con el fin  
+	de optimizar el tiempo y los recursos. Finalmente, la participación de los miembros del equipo se ve reflejado en los xxx commits realizados en el repositorio de trabajo.<br><br>
+	Tabla para poder identificarnos:
+</div>
+
+<img src="imgs/Insights2.1.png">
+<img src="imgs/Insights2.2.png">
+<img src="imgs/Insights2.3.png">
 
 
 ### 5.2.3. Sprint 3
