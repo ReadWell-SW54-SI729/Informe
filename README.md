@@ -53,34 +53,10 @@
 
 # Registro de Versiones del Informe
 
-| Versión |   Fecha    | Autor | Descripción de modificación | 
-|:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 12/04/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II, Capítulo III,  Capítulo IV y Capítulo V|
-|TP | 31/04/2024 |Todos los integrantes del equipo| Mejoras respecto a presentable anterior <br> Sprint 2| 
-<br>
+
 
 # Project Report Collaboration Insights
-TB1 & TP1:
 
-Para el desarrollo del informe perteneciente a la entrega TB1 & TP1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
-
-
-| Integrantes       | Tareas designadas         |
-| ------------- |:-------------:|
-| Huamán Cataño, Miguel Ángel | User Journey Mapping, Empathy Mapping, Web Applications User Flow Diagrams y Web Application Prototyping       |
-| La Torre Valle, Franz Jair  |As-is Scenario Mapping, Ubiquitous Language, Lean UX Assumptions, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing, Page UI Design, Landing Page Wireframe, Landing Page Mock-up y Sprint n | 
-| Morales Calderón, Hernan Emilio  | Lean UX Problem Statements, Segmentos objetivo, Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Software Configuration Management, Landing Page y Team Collaboration Insights during Sprint | 
-| Párraga Gamarra, Paolo Gonzalo  |Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up. | 
-| Rivadeneyra Ramos, Joaquin  | Startup Profile, Descripción de la Startup, To-Be Scenario Mapping, User Stories, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems, Elaboración del sprint planning 2, sprint planning 2, coordinación del grupo, aplicación de mejoras, aplicación de routeos y vista perfil. | 
-| Zárate Cáceres, Victor Ernesto  |Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.  | 
-
-Evidencias del Insights Contributos de los commits del informe:
-![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/02b88e56-1e52-48e9-b39b-a12a2825878e)
-![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/d1374bc7-5a24-421a-9cb6-15349d0578a6)
-
-![image](./imgs/InsightsSprint2CommitPart1.png)
-![image](./imgs/InsightsSprint2CommitPart2.png)
-![image](./imgs/InsightsSprint2.png)
 
 Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 
