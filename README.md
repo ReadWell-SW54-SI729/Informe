@@ -57,6 +57,7 @@
 |:-------:|:----------:|:-----:|:----------------------------| 
 |TB1| 12/04/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II, Capítulo III,  Capítulo IV y Capítulo V|
 |TP | 31/04/2024 |Todos los integrantes del equipo| Mejoras respecto a presentable anterior <br> Sprint 2| 
+|TB2| 08/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de Landing Page<br>Mejora de App Web<br>Primera versión de Web Services<br>Primera versión de Video About-The-Product.<br>Primera versión de Video About-The-Team|
 <br>
 
 # Project Report Collaboration Insights
@@ -178,14 +179,28 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+    	- [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    	- [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    	- [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    	- [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    	- [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    	- [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    	- [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    	- [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+- [5.3.Validation Interviews](#53-validation-interviews)
+  - [Diseño de Entrevistas](#531-sprint-1)
+  - [Registro de Entrevistas](#532-sprint-1)
+  - [Evaluaciones según heurísticas](#533-sprint-1)
+- [5.4.Video About-the-Product](#54-video-about-the-product)
 ### [Conclusiones](#conclusiones-1)
 ### [Bibliografía](#bibliografia-1)
 ### [Anexos](#anexos-1)
 # Student Outcome
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1:<br>Huamán Cataño, Miguel Ángel: User Journey Mapping, Empathy Mapping, Web Applications User Flow Diagrams y Web Application Prototyping.<br><br>La Torre Valle, Franz Jair: Lean UX Assumptions, AS-IS Scenario Mapping, Ubiquitous Language, SEO Tags and Meta Tags, Landing Page Wireframe, Landing Page Mock-up, Landing Page, Sprint Planning 1, Sprint Backlog 1.<br><br>Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, estrategias y tácticas frente a competidores, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management.<br><br>Párraga Gamarra, Paolo Gonzalo: Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up.<br><br>Rivadeneyra Ramos, Joaquin: Lean UX Hypothesis statements, As-is Scenario Mapping, User Persona y Conclusiones.<br><br>Zárate Cáceres, Victor Ernesto: Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.<br><br>TP:<br>Huamán Cataño, Miguel Ángel:  Se agrego una entrevista más al segmento de lectores y se trabajo el frontend de la lista lectores y lista autores<br><br>La Torre Valle, Franz Jair: Se cambió el análisis de entrevista enfocados a nuestros segmentos objetivos y su respectivos gráficos en base a los videos, se aplico mejoras en la distribución del informe y el testing suite evidence.<br><br>Morales Calderón, Hernan Emilio: Se realizó para el frontend las historias de usuarios correspondientes para Sprint 2, además modifique los styles de la mayoría de los componentes. Por otro lado se realizó el Software Deployment Evidence. <br><br>Párraga Gamarra, Paolo Gonzalo: Se añadió una entrvista más al segmento Autores. Además se realizó para el frontend las historias de usuario correspondientes para Sprint 2. Por otro lado, se realizó el testing suite evidence y Development Evidence. <br><br>Rivadeneyra Ramos, Joaquin:<br>Realize la elaboración del sprint planning 2, sprint planning 2, coordinación del grupo, aplicación de mejoras, aplicación de routeos y vista perfil<br><br>Zarate Caceres, Victor Ernesto: Corrección de Class Diagram and Dictionary,Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint.|  TB1:<br>Es de vital importancia reconocer la importancia crítica de utilizar un abanico diversificado de herramientas y metodologías, que abarquen desde el análisis profundo de las expectativas y emociones de los usuarios, hasta la minuciosa formulación de hipótesis y la identificación sistemática de problemas. Este enfoque multifacético es esencial para guiar con eficiencia el desarrollo de proyectos y startups, garantizando que la trayectoria seguida esté alineada con las necesidades y deseos del mercado objetivo. Además, es imperativo que este proceso sea iterativo, permitiendo una adaptación continua y una reevaluación de las estrategias a medida que se obtienen nuevos datos e insights. Implementar pruebas de usabilidad frecuentes y desarrollar prototipos funcionales puede proporcionar una retroalimentación invaluable que, cuando se integra de manera efectiva, resulta en soluciones altamente pertinentes y orientadas al usuario.<br><br>TP: Durante el desarrollo del proyecto de ingeniería, particularmente en las sesiones de sprint planning 2 y backlog 2, así como en la implementación del frontend, la habilidad para comunicar oralmente las ideas y resultados con claridad y objetividad fue crucial. Es importante destacar cómo se presentaron las tareas pendientes, los objetivos alcanzados y los desafíos enfrentados de manera que fuera comprensible para un público diverso, incluyendo miembros de diferentes especialidades y niveles jerárquicos. Esta capacidad de adaptar el discurso técnico para asegurar la comprensión y el engagement de todos los stakeholders no solo facilita la colaboración y el avance eficiente del proyecto, sino que también refuerza la importancia de una comunicación efectiva en la gestión de proyectos de ingeniería. Además, la efectividad en la comunicación no solo ayudó a mantener al equipo alineado con las metas del proyecto, sino que también aseguró que los intereses y preocupaciones de diferentes áreas se tomaran en cuenta para tomar decisiones informadas. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.|
-| Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos | TB1:<br>Huamán Cataño, Miguel Ángel: Un mejor conocimiento sobre las expectativas y emociones de nuestros usuarios ayudó a que nuestra solución de software esté enfocado en la solución de las necesidades de nuestros segmentos objetivos.<br><br>La Torre Valle, Franz Jair: Al momento de integrar estos aspectos en el diseño de la solución de software, se puede contribuir de manera significativa a la creación de un entorno digital más seguro, saludable y equitativo para todos.<br><br>Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management.<br><br>Párraga Gamarra, Paolo Gonzalo: La realización de cada apartado conllevó una investigación para el segmento objetivo así como analizar los datos brindados por las historias de usuario.<br><br>Rivadeneyra Ramos, Joaquin: Para determinar este diseño de la solución se tuvieron que tomar en cuenta diversos factores globales como la problemática a solucionar para nuestros usuarios y gracias a los user persona pudimos validar que estábamos en lo correcto.<br><br>Zárate Cáceres, Victor Ernesto: Se identificó el impacto que tendría la solución en la vida de los usuarios. Con ello, el proceso del diseño de la solución pudo organizarse por dificultad e importancia para orientarse a recibir mejoras continuas.<br><br>TP:<br>Huamán Cataño, Miguel Ángel:Se corrigieron algunos errores en el informe y se realizaron ajustes necesarios en el código para mejorar la funcionalidad del proyecto y garantizar una mejor experiencia de usuario.<br><br>La Torre Valle, Franz Jair: Hubo una mejora continua en el proyecto tomando en cuenta la retroalimentación brindada. Además, de la ejecución de un Front-end intuitivo que muestra poco a poco la finalidad de la web.<br><br>Morales Calderón, Hernan Emilio: Se corrigieron los errores existentes en el informe, como el tamaño de las imagenes, la tabla de los integrantes y la landing page. <br><br>Párraga Gamarra, Paolo Gonzalo: Se corrigieron los errores existentes en el informe, así como la landing page en base al feedback que dio el profesor en clase mejorando nuestro informe y landing. <br><br>Rivadeneyra Ramos, Joaquin:<br>Se realizo las mejores del student outcome, los user stories y el formato del poyecto<br><br>Zarate Caceres, Victor Ernesto: Se corrigieron los errores existentes en nuestro informe y aplicaciones. Esto se vio reflejado en una mejora de las plataforma e informa, más apegados a lo que se espera en el curso. | TB1:<br>Es importante que el diseño de soluciones de software no solo se centre en la funcionalidad técnica, sino que también considere cuidadosamente los aspectos relacionados con la salud pública, seguridad, bienestar y los diversos factores globales, culturales, sociales, ambientales y económicos. Este enfoque integral garantiza que las soluciones tecnológicas contribuyan de manera positiva a la sociedad, abordando las necesidades de manera efectiva y promoviendo un impacto beneficioso en múltiples aspectos de la vida cotidiana y el entorno. Al profundizar en las dimensiones éticas y humanas del desarrollo tecnológico, los diseñadores y desarrolladores de software pueden anticipar y mitigar los posibles efectos negativos, como la exclusión digital, la brecha de género en la tecnología o los problemas de accesibilidad. Al incorporar estos valores, las startups y proyectos no solo se están posicionando para el éxito económico, sino que están cultivando la responsabilidad social y contribuyendo al desarrollo sostenible.<br><br>TP: Tras el desarrollo del proyecto, se puso especial atención en integrar y validar diversos aspectos críticos. En términos de salud pública y seguridad, el diseño del software incorporó características que aseguran la protección de datos y la integridad de la información, fundamentales especialmente si el software maneja información sensible o personal. En cuanto al bienestar, el diseño se enfocó en ser intuitivo y accesible, minimizando la carga cognitiva de los usuarios para mejorar la interacción general con el sistema. Esto no solo facilita su uso sino que también promueve una experiencia de usuario positiva. Además, se consideraron factores globales, culturales, sociales, ambientales y económicos para garantizar que el software sea relevante y sostenible en diversos contextos, adaptándose a necesidades y restricciones específicas según el entorno de implementación. Esta consideración holística del diseño contribuye significativamente a la relevancia y sostenibilidad del proyecto, asegurando que el software no solo cumpla con los requisitos técnicos sino que también responda a un espectro más amplio de expectativas y necesidades sociales. Se establecieron mecanismos para evaluar continuamente el impacto social y ambiental del software, lo cual es vital para proyectos que aspiran a tener un alcance global y multifacético. Esto asegura que, mientras el proyecto evoluciona, se mantenga alineado con los principios éticos y responsables que son esenciales en la industria actual.|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.| TB1:<br>Huamán Cataño, Miguel Ángel: User Journey Mapping, Empathy Mapping, Web Applications User Flow Diagrams y Web Application Prototyping.<br><br>La Torre Valle, Franz Jair: Lean UX Assumptions, AS-IS Scenario Mapping, Ubiquitous Language, SEO Tags and Meta Tags, Landing Page Wireframe, Landing Page Mock-up, Landing Page, Sprint Planning 1, Sprint Backlog 1.<br><br>Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, estrategias y tácticas frente a competidores, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management.<br><br>Párraga Gamarra, Paolo Gonzalo: Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up.<br><br>Rivadeneyra Ramos, Joaquin: Lean UX Hypothesis statements, As-is Scenario Mapping, User Persona y Conclusiones.<br><br>Zárate Cáceres, Victor Ernesto: Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.<br><br>TP:<br>Huamán Cataño, Miguel Ángel:  Se agrego una entrevista más al segmento de lectores y se trabajo el frontend de la lista lectores y lista autores<br><br>La Torre Valle, Franz Jair: Se cambió el análisis de entrevista enfocados a nuestros segmentos objetivos y su respectivos gráficos en base a los videos, se aplico mejoras en la distribución del informe y el testing suite evidence.<br><br>Morales Calderón, Hernan Emilio: Se realizó para el frontend las historias de usuarios correspondientes para Sprint 2, además modifique los styles de la mayoría de los componentes. Por otro lado se realizó el Software Deployment Evidence. <br><br>Párraga Gamarra, Paolo Gonzalo: Se añadió una entrvista más al segmento Autores. Además se realizó para el frontend las historias de usuario correspondientes para Sprint 2. Por otro lado, se realizó el testing suite evidence y Development Evidence. <br><br>Rivadeneyra Ramos, Joaquin:<br>Realize la elaboración del sprint planning 2, sprint planning 2, coordinación del grupo, aplicación de mejoras, aplicación de routeos y vista perfil<br><br>Zarate Caceres, Victor Ernesto: Corrección de Class Diagram and Dictionary,Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint.<br><br>TB2:<br>Huamán Cataño, Miguel Ángel: <br><br>La Torre Valle, Franz Jair:<br><br>Morales Calderón, Hernan Emilio:<br><br>Párraga Gamarra, Paolo Gonzalo:<br><br>Rivadeneyra Ramos, Joaquin: <br><br>Zárate Cáceres, Victor Ernesto: Desarrolo preliminar de Web Services: Servicio POST de Registro de Usuarios (incluída verificación de identidad)<br><br>|  TB1:<br>Es de vital importancia reconocer la importancia crítica de utilizar un abanico diversificado de herramientas y metodologías, que abarquen desde el análisis profundo de las expectativas y emociones de los usuarios, hasta la minuciosa formulación de hipótesis y la identificación sistemática de problemas. Este enfoque multifacético es esencial para guiar con eficiencia el desarrollo de proyectos y startups, garantizando que la trayectoria seguida esté alineada con las necesidades y deseos del mercado objetivo. Además, es imperativo que este proceso sea iterativo, permitiendo una adaptación continua y una reevaluación de las estrategias a medida que se obtienen nuevos datos e insights. Implementar pruebas de usabilidad frecuentes y desarrollar prototipos funcionales puede proporcionar una retroalimentación invaluable que, cuando se integra de manera efectiva, resulta en soluciones altamente pertinentes y orientadas al usuario.<br><br>TP:<br>Durante el desarrollo del proyecto de ingeniería, particularmente en las sesiones de sprint planning 2 y backlog 2, así como en la implementación del frontend, la habilidad para comunicar oralmente las ideas y resultados con claridad y objetividad fue crucial. Es importante destacar cómo se presentaron las tareas pendientes, los objetivos alcanzados y los desafíos enfrentados de manera que fuera comprensible para un público diverso, incluyendo miembros de diferentes especialidades y niveles jerárquicos. Esta capacidad de adaptar el discurso técnico para asegurar la comprensión y el engagement de todos los stakeholders no solo facilita la colaboración y el avance eficiente del proyecto, sino que también refuerza la importancia de una comunicación efectiva en la gestión de proyectos de ingeniería. Además, la efectividad en la comunicación no solo ayudó a mantener al equipo alineado con las metas del proyecto, sino que también aseguró que los intereses y preocupaciones de diferentes áreas se tomaran en cuenta para tomar decisiones informadas. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.<br><br>TB2:<br>|
+| Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos | TB1:<br>Huamán Cataño, Miguel Ángel: Un mejor conocimiento sobre las expectativas y emociones de nuestros usuarios ayudó a que nuestra solución de software esté enfocado en la solución de las necesidades de nuestros segmentos objetivos.<br><br>La Torre Valle, Franz Jair: Al momento de integrar estos aspectos en el diseño de la solución de software, se puede contribuir de manera significativa a la creación de un entorno digital más seguro, saludable y equitativo para todos.<br><br>Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management.<br><br>Párraga Gamarra, Paolo Gonzalo: La realización de cada apartado conllevó una investigación para el segmento objetivo así como analizar los datos brindados por las historias de usuario.<br><br>Rivadeneyra Ramos, Joaquin: Para determinar este diseño de la solución se tuvieron que tomar en cuenta diversos factores globales como la problemática a solucionar para nuestros usuarios y gracias a los user persona pudimos validar que estábamos en lo correcto.<br><br>Zárate Cáceres, Victor Ernesto: Se identificó el impacto que tendría la solución en la vida de los usuarios. Con ello, el proceso del diseño de la solución pudo organizarse por dificultad e importancia para orientarse a recibir mejoras continuas.<br><br>TP:<br>Huamán Cataño, Miguel Ángel:Se corrigieron algunos errores en el informe y se realizaron ajustes necesarios en el código para mejorar la funcionalidad del proyecto y garantizar una mejor experiencia de usuario.<br><br>La Torre Valle, Franz Jair: Hubo una mejora continua en el proyecto tomando en cuenta la retroalimentación brindada. Además, de la ejecución de un Front-end intuitivo que muestra poco a poco la finalidad de la web.<br><br>Morales Calderón, Hernan Emilio: Se corrigieron los errores existentes en el informe, como el tamaño de las imagenes, la tabla de los integrantes y la landing page. <br><br>Párraga Gamarra, Paolo Gonzalo: Se corrigieron los errores existentes en el informe, así como la landing page en base al feedback que dio el profesor en clase mejorando nuestro informe y landing. <br><br>Rivadeneyra Ramos, Joaquin:<br>Se realizo las mejores del student outcome, los user stories y el formato del poyecto<br><br>Zarate Caceres, Victor Ernesto: Se corrigieron los errores existentes en nuestro informe y aplicaciones. Esto se vio reflejado en una mejora de las plataforma e informa, más apegados a lo que se espera en el curso.<br><br>TB2:<br>Huamán Cataño, Miguel Ángel: <br><br>La Torre Valle, Franz Jair:<br><br>Morales Calderón, Hernan Emilio:<br><br>Párraga Gamarra, Paolo Gonzalo:<br><br>Rivadeneyra Ramos, Joaquin: <br><br>Zárate Cáceres, Victor Ernesto: Se rectificaron los errores existentes en nuestro informe y aplicaciones. Esto nos permitio desarrollar mejoras que orienten nuestro proyecto hacia su versión final.<br><br>| TB1:<br>Es importante que el diseño de soluciones de software no solo se centre en la funcionalidad técnica, sino que también considere cuidadosamente los aspectos relacionados con la salud pública, seguridad, bienestar y los diversos factores globales, culturales, sociales, ambientales y económicos. Este enfoque integral garantiza que las soluciones tecnológicas contribuyan de manera positiva a la sociedad, abordando las necesidades de manera efectiva y promoviendo un impacto beneficioso en múltiples aspectos de la vida cotidiana y el entorno. Al profundizar en las dimensiones éticas y humanas del desarrollo tecnológico, los diseñadores y desarrolladores de software pueden anticipar y mitigar los posibles efectos negativos, como la exclusión digital, la brecha de género en la tecnología o los problemas de accesibilidad. Al incorporar estos valores, las startups y proyectos no solo se están posicionando para el éxito económico, sino que están cultivando la responsabilidad social y contribuyendo al desarrollo sostenible.<br><br>TP: Tras el desarrollo del proyecto, se puso especial atención en integrar y validar diversos aspectos críticos. En términos de salud pública y seguridad, el diseño del software incorporó características que aseguran la protección de datos y la integridad de la información, fundamentales especialmente si el software maneja información sensible o personal. En cuanto al bienestar, el diseño se enfocó en ser intuitivo y accesible, minimizando la carga cognitiva de los usuarios para mejorar la interacción general con el sistema. Esto no solo facilita su uso sino que también promueve una experiencia de usuario positiva. Además, se consideraron factores globales, culturales, sociales, ambientales y económicos para garantizar que el software sea relevante y sostenible en diversos contextos, adaptándose a necesidades y restricciones específicas según el entorno de implementación. Esta consideración holística del diseño contribuye significativamente a la relevancia y sostenibilidad del proyecto, asegurando que el software no solo cumpla con los requisitos técnicos sino que también responda a un espectro más amplio de expectativas y necesidades sociales. Se establecieron mecanismos para evaluar continuamente el impacto social y ambiental del software, lo cual es vital para proyectos que aspiran a tener un alcance global y multifacético. Esto asegura que, mientras el proyecto evoluciona, se mantenga alineado con los principios éticos y responsables que son esenciales en la industria actual.<br><br>TB2:<br>|
 
 # <span id="capítulo-introducción" style="color:red">Capítulo I: Introducción</span>
 ## 1.1. Startup Profile
@@ -3047,26 +3062,80 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 | TS03 | Membresía de Usuario | W12 | Suscripción Premium | Crear endpoint que permita la suscripción premium con un mes de prueba gratuito y luego $19.99 mensuales | 2 horas | Franz Jair La Torre Valle | Done |
 |  |  | W13 | Notificación de Fin de Período de Prueba | Crear endpoint para enviar notificaciones a los usuarios una semana antes de que termine su período de prueba gratuito | 2 horas | Franz Jair La Torre Valle | Done |
 
-#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.3.3. Development Evidence for Sprint Review.
 <div align="justify">
-    Para la entrega del Sprint 3 se busco mejorar el diseño y funcionamiento de los entregables anteriores. También se diseño y desplego la primera versión de los Web Services.
+	Para la entrega del Sprint 3 se busco mejorar el diseño y funcionamiento de los entregables anteriores. También se diseño y desplego la primera versión de los Web Services.
 	<table>
-	    <tr>
-	        <td>Repository</td>
-	        <td>Branch</td>
-	        <td>Commit Id</td>
-	        <td>Commit Message</td>
-	        <td>Commit Message Body</td>
-	        <td>Commited on (Date)</td>
-	    </tr>
-	    <tr>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	    </tr>
+	    	<tr>
+	        	<td>Repository</td>
+	        	<td>Branch</td>
+	        	<td>Commit Id</td>
+	        	<td>Commit Message</td>
+	        	<td>Commit Message Body</td>
+	        	<td>Commited on (Date)</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>77e55e53ba6ee4fa4f0b8ba08e2a9d18b3f5cc4b</td>
+		        <td>Add Comments</td>
+		        <td></td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>7f13fdbfff41db34409f7f5c7bfa093a430ba990</td>
+		        <td>feature POST</td>
+		        <td>Metod POST for creating accounts and verifying email have been added.</td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>77bc00e3f3de31f8e6d0e01c662055c3702b3b49</td>
+		        <td>feature POST v1</td>
+		        <td></td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>60d8265033e3511db089a6c6b50c74b0745b6578</td>
+		        <td>feat Mail Validation</td>
+		        <td></td>
+		        <td>02/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>80a189f2f55c73ee1af0ad1562c2cd21fc93dbe8</td>
+		        <td>feat Interfaz Usuario</td>
+		        <td></td>
+		        <td>02/06/2024</td>
+		</tr>
+	</table>
+</div>
+
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review.
+<div align="justify">
+	<table>
+	    	<tr>
+	        	<td>Repository</td>
+	        	<td>Branch</td>
+	        	<td>Commit Id</td>
+	        	<td>Commit Message</td>
+	        	<td>Commit Message Body</td>
+	        	<td>Commited on (Date)</td>
+		</tr>
+		<tr>
+		        <td></td>
+		        <td></td>
+		        <td></td>
+		        <td></td>
+		        <td></td>
+		        <td></td>
+		</tr>
 	</table>
 </div>
 
@@ -3083,17 +3152,6 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 <div align="justify">
-	JSON Server:
-	<table>
-		<tr>
-			<td>Endpoint</td>
-			<td>Details</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-	</table>
 	Web Service:
 	<table>
 		<tr>
@@ -3112,22 +3170,54 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 	Link del repositorio:<br>
 	Web service commit details:
 	<table>
-	    <tr>
-	        <td>Repository</td>
-	        <td>Branch</td>
-	        <td>Commit Id</td>
-	        <td>Commit Message</td>
-	        <td>Commit Message Body</td>
-	        <td>Commited on (Date)</td>
-	    </tr>
-	    <tr>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	    </tr>
+		<tr>
+			<td>Repository</td>
+	        	<td>Branch</td>
+		        <td>Commit Id</td>
+		        <td>Commit Message</td>
+		        <td>Commit Message Body</td>
+		        <td>Commited on (Date)</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>77e55e53ba6ee4fa4f0b8ba08e2a9d18b3f5cc4b</td>
+		        <td>Add Comments</td>
+		        <td></td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>7f13fdbfff41db34409f7f5c7bfa093a430ba990</td>
+		        <td>feature POST</td>
+		        <td>Metod POST for creating accounts and verifying email have been added.</td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>77bc00e3f3de31f8e6d0e01c662055c3702b3b49</td>
+		        <td>feature POST v1</td>
+		        <td></td>
+		        <td>03/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>60d8265033e3511db089a6c6b50c74b0745b6578</td>
+		        <td>feat Mail Validation</td>
+		        <td></td>
+		        <td>02/06/2024</td>
+		</tr>
+		<tr>
+		        <td>BACK_END</td>
+		        <td>feature/mail-validation</td>
+		        <td>80a189f2f55c73ee1af0ad1562c2cd21fc93dbe8</td>
+		        <td>feat Interfaz Usuario</td>
+		        <td></td>
+		        <td>02/06/2024</td>
+		</tr>
 	</table>
 </div>
 
@@ -3151,12 +3241,43 @@ Este comando implementará nuestra aplicación Angular en la URL proporcionada e
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
-- **Introducción antes de la entrevista:**
-<br><br>
-#### Segmento objetivo (Ciudadanos):
-1.
-#### Segmento objetivo (Gerentes de entidades publicas o empresas):
-1.
+#### Información del Entrevistado
+1.	¿Cuál es tu nombre?
+2.	¿Cuáles son tus apellidos?
+3.	¿Cuál es tu edad?
+4.	¿En qué distrito resides?
+#### Segmento Objetivo #1: Lectores
+1.	¿Cómo describirías tu experiencia general al usar la aplicación BookFlow?
+2.	¿Qué opinas de la interfaz de usuario? ¿Es intuitiva y fácil de navegar?
+3.	¿Las recomendaciones de libros que recibes están alineadas con tus intereses?
+4.	¿Qué tan frecuentemente utilizas BookFlow para leer libros electrónicos?
+5.	¿Has encontrado algún problema técnico mientras usabas la aplicación? Si es así, ¿cuáles?
+6.	¿Qué características adicionales te gustaría ver en BookFlow?
+7.	¿La aplicación cumple con tus expectativas en cuanto a seguridad y privacidad de tus datos?
+8.	¿Qué tan satisfecho estás con la disponibilidad de libros en diferentes géneros y categorías?
+9.	¿BookFlow ha cambiado tus hábitos de lectura de alguna manera? Si es así, ¿cómo?
+10.	¿Qué opinas del sistema de suscripción premium? ¿Vale la pena el costo?
+11.	¿Qué mejorarías en la funcionalidad de búsqueda de libros dentro de la aplicación?
+12.	¿Te gustaría tener más opciones de personalización en la aplicación? Si es así, ¿cuáles?
+13.	¿Recomendarías BookFlow a otros lectores? ¿Por qué sí o por qué no?
+14.	¿Hay alguna funcionalidad que consideras innecesaria o que no utilizas en absoluto?
+15.	¿Tienes alguna sugerencia adicional para mejorar BookFlow?
+#### Segmento Objetivo #2: Autores
+1.	¿Cómo describirías tu experiencia general al usar la aplicación BookFlow?
+2.	¿Qué opinas de la interfaz de usuario? ¿Es intuitiva y fácil de usar para los autores?
+3.	¿Cómo calificarías el proceso de publicación de libros en BookFlow? ¿Fue sencillo y claro?
+4.	¿La aplicación te proporciona suficiente control sobre la presentación y distribución de tus libros?
+5.	¿Has encontrado algún problema técnico mientras usabas la aplicación? Si es así, ¿cuáles?
+6.	¿Qué características adicionales te gustaría ver en BookFlow como autor?
+7.	¿La aplicación cumple con tus expectativas en cuanto a seguridad y privacidad de tus datos?
+8.	¿Cómo calificarías la visibilidad y promoción de tus libros en la plataforma?
+9.	¿Te sientes apoyado por el equipo de BookFlow en la promoción y venta de tus libros?
+10.	¿Qué opinas del sistema de suscripción premium para los lectores? ¿Ha afectado positivamente tus ventas?
+11.	¿Qué mejorarías en la funcionalidad de seguimiento y análisis de ventas de tus libros?
+12.	¿Te gustaría tener más opciones de personalización en la presentación de tus libros? Si es así, ¿cuáles?
+13.	¿Recomendarías BookFlow a otros autores? ¿Por qué sí o por qué no?
+14.	¿Hay alguna funcionalidad que consideras innecesaria o que no utilizas en absoluto?
+15.	¿Tienes alguna sugerencia adicional para mejorar BookFlow desde la perspectiva de un autor?
 
 ### 5.3.2. Registro de Entrevistas.
 #### Enlace de las entrevistas: 
