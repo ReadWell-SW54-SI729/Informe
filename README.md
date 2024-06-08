@@ -3708,7 +3708,7 @@ Entrevista:
 
 ●	Duración: 6:36
 
-●	Entrevistador: Huaman Cataño Miguel Ángel
+●	Entrevistador: Huaman Cataño, Miguel Ángel
 
 Resumen:
 <p align="justify">
@@ -3747,6 +3747,32 @@ Aleshka, 24 años, reside en San Borja. Ella siente que la plataforma es intuiti
 
 Entrevistado #2:  
 
+Gabriel Duran
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/69edc10d-a5fd-4a48-964e-959c26f3d263)
+
+●	Sexo: Masculino
+
+●	Edad: 27 años
+
+●	Distrito en el que vive: Villa el Salvador
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1J1MIV5dn-cm5HheQEbg7dyfLpZzhbfbM/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 8:48
+
+●	Entrevistador: Huaman Cataño, Miguel Ángel
+
+Resumen:
+<p align="justify">
+Gabriel Durand, describe su experiencia con BookFlow como positiva, destacando su interfaz intuitiva y el sencillo proceso de publicación. Aunque aprecia el control sobre la presentación y distribución de sus libros, sugiere mejorar la promoción y visibilidad en la plataforma. Propone características adicionales como la interacción directa con lectores y herramientas de escritura colaborativa para enriquecer la experiencia de los autores.
+</p>
 
 Entrevistado #3: 
 
