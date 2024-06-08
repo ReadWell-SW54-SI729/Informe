@@ -931,8 +931,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 - **Recomendación:**
   Resaltar la información y brindar mayor énfasis en futuras ofertas sobre la suscripción premium en la página principal y en secciones relevantes de la aplicación para atraer la atención de los usuarios.
-
-
+  
 #### 5.4. Video About-the-Product.
 # Conclusiones
 # Bibliografía
