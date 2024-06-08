@@ -3776,6 +3776,35 @@ Resumen:
 El entrevistado Héctor Jiménez Mamani, describe su experiencia con la aplicación BookFlow como positiva, destacando su interfaz intuitiva y recomendaciones alineadas con sus intereses. Utiliza la app al menos un par de veces por semana sin problemas técnicos y valora la seguridad de sus datos. Héctor sugiere mejoras como más opciones de personalización y una sección comunitaria para enriquecer la experiencia de los usuarios.
 </p>
 
+Entrevistado #4: 
+
+(![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/8adc34af-6010-4c0e-b469-f47eac3c584d)
+
+Joseph Alexis Huamani Mandujano
+
+●	Sexo: Masculino
+
+●	Edad: 18 años
+
+●	Distrito en el que vive: Surquillo
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1GEuDeoDbHi582q9P8f8bpJeK1A0F6AIk/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 5:36
+
+●	Entrevistador: Morales Calderón Hernan Emilio 
+
+Resumen:
+<p align="justify">
+El entrevistado Joseph Alexis Huamani Mandujano describe su experiencia con la aplicación BookFlow de manera positiva. Destaca la interfaz como intuitiva y las recomendaciones como acertadas y alineadas con sus intereses. Joseph utiliza la aplicación al menos un par de veces por semana sin encontrar problemas técnicos y aprecia la seguridad de sus datos. Sugiere mejoras como añadir más opciones de personalización y una sección comunitaria para enriquecer la experiencia del usuario.
+</p>
+
 #### Segmento 2:
 Entrevistado #1:
 
