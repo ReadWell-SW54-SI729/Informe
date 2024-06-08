@@ -3454,73 +3454,70 @@ Relacionado a US-23
 	<table>
 		<tr>
 			<td>Endpoint</td>
-			<td>Operaciones</td>
-			<td>Parametros</td>
+			<td>Acción Implementada</td>
+			<td>HTTP</td>
+            <td>Sintaxis de Llamada</td>
+            <td>Parámetros</td>
+            <td>Ejemplo de Response</td>
 		</tr>
 		<tr>
-			<td>usuarios/</td>
-			<td>GET, POST, PUT, DELETE</td>
-			<td>Id</td>
+			<td>/usuarios</td>
+			<td>Obtener todos los usuarios</td>
+			<td>GET</td>
+            <td>/api/v1/v1usuarios</td>
+            <td>Ninguno</td>
+            <td>[{"id":1,<br>"firstname":"Juan",<br>"lastname":"Perez",<br>"email":"juan.perez@example.com"}]</td>
 		</tr>
         		<tr>
-			<td>subscriptions/</td>
-			<td>GET, POST</td>
-			<td>userId</td>
+			<td>/usuarios/{id}</td>
+			<td>Obtener usuario por Id</td>
+			<td>GET</td>
+            <td>/api/v1//usuarios/{id}</td>
+            <td>id (Path)</td>
+             <td>[{"id":1,<br>"firstname":"Juan",<br>"lastname":"Perez",<br>"email":"juan.perez@example.com"}]</td>
+		</tr>
+        		<tr>
+			<td>/usuarios</td>
+			<td>Crear nuevo usuario</td>
+			<td>POST</td>
+            <td>/usuarios</td>
+            <td>firstname, <br>lastname,<br> email, <br>password</td>
+            <td>"Usuario creado exitosamente"</td>
+		</tr>
+        		<tr>
+			<td>/usuarios/{id}</td>
+			<td>Actualizar usuario</td>
+			<td>PUT</td>
+            <td>/api/v1/usuarios/{id}</td>
+            <td>id (Path),<br> firstname, <br>lastname, <br>email, <br>password</td>
+            <td>{"id":1,<BR>"firstname":"Juan",<BR>"lastname":"Perez",<BR>"email":"juan.perez@example.com"}</td>
+		</tr>
+        		<tr>
+			<td>/usuarios/{id}</td>
+			<td>Eliminar usuario</td>
+			<td>DELETE</td>
+            <td>/api/v1/usuarios/{id}</td>
+            <td>id (Path)</td>
+            <td>{"status":"ok"}</td>
+		</tr>
+        		<tr>
+			<td>/usuarios/login</td>
+			<td>Inicio de sesión</td>
+			<td>POST</td>
+            <td>/api/v1//usuarios/login</td>
+            <td>email, <BR>password</td>
+            <td>{"id":1,<BR>"firstname":"Juan",<BR>"lastname":"Perez",<BR>"email":"juan.perez@example.com"}</td>
+		</tr>
 		</tr>
 	</table>
-	Link del repositorio: https://github.com/ReadWell-SW54-SI729/BACK_END<br>
-	<br>Web service commit details:
-	<table>
-		<tr>
-			<td>Repository</td>
-	        	<td>Branch</td>
-		        <td>Commit Id</td>
-		        <td>Commit Message</td>
-		        <td>Commit Message Body</td>
-		        <td>Commited on (Date)</td>
-		</tr>
-		<tr>
-		        <td>BACK_END</td>
-		        <td>feature/mail-validation</td>
-		        <td>77e55e53ba6ee4fa4f0b8ba08e2a9d18b3f5cc4b</td>
-		        <td>Add Comments</td>
-		        <td>Added comments to improve code readability and maintainability.</td>
-		        <td>03/06/2024</td>
-		</tr>
-		<tr>
-		        <td>BACK_END</td>
-		        <td>feature/mail-validation</td>
-		        <td>7f13fdbfff41db34409f7f5c7bfa093a430ba990</td>
-		        <td>feature POST</td>
-		        <td>Metod POST for creating accounts and verifying email have been added.</td>
-		        <td>03/06/2024</td>
-		</tr>
-		<tr>
-		        <td>BACK_END</td>
-		        <td>feature/mail-validation</td>
-		        <td>77bc00e3f3de31f8e6d0e01c662055c3702b3b49</td>
-		        <td>feature POST v1</td>
-		        <td>Initial implementation of the POST method for account creation and email verification.</td>
-		        <td>03/06/2024</td>
-		</tr>
-		<tr>
-		        <td>BACK_END</td>
-		        <td>feature/mail-validation</td>
-		        <td>60d8265033e3511db089a6c6b50c74b0745b6578</td>
-		        <td>feat Mail Validation</td>
-		        <td>Implemented email validation logic to ensure unique email addresses and valid format.</td>
-		        <td>02/06/2024</td>
-		</tr>
-		<tr>
-		        <td>BACK_END</td>
-		        <td>feature/mail-validation</td>
-		        <td>80a189f2f55c73ee1af0ad1562c2cd21fc93dbe8</td>
-		        <td>feat Interfaz Usuario</td>
-		        <td>Developed user interface for email validation process.</td>
-		        <td>02/06/2024</td>
-		</tr>
-	</table>
-</div>
+
+## Capturas de Pantalla
+A continuación, se incluyen capturas de pantalla de la interacción con los Endpoints, utilizando datos de muestra.
+
+
+
+Link del repositorio: https://github.com/ReadWell-SW54-SI729/BACK_END<br>
+	
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 <div align="justify">
