@@ -4040,9 +4040,11 @@ En conclusion, BookFlow se posiciona como una plataforma integral que no solo co
 [def]: SoftwareArchitectureContextDiagram.png
 
 Link del video TB1: [Video](https://www.youtube.com/watch?v=EU91NX9JQSw)
+
 ![Imagen de WhatsApp 2024-04-13 a las 13 30 30_ad5e8878](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/41f99581-998e-4375-b75c-4bb1235d5f00)
 
 Link del video TP1: [Video](https://www.youtube.com/watch?v=IBJAfFqJbZI)
+
 ![Image](./imgs/expoVideoTP.png)
 
 Link del video TB2: [Video](https://www.youtube.com/watch?v=oB9EpFI55fg)
@@ -4050,15 +4052,19 @@ Link del video TB2: [Video](https://www.youtube.com/watch?v=oB9EpFI55fg)
 ![Image](./imgs/expoVideoTP.png)
 
 Link del video About-the-Product: [Video](https://www.youtube.com/watch?v=UMe7g5SIkis)
+
 <img src="./imgs/About-the-Product.png" alt="About-the-Product">
 
 Link del video About-the-Team: [Video](https://www.youtube.com/watch?v=KYZ4Mu_G1Qk)
+
 <img src="./imgs/About-the-Team.png" alt="About-the-Team">
 
 Link de la Landing Page: [Landing Page](https://bookflowww.netlify.app/)
+
 ![image](./imgs/landinpage.png)
 
 Link de la versión final del frontend: [Frontend](https://test-bookflow.web.app/home)
+
 ![image](./imgs/frontend.png)
 
 Link de la primera versión del backend: [Backend](https://bookflow-backend-469804042cb0.herokuapp.com)
