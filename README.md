@@ -3460,6 +3460,23 @@ Relacionado a US-23
 	</ul>
 </div>
 
+<div align="justify">
+	Front end:
+	<ul>
+		<li>US06</li>
+		<img src="./imgs/us06.png">
+		<li>US10</li>
+		<img src="./imgs/us10.PNG" >
+		<li>US12</li>
+		<img src="./imgs/us12.PNG" >
+		<li>US23</li>
+		<img src="./imgs/us23_1.PNG">
+        <img src="./imgs/us23_2.PNG">
+		<li>US25</li>
+		<img src="./imgs/us25.PNG" alt="Evidencia ingreso a la plataforma">
+	</ul>
+</div>
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. La sección inicia con una introducción en la que se resume los logros alcanzados en relación con Documentación de Web Services para este Sprint.
 
