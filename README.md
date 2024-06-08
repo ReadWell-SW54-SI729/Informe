@@ -3623,78 +3623,219 @@ Se realizó GitFlow para cada repositorio correspondiente al FrontEnd y BackEnd
 15.	¿Tienes alguna sugerencia adicional para mejorar BookFlow desde la perspectiva de un autor?
 
 ### 5.3.2. Registro de Entrevistas.
-#### Enlace de las entrevistas: 
-<div align="justify">
-	<table>
-		<tr>
-			<td>Entrevista 1: </td>
-			<td></td>
-		</tr>
-		<tr>
-			<td colspan="2"></td>
-		</tr>
-		<tr>
-			<td colspan="2"><img src="/assets/ValEntrevista1S1.png" alt="Segmento 1 - Validation Interview 1"></td>
-		</tr>
-		<tr>
-			<td colspan="2">Tiempo en el video: 00:00</td>
-		</tr>
-	</table>
-	<table>
-		<tr>
-			<td>Entrevista 2: </td>
-			<td></td>
-		</tr>
-		<tr>
-			<td colspan="2"></td>
-		</tr>
-		<tr>
-			<td colspan="2"><img src="/assets/ValEntrevista2S1.png" alt="Segmento 1 - Validation Interview 2"></td>
-		</tr>
-		<tr>
-			<td colspan="2">Tiempo en el video: 00:00</td>
-		</tr>
-	</table>
-</div>
+
+#### Segmento 1:
+
+Entrevistado #1: 
+
+![Estrevista1](./imgs/entrevista_Joaquin.PNG)
+
+Joseph Huammani
+
+●	Sexo: Masculino
+
+●	Edad: 20 años
+
+●	Distrito en el que vive: San Borja
+
+●	Nivel socioeconómico: Clase B
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1U7btUAmcuTNKfuTqJ5JtaWzU39rADnzz/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 5:20
+
+●	Entrevistador: Rivadeneyra Ramos, Joaquin David
+
+Resumen:
+<p align="justify">
+Piero Delgado, un joven de 20 años residente en San Borja, es un gran lector que utiliza la aplicación BookFlow a diario. Describe su experiencia con la aplicación como excelente, destacando su interfaz intuitiva y la organización eficiente que facilita la navegación. Las recomendaciones de libros que recibe están bien alineadas con sus intereses, lo que le ha permitido explorar nuevos géneros y leer más regularmente. Piero no ha encontrado problemas técnicos y valora altamente la seguridad y privacidad de la aplicación. Satisfecho con la variedad de libros disponibles, considera que la suscripción premium vale la pena por el acceso a contenido exclusivo y eventos especiales. Sugiere mejorar la funcionalidad de búsqueda y agregar más opciones de personalización y contenido interactivo. En general, recomendaría BookFlow a otros lectores por su facilidad de uso y las recomendaciones personalizadas que ofrece.
+</p>
+
+Entrevistado #2: 
+
+![Estrevista1](./imgs/entrevista_anthony.PNG)
+
+Anthony Tarrillo
+
+●	Sexo: Masculino
+
+●	Edad: 20 años
+
+●	Distrito en el que vive: San Martín de Porres
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219186_upc_edu_pe/Edrk-fPOhJhBnQtIAxWK2p8Bjf2Y0G9iVsmdUcZ23GKCjw?e=h5rNIe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 8:49
+
+●	Entrevistador: Párraga Gamarra, Paolo Gonzalo
+
+Resumen:
+<p align="justify">
+El entrevistado en esta ocasión es Anthony Tarrillo, dándonos una opinión sobre el despliegue del aplicativo web, así como darnos puntos a mejorar en temas de diseño o funcionalidad para así llegar a más publico. Se mostró la navegación dentro del aplicativo para que el usuario se familiarice con el aplicativo y así nos diga una opinión honesta y completa.
+</p>
+
 
 #### Segmento 2:
-<div align="justify">
-	<table>
-		<tr>
-			<td>Entrevista 1: </td>
-			<td></td>
-		</tr>
-		<tr>
-			<td colspan="2"></td>
-		</tr>
-		<tr>
-			<td colspan="2"><img src="/assets/ValEntrevista1S2.png" alt="Segmento 2 - Validation Interview 1"></td>
-		</tr>
-		<tr>
-			<td colspan="2">Tiempo en el video: 00:00</td>
-		</tr>
-	</table>
-	<table>
-		<tr>
-			<td>Entrevista 1: </td>
-			<td></td>
-		</tr>
-		<tr>
-			<td colspan="2"></td>
-		</tr>
-		<tr>
-			<td colspan="2"><img src="/assets/ValEntrevista2S2.png" alt="Segmento 2 - Validation Interview 2"></td>
-		</tr>
-		<tr>
-			<td colspan="2">Tiempo en el video: 00:00</td>
-		</tr>
-	</table>
-</div>
+Entrevistado #1:
 
-### 5.3.3. Evaluaciones según heurísticas.
+
+Entrevistado #2:  
+
+
+
+Entrevistado #3: 
+
+Daniel Perez Mendoza
+
+![Entrevista3](./imgs/entrevista_DanielFront.PNG)
+
+●	Sexo: Masculino
+
+●	Edad: 50 años
+
+●	Distrito en el que vive: Lima
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219186_upc_edu_pe/Ec8UZtGn0SVPoPzv8vjQt_MBWp8sKD6G0kjYOTCOfQ3beg?e=rVyvHU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 11:45
+
+●	Enrevistador: Párraga Gamarra, Paolo Gonzalo
+
+Resumen:
+<p align="justify">
+Daniel, escritor residente en Lima, nos da una opinión desde su perspectiva como escritor independiente y qué tanto le serviría el aplicativo en su día a día, así como decirnos si sería una buena opción recomendarlo a sus conocidos. Además de dar opciones de cómo mejorar el app en temas de funcionalidad.
+</p>
+
+#### 5.3.3. Evaluaciones según heurísticas.
+
+# UX Heuristics & Principles Evaluation
+
+## Usability – Inclusive Design – Information Architecture
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Aplicaciones Open Source  
+**SECCIÓN:** SW54  
+**PROFESORES:** Todos  
+**AUDITOR:** ReadWell  
+**CLIENTE(S):** Todos  
+**SITE o APP A EVALUAR:** BookFlow  
+
+## TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+2. Publicación de un comentario en un libro
+3. Búsqueda de un libro específico
+4. Añadir un libro a la lista de favoritos
+5. Cancelación de la suscripción premium
+6. Compartir un libro con otros usuarios
+7. Realizar una compra de un libro digital
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Administrar recomendaciones personalizadas
+2. Crear una lista de lectura compartida
+3. Participar en un club de lectura virtual
+4. Guardar "alerta de nuevos lanzamientos"
+5. Personalizar la interfaz de usuario
+
+## ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+## TABLA RESUMEN:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|---------------------------------|
+| 1 | No hay opción de filtro en la búsqueda avanzada para autores | 3 | Usability: Flexibilidad y eficiencia de uso |
+| 2 | Algunos botones carecen de notabilidad en el sistema | 1 | Usability: Visibilidad del estado del sistema |
+| 3 | No hay una guía inicial para nuevos usuarios | 2 | Usability: Ayuda y documentación |
+| 4 | La opción de recomendar no tiene confirmación por parte de la otra persona | 2 | Usability: Prevención de errores |
+| 5 | Información sobre la suscripción premium no es destacada y sin ofertas atractivas para el consumidor | 1 | Information Architecture: Is it findable? |
+
+## DESCRIPCIÓN DE PROBLEMAS:
+
+### PROBLEMA #1: No hay opción de filtro en la búsqueda avanzada para autores 
+- **Severidad:** 3
+- **Heurística violada:** Usability - Flexibilidad y eficiencia de uso
+- **Problema:**
+  La búsqueda avanzada no ofrece opciones de filtrado para los autores, lo que dificulta encontrar escritores específicos según los gustos del consumidor.
+
+<img src="./imgs/autores.jpg" alt="autores">
+
+- **Recomendación:**
+  Incluir filtros en la búsqueda avanzada para autores para poder permitir a los usuarios refinar sus resultados de acuerdo con criterios específicos.
+
+### PROBLEMA #2: Algunos botones carecen de notabilidad en el sistema
+- **Severidad:** 1
+- **Heurística violada:** Usability - Visibilidad del estado del sistema
+- **Problema:**
+  Varios botones en la interfaz no tienen mucha notabilidad visibles, lo que puede confundir a los usuarios sobre su función.
+
+<img src="./imgs/perfil.jpg" alt="perfil">
+
+<img src="./imgs/back.jpg" alt="back">
+
+- **Recomendación:**
+  Añadir etiquetas claras y más amplias a todos los botones para mejorar la comprensión del usuario.
+
+### PROBLEMA #3: No hay una guía inicial para nuevos usuarios
+- **Severidad:** 2
+- **Heurística violada:** Usability - Ayuda y documentación
+- **Problema:**
+  Los nuevos usuarios no reciben una guía inicial que explique las funciones principales y la navegación de la aplicación.
+
+<img src="./imgs/book.jpg" alt="book">
+
+- **Recomendación:**
+  Implementar un tutorial interactivo o una guía inicial que oriente a los nuevos usuarios a través de las funciones clave de la aplicación.
+
+### PROBLEMA #4: La opción de recomendar no tiene confirmación por parte de la otra persona
+- **Severidad:** 2
+- **Heurística violada:** Usability - Prevención de errores
+- **Problema:**
+  Al compartir un libro, no se muestra una confirmación por parte de la persona a la cual le llegó la recomendación, lo que puede llevar a los usuarios a dudar si la acción se realizó correctamente.
+
+<img src="./imgs/recomendar.jpg" alt="recomendar">
+
+- **Recomendación:**
+  Incluir una confirmación visual que notifique al usuario que el libro ha sido compartido exitosamente.
+
+### PROBLEMA #5: Información sobre la suscripción premium no es destacada y sin ofertas atractivas para el consumidor
+- **Severidad:** 1
+- **Heurística violada:** Information Architecture - Is it findable?
+- **Problema:**
+  Los beneficios y características de la suscripción premium no están claramente destacados, ya que se le podría agregar más beneficios y mayores ofertas a nuevos usuarios, lo que puede pasar desapercibido para los usuarios interesados.
+
+<img src="./imgs/plan.jpg" alt="plan">
+
+- **Recomendación:**
+  Resaltar la información y brindar mayor énfasis en futuras ofertas sobre la suscripción premium en la página principal y en secciones relevantes de la aplicación para atraer la atención de los usuarios.
+  
 
 ## 5.4. Video About-the-Product.
-<img src="/assets/About-the-Product.png" alt="About-the-Product">
+<img src="assets/About-the-Product.png" alt="About-the-Product">
 Enlace:
 
 # Conclusiones
