@@ -4012,8 +4012,8 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
   
 
 ## 5.4. Video About-the-Product.
-<img src="assets/About-the-Product.png" alt="About-the-Product">
-Enlace:
+<img src="./imgs/About-the-Product.png" alt="About-the-Product">
+Enlace: [Video](https://www.youtube.com/watch?v=UMe7g5SIkis)
 
 # Conclusiones
 En conclusion, BookFlow se posiciona como una plataforma integral que no solo conecta a los lectores con una amplia gama de libros y contenido relevante, sino que también brinda a los autores las herramientas necesarias para promocionar y comprender mejor sus obras. Con un enfoque en la comunidad, la innovación y la calidad, BookFlow tiene el potencial de convertirse en un punto de referencia para los amantes de la lectura y los entusiastas de la literatura en todo el mundo.
@@ -4049,9 +4049,11 @@ Link del video TB2: [Video](https://www.youtube.com/watch?v=oB9EpFI55fg)
 
 ![Image](./imgs/expoVideoTP.png)
 
-Link del video About-the-Product:
+Link del video About-the-Product: [Video](https://www.youtube.com/watch?v=UMe7g5SIkis)
+<img src="./imgs/About-the-Product.png" alt="About-the-Product">
 
-Link del video About-the-Team:
+Link del video About-the-Team: [Video](https://www.youtube.com/watch?v=KYZ4Mu_G1Qk)
+<img src="./imgs/About-the-Team.png" alt="About-the-Team">
 
 Link de la Landing Page: [Landing Page](https://bookflowww.netlify.app/)
 ![image](./imgs/landinpage.png)
