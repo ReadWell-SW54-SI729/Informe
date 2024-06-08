@@ -3630,7 +3630,7 @@ Entrevistado #1:
 
 ![Estrevista1](./imgs/entrevista_Joaquin.PNG)
 
-Joseph Huammani
+Piero Delgado
 
 ●	Sexo: Masculino
 
