@@ -3449,6 +3449,12 @@ Relacionado a US-23
 </div>
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. La sección inicia con una introducción en la que se resume los logros alcanzados en relación con Documentación de Web Services para este Sprint.
+
+Introducción
+
+Durante este Sprint, se ha trabajado en la documentación de los Web Services utilizados para la gestión de suscripciones. Se ha creado y actualizado la documentación de los Endpoints utilizando OpenAPI, cubriendo los siguientes métodos HTTP: POST, GET, DELETE, PUT. A continuación, se detalla cada Endpoint junto con las acciones implementadas.
+
 <div align="justify">
 	Web Service:
 	<table>
@@ -3464,23 +3470,23 @@ Relacionado a US-23
 			<td>/usuarios</td>
 			<td>Obtener todos los usuarios</td>
 			<td>GET</td>
-            <td>/api/v1/v1usuarios</td>
+            <td>/api/v1/usuarios</td>
             <td>Ninguno</td>
-            <td>[{"id":1,<br>"firstname":"Juan",<br>"lastname":"Perez",<br>"email":"juan.perez@example.com"}]</td>
+            <td>[{"id":1,<br>"firstname":"Juan",<br>"lastname":"Perez",<br>"email":"juan.perez@example.com"<BR>"password":"123456789"}]</td>
 		</tr>
         		<tr>
 			<td>/usuarios/{id}</td>
 			<td>Obtener usuario por Id</td>
 			<td>GET</td>
-            <td>/api/v1//usuarios/{id}</td>
+            <td>/api/v1/usuarios/{id}</td>
             <td>id (Path)</td>
-             <td>[{"id":1,<br>"firstname":"Juan",<br>"lastname":"Perez",<br>"email":"juan.perez@example.com"}]</td>
+              <td>[{"id":1,<br>"firstname":"Juan",<br>"lastname":"Perez",<br>"email":"juan.perez@example.com"<BR>"password":"123456789"}]</td>
 		</tr>
         		<tr>
 			<td>/usuarios</td>
 			<td>Crear nuevo usuario</td>
 			<td>POST</td>
-            <td>/usuarios</td>
+            <td>/api/v1/usuarios</td>
             <td>firstname, <br>lastname,<br> email, <br>password</td>
             <td>"Usuario creado exitosamente"</td>
 		</tr>
@@ -3490,7 +3496,7 @@ Relacionado a US-23
 			<td>PUT</td>
             <td>/api/v1/usuarios/{id}</td>
             <td>id (Path),<br> firstname, <br>lastname, <br>email, <br>password</td>
-            <td>{"id":1,<BR>"firstname":"Juan",<BR>"lastname":"Perez",<BR>"email":"juan.perez@example.com"}</td>
+             <td>[{"id":1,<br>"firstname":"Juan",<br>"lastname":"Perez",<br>"email":"juan.perez@example.com"<BR>"password":"123456789"}]</td>
 		</tr>
         		<tr>
 			<td>/usuarios/{id}</td>
@@ -3504,9 +3510,38 @@ Relacionado a US-23
 			<td>/usuarios/login</td>
 			<td>Inicio de sesión</td>
 			<td>POST</td>
-            <td>/api/v1//usuarios/login</td>
+            <td>/api/v1/usuarios/login</td>
             <td>email, <BR>password</td>
-            <td>{"id":1,<BR>"firstname":"Juan",<BR>"lastname":"Perez",<BR>"email":"juan.perez@example.com"}</td>
+            <td>[{"id":1,<br>"firstname":"Juan",<br>"lastname":"Perez",<br>"email":"juan.perez@example.com"<BR>"password":"123456789"}]</td>
+		</tr>
+		</tr>
+	</table>
+
+<div align="justify">
+	<table>
+		<tr>
+			<td>Endpoint</td>
+			<td>Acción Implementada</td>
+			<td>HTTP</td>
+            <td>Sintaxis de Llamada</td>
+            <td>Parámetros</td>
+            <td>Ejemplo de Response</td>
+		</tr>
+		<tr>
+			<td>/subscribe/{userId}</td>
+			<td>Crear suscripción</td>
+			<td>POST</td>
+            <td>/api/v1/subscribe/{userId}</td>
+            <td>userId (Path)</td>
+            <td>{"id": 1,<BR> "active": true, <BR>"end_date": "2024-12-31",<BR> "on_trial": false,<BR> "start_date": "2024-01-01",<BR> "user_id": 1}</td>
+		</tr>
+        		<tr>
+			<td>/user/{userId}</td>
+			<td>Obtener suscripción</td>
+			<td>GET</td>
+            <td>/api/v1/user/{userId}</td>
+            <td>userId (Path)</td>
+              <td>{"id": 1,<BR> "active": true, <BR>"end_date": "2024-12-31",<BR> "on_trial": false,<BR> "start_date": "2024-01-01",<BR> "user_id": 1}</td>
 		</tr>
 		</tr>
 	</table>
