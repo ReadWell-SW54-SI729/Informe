@@ -3577,7 +3577,12 @@ Durante este Sprint, se ha trabajado en la documentación de los Web Services ut
 
 ## Capturas de Pantalla
 A continuación, se incluyen capturas de pantalla de la interacción con los Endpoints, utilizando datos de muestra.
-
+<img src="./imgs/capturaSignUp.png">
+<img src="./imgs/capturaGetUsers.png">
+<img src="./imgs/capturaGetUserByID.png">
+<img src="./imgs/capturaUpdateInfo.png">
+<img src="./imgs/capturaDeleteUser.png">
+<img src="./imgs/capturaSignIn.png">
 
 
 Link del repositorio: https://github.com/ReadWell-SW54-SI729/BACK_END<br>
