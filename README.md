@@ -3441,11 +3441,23 @@ Relacionado a US-23
 <div align="justify">
 	En base a todas la mejoras propuestas a la Web Application y Landing Page, se trabajo para realizarlas en conjunto a la primera versión de los Web Services. Algunas evidencias son:
 	<ul>
-	<li></li>
-	<li></li>
-	<li></li>
-</ul>
-
+		<li>US01: Registro en la Aplicación</li>
+		Se realizo el registro de algunos usuarios, como prueba de funcionalidad de la API.
+		<img src="./imgs/evidence_SignUp.png" alt="Evidencia creación de Usuario 1">
+		<img src="./imgs/evidence_SignUp2.png" alt="Evidencia creación de Usuario 2">
+		<li>US01: Registro en la Aplicación</li>
+		Se comprueba la autenticidad del correo, al comprobar que los correos que se registran sean únicos.
+		<img src="./imgs/evidenceErrorSignUp.png" alt="Evidencia error al crear Usuario">
+		<li>US01: Registro en la Aplicación</li>
+		Se verifica que el registro de los usuarios ha sido exitoso.
+		<img src="./imgs/evidenceGetUsers.png" alt="Evidencia vista de todos los usuarios">
+		<li>US02: Iniciar Sesión en la Aplicación</li>
+		Se utiliza el método GET para comprobar la existencia de un usuario, basado en su ID.
+		<img src="./imgs/evidenceGetUserByID.png" alt="Evidencia vista de un usuario por ID">
+		<li>US02: Iniciar Sesión en la Aplicación</li>
+		Finalmente se comprueba el Inicio de Sesión solo si el correo existe y se ha ingresado la contraseña asociada de manera correcta.
+		<img src="./imgs/evidenceSignIn.png" alt="Evidencia ingreso a la plataforma">
+	</ul>
 </div>
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
