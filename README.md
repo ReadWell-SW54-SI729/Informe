@@ -3456,17 +3456,20 @@ Relacionado a US-23
 			<td>Endpoint</td>
 			<td>Operaciones</td>
 			<td>Parametros</td>
-			<td>URL</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>usuarios/</td>
+			<td>GET, POST, PUT, DELETE</td>
+			<td>Id</td>
+		</tr>
+        		<tr>
+			<td>subscriptions/</td>
+			<td>GET, POST</td>
+			<td>userId</td>
 		</tr>
 	</table>
-	Link del repositorio:<br>
-	Web service commit details:
+	Link del repositorio: https://github.com/ReadWell-SW54-SI729/BACK_END<br>
+	<br>Web service commit details:
 	<table>
 		<tr>
 			<td>Repository</td>
