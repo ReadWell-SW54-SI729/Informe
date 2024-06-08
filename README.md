@@ -4045,7 +4045,9 @@ Link del video TB1: [Video](https://www.youtube.com/watch?v=EU91NX9JQSw)
 Link del video TP1: [Video](https://www.youtube.com/watch?v=IBJAfFqJbZI)
 ![Image](./imgs/expoVideoTP.png)
 
-Link del video TB2:
+Link del video TB2: [Video](https://www.youtube.com/watch?v=oB9EpFI55fg)
+
+![Image](./imgs/expoVideoTP.png)
 
 Link del video About-the-Product:
 
