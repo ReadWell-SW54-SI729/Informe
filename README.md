@@ -3686,6 +3686,34 @@ Resumen:
 El entrevistado en esta ocasión es Anthony Tarrillo, dándonos una opinión sobre el despliegue del aplicativo web, así como darnos puntos a mejorar en temas de diseño o funcionalidad para así llegar a más publico. Se mostró la navegación dentro del aplicativo para que el usuario se familiarice con el aplicativo y así nos diga una opinión honesta y completa.
 </p>
 
+Entrevistado #3: 
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/eede0d9a-6d8c-451d-9eca-8970313f1c82)
+
+Hector Jimenez Mamani
+
+●	Sexo: Masculino
+
+●	Edad: 16 años
+
+●	Distrito en el que vive: San Borja
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1GEuDeoDbHi582q9P8f8bpJeK1A0F6AIk/view?usp=sharing)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 6:36
+
+●	Entrevistador: Huaman Cataño Miguel Ángel
+
+Resumen:
+<p align="justify">
+El entrevistado Héctor Jiménez Mamani, describe su experiencia con la aplicación BookFlow como positiva, destacando su interfaz intuitiva y recomendaciones alineadas con sus intereses. Utiliza la app al menos un par de veces por semana sin problemas técnicos y valora la seguridad de sus datos. Héctor sugiere mejoras como más opciones de personalización y una sección comunitaria para enriquecer la experiencia de los usuarios.
+</p>
 
 #### Segmento 2:
 Entrevistado #1:
