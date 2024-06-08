@@ -9,7 +9,7 @@
     <strong>SI729 - Desarrollo de Aplicaciones Open Source - SW54</strong><br>  
     <br>
     <strong>Profesor: Elio Jefferrson Navarrete Vilca</strong><br>
-    <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TB2 </strong> 
 </p>
 <p align="center">
     <strong>Startup: ReadWell </strong><br>
@@ -73,7 +73,7 @@ Para el desarrollo del informe perteneciente a lsa entregas TB1, TP1 & TB2, se d
 | Morales Calderón, Hernan Emilio  | Lean UX Problem Statements, Segmentos objetivo, Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Software Configuration Management, Landing Page y Team Collaboration Insights during Sprint | 
 | Párraga Gamarra, Paolo Gonzalo  |Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up. | 
 | Rivadeneyra Ramos, Joaquin  | Startup Profile, Descripción de la Startup, To-Be Scenario Mapping, User Stories, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems, Elaboración del sprint planning 2, sprint planning 2, Elaboración del sprint planning 3, sprint planning 3, colaboracion con Fronted y Backend del proyecto, Heuristicas, coordinación del grupo, aplicación de mejoras, aplicación de routeos y vista perfil. | 
-| Zárate Cáceres, Victor Ernesto  |Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.  | 
+| Zárate Cáceres, Victor Ernesto  |Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary, Colaboración en el desarrolo del Sprint 3, desarrollo preliminar de Web Services (Back End), con endpoint de registro de usuarios y su validación única (almacenar solo un registro por correo) | 
 
 Evidencias del Insights Contributos de los commits del informe:
 ![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/02b88e56-1e52-48e9-b39b-a12a2825878e)
@@ -3690,9 +3690,34 @@ El entrevistado en esta ocasión es Anthony Tarrillo, dándonos una opinión sob
 #### Segmento 2:
 Entrevistado #1:
 
+Aleshka Fernandez
+
+![Estrevista1](./imgs/EntrevistaAleshka2.png)
+
+●	Sexo: Femenino
+
+●	Edad: 24 años
+
+●	Distrito en el que vive: San Borja
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://www.youtube.com/watch?v=Ab0Pb_s-NKc)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 5:35
+
+●	Entrevistador: La Torre Valle, Franz Jair
+
+Resumen:
+<p align="justify">
+Aleshka, 24 años, reside en San Borja. Ella siente que la plataforma es intuitiva, le gustó el diseño, entiende cada funcionalidad. Además, piensa que es de suma ayuda y necesario el desarrollo de esta misma, no encontró problemas, encuentra la suscripción premium como una forma de focalizar a los miembros de una comunidad y definitivamente recomendaría BookFlow.
+</p>
 
 Entrevistado #2:  
-
 
 
 Entrevistado #3: 
@@ -3724,11 +3749,11 @@ Resumen:
 Daniel, escritor residente en Lima, nos da una opinión desde su perspectiva como escritor independiente y qué tanto le serviría el aplicativo en su día a día, así como decirnos si sería una buena opción recomendarlo a sus conocidos. Además de dar opciones de cómo mejorar el app en temas de funcionalidad.
 </p>
 
-#### 5.3.3. Evaluaciones según heurísticas.
+### 5.3.3. Evaluaciones según heurísticas.
 
-# UX Heuristics & Principles Evaluation
+## UX Heuristics & Principles Evaluation
 
-## Usability – Inclusive Design – Information Architecture
+### Usability – Inclusive Design – Information Architecture
 
 **CARRERA:** Ingeniería de Software  
 **CURSO:** Desarrollo de Aplicaciones Open Source  
