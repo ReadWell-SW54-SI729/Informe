@@ -3687,6 +3687,32 @@ El entrevistado en esta ocasión es Anthony Tarrillo, dándonos una opinión sob
 #### Segmento 2:
 Entrevistado #1:
 
+Aleshka Fernandez
+
+![Estrevista1](./imgs/EntrevistaAleshka2.png)
+
+●	Sexo: Femenino
+
+●	Edad: 24 años
+
+●	Distrito en el que vive: San Borja
+
+●	Nivel socioeconómico: Clase B
+
+Entrevista:
+
+●	Link: [Click para ver entrevista](https://www.youtube.com/watch?v=Ab0Pb_s-NKc)
+
+●	Momento en el que inicia: 0:00
+
+●	Duración: 5:35
+
+●	Entrevistador: La Torre Valle, Franz Jair
+
+Resumen:
+<p align="justify">
+Aleshka, 24 años, reside en San Borja. Ella siente que la plataforma es intuitiva, le gustó el diseño, entiende cada funcionalidad. Además, piensa que es de suma ayuda y necesario el desarrollo de esta misma, no encontró problemas, encuentra la suscripción premium como una forma de focalizar a los miembros de una comunidad y definitivamente recomendaría BookFlow.
+</p>
 
 Entrevistado #2:  
 
