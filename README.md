@@ -3941,15 +3941,23 @@ Se realizó GitFlow para cada repositorio correspondiente al FrontEnd y BackEnd
 ![Estrevista1](./imgs/entrevista_Joaquin.PNG)
 
 Piero Delgado
+
 ●	Sexo: Masculino
+
 ●	Edad: 20 años
+
 ●	Distrito en el que vive: San Borja
+
 ●	Nivel socioeconómico: Clase B
 
 Entrevista:
+
 ●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1U7btUAmcuTNKfuTqJ5JtaWzU39rADnzz/view?usp=sharing)
+
 ●	Momento en el que inicia: 0:00
+
 ●	Duración: 5:20
+
 ●	Entrevistador: Rivadeneyra Ramos, Joaquin David
 
 Resumen:
@@ -3962,15 +3970,23 @@ Resumen:
 ![Estrevista1](./imgs/entrevista_anthony.PNG)
 
 Anthony Tarrillo
+
 ●	Sexo: Masculino
+
 ●	Edad: 20 años
+
 ●	Distrito en el que vive: San Martín de Porres
+
 ●	Nivel socioeconómico: Clase B
 
 Entrevista:
+
 ●	Link: [Click para ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219186_upc_edu_pe/Edrk-fPOhJhBnQtIAxWK2p8Bjf2Y0G9iVsmdUcZ23GKCjw?e=h5rNIe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ●	Momento en el que inicia: 0:00
+
 ●	Duración: 8:49
+
 ●	Entrevistador: Párraga Gamarra, Paolo Gonzalo
 
 Resumen:
@@ -3983,15 +3999,23 @@ Resumen:
 ![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/eede0d9a-6d8c-451d-9eca-8970313f1c82)
 
 Hector Jimenez Mamani
+
 ●	Sexo: Masculino
+
 ●	Edad: 16 años
+
 ●	Distrito en el que vive: San Borja
+
 ●	Nivel socioeconómico: Clase B
 
 Entrevista:
+
 ●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1GEuDeoDbHi582q9P8f8bpJeK1A0F6AIk/view?usp=sharing)
+
 ●	Momento en el que inicia: 0:00
+
 ●	Duración: 6:36
+
 ●	Entrevistador: Huaman Cataño, Miguel Ángel
 
 Resumen:
@@ -4004,20 +4028,28 @@ Resumen:
 ![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/8adc34af-6010-4c0e-b469-f47eac3c584d)
 
 Joseph Alexis Huamani Mandujano
+
 ●	Sexo: Masculino
+
 ●	Edad: 18 años
+
 ●	Distrito en el que vive: Surquillo
+
 ●	Nivel socioeconómico: Clase B
 
 Entrevista:
+
 ●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1GEuDeoDbHi582q9P8f8bpJeK1A0F6AIk/view?usp=sharing)
+
 ●	Momento en el que inicia: 0:00
+
 ●	Duración: 5:36
+
 ●	Entrevistador: Morales Calderón Hernan Emilio 
 
 Resumen:
 <p align="justify">
-El entrevistado Joseph Alexis Huamani Mandujano describe su experiencia con la aplicación BookFlow de manera positiva. Destaca la interfaz como intuitiva y las recomendaciones como acertadas y alineadas con sus intereses. Joseph utiliza la aplicación al menos un par de veces por semana sin encontrar problemas técnicos y aprecia la seguridad de sus datos. Sugiere mejoras como añadir más opciones de personalización y una sección comunitaria para enriquecer la experiencia del usuario.
+    El entrevistado Joseph Alexis Huamani Mandujano describe su experiencia con la aplicación BookFlow de manera positiva. Destaca la interfaz como intuitiva y las recomendaciones como acertadas y alineadas con sus intereses. Joseph utiliza la aplicación al menos un par de veces por semana sin encontrar problemas técnicos y aprecia la seguridad de sus datos. Sugiere mejoras como añadir más opciones de personalización y una sección comunitaria para enriquecer la experiencia del usuario.
 </p>
 
 #### Segmento 2:
@@ -4026,15 +4058,23 @@ El entrevistado Joseph Alexis Huamani Mandujano describe su experiencia con la a
 ![Estrevista1](./imgs/EntrevistaAleshka2.png)
 
 Aleshka Fernandez
+
 ●	Sexo: Femenino
+
 ●	Edad: 24 años
+
 ●	Distrito en el que vive: San Borja
+
 ●	Nivel socioeconómico: Clase B
 
 Entrevista:
+
 ●	Link: [Click para ver entrevista](https://www.youtube.com/watch?v=Ab0Pb_s-NKc)
+
 ●	Momento en el que inicia: 0:00
+
 ●	Duración: 5:35
+
 ●	Entrevistador: La Torre Valle, Franz Jair
 
 Resumen:
@@ -4047,15 +4087,23 @@ Resumen:
 ![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/69edc10d-a5fd-4a48-964e-959c26f3d263)
 
 Gabriel Duran
+
 ●	Sexo: Masculino
+
 ●	Edad: 27 años
+
 ●	Distrito en el que vive: Villa el Salvador
+
 ●	Nivel socioeconómico: Clase B
 
 Entrevista:
+
 ●	Link: [Click para ver entrevista](https://drive.google.com/file/d/1J1MIV5dn-cm5HheQEbg7dyfLpZzhbfbM/view?usp=sharing)
+
 ●	Momento en el que inicia: 0:00
+
 ●	Duración: 8:48
+
 ●	Entrevistador: Huaman Cataño, Miguel Ángel
 
 Resumen:
@@ -4067,16 +4115,23 @@ Resumen:
 ![Entrevista3](./imgs/entrevista_DanielFront.PNG)
 
 Daniel Perez Mendoza
+
 ●	Sexo: Masculino
+
 ●	Edad: 50 años
+
 ●	Distrito en el que vive: Lima
+
 ●	Nivel socioeconómico: Clase B
 
 Entrevista:
 
 ●	Link: [Click para ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219186_upc_edu_pe/Ec8UZtGn0SVPoPzv8vjQt_MBWp8sKD6G0kjYOTCOfQ3beg?e=rVyvHU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ●	Momento en el que inicia: 0:00
+
 ●	Duración: 11:45
+
 ●	Enrevistador: Párraga Gamarra, Paolo Gonzalo
 
 Resumen:
