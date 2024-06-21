@@ -849,13 +849,13 @@ Los procedimientos técnicos permitirán a los usuarios de " BookFlow " elegir c
 |----------|----------|---|------------------------|-------------------------------------------|--------------|-------------------|--------|
 | **User Story ID** | **Title** | **Work-Item / Task ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
 | TS04 | Optimizar y Mejorar Frontend | W14 | Frontend | Realizar mejoras y optimizaciones en el frontend según las observaciones del tutor. | 2.5 horas | Ernesto Zarate Cáceres | Done |
-| US02 | Implementar Endpoint de Transacción | WO2 | Transacción | Implementar el endpoint que maneja las transacciones. | 3 horas | Hernan Emilio Morales Calderón | Done |
-| US03 | Implementar Endpoint del Estado de Transacción | WO3 | Estado de Transacción | Implementar el endpoint que verifica y devuelve el estado de las transacciones. | 3 horas | Hernan Emilio Morales Calderón | Done |
-| US04 | Implementar Endpoint de Autores | WO4 | Autores | Crear el endpoint para obtener todos los autores y obtener un autor por ID. | 3 horas | Joaquin Rivadeneyra | Done |
-| US05 | Implementar Endpoint de Comentario | WO5 | Comentario | Crear el endpoint para manejar los comentarios. | 3 horas | Miguel Ángel Huamán Cataño | Done |
-| US06 | Implementar Endpoint de Club de Lectura | WO6 | Club de Lectura | Implementar el endpoint para gestionar los clubes de lectura. | 3 horas | Miguel Ángel Huamán Cataño | Done |
-| US07 | Implementar Endpoint de Género | WO7 | Género | Crear el endpoint para manejar los géneros de los libros. | 3 horas | Paolo Gonzalo Párraga Gamarra | Done |
-| US08 | Implementar Endpoint de Libros | WO8 | Libros | Implementar el endpoint para gestionar la información de los libros. | 3 horas | Paolo Gonzalo Párraga Gamarra | Done |
+| TS05 | Transacción | W15 | Implementar Endpoint de Transacción | Implementar el endpoint que maneja las transacciones. | 3 horas | Hernan Emilio Morales Calderón | Done |
+| TS06 | Estado de Transacción | W16 | Implementar Endpoint del Estado de Transacción | Implementar el endpoint que verifica y devuelve el estado de las transacciones. | 3 horas | Hernan Emilio Morales Calderón | Done |
+| TS07 | Autores | W17 | Implementar Endpoint de Autores | Crear el endpoint para obtener todos los autores y obtener un autor por ID. | 3 horas | Joaquin Rivadeneyra Ramos | Done |
+| US22 | Realizar Comentarios | W18 | Implementar Endpoint de Comentario | Crear el endpoint para manejar los comentarios. | 3 horas | Miguel Ángel Huamán Cataño | Done |
+| TS08 | Club de Lectura | W19 | Implementar Endpoint de Club de Lectura | Implementar el endpoint para gestionar los clubes de lectura. | 3 horas | Miguel Ángel Huamán Cataño | Done |
+| TS09 | Género de Libro | W20 | Implementar Endpoint de Género | Crear el endpoint para manejar los géneros de los libros. | 3 horas | Paolo Gonzalo Párraga Gamarra | Done |
+| TS10 | Libros | W21 | Implementar Endpoint de Libros | Implementar el endpoint para gestionar la información de los libros. | 3 horas | Paolo Gonzalo Párraga Gamarra | Done |
 
 #### 5.3. Validation Interviews.
 #### 5.3.1. Diseño de Entrevistas.
