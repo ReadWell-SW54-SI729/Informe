@@ -836,7 +836,7 @@ Los procedimientos técnicos permitirán a los usuarios de " BookFlow " elegir c
 |                       | Franz Jair La Torre Valle - U202012378    |
 | Sprint 3 Review Summary | El sprint 3 se centró en la culminación del frontend y la primera implementación del backend del proyecto. |
 | Sprint 3 Retrospective Summary | El equipo se reunió al concluir el sprint 3 para llevar a cabo una retroalimentación constructiva. Durante la sesión, se analizaron los aspectos positivos y negativos del sprint, identificando oportunidades de mejora para el trabajo final en el frontend y backend de BookFlow. |
-| **Sprint Goal & User Stories** | |
+| **Sprint Goal & User Stories** |
 | Sprint 4 Goal        | Culminación del desarrollo del backend y frontend del proyecto al 100%, asegurando que todas las funcionalidades planificadas estén implementadas y funcionando correctamente. |
 | Sprint 4 Velocity    | 25 Story Points                   |
 | Sum of Story Points  | 25 Story Points                   |
@@ -848,10 +848,10 @@ Los procedimientos técnicos permitirán a los usuarios de " BookFlow " elegir c
 | Sprint #  | Sprint 4 |  |  |  |  |  |  |
 |----------|----------|---|------------------------|-------------------------------------------|--------------|-------------------|--------|
 | **User Story ID** | **Title** | **Work-Item / Task ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
-| US01 | Optimizar y Mejorar Frontend | WO1 | Frontend | Realizar mejoras y optimizaciones en el frontend según las observaciones del tutor. | 3 horas | Ernesto Zarate Cáceres | Done |
+| TS04 | Optimizar y Mejorar Frontend | W14 | Frontend | Realizar mejoras y optimizaciones en el frontend según las observaciones del tutor. | 2.5 horas | Ernesto Zarate Cáceres | Done |
 | US02 | Implementar Endpoint de Transacción | WO2 | Transacción | Implementar el endpoint que maneja las transacciones. | 3 horas | Hernan Emilio Morales Calderón | Done |
 | US03 | Implementar Endpoint del Estado de Transacción | WO3 | Estado de Transacción | Implementar el endpoint que verifica y devuelve el estado de las transacciones. | 3 horas | Hernan Emilio Morales Calderón | Done |
-| US04 | Implementar Endpoint de Autores | WO4 | Autores | Crear el endpoint para obtener todos los autores y obtener un autor por ID. | 3 horas | Franz Jair La Torre Valle | Done |
+| US04 | Implementar Endpoint de Autores | WO4 | Autores | Crear el endpoint para obtener todos los autores y obtener un autor por ID. | 3 horas | Joaquin Rivadeneyra | Done |
 | US05 | Implementar Endpoint de Comentario | WO5 | Comentario | Crear el endpoint para manejar los comentarios. | 3 horas | Miguel Ángel Huamán Cataño | Done |
 | US06 | Implementar Endpoint de Club de Lectura | WO6 | Club de Lectura | Implementar el endpoint para gestionar los clubes de lectura. | 3 horas | Miguel Ángel Huamán Cataño | Done |
 | US07 | Implementar Endpoint de Género | WO7 | Género | Crear el endpoint para manejar los géneros de los libros. | 3 horas | Paolo Gonzalo Párraga Gamarra | Done |
