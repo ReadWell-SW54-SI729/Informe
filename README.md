@@ -3656,8 +3656,8 @@ Se realizó GitFlow para cada repositorio correspondiente al FrontEnd y BackEnd
 
 | Sprint #              | Sprint 4                          |
 |-----------------------|-----------------------------------|
-| Date                  | 2024/06/--                        |
-| Time                  |                                   |
+| Date                  | 2024/06/18                        |
+| Time                  | 10 PM                             |
 | Location              | Videoconferencia Zoom             |
 | Prepared By           | Joaquin Rivadeneyra Ramos         |
 | Attendees (to planning meeting) | Hernan Emilio Morales Calderón - U202216263 |
@@ -3680,11 +3680,11 @@ Se realizó GitFlow para cada repositorio correspondiente al FrontEnd y BackEnd
 | **User Story ID** | **Title** | **Work-Item / Task ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
 | TS04 | Optimizar y Mejorar Frontend | W14 | Frontend | Realizar mejoras y optimizaciones en el frontend según las observaciones del tutor. | 2.5 horas | Ernesto Zarate Cáceres | Done |
 | TS05 | Transacción | W15 | Implementar Endpoint de Transacción | Implementar el endpoint que maneja las transacciones. | 3 horas | Hernan Emilio Morales Calderón | Done |
-| TS06 | Estado de Transacción | W16 | Implementar Endpoint del Estado de Transacción | Implementar el endpoint que verifica y devuelve el estado de las transacciones. | 3 horas | Hernan Emilio Morales Calderón | Done |
+| TS06 | Estado de Transacción | W16 | Implementar Endpoint del Estado de Transacción | Implementar el endpoint que verifica y devuelve el estado de las transacciones. | 2 horas | Hernan Emilio Morales Calderón | Done |
 | TS07 | Autores | W17 | Implementar Endpoint de Autores | Crear el endpoint para obtener todos los autores y obtener un autor por ID. | 3 horas | Joaquin Rivadeneyra Ramos | Done |
-| US22 | Realizar Comentarios | W18 | Implementar Endpoint de Comentario | Crear el endpoint para manejar los comentarios. | 3 horas | Miguel Ángel Huamán Cataño | Done |
-| TS08 | Club de Lectura | W19 | Implementar Endpoint de Club de Lectura | Implementar el endpoint para gestionar los clubes de lectura. | 3 horas | Miguel Ángel Huamán Cataño | Done |
-| TS09 | Género de Libro | W20 | Implementar Endpoint de Género | Crear el endpoint para manejar los géneros de los libros. | 3 horas | Paolo Gonzalo Párraga Gamarra | Done |
+| US22 | Realizar Comentarios | W18 | Implementar Endpoint de Comentario | Crear el endpoint para manejar los comentarios. | 2.5 horas | Miguel Ángel Huamán Cataño | Done |
+| TS08 | Club de Lectura | W19 | Implementar Endpoint de Club de Lectura | Implementar el endpoint para gestionar los clubes de lectura. | 2 horas | Miguel Ángel Huamán Cataño | Done |
+| TS09 | Género de Libro | W20 | Implementar Endpoint de Género | Crear el endpoint para manejar los géneros de los libros. | 2 horas | Paolo Gonzalo Párraga Gamarra | Done |
 | TS10 | Libros | W21 | Implementar Endpoint de Libros | Implementar el endpoint para gestionar la información de los libros. | 3 horas | Paolo Gonzalo Párraga Gamarra | Done |
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
