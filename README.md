@@ -4106,21 +4106,157 @@ Durante este Sprint, se ha trabajado en la documentación de los Web Services ut
             <td>Ejemplo de Response</td>
 		</tr>
 		<tr>
-			<td>/subscribe/{userId}</td>
-			<td>Crear suscripción</td>
-			<td>POST</td>
-            <td>/api/v1/subscribe/{userId}</td>
-            <td>userId (Path)</td>
-            <td>{"id": 1,<BR> "active": true, <BR>"end_date": "2024-12-31",<BR> "on_trial": false,<BR> "start_date": "2024-01-01",<BR> "user_id": 1}</td>
-		</tr>
-        		<tr>
-			<td>/user/{userId}</td>
-			<td>Obtener suscripción</td>
-			<td>GET</td>
-            <td>/api/v1/user/{userId}</td>
-            <td>userId (Path)</td>
-              <td>{"id": 1,<BR> "active": true, <BR>"end_date": "2024-12-31",<BR> "on_trial": false,<BR> "start_date": "2024-01-01",<BR> "user_id": 1}</td>
-		</tr>
+    <td>/books</td>
+    <td>Obtener todos los libros</td>
+    <td>GET</td>
+    <td>/api/v1/books</td>
+    <td>Ninguno</td>
+    <td>[{"id":1,<br>"title":"Libro Ejemplo",<br>"author":"Autor Ejemplo",<br>"genre":"Género Ejemplo",<br>"published":"2023-01-01"}]</td>
+</tr>
+<tr>
+    <td>/books</td>
+    <td>Crear nuevo libro</td>
+    <td>POST</td>
+    <td>/api/v1/books</td>
+    <td>title, <br>author,<br> genre, <br>published</td>
+    <td>"Libro creado exitosamente"</td>
+</tr>
+<tr>
+    <td>/books/bookTittle/{name}</td>
+    <td>Obtener libro por título</td>
+    <td>GET</td>
+    <td>/api/v1/books/bookTittle/{name}</td>
+    <td>name (Path)</td>
+    <td>[{"id":1,<br>"title":"Libro Ejemplo",<br>"author":"Autor Ejemplo",<br>"genre":"Género Ejemplo",<br>"published":"2023-01-01"}]</td>
+</tr>
+<tr>
+    <td>/books/bookId/{bookId}</td>
+    <td>Obtener libro por ID</td>
+    <td>GET</td>
+    <td>/api/v1/books/bookId/{bookId}</td>
+    <td>bookId (Path)</td>
+    <td>[{"id":1,<br>"title":"Libro Ejemplo",<br>"author":"Autor Ejemplo",<br>"genre":"Género Ejemplo",<br>"published":"2023-01-01"}]</td>
+</tr>
+<tr>
+    <td>/comments</td>
+    <td>Obtener todos los comentarios</td>
+    <td>GET</td>
+    <td>/api/v1/comments</td>
+    <td>Ninguno</td>
+    <td>[{"id":1,<br>"content":"Comentario Ejemplo",<br>"author":"Juan Perez",<br>"bookId":1}]</td>
+</tr>
+<tr>
+    <td>/comments</td>
+    <td>Crear nuevo comentario</td>
+    <td>POST</td>
+    <td>/api/v1/comments</td>
+    <td>content, <br>author,<br> bookId</td>
+    <td>"Comentario creado exitosamente"</td>
+</tr>
+<tr>
+    <td>/comments/commentId/{commentId}</td>
+    <td>Obtener comentario por ID</td>
+    <td>GET</td>
+    <td>/api/v1/comments/commentId/{commentId}</td>
+    <td>commentId (Path)</td>
+    <td>[{"id":1,<br>"content":"Comentario Ejemplo",<br>"author":"Juan Perez",<br>"bookId":1}]</td>
+</tr>
+<tr>
+    <td>/comments/commentContent/{content}</td>
+    <td>Obtener comentario por contenido</td>
+    <td>GET</td>
+    <td>/api/v1/comments/commentContent/{content}</td>
+    <td>content (Path)</td>
+    <td>[{"id":1,<br>"content":"Comentario Ejemplo",<br>"author":"Juan Perez",<br>"bookId":1}]</td>
+</tr>
+<tr>
+    <td>/clubs</td>
+    <td>Obtener todos los clubes</td>
+    <td>GET</td>
+    <td>/api/v1/clubs</td>
+    <td>Ninguno</td>
+    <td>[{"id":1,<br>"name":"Club Ejemplo",<br>"description":"Descripción del Club"}]</td>
+</tr>
+<tr>
+    <td>/clubs</td>
+    <td>Crear nuevo club</td>
+    <td>POST</td>
+    <td>/api/v1/clubs</td>
+    <td>name, <br>description</td>
+    <td>"Club creado exitosamente"</td>
+</tr>
+<tr>
+    <td>/clubs/clubTitle/{name}</td>
+    <td>Obtener club por título</td>
+    <td>GET</td>
+    <td>/api/v1/clubs/clubTitle/{name}</td>
+    <td>name (Path)</td>
+    <td>[{"id":1,<br>"name":"Club Ejemplo",<br>"description":"Descripción del Club"}]</td>
+</tr>
+<tr>
+    <td>/clubs/clubId/{clubId}</td>
+    <td>Obtener club por ID</td>
+    <td>GET</td>
+    <td>/api/v1/clubs/clubId/{clubId}</td>
+    <td>clubId (Path)</td>
+    <td>[{"id":1,<br>"name":"Club Ejemplo",<br>"description":"Descripción del Club"}]</td>
+</tr>
+		<tr>
+    <td>/genres</td>
+    <td>Obtener todos los géneros</td>
+    <td>GET</td>
+    <td>/api/v1/genres</td>
+    <td>Ninguno</td>
+    <td>[{"id":1,<br>"name":"Ficción"},<br>{"id":2,<br>"name":"No Ficción"}]</td>
+</tr>
+<tr>
+    <td>/genres</td>
+    <td>Crear nuevo género</td>
+    <td>POST</td>
+    <td>/api/v1/genres</td>
+    <td>name</td>
+    <td>"Género creado exitosamente"</td>
+</tr>
+<tr>
+    <td>/genres/genreName/{name}</td>
+    <td>Obtener género por nombre</td>
+    <td>GET</td>
+    <td>/api/v1/genres/genreName/{name}</td>
+    <td>name (Path)</td>
+    <td>[{"id":1,<br>"name":"Ficción"}]</td>
+</tr>
+<tr>
+    <td>/genres/genreId/{genreId}</td>
+    <td>Obtener género por ID</td>
+    <td>GET</td>
+    <td>/api/v1/genres/genreId/{genreId}</td>
+    <td>genreId (Path)</td>
+    <td>[{"id":1,<br>"name":"Ficción"}]</td>
+</tr>
+		<tr>
+    <td>/transactionstates</td>
+    <td>Obtener todos los estados de transacción</td>
+    <td>GET</td>
+    <td>/api/v1/transactionstates</td>
+    <td>Ninguno</td>
+    <td>[{"id":1,<br>"name":"Juan"},<br>{"id":2,<br>"name":"Luis"}]</td>
+</tr>
+<tr>
+    <td>/transactionstates/transactionStateName/{name}</td>
+    <td>Obtener estado de transacción por nombre</td>
+    <td>GET</td>
+    <td>/api/v1/transactionstates/transactionStateName/{name}</td>
+    <td>name (Path)</td>
+    <td>[{"id":1,<br>"name":"Juan"}]</td>
+</tr>
+<tr>
+    <td>/transactionstates/transactionStateId/{transactionStateId}</td>
+    <td>Obtener estado de transacción por ID</td>
+    <td>GET</td>
+    <td>/api/v1/transactionstates/transactionStateId/{transactionStateId}</td>
+    <td>transactionStateId (Path)</td>
+    <td>[{"id":1,<br>"name":"Juan"}]</td>
+</tr>
 		</tr>
 	</table>
 
