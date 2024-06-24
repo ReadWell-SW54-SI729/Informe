@@ -4254,7 +4254,13 @@ Durante este Sprint, se ha trabajado en la documentación de los Web Services ut
 	</table>
 
 ##### Capturas de Pantalla
-A continuación, se incluyen capturas de pantalla de la interacción con los Endpoints, utilizando datos de muestra.
+A continuación, se incluyen capturas de pantalla de la documentación.
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/3641c94f-a321-4805-aeef-b06974ae481f)
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/79ff318b-2e01-4041-90d6-2cda0455d87c)
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/c14380b6-f049-493c-8e4e-064cb68ffa5d)
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/6bc4adcd-e527-47ee-b195-e096a6110f18)
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/1f23e812-3d9a-4963-a4a0-1ab479663696)
 
 Link del repositorio: https://github.com/ReadWell-SW54-SI729/BACK_END<br>
 	
