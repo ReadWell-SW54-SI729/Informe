@@ -3764,13 +3764,33 @@ Relacionado a
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 <div align="justify">
 	En base a todas la mejoras propuestas a la Web Application y Web Services, se trabajo para conectarlas y hacer funcionar la plataforma. Algunas evidencias son:<br>
-	Front end:
-	<ul>
-		<li></li>
-	</ul>
     Web Services:
 	<ul>
-		<li></li>
+		<li>TS05: Transacción</li>
+		Se realizo el endpoint para gestionar las transacciones, se puede obtener todas las transacciones, obtener las transaciones por el id del libro y crear nuevas transacciones.
+		<img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/7ddcc184-4434-44a0-87f7-5b913c1d50b5">
+  		<li>TS06: Estado de Transacción </li>
+		Se observa que se puede obtener el estado de las transaciones realizadas.
+		<img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/5b7e0953-7fff-4685-a6ed-aeaf2c1b085f">
+		<li>US22: Realizar Comentarios</li>
+		Se creó el endpoint para manejar los comentarios.
+		<img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/9c83b52d-da6f-4d38-b9f4-88c61dc8bbca">
+		<li>US22: Realizar Comentarios</li>
+		Se pueden obtener los comentarios, así como crear nuevos comentarios
+		<img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/784aaeab-978b-4af6-8e08-f805a3a291f4">
+		<img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/f9f12f08-5df8-4d54-acf5-e673134d4232">
+		<li>TS08: Club de Lectura</li>
+		Se implementó el endpoint para gestionar los clubes de lectura.
+		<img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/aea4f4f2-b815-47bc-8c19-b9bfb8970b83">
+		<img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/2f8ca15e-773d-4229-bcac-a8ed00cf8ad7">
+		<li>TS09: Género de Libro</li>
+		Se verifica que se creó el endpoint para manejar los géneros de los libros.
+		<img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/2f054ab9-c599-4ab1-a8d4-f92619f222db">
+		<img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/fdc233ea-bdbc-4f24-b3e3-64616b51439b">
+		<li>TS10: Libros</li>
+		Se implementó el endpoint para gestionar la información de los libros.
+		<img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/dc231bda-6a3c-4bf8-857f-05cc6f5afb73">
+		<img src="https://github.com/ReadWell-SW54-SI729/Informe/assets/112042418/1d4f982a-3285-46f2-9bcb-7581bc6c3906">
 	</ul>
 </div>
 
