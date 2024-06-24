@@ -4058,7 +4058,7 @@ Durante este Sprint, se ha trabajado en la documentación de los Web Services ut
     <td>GET</td>
     <td>/api/v1/transactionstates</td>
     <td>Ninguno</td>
-    <td>[{"id":1,<br>"name":"Completada"},<br>{"id":2,<br>"name":"Pendiente"}]</td>
+    <td>[{"id":1,<br>"name":"Juan"},<br>{"id":2,<br>"name":"Luis"}]</td>
 </tr>
 <tr>
     <td>/transactionstates/transactionStateName/{name}</td>
@@ -4066,7 +4066,7 @@ Durante este Sprint, se ha trabajado en la documentación de los Web Services ut
     <td>GET</td>
     <td>/api/v1/transactionstates/transactionStateName/{name}</td>
     <td>name (Path)</td>
-    <td>[{"id":1,<br>"name":"Completada"}]</td>
+    <td>[{"id":1,<br>"name":"Juan"}]</td>
 </tr>
 <tr>
     <td>/transactionstates/transactionStateId/{transactionStateId}</td>
@@ -4074,7 +4074,7 @@ Durante este Sprint, se ha trabajado en la documentación de los Web Services ut
     <td>GET</td>
     <td>/api/v1/transactionstates/transactionStateId/{transactionStateId}</td>
     <td>transactionStateId (Path)</td>
-    <td>[{"id":1,<br>"name":"Completada"}]</td>
+    <td>[{"id":1,<br>"name":"Juan"}]</td>
 </tr>
 <tr>
     <td>/subscriptions/subscribe/{userId}</td>
