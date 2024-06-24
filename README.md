@@ -4579,7 +4579,7 @@ Estas acciones aseguraron un despliegue exitoso y una integración perfecta de l
 
 
 
-Frontend: https://test-bookflow.web.app/home 
+Frontend: https://feat-user-sign-in--remarkable-biscotti-2981b0.netlify.app/home 
 Backend: https://bookflow-app-api.onrender.com/swagger-ui/index.html#/
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
@@ -5035,8 +5035,6 @@ Link de la Landing Page: [Landing Page](https://bookflowww.netlify.app/)
 
 ![image](./imgs/landinpage.png)
 
-Link de la versión final del frontend: [Frontend](https://test-bookflow.web.app/home)
+Link de la versión final del frontend: [Frontend](https://feat-user-sign-in--remarkable-biscotti-2981b0.netlify.app/home)
 
-![image](./imgs/frontend.png)
-
-Link de la primera versión del backend: [Backend](https://bookflow-app-api.onrender.com/swagger-ui/index.html#/)
+Link de la versión final del backend: [Backend](https://bookflow-app-api.onrender.com/swagger-ui/index.html#/)
