@@ -4978,7 +4978,7 @@ Enlace: [Video](https://www.youtube.com/watch?v=UMe7g5SIkis)
 
 ### Versión 2
 <img src="./imgs/About-the-Product2.png" alt="About-the-Product(v2)">
-Enlace: [Video]()
+Enlace: [Video](https://www.tiktok.com/@thejoqui2/video/7383964177381035269)
 
 # Conclusiones
 <div align="justify">
@@ -5023,6 +5023,10 @@ Link del video TF: [Video]()
 ![Image]()
 
 Link del video About-the-Product: [Video](https://www.youtube.com/watch?v=UMe7g5SIkis)
+
+<img src="./imgs/About-the-Product.png" alt="About-the-Product">
+
+TikTok About-the-Product: [Video](https://www.tiktok.com/@thejoqui2/video/7383964177381035269)
 
 <img src="./imgs/About-the-Product.png" alt="About-the-Product">
 
