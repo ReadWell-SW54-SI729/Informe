@@ -3903,28 +3903,148 @@ Se realizó GitFlow para cada repositorio correspondiente al FrontEnd y BackEnd
 
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review.
 ##### Unit tests:
+Se han diseñado y ejecutado pruebas unitarias para las siguientes clases y comportamientos:
+
+1. SignInComponent: Se probaron los métodos getUserByEmail y getUserByUser.
+
+2. TrendingComponent: getTrendingBooks, getBookImage y goBack.
+
+3. BookCreateReadingClubComponent: createClub, resetForm, openBookDialog y goBack.
+
+4. BookUserClubComponent: getAllBooks, getClubs, getUsers, getBookImage y goBack.
+
+5. BookSubscriptionComponent: onSubmit y onFreePlan.
+
 
 ##### Integration Tests & Acceptance Tests (BDD):
 Se han desarrollado archivos .feature utilizando Gherkin para las siguientes User Stories:
 
-Relacionado a 
+Relacionado a TS04: Optimizar y Mejorar Frontend
 
-    Feature: 
+    Feature: Optimizar y Mejorar Frontend 
+    
+    Como desarrollador de BookFlow
+    Quiero realizar mejoras y optimizaciones en el frontend
+    Para cumplir con las observaciones y mejorar la experiencia del usuario
+    
+    Scenario: Levantar observaciones del profesor
+        Given que el profesor a señalado que el diseño no es uniforme
+        When realizo revisión en el código y recursos de la página principal
+        Then la página principal presenta un diseño con colores y letra uniforme
+        
+    Scenario: Corregir errores de diseño señalados por entrevistados
+        Given que los entrevistados han señalado varios errores en el despliegue del frontend
+        When corrijo los errores de diseño
+        Then el la página presenta un diseño más amigable y apto para el usuario común.
 
-    Como usuario, 
-    Quiero
-    Para
+Relacionado a TS05: Transacción
 
-    Scenario: 
-        Given 
-	    When 
-        Then
+    Feature: Implementar Endpoint de Transacción
+    
+    Como desarrollador backend de BookFlow
+    Quiero implementar el endpoint que maneja las transacciones
+    Para permitir la gestión de suscripciones en el sistema
+    
+    Scenario: Crear una nueva transacción
+        Given que necesito registrar una nueva suscripcion
+        When envío una solicitud POST al endpoint con los detalles de la transacción
+        Then la transacción debería ser registrada exitosamente en el sistema
+        And debería registrarse una subscripción al usuario correspondiente.
+        
+    Scenario: Fallo al crear una transacción con datos inválidos
+        Given que los datos de la transacción son inválidos
+        When envío una solicitud POST al endpoint de transacción con los datos inválidos
+        Then debería recibir un mensaje de error indicando los problemas con los datos
 
-    Scenario:
-        Given
-	    When
-	    Then
-       
+Relacionado a TS06: Estado de Transacción
+
+    Feature: Implementar Endpoint del Estado de Transacción
+    
+    Como desarrollador backend de BookFlow
+    Quiero implementar el endpoint que verifica y devuelve el estado de las transacciones
+    Para permitir a los usuarios conocer el estado de sus transacciones
+    
+    Scenario: Consultar el estado de una transacción existente
+        Given que hay una transacción registrada en el sistema
+        When envío una solicitud GET al endpoint de estado de transacción con el ID de la transacción
+        Then debería recibir el estado actual de la transacción
+        
+    Scenario: Consultar el estado de una transacción inexistente
+        Given que el ID de la transacción no existe en el sistema
+        When envío una solicitud GET al endpoint de estado de transacción con el ID inexistente
+        Then debería recibir un mensaje de error indicando que la transacción no se encontró
+
+Relacionado a US22: Realizar Comentarios
+
+    Feature: Implementar Endpoint de Comentario
+
+    Como usuario de BookFlow
+    Quiero poder realizar comentarios
+    Para compartir mis opiniones
+
+    Scenario: Crear un nuevo comentario
+        Given que deseo comentar sobre un libro
+        When envío una solicitud POST al endpoint de comentarios
+        Then el comentario debería ser guardado exitosamente
+        And debería recibir una confirmación de que el comentario fue registrado
+
+Relacionado a TS07: Club de Lectura
+    Feature: Implementar Endpoint de Club de Lectura
+
+    Como desarrollador backend de BookFlow
+    Quiero implementar un endpoint que gestione los clubes de lectura
+    Para permitir a los usuarios unirse y crear clubes de lectura
+
+    Scenario: Crear un nuevo club de lectura
+        Given que un usuario desea crear un nuevo club de lectura
+        When envío una solicitud POST al endpoint de clubes de lectura con los detalles del club
+        Then el club de lectura debería ser creado exitosamente
+        And debería recibir una confirmación con el Nombre del nuevo club
+
+    Scenario: Unirse a un club de lectura existente
+        Given que un usuario desea unirse a un club de lectura existente
+        When envío una solicitud POST al endpoint de clubes de lectura con el ID del club y los detalles del usuario
+        Then el usuario debería ser añadido al club de lectura exitosamente
+        And debería recibir una confirmación de la unión al club
+
+Relacionado a TS08: Género de Libro
+
+    Feature: Implementar Endpoint de Género
+
+    Como desarrollador backend de BookFlow
+    Quiero crear el endpoint para manejar los géneros de los libros
+    Para organizar y categorizar los libros correctamente
+
+    Scenario: Registrar un nuevo género de libro
+        Given que necesito añadir un nuevo libro al sistema
+        When el género es nuevo y no es encuentra entre las opciones
+        Then envío una solicitud POST al endpoint de géneros con los detalles del género
+        And el nuevo género y libro se registran exitosamente.
+
+    Scenario: Listar todos los géneros de libros
+        Given que quiero ver todos los géneros disponibles
+        When envío una solicitud GET al endpoint de géneros
+        Then debería recibir una lista de todos los géneros registrados en el sistema
+
+Relacionado a TS09: Libros
+
+    Feature: Implementar Endpoint de Libros
+
+    Como desarrollador backend de BookFlow
+    Quiero implementar el endpoint para gestionar la información de los libros
+    Para permitir la administración de los libros en el sistema
+
+    Scenario: Registrar un nuevo libro
+        Given que necesito añadir un nuevo libro al sistema
+        When envío una solicitud POST al endpoint de libros con los detalles del libro
+        Then el libro debería ser registrado exitosamente
+        And debería recibir una confirmación con el ID y Nombre del nuevo libro
+
+    Scenario: Consultar la información de un libro existente
+        Given que quiero obtener información sobre un libro existente
+        When envío una solicitud GET al endpoint de libros con el ID del libro
+        Then debería recibir los detalles del libro solicitado
+  
 ##### Enlace al repositorio de control de versiones
 
 ●	Link: [Click para ver el repositorio](https://github.com/ReadWell-SW54-SI729/FRONT_END/tree/master)
