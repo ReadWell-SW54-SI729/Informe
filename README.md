@@ -65,8 +65,8 @@ Para el desarrollo del informe perteneciente a las entregas TB1, TP1, TB2 & TF, 
 | Huamán Cataño, Miguel Ángel | User Journey Mapping, Empathy Mapping, Web Applications User Flow Diagrams y Web Application Prototyping       |
 | Morales Calderón, Hernan Emilio  | Lean UX Problem Statements, Segmentos objetivo, Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Software Configuration Management, Landing Page, Team Collaboration Insights during Sprint, colaboración con el FRONT-END y BACK-END. | 
 | Párraga Gamarra, Paolo Gonzalo  |Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up., Diagrama de Base de datos, FRONT-END, deployment de backend front end, testing suite, Team Collaboration Insights, Service Documentation (Parcialmente) | 
-| Rivadeneyra Ramos, Joaquin  | Startup Profile, Descripción de la Startup, To-Be Scenario Mapping, User Stories, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems, Elaboración del sprint planning 2, Elaboración del sprint planning 3, colaboracion con Fronted, Heuristicas, coordinación del grupo, aplicación de mejoras. | 
-| Zárate Cáceres, Victor Ernesto  |Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary, Colaboración en el desarrolo del Sprint 3, desarrollo preliminar de Web Services (Back End), con endpoint de registro de usuarios y su validación única (almacenar solo un registro por correo) | 
+| Rivadeneyra Ramos, Joaquin  | Startup Profile, Descripción de la Startup, To-Be Scenario Mapping, User Stories, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems, Elaboración del sprint planning 2, Elaboración del sprint planning 3, colaboracion con Fronted, Heuristicas, coordinación del grupo, aplicación de mejoras. Realización del sprint planning and backlog 4, colaboracion con el backend y aplicación de mejoras. | 
+| Zárate Cáceres, Victor Ernesto  |Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary, Colaboración en el desarrolo del Sprint 3, desarrollo Web Services (Back End), con endpoint de registro de usuarios y su validación única (almacenar solo un registro por correo), mejoras finales al apartado Front-End del proyecto y Development Evidence y Testing Suite Evidence del Sprint 4. | 
 
 Evidencias del Insights Contributos de los commits del informe:
 ![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/02b88e56-1e52-48e9-b39b-a12a2825878e)
@@ -206,8 +206,8 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 # Student Outcome
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.| TB1:<br>Huamán Cataño, Miguel Ángel: User Journey Mapping, Empathy Mapping, Web Applications User Flow Diagrams y Web Application Prototyping.<br><br>La Torre Valle, Franz Jair: Lean UX Assumptions, AS-IS Scenario Mapping, Ubiquitous Language, SEO Tags and Meta Tags, Landing Page Wireframe, Landing Page Mock-up, Landing Page, Sprint Planning 1, Sprint Backlog 1.<br><br>Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, estrategias y tácticas frente a competidores, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management.<br><br>Párraga Gamarra, Paolo Gonzalo: Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up.<br><br>Rivadeneyra Ramos, Joaquin: Lean UX Hypothesis statements, As-is Scenario Mapping, User Persona y Conclusiones.<br><br>Zárate Cáceres, Victor Ernesto: Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.<br><br>TP:<br>Huamán Cataño, Miguel Ángel:  Se agrego una entrevista más al segmento de lectores y se trabajo el frontend de la lista lectores y lista autores<br><br>La Torre Valle, Franz Jair: Se cambió el análisis de entrevista enfocados a nuestros segmentos objetivos y su respectivos gráficos en base a los videos, se aplico mejoras en la distribución del informe y el testing suite evidence.<br><br>Morales Calderón, Hernan Emilio: Se realizó para el frontend las historias de usuarios correspondientes para Sprint 2, además modifique los styles de la mayoría de los componentes. Por otro lado se realizó el Software Deployment Evidence. <br><br>Párraga Gamarra, Paolo Gonzalo: Se añadió una entrevista más al segmento Autores. Además se realizó para el frontend las historias de usuario correspondientes para Sprint 2. Por otro lado, se realizó el testing suite evidence y Development Evidence. <br><br>Rivadeneyra Ramos, Joaquin:<br>Realize la elaboración del sprint planning 2, sprint planning 2, coordinación del grupo, aplicación de mejoras, aplicación de routeos y vista perfil<br><br>Zarate Caceres, Victor Ernesto: Corrección de Class Diagram and Dictionary,Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint.<br><br>TB2:<br>Huamán Cataño, Miguel Ángel: Añadi una vista al frontend y entrevistas para el segmento de autores y lectores y realice el Development Evidence for Sprint Review y el Testing Suite Evidence for Sprint Review.<br><br>La Torre Valle, Franz Jair: Desarrollo preliminar de back-end estableciendo unas funcionalidades iniciales que serían de login y subscription.<br><br>Morales Calderón, Hernan Emilio:<br>Implementé las suscripciones premium con sus detalles de pago. Así mismo, se corrigieron errores de la primera versión del front <br>Párraga Gamarra, Paolo Gonzalo:Se realizó el deployment de la versión final del front end, así como el despliegue de una primera versión del backend. Por otro lado, se añadió a los insight el gitflow para el repositorio del backend y frontend<br> <br>Rivadeneyra Ramos, Joaquin:Elaboración del sprint planning 3, sprint planning 3, colaboracion con Fronted y Backend del proyecto y Heuristicas <br><br>Zárate Cáceres, Victor Ernesto: Desarrolo preliminar de Web Services: Servicio POST de Registro de Usuarios (incluída verificación de identidad)<br><br>TF:<br>Huamán Cataño, Miguel Ángel:<br><br>La Torre Valle, Franz Jair:<br><br>Morales Calderón, Hernan Emilio: <br><br>Párraga Gamarra, Paolo Gonzalo: <br><br>Rivadeneyra Ramos, Joaquin: <br><br>Zárate Cáceres, Victor Ernesto:|  TB1:<br>Es de vital importancia reconocer la importancia crítica de utilizar un abanico diversificado de herramientas y metodologías, que abarquen desde el análisis profundo de las expectativas y emociones de los usuarios, hasta la minuciosa formulación de hipótesis y la identificación sistemática de problemas. Este enfoque multifacético es esencial para guiar con eficiencia el desarrollo de proyectos y startups, garantizando que la trayectoria seguida esté alineada con las necesidades y deseos del mercado objetivo. Además, es imperativo que este proceso sea iterativo, permitiendo una adaptación continua y una reevaluación de las estrategias a medida que se obtienen nuevos datos e insights. Implementar pruebas de usabilidad frecuentes y desarrollar prototipos funcionales puede proporcionar una retroalimentación invaluable que, cuando se integra de manera efectiva, resulta en soluciones altamente pertinentes y orientadas al usuario.<br><br>TP:<br>Durante el desarrollo del proyecto de ingeniería, particularmente en las sesiones de sprint planning 2 y backlog 2, así como en la implementación del frontend, la habilidad para comunicar oralmente las ideas y resultados con claridad y objetividad fue crucial. Es importante destacar cómo se presentaron las tareas pendientes, los objetivos alcanzados y los desafíos enfrentados de manera que fuera comprensible para un público diverso, incluyendo miembros de diferentes especialidades y niveles jerárquicos. Esta capacidad de adaptar el discurso técnico para asegurar la comprensión y el engagement de todos los stakeholders no solo facilita la colaboración y el avance eficiente del proyecto, sino que también refuerza la importancia de una comunicación efectiva en la gestión de proyectos de ingeniería. Además, la efectividad en la comunicación no solo ayudó a mantener al equipo alineado con las metas del proyecto, sino que también aseguró que los intereses y preocupaciones de diferentes áreas se tomaran en cuenta para tomar decisiones informadas. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.<br><br>TB2:<br>En el marco del desarrollo de nuestro proyecto en ingeniería, hemos llevado a cabo una serie de actividades clave que demuestran nuestra capacidad para comunicar ideas y resultados de manera objetiva a un público diverso. Las entregas incluyeron la corrección del presentable anterior, lo que aseguró la precisión y claridad de nuestra comunicación visual. Además, completamos la versión definitiva de la Landing Page, que presenta nuestra propuesta de valor de manera concisa y atractiva para los usuarios.La mejora de la App Web refleja nuestro compromiso con la usabilidad y la experiencia del usuario, aspectos fundamentales en la ingeniería de software. La primera versión de los Web Services establece una base sólida para la interoperabilidad y la expansión futura de nuestras funcionalidades. La creación de videos sobre el producto y el equipo, en sus primeras versiones, no solo muestra nuestras capacidades técnicas sino también nuestra habilidad para narrar la historia de nuestro proyecto y el equipo que lo respalda.Estos logros evidencian nuestra capacidad para presentar y defender ideas y resultados de manera efectiva ante públicos de diferentes especialidades y niveles jerárquicos. Cada entrega ha sido cuidadosamente diseñada para comunicar aspectos técnicos y estratégicos del proyecto, asegurando que todos los involucrados comprendan su importancia y contribución al éxito del proyecto. En resumen, hemos demostrado que podemos articular nuestras ideas y resultados con claridad y objetividad, adaptándonos a las necesidades de nuestra audiencia y promoviendo un entendimiento común en el desarrollo de este proyecto en ingeniería.<br><br>TF:<br>En la validación del diseño de nuestra solución de software para BookFlow, hemos considerado aspectos clave relacionados con la salud pública, seguridad, bienestar, y factores globales, culturales, sociales, ambientales y económicos. Nuestro enfoque prioritario en la seguridad del usuario incluye la implementación de protocolos avanzados de encriptación y autenticación, asegurando la protección de la información personal y la privacidad. En términos de bienestar, la plataforma ofrece una experiencia de usuario accesible y cómoda, promoviendo hábitos de lectura saludables y enriquecedores. Además, hemos integrado consideraciones globales y culturales al ofrecer contenidos diversificados y adaptados a diferentes contextos culturales, promoviendo así la inclusión y el acceso igualitario a la literatura. |
-| Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos | TB1:<br>Huamán Cataño, Miguel Ángel: Un mejor conocimiento sobre las expectativas y emociones de nuestros usuarios ayudó a que nuestra solución de software esté enfocado en la solución de las necesidades de nuestros segmentos objetivos.<br> <br>La Torre Valle, Franz Jair: Al momento de integrar estos aspectos en el diseño de la solución de software, se puede contribuir de manera significativa a la creación de un entorno digital más seguro, saludable y equitativo para todos.<br> <br>Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management.<br><br>Párraga Gamarra, Paolo Gonzalo: La realización de cada apartado conllevó una investigación para el segmento objetivo así como analizar los datos brindados por las historias de usuario.<br><br>Rivadeneyra Ramos, Joaquin: Para determinar este diseño de la solución se tuvieron que tomar en cuenta diversos factores globales como la problemática a solucionar para nuestros usuarios y gracias a los user persona pudimos validar que estábamos en lo correcto.<br><br>Zárate Cáceres, Victor Ernesto: Se identificó el impacto que tendría la solución en la vida de los usuarios. Con ello, el proceso del diseño de la solución pudo organizarse por dificultad e importancia para orientarse a recibir mejoras continuas.<br> <br>TP:<br>Huamán Cataño, Miguel Ángel:Se corrigieron algunos errores en el informe y se realizaron ajustes necesarios en el código para mejorar la funcionalidad del proyecto y garantizar una mejor experiencia de usuario.<br><br>La Torre Valle, Franz Jair: Hubo una mejora continua en el proyecto tomando en cuenta la retroalimentación brindada. Además, de la ejecución de un Front-end intuitivo que muestra poco a poco la finalidad de la web.<br><br>Morales Calderón, Hernan Emilio: Se corrigieron los errores existentes en el informe, como el tamaño de las imagenes, la tabla de los integrantes y la landing page. <br><br>Párraga Gamarra, Paolo Gonzalo: Se corrigieron los errores existentes en el informe, así como la landing page en base al feedback que dio el profesor en clase mejorando nuestro informe y landing. <br><br>Rivadeneyra Ramos, Joaquin:<br>Se realizo las mejores del student outcome, los user stories y el formato del poyecto<br><br>Zarate Caceres, Victor Ernesto: Se corrigieron los errores existentes en nuestro informe y aplicaciones. Esto se vio reflejado en una mejora de las plataforma e informa, más apegados a lo que se espera en el curso.<br><br>TB2:<br>Huamán Cataño, Miguel Ángel: Añadi la vista de recomendación a amigos en el frontend lo cual ayuda a los usuarios a recomendar libros de su preferencia con sus amigos, además de añadir entrevistas que nos ayudan a mejorar la nuestra aplicación de acuerdo a las necesidades del usuario. <br><br>La Torre Valle, Franz Jair: Se mantiene aplicando mejora continua y corrigiendo errores de anteriores entregas, así como la incorporación de nuevas funcionalidades junto a la actualización del front-end.<br><br>Morales Calderón, Hernan Emilio: <br> Se sigue aplicando un enfoque de mejora continua y corrigiendo los errores de versiones anteriores, además de incorporar nuevas funcionalidades y actualizar el front-end. <br>Párraga Gamarra, Paolo Gonzalo:<br>Se añadieron nuevas funcionalidades al frontend en base a las historias de usuario elegidas para el sprint de este entregable. Así mismo, se corrigieron errores de la primera versión del front <br>Rivadeneyra Ramos, Joaquin:Para establecer el diseño de la solución, se consideraron diversos factores globales, incluyendo los problemas específicos que enfrentan nuestros usuarios. Utilizando perfiles detallados de usuario, validamos nuestras suposiciones y aseguramos que nuestro enfoque estaba alineado con sus necesidades <br><br>Zárate Cáceres, Victor Ernesto: Se rectificaron los errores existentes en nuestro informe y aplicaciones. Esto nos permitio desarrollar mejoras que orienten nuestro proyecto hacia su versión final.<br><br>TF:<br>Huamán Cataño, Miguel Ángel:<br><br>La Torre Valle, Franz Jair:<br><br>Morales Calderón, Hernan Emilio: <br><br>Párraga Gamarra, Paolo Gonzalo: <br><br>Rivadeneyra Ramos, Joaquin: <br><br>Zárate Cáceres, Victor Ernesto:| TB1:<br>Es importante que el diseño de soluciones de software no solo se centre en la funcionalidad técnica, sino que también considere cuidadosamente los aspectos relacionados con la salud pública, seguridad, bienestar y los diversos factores globales, culturales, sociales, ambientales y económicos. Este enfoque integral garantiza que las soluciones tecnológicas contribuyan de manera positiva a la sociedad, abordando las necesidades de manera efectiva y promoviendo un impacto beneficioso en múltiples aspectos de la vida cotidiana y el entorno. Al profundizar en las dimensiones éticas y humanas del desarrollo tecnológico, los diseñadores y desarrolladores de software pueden anticipar y mitigar los posibles efectos negativos, como la exclusión digital, la brecha de género en la tecnología o los problemas de accesibilidad. Al incorporar estos valores, las startups y proyectos no solo se están posicionando para el éxito económico, sino que están cultivando la responsabilidad social y contribuyendo al desarrollo sostenible.<br><br>TP: Tras el desarrollo del proyecto, se puso especial atención en integrar y validar diversos aspectos críticos. En términos de salud pública y seguridad, el diseño del software incorporó características que aseguran la protección de datos y la integridad de la información, fundamentales especialmente si el software maneja información sensible o personal. En cuanto al bienestar, el diseño se enfocó en ser intuitivo y accesible, minimizando la carga cognitiva de los usuarios para mejorar la interacción general con el sistema. Esto no solo facilita su uso sino que también promueve una experiencia de usuario positiva. Además, se consideraron factores globales, culturales, sociales, ambientales y económicos para garantizar que el software sea relevante y sostenible en diversos contextos, adaptándose a necesidades y restricciones específicas según el entorno de implementación. Esta consideración holística del diseño contribuye significativamente a la relevancia y sostenibilidad del proyecto, asegurando que el software no solo cumpla con los requisitos técnicos sino que también responda a un espectro más amplio de expectativas y necesidades sociales. Se establecieron mecanismos para evaluar continuamente el impacto social y ambiental del software, lo cual es vital para proyectos que aspiran a tener un alcance global y multifacético. Esto asegura que, mientras el proyecto evoluciona, se mantenga alineado con los principios éticos y responsables que son esenciales en la industria actual.<br><br>TB2:<br>En el diseño de nuestra solución de software, hemos incorporado múltiples aspectos que validan nuestro compromiso con la salud pública, seguridad, bienestar, y una variedad de factores globales, culturales, sociales, ambientales y económicos.Desde el principio, hemos priorizado la usabilidad y accesibilidad en nuestra App Web, asegurando que sea fácil de usar para todas las personas, independientemente de su nivel de experiencia técnica. Este enfoque promueve el bienestar al facilitar la inclusión digital y reducir las barreras de acceso a la tecnología. En términos de seguridad, nuestras versiones de Web Services han sido diseñadas con protocolos robustos para proteger la información de los usuarios y garantizar la privacidad de los datos. Este énfasis en la seguridad es fundamental para mantener la confianza de nuestros usuarios y cumplir con las normativas vigentes en salud pública.Además, hemos considerado factores globales y culturales al desarrollar contenido y funcionalidades que son relevantes y atractivos para una audiencia diversa. La creación de videos sobre el producto y el equipo, por ejemplo, refleja una narrativa inclusiva que resuena con personas de diferentes antecedentes culturales y sociales. Nuestro enfoque también ha incluido consideraciones ambientales, optando por tecnologías sostenibles y eficientes que minimizan el impacto ambiental. En términos económicos, hemos desarrollado una estructura de costos que asegura la viabilidad y accesibilidad económica de nuestro producto para una amplia gama de usuarios.<br><br>TF:<br>Socialmente, BookFlow facilita la creación de comunidades de lectores y la interacción a través de clubes de lectura virtuales, fomentando el sentido de pertenencia y el intercambio de ideas. Desde una perspectiva ambiental, nuestro diseño promueve la sostenibilidad mediante la digitalización de contenidos, reduciendo la necesidad de recursos físicos y el impacto ambiental asociado. Económicamente, hemos desarrollado un modelo de negocio que no solo es viable y escalable, sino que también apoya a autores emergentes, proporcionando una plataforma para la difusión y monetización de sus obras. En resumen, la solución de software de BookFlow ha sido diseñada y validada teniendo en cuenta un enfoque holístico que abarca la salud pública, seguridad, bienestar, y factores globales, culturales, sociales, ambientales y económicos, garantizando una plataforma segura, inclusiva, sostenible y económicamente viable.|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.| TB1:<br>Huamán Cataño, Miguel Ángel: User Journey Mapping, Empathy Mapping, Web Applications User Flow Diagrams y Web Application Prototyping.<br><br>La Torre Valle, Franz Jair: Lean UX Assumptions, AS-IS Scenario Mapping, Ubiquitous Language, SEO Tags and Meta Tags, Landing Page Wireframe, Landing Page Mock-up, Landing Page, Sprint Planning 1, Sprint Backlog 1.<br><br>Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, estrategias y tácticas frente a competidores, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management.<br><br>Párraga Gamarra, Paolo Gonzalo: Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up.<br><br>Rivadeneyra Ramos, Joaquin: Lean UX Hypothesis statements, As-is Scenario Mapping, User Persona y Conclusiones.<br><br>Zárate Cáceres, Victor Ernesto: Antecedentes y problemática, Impact Mapping, Product Backlog, Class Diagrams, Class Dictionary.<br><br>TP:<br>Huamán Cataño, Miguel Ángel:  Se agrego una entrevista más al segmento de lectores y se trabajo el frontend de la lista lectores y lista autores<br><br>La Torre Valle, Franz Jair: Se cambió el análisis de entrevista enfocados a nuestros segmentos objetivos y su respectivos gráficos en base a los videos, se aplico mejoras en la distribución del informe y el testing suite evidence.<br><br>Morales Calderón, Hernan Emilio: Se realizó para el frontend las historias de usuarios correspondientes para Sprint 2, además modifique los styles de la mayoría de los componentes. Por otro lado se realizó el Software Deployment Evidence. <br><br>Párraga Gamarra, Paolo Gonzalo: Se añadió una entrevista más al segmento Autores. Además se realizó para el frontend las historias de usuario correspondientes para Sprint 2. Por otro lado, se realizó el testing suite evidence y Development Evidence. <br><br>Rivadeneyra Ramos, Joaquin:<br>Realize la elaboración del sprint planning 2, sprint planning 2, coordinación del grupo, aplicación de mejoras, aplicación de routeos y vista perfil<br><br>Zarate Caceres, Victor Ernesto: Corrección de Class Diagram and Dictionary,Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint.<br><br>TB2:<br>Huamán Cataño, Miguel Ángel: Añadi una vista al frontend y entrevistas para el segmento de autores y lectores y realice el Development Evidence for Sprint Review y el Testing Suite Evidence for Sprint Review.<br><br>La Torre Valle, Franz Jair: Desarrollo preliminar de back-end estableciendo unas funcionalidades iniciales que serían de login y subscription.<br><br>Morales Calderón, Hernan Emilio:<br>Implementé las suscripciones premium con sus detalles de pago. Así mismo, se corrigieron errores de la primera versión del front <br>Párraga Gamarra, Paolo Gonzalo:Se realizó el deployment de la versión final del front end, así como el despliegue de una primera versión del backend. Por otro lado, se añadió a los insight el gitflow para el repositorio del backend y frontend<br> <br>Rivadeneyra Ramos, Joaquin:Elaboración del sprint planning 3, sprint planning 3, colaboracion con Fronted y Backend del proyecto y Heuristicas <br><br>Zárate Cáceres, Victor Ernesto: Desarrolo preliminar de Web Services: Servicio POST de Registro de Usuarios (incluída verificación de identidad)<br><br>TF:<br>Huamán Cataño, Miguel Ángel:Implemente el endpoint de club de lecturas y el endpoint de comentarios, también realice el Execution Evidence for Sprint Review y Services Documentation Evidence for Sprint Review dentro del informe.<br><br>Morales Calderón, Hernan Emilio: <br><br>Párraga Gamarra, Paolo Gonzalo: <br><br>Rivadeneyra Ramos, Joaquin:<br>En la presente entrega final realice la elaboración del sprint planning 4, sprint backlog 4, colaboracion del Backend en aspectos como el Iam, shared and deployment<br><br>Zárate Cáceres, Victor Ernesto: En esta última entrega se corrigieron los errores presentados en entregables aneteriores y se desarrollaron los endpoint restantes para crear la versión definitiva del BackEnd, que será desplegada y conectada al Front.|  TB1:<br>Es de vital importancia reconocer la importancia crítica de utilizar un abanico diversificado de herramientas y metodologías, que abarquen desde el análisis profundo de las expectativas y emociones de los usuarios, hasta la minuciosa formulación de hipótesis y la identificación sistemática de problemas. Este enfoque multifacético es esencial para guiar con eficiencia el desarrollo de proyectos y startups, garantizando que la trayectoria seguida esté alineada con las necesidades y deseos del mercado objetivo. Además, es imperativo que este proceso sea iterativo, permitiendo una adaptación continua y una reevaluación de las estrategias a medida que se obtienen nuevos datos e insights. Implementar pruebas de usabilidad frecuentes y desarrollar prototipos funcionales puede proporcionar una retroalimentación invaluable que, cuando se integra de manera efectiva, resulta en soluciones altamente pertinentes y orientadas al usuario.<br><br>TP:<br>Durante el desarrollo del proyecto de ingeniería, particularmente en las sesiones de sprint planning 2 y backlog 2, así como en la implementación del frontend, la habilidad para comunicar oralmente las ideas y resultados con claridad y objetividad fue crucial. Es importante destacar cómo se presentaron las tareas pendientes, los objetivos alcanzados y los desafíos enfrentados de manera que fuera comprensible para un público diverso, incluyendo miembros de diferentes especialidades y niveles jerárquicos. Esta capacidad de adaptar el discurso técnico para asegurar la comprensión y el engagement de todos los stakeholders no solo facilita la colaboración y el avance eficiente del proyecto, sino que también refuerza la importancia de una comunicación efectiva en la gestión de proyectos de ingeniería. Además, la efectividad en la comunicación no solo ayudó a mantener al equipo alineado con las metas del proyecto, sino que también aseguró que los intereses y preocupaciones de diferentes áreas se tomaran en cuenta para tomar decisiones informadas. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.<br><br>TB2:<br>En el marco del desarrollo de nuestro proyecto en ingeniería, hemos llevado a cabo una serie de actividades clave que demuestran nuestra capacidad para comunicar ideas y resultados de manera objetiva a un público diverso. Las entregas incluyeron la corrección del presentable anterior, lo que aseguró la precisión y claridad de nuestra comunicación visual. Además, completamos la versión definitiva de la Landing Page, que presenta nuestra propuesta de valor de manera concisa y atractiva para los usuarios.La mejora de la App Web refleja nuestro compromiso con la usabilidad y la experiencia del usuario, aspectos fundamentales en la ingeniería de software. La primera versión de los Web Services establece una base sólida para la interoperabilidad y la expansión futura de nuestras funcionalidades. La creación de videos sobre el producto y el equipo, en sus primeras versiones, no solo muestra nuestras capacidades técnicas sino también nuestra habilidad para narrar la historia de nuestro proyecto y el equipo que lo respalda.Estos logros evidencian nuestra capacidad para presentar y defender ideas y resultados de manera efectiva ante públicos de diferentes especialidades y niveles jerárquicos. Cada entrega ha sido cuidadosamente diseñada para comunicar aspectos técnicos y estratégicos del proyecto, asegurando que todos los involucrados comprendan su importancia y contribución al éxito del proyecto. En resumen, hemos demostrado que podemos articular nuestras ideas y resultados con claridad Como conclusión de nuestro proyecto de ingeniería para BookFlow, hemos demostrado nuestra capacidad para comunicar ideas y resultados de manera objetiva a un público diverso y jerárquicamente variado, un aspecto fundamental en el desarrollo de proyectos de ingeniería. A lo largo del proyecto, hemos corregido y refinado presentaciones previas para asegurar que la información se presente con la máxima precisión y claridad posible. Esto ha sido esencial para transmitir nuestras ideas de manera efectiva y garantizar que todos los involucrados, independientemente de su especialidad o nivel jerárquico, comprendan plenamente los objetivos y avances del proyecto. Hemos completado con éxito la versión final del frontend utilizando Angular y del backend con Spring Boot. Estos componentes tecnológicos han sido desarrollados para destacar nuestra propuesta de valor de forma concisa y atractiva, permitiendo a los usuarios una experiencia de navegación intuitiva y agradable. La mejora continua de la aplicación web se ha centrado en la usabilidad y la experiencia del usuario, aspectos críticos en la ingeniería de software que aseguran que la plataforma sea accesible y funcional para todos los usuarios. La implementación de servicios web ha establecido una base sólida para la interoperabilidad y la expansión futura de nuestras funcionalidades, permitiendo una integración eficiente con otras plataformas y servicios. Esto no solo mejora la funcionalidad actual de BookFlow, sino que también prepara el terreno para futuras ampliaciones y mejoras, lo que es crucial en un entorno tecnológico en constante evolución. Además, hemos creado videos sobre el producto y el equipo en sus primeras versiones, lo cual no solo muestra nuestras capacidades técnicas sino también nuestra habilidad para narrar la historia del proyecto y el equipo que lo respalda. Estos videos han sido diseñados para comunicar aspectos técnicos y estratégicos del proyecto de manera clara y atractiva, asegurando que tanto los aspectos técnicos como los humanos del proyecto sean bien comprendidos por una audiencia diversa. Estos logros subrayan nuestra competencia para presentar y defender ideas y resultados de manera efectiva. Hemos sido capaces de adaptarnos a las necesidades de nuestra audiencia, promoviendo un entendimiento común en el desarrollo del proyecto. Cada entrega ha sido cuidadosamente diseñada para comunicar los aspectos técnicos y estratégicos del proyecto, asegurando que todos los involucrados comprendan su importancia y su contribución al éxito del proyecto. Por lo que, hemos demostrado que podemos articular nuestras ideas y resultados con claridad y objetividad, fomentando una comunicación efectiva y coherente en un entorno profesional que abarca múltiples especialidades y niveles jerárquicos. Nuestro enfoque ha asegurado que todos los stakeholders, desde desarrolladores hasta altos directivos, estén informados y alineados con los objetivos y avances del proyecto. Esto ha sido clave para el éxito de BookFlow y es un testimonio de nuestra capacidad para gestionar y comunicar en el contexto de proyectos de ingeniería complejos y multifacéticos.  |
+| Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos | TB1:<br>Huamán Cataño, Miguel Ángel: Un mejor conocimiento sobre las expectativas y emociones de nuestros usuarios ayudó a que nuestra solución de software esté enfocado en la solución de las necesidades de nuestros segmentos objetivos.<br> <br>La Torre Valle, Franz Jair: Al momento de integrar estos aspectos en el diseño de la solución de software, se puede contribuir de manera significativa a la creación de un entorno digital más seguro, saludable y equitativo para todos.<br> <br>Morales Calderón, Hernan Emilio: Segmentos objetivos, análisis competitivo, software architecture Context Diagram, Container Diagram, Component Diagram, software configuration management.<br><br>Párraga Gamarra, Paolo Gonzalo: La realización de cada apartado conllevó una investigación para el segmento objetivo así como analizar los datos brindados por las historias de usuario.<br><br>Rivadeneyra Ramos, Joaquin: Para determinar este diseño de la solución se tuvieron que tomar en cuenta diversos factores globales como la problemática a solucionar para nuestros usuarios y gracias a los user persona pudimos validar que estábamos en lo correcto.<br><br>Zárate Cáceres, Victor Ernesto: Se identificó el impacto que tendría la solución en la vida de los usuarios. Con ello, el proceso del diseño de la solución pudo organizarse por dificultad e importancia para orientarse a recibir mejoras continuas.<br> <br>TP:<br>Huamán Cataño, Miguel Ángel:Se corrigieron algunos errores en el informe y se realizaron ajustes necesarios en el código para mejorar la funcionalidad del proyecto y garantizar una mejor experiencia de usuario.<br><br>La Torre Valle, Franz Jair: Hubo una mejora continua en el proyecto tomando en cuenta la retroalimentación brindada. Además, de la ejecución de un Front-end intuitivo que muestra poco a poco la finalidad de la web.<br><br>Morales Calderón, Hernan Emilio: Se corrigieron los errores existentes en el informe, como el tamaño de las imagenes, la tabla de los integrantes y la landing page. <br><br>Párraga Gamarra, Paolo Gonzalo: Se corrigieron los errores existentes en el informe, así como la landing page en base al feedback que dio el profesor en clase mejorando nuestro informe y landing. <br><br>Rivadeneyra Ramos, Joaquin:<br>Se realizo las mejores del student outcome, los user stories y el formato del poyecto<br><br>Zarate Caceres, Victor Ernesto: Se corrigieron los errores existentes en nuestro informe y aplicaciones. Esto se vio reflejado en una mejora de las plataforma e informa, más apegados a lo que se espera en el curso.<br><br>TB2:<br>Huamán Cataño, Miguel Ángel: Añadi la vista de recomendación a amigos en el frontend lo cual ayuda a los usuarios a recomendar libros de su preferencia con sus amigos, además de añadir entrevistas que nos ayudan a mejorar la nuestra aplicación de acuerdo a las necesidades del usuario. <br><br>La Torre Valle, Franz Jair: Se mantiene aplicando mejora continua y corrigiendo errores de anteriores entregas, así como la incorporación de nuevas funcionalidades junto a la actualización del front-end.<br><br>Morales Calderón, Hernan Emilio: <br> Se sigue aplicando un enfoque de mejora continua y corrigiendo los errores de versiones anteriores, además de incorporar nuevas funcionalidades y actualizar el front-end. <br>Párraga Gamarra, Paolo Gonzalo:<br>Se añadieron nuevas funcionalidades al frontend en base a las historias de usuario elegidas para el sprint de este entregable. Así mismo, se corrigieron errores de la primera versión del front <br>Rivadeneyra Ramos, Joaquin:Para establecer el diseño de la solución, se consideraron diversos factores globales, incluyendo los problemas específicos que enfrentan nuestros usuarios. Utilizando perfiles detallados de usuario, validamos nuestras suposiciones y aseguramos que nuestro enfoque estaba alineado con sus necesidades <br><br>Zárate Cáceres, Victor Ernesto: Se rectificaron los errores existentes en nuestro informe y aplicaciones. Esto nos permitio desarrollar mejoras que orienten nuestro proyecto hacia su versión final.<br><br>TF:<br>Huamán Cataño, Miguel Ángel:Los endpoints implementados de club de lectura y comentarios contribuyen en el desarrollo y la mejora de las funcionalidades técnicas de Bookflow, del mismo modo contribuyen a mejorar la experiencia de usuario.<br><br>Morales Calderón, Hernan Emilio: <br><br>Párraga Gamarra, Paolo Gonzalo: <br><br>Rivadeneyra Ramos, Joaquin: En la presente entrega se realizo la constante mejora al fronted y la culminacion del backend del proyecto<br><br>Zárate Cáceres, Victor Ernesto: Se aplica el conocimiento adquirido en las últimas semanas para concluir la entrega del trabajo, adaptado al modelo DDD y siguiendo buenas prácticas de programación.| TB1:<br>Es importante que el diseño de soluciones de software no solo se centre en la funcionalidad técnica, sino que también considere cuidadosamente los aspectos relacionados con la salud pública, seguridad, bienestar y los diversos factores globales, culturales, sociales, ambientales y económicos. Este enfoque integral garantiza que las soluciones tecnológicas contribuyan de manera positiva a la sociedad, abordando las necesidades de manera efectiva y promoviendo un impacto beneficioso en múltiples aspectos de la vida cotidiana y el entorno. Al profundizar en las dimensiones éticas y humanas del desarrollo tecnológico, los diseñadores y desarrolladores de software pueden anticipar y mitigar los posibles efectos negativos, como la exclusión digital, la brecha de género en la tecnología o los problemas de accesibilidad. Al incorporar estos valores, las startups y proyectos no solo se están posicionando para el éxito económico, sino que están cultivando la responsabilidad social y contribuyendo al desarrollo sostenible.<br><br>TP: Tras el desarrollo del proyecto, se puso especial atención en integrar y validar diversos aspectos críticos. En términos de salud pública y seguridad, el diseño del software incorporó características que aseguran la protección de datos y la integridad de la información, fundamentales especialmente si el software maneja información sensible o personal. En cuanto al bienestar, el diseño se enfocó en ser intuitivo y accesible, minimizando la carga cognitiva de los usuarios para mejorar la interacción general con el sistema. Esto no solo facilita su uso sino que también promueve una experiencia de usuario positiva. Además, se consideraron factores globales, culturales, sociales, ambientales y económicos para garantizar que el software sea relevante y sostenible en diversos contextos, adaptándose a necesidades y restricciones específicas según el entorno de implementación. Esta consideración holística del diseño contribuye significativamente a la relevancia y sostenibilidad del proyecto, asegurando que el software no solo cumpla con los requisitos técnicos sino que también responda a un espectro más amplio de expectativas y necesidades sociales. Se establecieron mecanismos para evaluar continuamente el impacto social y ambiental del software, lo cual es vital para proyectos que aspiran a tener un alcance global y multifacético. Esto asegura que, mientras el proyecto evoluciona, se mantenga alineado con los principios éticos y responsables que son esenciales en la industria actual.<br><br>TB2:<br>En el diseño de nuestra solución de software, hemos incorporado múltiples aspectos que validan nuestro compromiso con la salud pública, seguridad, bienestar, y una variedad de factores globales, culturales, sociales, ambientales y económicos.Desde el principio, hemos priorizado la usabilidad y accesibilidad en nuestra App Web, asegurando que sea fácil de usar para todas las personas, independientemente de su nivel de experiencia técnica. Este enfoque promueve el bienestar al facilitar la inclusión digital y reducir las barreras de acceso a la tecnología. En términos de seguridad, nuestras versiones de Web Services han sido diseñadas con protocolos robustos para proteger la información de los usuarios y garantizar la privacidad de los datos. Este énfasis en la seguridad es fundamental para mantener la confianza de nuestros usuarios y cumplir con las normativas vigentes en salud pública.Además, hemos considerado factores globales y culturales al desarrollar contenido y funcionalidades que son relevantes y atractivos para una audiencia diversa. La creación de videos sobre el producto y el equipo, por ejemplo, refleja una narrativa inclusiva que resuena con personas de diferentes antecedentes culturales y sociales. Nuestro enfoque también ha incluido consideraciones ambientales, optando por tecnologías sostenibles y eficientes que minimizan el impacto ambiental. En términos económicos, hemos desarrollado una estructura de costos que asegura la viabilidad y accesibilidad económica de nuestro producto para una amplia gama de usuarios.<br><br>TF:<br>Socialmente, BookFlow facilita la creación de comunidades de lectores y la interacción a través de clubes de lectura virtuales, fomentando el sentido de pertenencia y el intercambio de ideas. Desde una perspectiva ambiental, nuestro diseño promueve la sostenibilidad mediante la digitalización de contenidos, reduciendo la necesidad de recursos físicos y el impacto ambiental asociado. Económicamente, hemos desarrollado un modelo de negocio que no solo es viable y escalable, sino que también apoya a autores emergentes, proporcionando una plataforma para la difusión y monetización de sus obras. En resumen, la solución de software de BookFlow ha sido diseñada y validada teniendo en cuenta un enfoque holístico que abarca la salud pública, seguridad, bienestar, y factores globales, culturales, sociales, ambientales y económicos, garantizando una plataforma segura, inclusiva, sostenible y económicamente viable.|
 
 # <span id="capítulo-introducción" style="color:red">Capítulo I: Introducción</span>
 ## 1.1. Startup Profile
@@ -3455,23 +3455,6 @@ Relacionado a US-23
 	</ul>
 </div>
 
-<div align="justify">
-	Front end:
-	<ul>
-		<li>US06</li>
-		<img src="./imgs/us06.png">
-		<li>US10</li>
-		<img src="./imgs/us10.PNG" >
-		<li>US12</li>
-		<img src="./imgs/us12.PNG" >
-		<li>US23</li>
-		<img src="./imgs/us23_1.PNG">
-        <img src="./imgs/us23_2.PNG">
-		<li>US25</li>
-		<img src="./imgs/us25.PNG" alt="Evidencia ingreso a la plataforma">
-	</ul>
-</div>
-
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. La sección inicia con una introducción en la que se resume los logros alcanzados en relación con Documentación de Web Services para este Sprint.
 
@@ -3650,8 +3633,8 @@ Se realizó GitFlow para cada repositorio correspondiente al FrontEnd y BackEnd
 
 | Sprint #              | Sprint 4                          |
 |-----------------------|-----------------------------------|
-| Date                  | 2024/06/--                        |
-| Time                  |                                   |
+| Date                  | 2024/06/18                        |
+| Time                  | 10 PM                             |
 | Location              | Videoconferencia Zoom             |
 | Prepared By           | Joaquin Rivadeneyra Ramos         |
 | Attendees (to planning meeting) | Hernan Emilio Morales Calderón - U202216263 |
@@ -3692,41 +3675,376 @@ Se realizó GitFlow para cada repositorio correspondiente al FrontEnd y BackEnd
             <td>Commit Message Body</td>
             <td>Commited on (Date)</td>
 		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>0f3d5dd57ca6eebbccff77d55ca1f1624172f650</td>
+            <td>Fix:TransactionState</td>
+            <td>Upload TransactionState</td>
+            <td>24/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>3fb771ac440ef9f958f07b73b16276a1facd4dbf</td>
+            <td>Fix:Transaction</td>
+            <td>Upload Transaction</td>
+            <td>24/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>d2d268b166a410b6e22b142ca14aac9b4508164c</td>
+            <td>Fix:TransactionQueryServiceImpl</td>
+            <td>Upload TransactionQueryService</td>
+            <td>24/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>503556999728590c64cf325138aa3152d7315950</td>
+            <td>Fix:TransactionStateExistsEventHandler</td>
+            <td>Upload TransactionStateExistsEventHandler</td>
+            <td>24/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>4acf5da3230e271d321d09975f869c0f98abe1fe</td>
+            <td>Fix:TransactionCommandService</td>
+            <td>Upload TransactionCommandService</td>
+            <td>24/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>4d1b72fef9687aee3ea9f382ac4839f370c9ee1f</td>
+            <td>fix:PaymentMethodRepository</td>
+            <td>Upload PaymentMethodRepository</td>
+            <td>24/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>07fac7e53de158b3876395e80201fa06538143b3</td>
+            <td>fix:deploy</td>
+            <td></td>
+            <td>23/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>0d8333a00cd087a150b340c1d92a775606d1420a</td>
+            <td>update</td>
+            <td>-</td>
+            <td>23/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>6a7d4236fc01f8b5f648d824c6ff864e97ec1c54</td>
+            <td>update</td>
+            <td>-</td>
+            <td>23/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/club-endpoint</td>
+            <td>6748c7751462972f3a5db8e13ab7387966c4a346</td>
+            <td>Add files via upload</td>
+            <td>-</td>
+            <td>22/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/genders-endpoint</td>
+            <td>fdd33476b47ba2adadd3104be08ae250ed64ec3b</td>
+            <td>update</td>
+            <td>-</td>
+            <td>22/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/transactions-state-endpoint</td>
+            <td>3f7c72319434449e81b8894c02607d7a7e8b8a9a</td>
+            <td>feat: Creación del endpoint de estado de transaccion<td>
+            <td>Creado el endpoint con los metodos necesarios</td>
+            <td>22/06/2024</td>
+		</tr><tr>
+            <td>BACK_END</td>
+            <td>feature/transactions-state-endpoint</td>
+            <td>130ff59756253b109439196ba0c2c9e50f466f17</td>
+            <td>feat: Creación del endpoint de Transacción</td>
+            <td>Se creó el endpoint correspondiente así como sus métodos necesarios</td>
+            <td>22/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/iam</td>
+            <td>ff0aaa27dde270302b9b1415940a59ec7f49dcaa</td>
+            <td>fix: SnakeCaseWithPluralizedTablePhysicalNamingStrategy</td>
+            <td>-</td>
+            <td>21/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/iam</td>
+            <td>e6f67587965e8411ee9d90083532c5fcacc52892</td>
+            <td>fix: iam fixed</td>
+            <td>-</td>
+            <td>21/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/iam</td>
+            <td>dbe5ef5685f4502ad8ff62cf58501912e57e3c98</td>
+            <td>first commit</td>
+            <td>-</td>
+            <td>21/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/users-patch-method</td>
+            <td>1932fbc2388458e4fa0213a147e7567e0c4f7f07</td>
+            <td>Feat: Patch MEthod</td>
+            <td>-</td>
+            <td>21/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/transactions-state-endpoint</td>
+            <td>3ee2f2cf8ae0068d36d8620ebaf24fdea2566bea</td>
+            <td>feat: Se creó el endpoint para géneros</td>
+            <td>-</td>
+            <td>20/06/24</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/book-endpoint</td>
+            <td>b6c6abdb97e918090d4ace5b28022bcd59c8d7eb</td>
+            <td>fix: Book endpoint fixed</td>
+            <td>Algunos errores que tenía el método post solucionados<td>
+            <td>19/06/20247</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/users-patch-method</td>
+            <td>9074d410bed6b82620aeb1f692376bed4843426e</td>
+            <td>Update</td>
+            <td>-</td>
+            <td>10/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/users-patch-method</td>
+            <td>9074d410bed6b82620aeb1f692376bed4843426e</td>
+            <td>Fixed</td>
+            <td>-</td>
+            <td>10/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/users-patch-method</td>
+            <td>9c73648e6c0116f9bbe3b2fffabd51c040514b89</td>
+            <td>Updated docker</td>
+            <td>-</td>
+            <td>10/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/users-patch-method</td>
+            <td>c593a887f4f85c1d96ea92cc60e46fdc7af978b1</td>
+            <td>Despliegue de backend</td>
+            <td>Se desplegó el backend por medio de Render</td>
+            <td>10/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feat/transaction-endpoint</td>
+            <td>b00935f1ca21c3c0ca024792901f7df82e0eb4e2</td>
+            <td>Update</td>
+            <td>-</td>
+            <td>07/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feat/transaction-endpoint</td>
+            <td>5b3e84cb4b4907a52de9485a1b64f8335c6835c6</td>
+            <td>JDK VERSION</td>
+            <td>-</td>
+            <td>07/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/login-suscription</td>
+            <td>987bd7c0206d8d33edea3e92a88e6cba2afea555</td>
+            <td>Updata DB name</td>
+            <td>-</td>
+            <td>06/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/login-suscription</td>
+            <td>8f99962f6b88429d81debd66c8fd62432a535399</td>
+            <td>feature Mail Verification</td>
+            <td>Verfication Method has been created. New emails are required to create new accounts.</td>
+            <td>06/06/2024</td>
+		</tr>
 		<tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>BACK_END</td>
+            <td>feature/login-suscription</td>
+            <td>06c4001e00bbee58ab20f938d3ed21363d7a04f2</td>
+            <td>feat Subscription - Login</td>
+            <td>-</td>
+            <td>05/06/2024</td>
 		</tr>
 	</table>
 </div>
 
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review.
 ##### Unit tests:
+Se han diseñado y ejecutado pruebas unitarias para las siguientes clases y comportamientos:
+
+1. SignInComponent: Se probaron los métodos getUserByEmail y getUserByUser.
+
+2. TrendingComponent: getTrendingBooks, getBookImage y goBack.
+
+3. BookCreateReadingClubComponent: createClub, resetForm, openBookDialog y goBack.
+
+4. BookUserClubComponent: getAllBooks, getClubs, getUsers, getBookImage y goBack.
+
+5. BookSubscriptionComponent: onSubmit y onFreePlan.
+
 
 ##### Integration Tests & Acceptance Tests (BDD):
 Se han desarrollado archivos .feature utilizando Gherkin para las siguientes User Stories:
 
-Relacionado a 
+Relacionado a TS04: Optimizar y Mejorar Frontend
 
-    Feature: 
+    Feature: Optimizar y Mejorar Frontend 
+    
+    Como desarrollador de BookFlow
+    Quiero realizar mejoras y optimizaciones en el frontend
+    Para cumplir con las observaciones y mejorar la experiencia del usuario
+    
+    Scenario: Levantar observaciones del profesor
+        Given que el profesor a señalado que el diseño no es uniforme
+        When realizo revisión en el código y recursos de la página principal
+        Then la página principal presenta un diseño con colores y letra uniforme
+        
+    Scenario: Corregir errores de diseño señalados por entrevistados
+        Given que los entrevistados han señalado varios errores en el despliegue del frontend
+        When corrijo los errores de diseño
+        Then el la página presenta un diseño más amigable y apto para el usuario común.
 
-    Como usuario, 
-    Quiero
-    Para
+Relacionado a TS05: Transacción
 
-    Scenario: 
-        Given 
-	    When 
-        Then
+    Feature: Implementar Endpoint de Transacción
+    
+    Como desarrollador backend de BookFlow
+    Quiero implementar el endpoint que maneja las transacciones
+    Para permitir la gestión de suscripciones en el sistema
+    
+    Scenario: Crear una nueva transacción
+        Given que necesito registrar una nueva suscripcion
+        When envío una solicitud POST al endpoint con los detalles de la transacción
+        Then la transacción debería ser registrada exitosamente en el sistema
+        And debería registrarse una subscripción al usuario correspondiente.
+        
+    Scenario: Fallo al crear una transacción con datos inválidos
+        Given que los datos de la transacción son inválidos
+        When envío una solicitud POST al endpoint de transacción con los datos inválidos
+        Then debería recibir un mensaje de error indicando los problemas con los datos
 
-    Scenario:
-        Given
-	    When
-	    Then
-       
+Relacionado a TS06: Estado de Transacción
+
+    Feature: Implementar Endpoint del Estado de Transacción
+    
+    Como desarrollador backend de BookFlow
+    Quiero implementar el endpoint que verifica y devuelve el estado de las transacciones
+    Para permitir a los usuarios conocer el estado de sus transacciones
+    
+    Scenario: Consultar el estado de una transacción existente
+        Given que hay una transacción registrada en el sistema
+        When envío una solicitud GET al endpoint de estado de transacción con el ID de la transacción
+        Then debería recibir el estado actual de la transacción
+        
+    Scenario: Consultar el estado de una transacción inexistente
+        Given que el ID de la transacción no existe en el sistema
+        When envío una solicitud GET al endpoint de estado de transacción con el ID inexistente
+        Then debería recibir un mensaje de error indicando que la transacción no se encontró
+
+Relacionado a US22: Realizar Comentarios
+
+    Feature: Implementar Endpoint de Comentario
+
+    Como usuario de BookFlow
+    Quiero poder realizar comentarios
+    Para compartir mis opiniones
+
+    Scenario: Crear un nuevo comentario
+        Given que deseo comentar sobre un libro
+        When envío una solicitud POST al endpoint de comentarios
+        Then el comentario debería ser guardado exitosamente
+        And debería recibir una confirmación de que el comentario fue registrado
+
+Relacionado a TS07: Club de Lectura
+    Feature: Implementar Endpoint de Club de Lectura
+
+    Como desarrollador backend de BookFlow
+    Quiero implementar un endpoint que gestione los clubes de lectura
+    Para permitir a los usuarios unirse y crear clubes de lectura
+
+    Scenario: Crear un nuevo club de lectura
+        Given que un usuario desea crear un nuevo club de lectura
+        When envío una solicitud POST al endpoint de clubes de lectura con los detalles del club
+        Then el club de lectura debería ser creado exitosamente
+        And debería recibir una confirmación con el Nombre del nuevo club
+
+    Scenario: Unirse a un club de lectura existente
+        Given que un usuario desea unirse a un club de lectura existente
+        When envío una solicitud POST al endpoint de clubes de lectura con el ID del club y los detalles del usuario
+        Then el usuario debería ser añadido al club de lectura exitosamente
+        And debería recibir una confirmación de la unión al club
+
+Relacionado a TS08: Género de Libro
+
+    Feature: Implementar Endpoint de Género
+
+    Como desarrollador backend de BookFlow
+    Quiero crear el endpoint para manejar los géneros de los libros
+    Para organizar y categorizar los libros correctamente
+
+    Scenario: Registrar un nuevo género de libro
+        Given que necesito añadir un nuevo libro al sistema
+        When el género es nuevo y no es encuentra entre las opciones
+        Then envío una solicitud POST al endpoint de géneros con los detalles del género
+        And el nuevo género y libro se registran exitosamente.
+
+    Scenario: Listar todos los géneros de libros
+        Given que quiero ver todos los géneros disponibles
+        When envío una solicitud GET al endpoint de géneros
+        Then debería recibir una lista de todos los géneros registrados en el sistema
+
+Relacionado a TS09: Libros
+
+    Feature: Implementar Endpoint de Libros
+
+    Como desarrollador backend de BookFlow
+    Quiero implementar el endpoint para gestionar la información de los libros
+    Para permitir la administración de los libros en el sistema
+
+    Scenario: Registrar un nuevo libro
+        Given que necesito añadir un nuevo libro al sistema
+        When envío una solicitud POST al endpoint de libros con los detalles del libro
+        Then el libro debería ser registrado exitosamente
+        And debería recibir una confirmación con el ID y Nombre del nuevo libro
+
+    Scenario: Consultar la información de un libro existente
+        Given que quiero obtener información sobre un libro existente
+        When envío una solicitud GET al endpoint de libros con el ID del libro
+        Then debería recibir los detalles del libro solicitado
+  
 ##### Enlace al repositorio de control de versiones
 
 ●	Link: [Click para ver el repositorio](https://github.com/ReadWell-SW54-SI729/FRONT_END/tree/master)
@@ -4670,19 +4988,19 @@ Enlace: [Video]()
 # Bibliografía
 <div align="justify">
     <ul>
-        <li>Ministerio de Cultura. (2023). <em>En Perú se leen más contenidos digitales, según Encuesta Nacional de Lectura 2022.</em> Recuperado de: &ensp; https://www.gob.pe/institucion/cultura/noticias/750918-en-peru-se-leen-mas-contenidos-digitales-segun-encuesta-nacional-de-lectura-2022 [Consulta: 01 de abril de 2024]</li>
-        <li>Morales, H., & Ramírez, S. (2023). <em>Una mirada al hábito lector en el Perú.</em> Recuperado de: https://saladeprensa.uss.edu.pe/Sala-Prensa-Una-mirada-al-h%C3%A1bito-lector-en-el-Per%C3%BA- [Consulta: 01 de abril de 2024]</li>
-        <li>Beriche, M. (s.f.). La comprensión lectora en escolares peruanos Importancia de la lectura en la escolaridad y la vida cotidiana. <em>USIL Blogs</em> https://blogs.usil.edu.pe/facultad-educacion/educacion/la-comprension-lectora-en-escolares-peruanos-importancia-de-la-lectura-en-la-escolaridad-y-la-vida-cotidiana </li>
-        <li>Universidad de Ciencias y Humanidades.(22 de junio de 2016). “La comprensión de lectura no depende solo de la escuela”.  <em>Blog de Administrador. </em> Recuperado de: https://www.uch.edu.pe/uch-noticias/p/la-comprension-de-lectura-no-depende-solo-de-la-escuela </li>
-        <li>El Comercio .(2 de mayo de 2023).  <em>Solo el 47,3 % de peruanos lee libros, según Encuesta Nacional de Lectura. </em> [Reportaje periodístico]. https://www.uch.edu.pe/uch-noticias/p/la-comprension-de-lectura-no-depende-solo-de-la-escuela</li>
-        <li>Lenis, A.(14 de noviembre de 2022). Qué es la psicología del color, cómo implementarla y ejemplos. <em>Blog de HubSpot. </em> https://blog.hubspot.es/marketing/psicologia-del-color </li>
-        <li>Londoño, P.(14 de julio de 2023). Qué es el diseño UI y UX: diferencias, ejemplos y cómo integrarlos. <em>DigitalTrends.  </em> https://blog.hubspot.es/website/ui-ux</li>
-        <li>Lamont, S. (2020). "The Rise of Digital Reading Platforms." <em>DigitalTrends. </em> https://www.digitaltrends.com/cool-tech/digital-reading-platforms-rise/ </li>
-        <li>Baker, C. (2019). "How Mobile Apps Are Changing the Way We Read Books." <em>TechCrunch. </em> https://techcrunch.com/2019/07/15/mobile-apps-changing-reading/ </li>
-        <li>Wang, A. (2021). "The Evolution of Reading Apps: A Look Into Digital Libraries."<em>The Verge.  </em> https://www.theverge.com/2021/3/20/22341097/reading-apps-digital-libraries-kindle-audiobooks </li>
-        <li>Chen, B. (2022). "The Future of Reading: How Apps are Transforming the Book Industry."<em>Wired. </em> https://www.wired.com/story/apps-transforming-book-industry/ </li>
-        <li>Klein, J. (2021). <em>"The Power of Digital Libraries in the Age of E-Books."  </em> The New York Times. [Reportaje periodístico]. https://www.nytimes.com/2021/08/18/books/digital-libraries-ebooks.html</li>
-    </ul>
+    <li>Baker, C. (2019). "How Mobile Apps Are Changing the Way We Read Books." <em>TechCrunch.</em> Recuperado de: https://techcrunch.com/2019/07/15/mobile-apps-changing-reading/</li>
+    <li>Beriche, M. (s.f.). La comprensión lectora en escolares peruanos Importancia de la lectura en la escolaridad y la vida cotidiana. <em>USIL Blogs</em> Recuperado de: https://blogs.usil.edu.pe/facultad-educacion/educacion/la-comprension-lectora-en-escolares-peruanos-importancia-de-la-lectura-en-la-escolaridad-y-la-vida-cotidiana</li>
+    <li>Chen, B. (2022). "The Future of Reading: How Apps are Transforming the Book Industry." <em>Wired.</em> Recuperado de: https://www.wired.com/story/apps-transforming-book-industry/</li>
+    <li>El Comercio .(2 de mayo de 2023). <em>Solo el 47,3 % de peruanos lee libros, según Encuesta Nacional de Lectura. </em> [Reportaje periodístico]. Recuperado de: https://www.uch.edu.pe/uch-noticias/p/la-comprension-de-lectura-no-depende-solo-de-la-escuela</li>
+    <li>Klein, J. (2021). <em>"The Power of Digital Libraries in the Age of E-Books." </em> The New York Times. [Reportaje periodístico]. Recuperado de: https://www.nytimes.com/2021/08/18/books/digital-libraries-ebooks.html</li>
+    <li>Lamont, S. (2020). "The Rise of Digital Reading Platforms." <em>DigitalTrends.</em> Recuperado de: https://www.digitaltrends.com/cool-tech/digital-reading-platforms-rise/</li>
+    <li>Lenis, A. (14 de noviembre de 2022). Qué es la psicología del color, cómo implementarla y ejemplos. <em>Blog de HubSpot.</em> Recuperado de: https://blog.hubspot.es/marketing/psicologia-del-color</li>
+    <li>Londoño, P. (14 de julio de 2023). Qué es el diseño UI y UX: diferencias, ejemplos y cómo integrarlos. <em>DigitalTrends.</em> Recuperado de: https://blog.hubspot.es/website/ui-ux</li>
+    <li>Ministerio de Cultura. (2023). <em>En Perú se leen más contenidos digitales, según Encuesta Nacional de Lectura 2022.</em> Recuperado de: https://www.gob.pe/institucion/cultura/noticias/750918-en-peru-se-leen-mas-contenidos-digitales-segun-encuesta-nacional-de-lectura-2022 [Consulta: 01 de abril de 2024]</li>
+    <li>Morales, H., & Ramírez, S. (2023). <em>Una mirada al hábito lector en el Perú.</em> Recuperado de: https://saladeprensa.uss.edu.pe/Sala-Prensa-Una-mirada-al-h%C3%A1bito-lector-en-el-Per%C3%BA- [Consulta: 01 de abril de 2024]</li>
+    <li>Universidad de Ciencias y Humanidades. (22 de junio de 2016). “La comprensión de lectura no depende solo de la escuela”. <em>Blog de Administrador.</em> Recuperado de: https://www.uch.edu.pe/uch-noticias/p/la-comprension-de-lectura-no-depende-solo-de-la-escuela</li>
+    <li>Wang, A. (2021). "The Evolution of Reading Apps: A Look Into Digital Libraries." <em>The Verge.</em> Recuperado de: https://www.theverge.com/2021/3/20/22341097/reading-apps-digital-libraries-kindle-audiobooks</li>
+</ul>
 </div>
 
 # Anexos
