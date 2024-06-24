@@ -26,10 +26,6 @@
             <td>U202120615</td>
         </tr>
         <tr>
-            <td>La Torre Valle, Franz Jair</td>
-            <td>U202012378</td>
-        </tr>
-        <tr>
             <td>Morales Calderón, Hernan Emilio</td>
             <td>U202216263</td>
         </tr>
@@ -56,7 +52,7 @@
 |TB1| 12/04/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II, Capítulo III,  Capítulo IV y Capítulo V|
 |TP | 31/04/2024 |Todos los integrantes del equipo| Mejoras respecto a presentable anterior <br> Sprint 2| 
 |TB2| 08/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de Landing Page<br>Mejora de App Web<br>Primera versión de Web Services<br>Primera versión de Video About-The-Product.<br>Primera versión de Video About-The-Team|
-|TF | --/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de App Web<br>Versión definitiva de Web Services<br>Versión definitiva de Video About-The-Product.<br>Versión definitiva de Video About-The-Team|
+|TF | 24/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de App Web<br>Versión definitiva de Web Services<br>Versión definitiva de Video About-The-Product.<br>Versión definitiva de Video About-The-Team|
 
 # Project Report Collaboration Insights
 TB1, TP1, TB2 & TF :
@@ -67,7 +63,6 @@ Para el desarrollo del informe perteneciente a las entregas TB1, TP1, TB2 & TF, 
 | Integrantes       | Tareas designadas         |
 | ------------- |:-------------:|
 | Huamán Cataño, Miguel Ángel | User Journey Mapping, Empathy Mapping, Web Applications User Flow Diagrams y Web Application Prototyping       |
-| La Torre Valle, Franz Jair  |As-is Scenario Mapping, Ubiquitous Language, Lean UX Assumptions, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing, Page UI Design, Landing Page Wireframe, Landing Page Mock-up y Sprint n, colaboración desarrollando sprint 3, avances en Back-End con los endpoints de login y subscription. | 
 | Morales Calderón, Hernan Emilio  | Lean UX Problem Statements, Segmentos objetivo, Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Software Configuration Management, Landing Page, Team Collaboration Insights during Sprint, colaboración con el FRONT-END y BACK-END. | 
 | Párraga Gamarra, Paolo Gonzalo  |Lean Ux Canvas, User Persona, User Task Matrix, Web Applications Wireframes, Web Applications Wireflow Diagrams y Web Applications Mock-up., Diagrama de Base de datos, FRONT-END, deployment de backend front end, testing suite, Team Collaboration Insights, Service Documentation (Parcialmente) | 
 | Rivadeneyra Ramos, Joaquin  | Startup Profile, Descripción de la Startup, To-Be Scenario Mapping, User Stories, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems, Elaboración del sprint planning 2, Elaboración del sprint planning 3, colaboracion con Fronted, Heuristicas, coordinación del grupo, aplicación de mejoras. | 
@@ -243,7 +238,6 @@ Informe: https://github.com/ReadWell-SW54-SI729/Informe/tree/main
 | Integrante                | Perfil                                | Foto                                                |
 |---------------------------|--------------------------------------------------|-------------------------------------|
 | Morales Calderón Hernan Emilio (u202216263) | Soy Hernan Morales, tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona muy responsable y organizada especialmente cuando se trata de trabajos universitarios. Mi objetivo es culminar exitosamente el curso y nuestro proyecto junto a mi equipo . | ![Foto1](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/281aeb53-94e2-4ca9-ab7b-8e80ffae8469)               |
-| La Torre Valle, Franz Jair (U202012378)    | Soy Franz Jair La Torre Valle, estudiante de Ingeniería de Software. En mis tiempos libres me gusta leer, ver películas, practicar deportes y experimentar con nuevas actividades. Mi compromiso con el equipo es ser participativo, estar al pendiente de las actividades, responder cualquier duda y aportar en lo que se pueda. | ![Foto2](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/efc176f4-c674-415a-b95d-7ae140e1ad22)               |
 | Rivadeneyra Ramos, Joaquin David (U202211846) | Soy Joaquin Rivadeneyra, tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona comunicativa y abierta a nuevas ideas, lo que me permite tener una buena relación con los demás miembros del equipo y fomentar un ambiente de trabajo colaborativo. | ![Foto3](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/9299c70a-dcd0-4be9-85b4-54f2ccb67eb7)               |
 | Párraga Gamarra Paolo Gonzalo (U202219186) | Soy Paolo Párraga, estudiante de ingeniería de software. Soy una persona que disfruta trabajar duro para lograr mis objetivos y nunca me rindo a pesar de los momentos difíciles. Haré todo lo posible para seguir mejorando en este largo camino de ser un buen ingeniero, persona y profesional. | ![Foto4](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/8ad1bb6d-e043-494f-b687-a3d5f02d2ab9)               |
 | Huamán Cataño Miguel Ángel (U202120615)   | Soy Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de ingeniería de software. Disfruto trabajar con empeño para alcanzar mis objetivos y nunca me rindo a pesar de los momentos difíciles. Haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional. | ![Foto5](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/f0cc0e6e-e2d0-4d41-8eeb-5ed5c939f49d)               |
@@ -3678,14 +3672,13 @@ Se realizó GitFlow para cada repositorio correspondiente al FrontEnd y BackEnd
 | Sprint #  | Sprint 4 |  |  |  |  |  |  |
 |----------|----------|---|------------------------|-------------------------------------------|--------------|-------------------|--------|
 | **User Story ID** | **Title** | **Work-Item / Task ID** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
-| TS04 | Optimizar y Mejorar Frontend | W14 | Frontend | Realizar mejoras y optimizaciones en el frontend según las observaciones del tutor. | 2.5 horas | Ernesto Zarate Cáceres | Done |
+| TS04 | Optimizar y Mejorar Frontend | W14 | Frontend | Realizar mejoras y optimizaciones en el frontend según las observaciones del tutor. | 3.5 horas | Ernesto Zarate Cáceres | Done |
 | TS05 | Transacción | W15 | Implementar Endpoint de Transacción | Implementar el endpoint que maneja las transacciones. | 3 horas | Hernan Emilio Morales Calderón | Done |
-| TS06 | Estado de Transacción | W16 | Implementar Endpoint del Estado de Transacción | Implementar el endpoint que verifica y devuelve el estado de las transacciones. | 3 horas | Hernan Emilio Morales Calderón | Done |
-| TS07 | Autores | W17 | Implementar Endpoint de Autores | Crear el endpoint para obtener todos los autores y obtener un autor por ID. | 3 horas | Joaquin Rivadeneyra Ramos | Done |
-| US22 | Realizar Comentarios | W18 | Implementar Endpoint de Comentario | Crear el endpoint para manejar los comentarios. | 3 horas | Miguel Ángel Huamán Cataño | Done |
-| TS08 | Club de Lectura | W19 | Implementar Endpoint de Club de Lectura | Implementar el endpoint para gestionar los clubes de lectura. | 3 horas | Miguel Ángel Huamán Cataño | Done |
-| TS09 | Género de Libro | W20 | Implementar Endpoint de Género | Crear el endpoint para manejar los géneros de los libros. | 3 horas | Paolo Gonzalo Párraga Gamarra | Done |
-| TS10 | Libros | W21 | Implementar Endpoint de Libros | Implementar el endpoint para gestionar la información de los libros. | 3 horas | Paolo Gonzalo Párraga Gamarra | Done |
+| TS06 | Estado de Transacción | W16 | Implementar Endpoint del Estado de Transacción | Implementar el endpoint que verifica y devuelve el estado de las transacciones. | 2.5 horas | Hernan Emilio Morales Calderón | Done |
+| US22 | Realizar Comentarios | W18 | Implementar Endpoint de Comentario | Crear el endpoint para manejar los comentarios. | 2.5 horas | Miguel Ángel Huamán Cataño | Done |
+| TS07 | Club de Lectura | W19 | Implementar Endpoint de Club de Lectura | Implementar el endpoint para gestionar los clubes de lectura. | 2.5 horas | Miguel Ángel Huamán Cataño | Done |
+| TS08 | Género de Libro | W20 | Implementar Endpoint de Género | Crear el endpoint para manejar los géneros de los libros. | 3 horas | Paolo Gonzalo Párraga Gamarra | Done |
+| TS09 | Libros | W21 | Implementar Endpoint de Libros | Implementar el endpoint para gestionar la información de los libros. | 3 horas | Joaquin Rivadeneyra Ramos | Done |
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
 <div align="justify">
