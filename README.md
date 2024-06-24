@@ -4701,6 +4701,10 @@ Link del video About-the-Product: [Video](https://www.youtube.com/watch?v=UMe7g5
 
 <img src="./imgs/About-the-Product.png" alt="About-the-Product">
 
+TikTok del video About-the-Product: [Video](https://www.tiktok.com/@thejoqui2/video/7383964177381035269)
+
+<img src="./imgs/About-the-Product.png" alt="About-the-Product">
+
 Link del video About-the-Team: [Video](https://www.youtube.com/watch?v=KYZ4Mu_G1Qk)
 
 <img src="./imgs/About-the-Team.png" alt="About-the-Team">
