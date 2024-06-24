@@ -3675,13 +3675,228 @@ Se realizó GitFlow para cada repositorio correspondiente al FrontEnd y BackEnd
             <td>Commit Message Body</td>
             <td>Commited on (Date)</td>
 		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>0f3d5dd57ca6eebbccff77d55ca1f1624172f650</td>
+            <td>Fix:TransactionState</td>
+            <td>Upload TransactionState</td>
+            <td>24/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>3fb771ac440ef9f958f07b73b16276a1facd4dbf</td>
+            <td>Fix:Transaction</td>
+            <td>Upload Transaction</td>
+            <td>24/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>d2d268b166a410b6e22b142ca14aac9b4508164c</td>
+            <td>Fix:TransactionQueryServiceImpl</td>
+            <td>Upload TransactionQueryService</td>
+            <td>24/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>503556999728590c64cf325138aa3152d7315950</td>
+            <td>Fix:TransactionStateExistsEventHandler</td>
+            <td>Upload TransactionStateExistsEventHandler</td>
+            <td>24/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>4acf5da3230e271d321d09975f869c0f98abe1fe</td>
+            <td>Fix:TransactionCommandService</td>
+            <td>Upload TransactionCommandService</td>
+            <td>24/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>4d1b72fef9687aee3ea9f382ac4839f370c9ee1f</td>
+            <td>fix:PaymentMethodRepository</td>
+            <td>Upload PaymentMethodRepository</td>
+            <td>24/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>07fac7e53de158b3876395e80201fa06538143b3</td>
+            <td>fix:deploy</td>
+            <td></td>
+            <td>23/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>0d8333a00cd087a150b340c1d92a775606d1420a</td>
+            <td>update</td>
+            <td>-</td>
+            <td>23/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>main</td>
+            <td>6a7d4236fc01f8b5f648d824c6ff864e97ec1c54</td>
+            <td>update</td>
+            <td>-</td>
+            <td>23/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/club-endpoint</td>
+            <td>6748c7751462972f3a5db8e13ab7387966c4a346</td>
+            <td>Add files via upload</td>
+            <td>-</td>
+            <td>22/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/genders-endpoint</td>
+            <td>fdd33476b47ba2adadd3104be08ae250ed64ec3b</td>
+            <td>update</td>
+            <td>-</td>
+            <td>22/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/transactions-state-endpoint</td>
+            <td>3f7c72319434449e81b8894c02607d7a7e8b8a9a</td>
+            <td>feat: Creación del endpoint de estado de transaccion<td>
+            <td>Creado el endpoint con los metodos necesarios</td>
+            <td>22/06/2024</td>
+		</tr><tr>
+            <td>BACK_END</td>
+            <td>feature/transactions-state-endpoint</td>
+            <td>130ff59756253b109439196ba0c2c9e50f466f17</td>
+            <td>feat: Creación del endpoint de Transacción</td>
+            <td>Se creó el endpoint correspondiente así como sus métodos necesarios</td>
+            <td>22/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/iam</td>
+            <td>ff0aaa27dde270302b9b1415940a59ec7f49dcaa</td>
+            <td>fix: SnakeCaseWithPluralizedTablePhysicalNamingStrategy</td>
+            <td>-</td>
+            <td>21/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/iam</td>
+            <td>e6f67587965e8411ee9d90083532c5fcacc52892</td>
+            <td>fix: iam fixed</td>
+            <td>-</td>
+            <td>21/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/iam</td>
+            <td>dbe5ef5685f4502ad8ff62cf58501912e57e3c98</td>
+            <td>first commit</td>
+            <td>-</td>
+            <td>21/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/users-patch-method</td>
+            <td>1932fbc2388458e4fa0213a147e7567e0c4f7f07</td>
+            <td>Feat: Patch MEthod</td>
+            <td>-</td>
+            <td>21/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/transactions-state-endpoint</td>
+            <td>3ee2f2cf8ae0068d36d8620ebaf24fdea2566bea</td>
+            <td>feat: Se creó el endpoint para géneros</td>
+            <td>-</td>
+            <td>20/06/24</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/book-endpoint</td>
+            <td>b6c6abdb97e918090d4ace5b28022bcd59c8d7eb</td>
+            <td>fix: Book endpoint fixed</td>
+            <td>Algunos errores que tenía el método post solucionados<td>
+            <td>19/06/20247</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/users-patch-method</td>
+            <td>9074d410bed6b82620aeb1f692376bed4843426e</td>
+            <td>Update</td>
+            <td>-</td>
+            <td>10/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/users-patch-method</td>
+            <td>9074d410bed6b82620aeb1f692376bed4843426e</td>
+            <td>Fixed</td>
+            <td>-</td>
+            <td>10/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/users-patch-method</td>
+            <td>9c73648e6c0116f9bbe3b2fffabd51c040514b89</td>
+            <td>Updated docker</td>
+            <td>-</td>
+            <td>10/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/users-patch-method</td>
+            <td>c593a887f4f85c1d96ea92cc60e46fdc7af978b1</td>
+            <td>Despliegue de backend</td>
+            <td>Se desplegó el backend por medio de Render</td>
+            <td>10/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feat/transaction-endpoint</td>
+            <td>b00935f1ca21c3c0ca024792901f7df82e0eb4e2</td>
+            <td>Update</td>
+            <td>-</td>
+            <td>07/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feat/transaction-endpoint</td>
+            <td>5b3e84cb4b4907a52de9485a1b64f8335c6835c6</td>
+            <td>JDK VERSION</td>
+            <td>-</td>
+            <td>07/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/login-suscription</td>
+            <td>987bd7c0206d8d33edea3e92a88e6cba2afea555</td>
+            <td>Updata DB name</td>
+            <td>-</td>
+            <td>06/06/2024</td>
+		</tr>
+        <tr>
+            <td>BACK_END</td>
+            <td>feature/login-suscription</td>
+            <td>8f99962f6b88429d81debd66c8fd62432a535399</td>
+            <td>feature Mail Verification</td>
+            <td>Verfication Method has been created. New emails are required to create new accounts.</td>
+            <td>06/06/2024</td>
+		</tr>
 		<tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>BACK_END</td>
+            <td>feature/login-suscription</td>
+            <td>06c4001e00bbee58ab20f938d3ed21363d7a04f2</td>
+            <td>feat Subscription - Login</td>
+            <td>-</td>
+            <td>05/06/2024</td>
 		</tr>
 	</table>
 </div>
