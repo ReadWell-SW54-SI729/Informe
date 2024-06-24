@@ -3919,7 +3919,7 @@ Se han diseñado y ejecutado pruebas unitarias para las siguientes clases y comp
 ##### Integration Tests & Acceptance Tests (BDD):
 Se han desarrollado archivos .feature utilizando Gherkin para las siguientes User Stories:
 
-Relacionado a TS04: Optimizar y Mejorar Frontend
+Relacionado a TS04:
 
     Feature: Optimizar y Mejorar Frontend 
     
@@ -3937,7 +3937,7 @@ Relacionado a TS04: Optimizar y Mejorar Frontend
         When corrijo los errores de diseño
         Then el la página presenta un diseño más amigable y apto para el usuario común.
 
-Relacionado a TS05: Transacción
+Relacionado a TS05:
 
     Feature: Implementar Endpoint de Transacción
     
@@ -3956,7 +3956,7 @@ Relacionado a TS05: Transacción
         When envío una solicitud POST al endpoint de transacción con los datos inválidos
         Then debería recibir un mensaje de error indicando los problemas con los datos
 
-Relacionado a TS06: Estado de Transacción
+Relacionado a TS06:
 
     Feature: Implementar Endpoint del Estado de Transacción
     
@@ -3974,7 +3974,7 @@ Relacionado a TS06: Estado de Transacción
         When envío una solicitud GET al endpoint de estado de transacción con el ID inexistente
         Then debería recibir un mensaje de error indicando que la transacción no se encontró
 
-Relacionado a US22: Realizar Comentarios
+Relacionado a US22:
 
     Feature: Implementar Endpoint de Comentario
 
@@ -3988,7 +3988,7 @@ Relacionado a US22: Realizar Comentarios
         Then el comentario debería ser guardado exitosamente
         And debería recibir una confirmación de que el comentario fue registrado
 
-Relacionado a TS07: Club de Lectura
+Relacionado a TS07:
     Feature: Implementar Endpoint de Club de Lectura
 
     Como desarrollador backend de BookFlow
@@ -4007,7 +4007,7 @@ Relacionado a TS07: Club de Lectura
         Then el usuario debería ser añadido al club de lectura exitosamente
         And debería recibir una confirmación de la unión al club
 
-Relacionado a TS08: Género de Libro
+Relacionado a TS08:
 
     Feature: Implementar Endpoint de Género
 
@@ -4026,7 +4026,7 @@ Relacionado a TS08: Género de Libro
         When envío una solicitud GET al endpoint de géneros
         Then debería recibir una lista de todos los géneros registrados en el sistema
 
-Relacionado a TS09: Libros
+Relacionado a TS09:
 
     Feature: Implementar Endpoint de Libros
 
@@ -4048,29 +4048,6 @@ Relacionado a TS09: Libros
 ##### Enlace al repositorio de control de versiones
 
 ●	Link: [Click para ver el repositorio](https://github.com/ReadWell-SW54-SI729/FRONT_END/tree/master)
-
-##### Tabla para commits relacionados con el testing
-
-<div align="justify">
-	<table>
-	    <tr>
-            <td>Repository</td>
-            <td>Branch</td>
-            <td>Commit Id</td>
-            <td>Commit Message</td>
-            <td>Commit Message Body</td>
-            <td>Commited on (Date)</td>
-		</tr>
-		<tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-		</tr>
-	</table>
-</div>
 
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 <div align="justify">
@@ -4977,7 +4954,8 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 Enlace: [Video](https://www.youtube.com/watch?v=UMe7g5SIkis)
 
 ### Versión 2
-<img src="./imgs/About-the-Product2.png" alt="About-the-Product(v2)">
+<img src="./imgs/About-the-Product2.jpg" alt="About-the-Product(v2)" width="50%">
+
 Enlace: [Video](https://www.tiktok.com/@thejoqui2/video/7383964177381035269)
 
 # Conclusiones
@@ -5028,7 +5006,7 @@ Link del video About-the-Product: [Video](https://www.youtube.com/watch?v=UMe7g5
 
 TikTok About-the-Product: [Video](https://www.tiktok.com/@thejoqui2/video/7383964177381035269)
 
-<img src="./imgs/About-the-Product.png" alt="About-the-Product">
+<img src="./imgs/About-the-Product2.jpg" alt="About-the-Product" width="50%">
 
 Link del video About-the-Team: [Video](https://www.youtube.com/watch?v=KYZ4Mu_G1Qk)
 
