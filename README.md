@@ -4579,8 +4579,24 @@ Link del repositorio: https://github.com/ReadWell-SW54-SI729/BACK_END<br>
 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 Durante el sprint actual, hemos desplegado con éxito los servicios web y los hemos integrado con el front-end. Un enfoque significativo de este sprint ha sido la documentación de los servicios web utilizados para la gestión de suscripciones. La documentación ha sido meticulosamente creada y actualizada utilizando OpenAPI, cubriendo los siguientes métodos HTTP: POST, GET, DELETE y PUT.
-    
+
 Además, hemos culminado definitivamente el desarrollo del front-end y se desplegó una nueva versión de la aplicación web, asegurando una integración completa y funcional con los servicios web.
+
+Despliegue de servicios con Render:
+
+Para comenzar, creamos una cuenta en Render. Nos dirigimos al sitio web de Render y nos registramos, lo que nos permitió acceder a todas las funcionalidades que Render ofrece para el despliegue y administración de nuestras aplicaciones.
+
+Una vez iniciada la sesión en Render, fuimos al panel de control y seleccionamos la opción "New" y luego "Web Service". Conectamos nuestra cuenta de GitHub, GitLab o Bitbucket, autorizando a Render a acceder a nuestro repositorio y seleccionamos el proyecto que deseábamos desplegar. Esta conexión permitió a Render extraer el código necesario para el despliegue.
+
+En la siguiente etapa, configuramos los detalles de nuestro servicio. Asignamos un nombre al servicio y seleccionamos la rama del repositorio que deseábamos desplegar, como main o master. Luego, especificamos el entorno de ejecución adecuado para nuestro proyecto, por ejemplo, Node.js, Python, Ruby, etc. Además, definimos el comando de inicio que Render utilizaría para ejecutar nuestra aplicación, como npm start en el caso de aplicaciones Node.js.
+
+Si nuestra aplicación requería variables de entorno, configuramos estas en la sección "Environment Variables". Esto fue útil para configurar aspectos como claves de API, configuraciones de bases de datos y otros parámetros esenciales para nuestra aplicación.
+
+Una vez configurados todos los detalles, hicimos clic en "Create Web Service" para iniciar el proceso de despliegue. Render comenzó a construir y desplegar nuestra aplicación, permitiéndonos ver los registros de construcción en tiempo real para monitorear el progreso. Este proceso tomó unos minutos dependiendo del tamaño y la complejidad de nuestro proyecto.
+
+Después de que la aplicación se hubo desplegado, Render nos proporcionó una URL pública donde pudimos acceder a la aplicación. Monitoreamos el rendimiento de la aplicación y realizamos ajustes según fue necesario. Render ofrece herramientas y paneles para ayudarnos a mantener y optimizar nuestro servicio en producción.
+
+Estas acciones aseguraron un despliegue exitoso y una integración perfecta de los servicios web con el front-end, proporcionando una experiencia de usuario mejorada y una aplicación más robusta y eficiente.
 
 
 Frontend: https://test-bookflow.web.app/home 
