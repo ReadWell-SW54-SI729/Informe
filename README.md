@@ -5017,7 +5017,7 @@ Link del video TB2: [Video](https://www.youtube.com/watch?v=oB9EpFI55fg)
 
 Link del video TF: [Video]()
 
-![Image]()
+![Image](./imgs/expoVideoTF.png)
 
 Link del video About-the-Product: [Video](https://www.youtube.com/watch?v=UMe7g5SIkis)
 
@@ -5039,4 +5039,6 @@ Link de la versión final del frontend: [Frontend](https://test-bookflow.web.app
 
 ![image](./imgs/frontend.png)
 
-Link de la primera versión del backend: [Backend](https://bookflow-app-api.onrender.com/swagger-ui/index.html#/)
+Link de Web Services: [Backend](https://bookflow-app-api.onrender.com/swagger-ui/index.html#/)
+
+![image](./imgs/backend.png)
