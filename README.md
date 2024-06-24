@@ -4275,10 +4275,26 @@ En el transcurso del sprint actual, hemos logrado desplegar exitosamente los ser
 
 ##### FRONT END
 
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/1ba45dfd-ce7a-471e-b5a4-e2e8fad6ec6c)
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/7e979d40-92f8-4518-9b5c-e53101e60478)
+
 
 ##### BACK END
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/da41e004-fd78-4383-895b-3ce7bcc20085)
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/1a890b53-d64b-411e-bc54-cad0fc6f5e64)
+
+
 ##### GITFLOW FRONT END
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/f60afdfa-669c-4ee2-9fc8-3a553d5369da)
+
+
 ##### GITFLOW BACK END
+
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/e0b56793-b33d-4cdb-8658-d31bff69b0c1)
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
