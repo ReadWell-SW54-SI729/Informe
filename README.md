@@ -4575,6 +4575,9 @@ Después de que la aplicación se hubo desplegado, Render nos proporcionó una U
 
 Estas acciones aseguraron un despliegue exitoso y una integración perfecta de los servicios web con el front-end, proporcionando una experiencia de usuario mejorada y una aplicación más robusta y eficiente.
 
+![image](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/7e4ebc61-b540-4184-a153-6d97d74a6111)
+
+
 
 Frontend: https://test-bookflow.web.app/home 
 Backend: https://bookflow-app-api.onrender.com/swagger-ui/index.html#/
